@@ -2,18 +2,18 @@ import { useState } from 'react';
 import './ThemeSelector.css';
 
 const THEMES = [
-  { name: "Miracles", icon: "✨", color: "#9F7AEA" },
-  { name: "Prophets", icon: "📜", color: "#4299E1" },
-  { name: "Apostles", icon: "👥", color: "#48BB78" },
-  { name: "Kings & Rulers", icon: "👑", color: "#ED8936" },
-  { name: "Women of Faith", icon: "🌟", color: "#F56565" },
-  { name: "Battles & Conquests", icon: "⚔️", color: "#805AD5" },
-  { name: "Parables & Teachings", icon: "💬", color: "#38B2AC" },
-  { name: "Creation & Origins", icon: "🌍", color: "#68D391" },
-  { name: "Prophecy & End Times", icon: "🔮", color: "#FC8181" },
-  { name: "Journeys & Exile", icon: "🚶", color: "#F6AD55" },
-  { name: "Festivals & Customs", icon: "🎉", color: "#B794F4" },
-  { name: "Wisdom & Psalms", icon: "📖", color: "#63B3ED" }
+  { name: "Miracles", icon: "✨🍷", color: "#9F7AEA" },
+  { name: "Prophets", icon: "🗣️📜", color: "#4299E1" },
+  { name: "Apostles", icon: "🙋‍♂️🙋‍♀️", color: "#48BB78" },
+  { name: "Kings & Rulers", icon: "👑🏰", color: "#ED8936" },
+  { name: "Women of Faith", icon: "👸🧕", color: "#F56565" },
+  { name: "Battles & Conquests", icon: "⚔️🏆", color: "#805AD5" },
+  { name: "Parables & Teachings", icon: "💬👨‍🏫", color: "#38B2AC" },
+  { name: "Creation & Origins", icon: "🌍🧬", color: "#68D391" },
+  { name: "Prophecy & End Times", icon: "📯⚖️", color: "#FC8181" },
+  { name: "Journeys & Exile", icon: "🚶🏜️", color: "#F6AD55" },
+  { name: "Festivals & Customs", icon: "🎉🕎", color: "#B794F4" },
+  { name: "Wisdom & Psalms", icon: "📖🎼", color: "#63B3ED" }
 ];
 
 export default function ThemeSelector({ onStart }) {
@@ -40,7 +40,6 @@ export default function ThemeSelector({ onStart }) {
   return (
     <div className="theme-selector">
       <div className="header">
-        <h1><span className="logo-mark">TC</span> TrivCanon</h1>
         <p>Select themes for your quiz</p>
       </div>
 
