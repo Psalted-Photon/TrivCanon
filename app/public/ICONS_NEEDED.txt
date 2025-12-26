@@ -1,0 +1,33 @@
+﻿📖 TrivCanon Logo Requirements
+============================
+
+BRAND IDENTITY: TrivCanon - "Master the Canon"
+Bible trivia game with clean, authoritative, modern aesthetic
+
+LOGO CONCEPTS (choose one direction):
+1. C-shaped open canon/book (Scripture authority)
+2. 12-pointed star (The Twelve, completeness)
+3. Scroll-inspired glyph forming "C" in Canon
+4. Shield motif (authority + competition)
+
+COLOR PALETTE:
+- Primary: Deep Navy (#1a2332)
+- Accent: Gold (#d4af37)
+- Background: Ivory (#faf9f6)
+- Secondary: Slate Gray (#475569)
+
+TYPOGRAPHY:
+- Headings/Titles: Milonga (cursive/display)
+- Body/UI: System sans-serif
+
+DELIVERABLES NEEDED:
+- SVG logo (scalable, clean paths)
+- Favicon sizes: 16x16, 32x32, 192x192, 512x512 PNG
+- App icon for PWA: 192x192, 512x512 PNG
+- Optional: Wordmark + icon mark variations
+
+CURRENT PLACEHOLDER:
+"TC" text in gold (#d4af37) Milonga font
+
+BRAND VOICE: Confident, scholarly, minimal, competitive
+Think: "Bible mastery meets esports polish"

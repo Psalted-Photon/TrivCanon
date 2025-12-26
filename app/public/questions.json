@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "theme": "Miracles",
+    "question": "Who walked on water to meet Jesus during a storm?",
+    "choices": ["Peter", "John", "James", "Andrew"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Matthew", "chapter": 14, "verse": "29"},
+    "explanation": "Peter stepped out of the boat and walked on the water toward Jesus, though he began to sink when he became afraid."
+  },
+  {
+    "id": 2,
+    "theme": "Miracles",
+    "question": "How many loaves and fish did Jesus use to feed the 5,000?",
+    "choices": ["5 loaves and 2 fish", "7 loaves and 3 fish", "3 loaves and 5 fish", "2 loaves and 7 fish"],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {"book": "Matthew", "chapter": 14, "verse": "17"},
+    "explanation": "A boy brought 5 loaves and 2 fish, which Jesus multiplied to feed over 5,000 people."
+  },
+  {
+    "id": 3,
+    "theme": "Miracles",
+    "question": "What did Jesus turn water into at the wedding in Cana?",
+    "choices": ["Wine", "Oil", "Milk", "Honey"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "John", "chapter": 2, "verse": "9"},
+    "explanation": "Jesus performed his first miracle by turning water into wine at a wedding in Cana of Galilee."
+  },
+  {
+    "id": 4,
+    "theme": "Prophets",
+    "question": "Which prophet was swallowed by a great fish?",
+    "choices": ["Jonah", "Elijah", "Isaiah", "Jeremiah"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Jonah", "chapter": 1, "verse": "17"},
+    "explanation": "Jonah was swallowed by a great fish for three days after fleeing from God's command to go to Nineveh."
+  },
+  {
+    "id": 5,
+    "theme": "Prophets",
+    "question": "Who prophesied about the coming Messiah being born in Bethlehem?",
+    "choices": ["Micah", "Hosea", "Joel", "Amos"],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {"book": "Micah", "chapter": 5, "verse": "2"},
+    "explanation": "Micah prophesied that the Messiah would be born in Bethlehem, the city of David."
+  },
+  {
+    "id": 6,
+    "theme": "Prophets",
+    "question": "Which prophet had a vision of the valley of dry bones coming to life?",
+    "choices": ["Ezekiel", "Daniel", "Isaiah", "Jeremiah"],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {"book": "Ezekiel", "chapter": 37, "verse": "1-14"},
+    "explanation": "Ezekiel saw a vision of dry bones coming together and being filled with breath, representing Israel's restoration."
+  },
+  {
+    "id": 7,
+    "theme": "Apostles",
+    "question": "Which apostle was a tax collector before following Jesus?",
+    "choices": ["Matthew", "Peter", "John", "Philip"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Matthew", "chapter": 9, "verse": "9"},
+    "explanation": "Matthew (also called Levi) was a tax collector when Jesus called him to be a disciple."
+  },
+  {
+    "id": 8,
+    "theme": "Apostles",
+    "question": "What were the occupations of Peter and Andrew before becoming disciples?",
+    "choices": ["Fishermen", "Carpenters", "Shepherds", "Farmers"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Matthew", "chapter": 4, "verse": "18"},
+    "explanation": "Peter and Andrew were fishermen casting their nets when Jesus called them to become fishers of men."
+  },
+  {
+    "id": 9,
+    "theme": "Apostles",
+    "question": "Which apostle is known as 'Doubting' because he questioned Jesus' resurrection?",
+    "choices": ["Thomas", "Bartholomew", "James", "Thaddaeus"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "John", "chapter": 20, "verse": "24-29"},
+    "explanation": "Thomas doubted the resurrection until he saw and touched Jesus' wounds, leading to his famous declaration of faith."
+  },
+  {
+    "id": 10,
+    "theme": "Kings & Rulers",
+    "question": "Who was the first king of Israel?",
+    "choices": ["Saul", "David", "Solomon", "Samuel"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "1 Samuel", "chapter": 10, "verse": "1"},
+    "explanation": "Saul was anointed by Samuel as the first king of Israel, though he later fell from God's favor."
+  },
+  {
+    "id": 11,
+    "theme": "Kings & Rulers",
+    "question": "Which king wrote most of the Proverbs?",
+    "choices": ["Solomon", "David", "Hezekiah", "Josiah"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Proverbs", "chapter": 1, "verse": "1"},
+    "explanation": "Solomon, known for his wisdom, authored most of the book of Proverbs."
+  },
+  {
+    "id": 12,
+    "theme": "Kings & Rulers",
+    "question": "Who was king when Daniel was thrown into the lions' den?",
+    "choices": ["Darius", "Nebuchadnezzar", "Cyrus", "Belshazzar"],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {"book": "Daniel", "chapter": 6, "verse": "16"},
+    "explanation": "King Darius was tricked into signing a decree that led to Daniel being thrown to the lions."
+  },
+  {
+    "id": 13,
+    "theme": "Women of Faith",
+    "question": "Who hid Israelite spies in Jericho and was spared when the city fell?",
+    "choices": ["Rahab", "Ruth", "Deborah", "Miriam"],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {"book": "Joshua", "chapter": 2, "verse": "1-21"},
+    "explanation": "Rahab hid the spies and marked her house with a scarlet cord, saving her family when Jericho was conquered."
+  },
+  {
+    "id": 14,
+    "theme": "Women of Faith",
+    "question": "Which woman became queen of Persia and saved the Jewish people from destruction?",
+    "choices": ["Esther", "Vashti", "Ruth", "Naomi"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Esther", "chapter": 4, "verse": "14"},
+    "explanation": "Esther risked her life to approach the king and reveal Haman's plot to destroy the Jews."
+  },
+  {
+    "id": 15,
+    "theme": "Women of Faith",
+    "question": "Who was the mother of Samuel, the prophet and judge?",
+    "choices": ["Hannah", "Elizabeth", "Mary", "Sarah"],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {"book": "1 Samuel", "chapter": 1, "verse": "20"},
+    "explanation": "Hannah prayed earnestly for a son and dedicated Samuel to the Lord's service when he was born."
+  },
+  {
+    "id": 16,
+    "theme": "Battles & Conquests",
+    "question": "What caused the walls of Jericho to fall?",
+    "choices": ["The Israelites marched around it and shouted", "A great earthquake", "Battering rams", "Fire from heaven"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Joshua", "chapter": 6, "verse": "20"},
+    "explanation": "After marching around Jericho for seven days, the walls fell when the people shouted and the trumpets sounded."
+  },
+  {
+    "id": 17,
+    "theme": "Battles & Conquests",
+    "question": "Who killed Goliath with a sling and a stone?",
+    "choices": ["David", "Saul", "Jonathan", "Samuel"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "1 Samuel", "chapter": 17, "verse": "49"},
+    "explanation": "Young David defeated the giant Goliath with a single stone from his sling, striking him in the forehead."
+  },
+  {
+    "id": 18,
+    "theme": "Battles & Conquests",
+    "question": "How many soldiers did Gideon have when he defeated the Midianites?",
+    "choices": ["300", "3,000", "30,000", "300,000"],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {"book": "Judges", "chapter": 7, "verse": "7"},
+    "explanation": "God reduced Gideon's army to just 300 men to show that victory came from the Lord, not human strength."
+  },
+  {
+    "id": 19,
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the Good Samaritan, who helped the wounded man?",
+    "choices": ["A Samaritan", "A priest", "A Levite", "A Roman soldier"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Luke", "chapter": 10, "verse": "33"},
+    "explanation": "The Samaritan showed compassion and cared for the man, unlike the priest and Levite who passed by."
+  },
+  {
+    "id": 20,
+    "theme": "Parables & Teachings",
+    "question": "What did the prodigal son ask his father for before leaving home?",
+    "choices": ["His inheritance", "His blessing", "Permission to travel", "Money for supplies"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Luke", "chapter": 15, "verse": "12"},
+    "explanation": "The younger son asked for his share of the inheritance, which he then squandered in wild living."
+  },
+  {
+    "id": 21,
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the sower, what happened to the seed that fell on rocky ground?",
+    "choices": ["It sprouted quickly but withered in the sun", "It was eaten by birds", "It grew strong and bore fruit", "It was choked by thorns"],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {"book": "Matthew", "chapter": 13, "verse": "5-6"},
+    "explanation": "The seed on rocky ground sprouted quickly but had no root, so it withered when the sun came up."
+  },
+  {
+    "id": 22,
+    "theme": "Creation & Origins",
+    "question": "On which day did God create man and woman?",
+    "choices": ["Sixth day", "Fifth day", "Seventh day", "First day"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Genesis", "chapter": 1, "verse": "27"},
+    "explanation": "God created mankind in His own image on the sixth day of creation."
+  },
+  {
+    "id": 23,
+    "theme": "Creation & Origins",
+    "question": "What was the name of the garden where Adam and Eve lived?",
+    "choices": ["Eden", "Gethsemane", "Paradise", "Zion"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Genesis", "chapter": 2, "verse": "8"},
+    "explanation": "God planted a garden in Eden and placed Adam there to work it and take care of it."
+  },
+  {
+    "id": 24,
+    "theme": "Creation & Origins",
+    "question": "How many of each clean animal did Noah take on the ark?",
+    "choices": ["Seven pairs", "One pair", "Two pairs", "Three pairs"],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {"book": "Genesis", "chapter": 7, "verse": "2"},
+    "explanation": "Noah took seven pairs of clean animals and one pair of unclean animals onto the ark."
+  },
+  {
+    "id": 25,
+    "theme": "Prophecy & End Times",
+    "question": "In Revelation, what color is the horse that Death rides?",
+    "choices": ["Pale", "Black", "Red", "White"],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {"book": "Revelation", "chapter": 6, "verse": "8"},
+    "explanation": "Death rides a pale horse, and Hades follows with him, representing death and the grave."
+  },
+  {
+    "id": 26,
+    "theme": "Prophecy & End Times",
+    "question": "How many seals are on the scroll in Revelation?",
+    "choices": ["Seven", "Four", "Twelve", "Ten"],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {"book": "Revelation", "chapter": 5, "verse": "1"},
+    "explanation": "The scroll sealed with seven seals is opened by the Lamb, revealing judgments and prophecies."
+  },
+  {
+    "id": 27,
+    "theme": "Prophecy & End Times",
+    "question": "In Daniel's vision, what did the statue's feet made of iron and clay represent?",
+    "choices": ["A divided kingdom", "Rome", "Future nations", "The final empire"],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {"book": "Daniel", "chapter": 2, "verse": "41-43"},
+    "explanation": "The feet of iron mixed with clay represent a divided kingdom, partly strong and partly brittle."
+  },
+  {
+    "id": 28,
+    "theme": "Journeys & Exile",
+    "question": "Who led the Israelites out of Egypt?",
+    "choices": ["Moses", "Joshua", "Aaron", "Caleb"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Exodus", "chapter": 3, "verse": "10"},
+    "explanation": "God called Moses to lead His people out of slavery in Egypt to the Promised Land."
+  },
+  {
+    "id": 29,
+    "theme": "Journeys & Exile",
+    "question": "How many years did the Israelites wander in the wilderness?",
+    "choices": ["40 years", "20 years", "70 years", "10 years"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Numbers", "chapter": 14, "verse": "33"},
+    "explanation": "Because of their disobedience, the Israelites wandered in the wilderness for 40 years."
+  },
+  {
+    "id": 30,
+    "theme": "Journeys & Exile",
+    "question": "Which prophet was taken to Babylon during the exile?",
+    "choices": ["Daniel", "Isaiah", "Hosea", "Amos"],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {"book": "Daniel", "chapter": 1, "verse": "6"},
+    "explanation": "Daniel was among the young nobles taken to Babylon where he served in the king's court."
+  },
+  {
+    "id": 31,
+    "theme": "Festivals & Customs",
+    "question": "What event does the Passover commemorate?",
+    "choices": ["Israel's exodus from Egypt", "The giving of the Law", "The dedication of the temple", "The harvest season"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Exodus", "chapter": 12, "verse": "14"},
+    "explanation": "Passover celebrates when God passed over the houses marked with lamb's blood in Egypt."
+  },
+  {
+    "id": 32,
+    "theme": "Festivals & Customs",
+    "question": "On which day of the week is the Sabbath observed?",
+    "choices": ["Seventh day (Saturday)", "First day (Sunday)", "Sixth day (Friday)", "Third day (Tuesday)"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Exodus", "chapter": 20, "verse": "8-10"},
+    "explanation": "The Sabbath is the seventh day of the week, a day of rest commanded by God."
+  },
+  {
+    "id": 33,
+    "theme": "Festivals & Customs",
+    "question": "What festival is also known as the Feast of Weeks?",
+    "choices": ["Pentecost", "Passover", "Tabernacles", "Purim"],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {"book": "Leviticus", "chapter": 23, "verse": "15-16"},
+    "explanation": "Pentecost, or the Feast of Weeks, occurs 50 days after Passover and celebrates the harvest."
+  },
+  {
+    "id": 34,
+    "theme": "Wisdom & Psalms",
+    "question": "Who is traditionally credited with writing most of the Psalms?",
+    "choices": ["David", "Solomon", "Moses", "Asaph"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Psalms", "chapter": 1, "verse": "1"},
+    "explanation": "King David wrote approximately half of the 150 psalms in the book of Psalms."
+  },
+  {
+    "id": 35,
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what is the beginning of wisdom?",
+    "choices": ["Fear of the Lord", "Knowledge", "Understanding", "Instruction"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Proverbs", "chapter": 9, "verse": "10"},
+    "explanation": "The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding."
+  },
+  {
+    "id": 36,
+    "theme": "Wisdom & Psalms",
+    "question": "Complete this verse: 'The Lord is my shepherd, I shall not ___'",
+    "choices": ["want", "fear", "fall", "fail"],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {"book": "Psalms", "chapter": 23, "verse": "1"},
+    "explanation": "Psalm 23 begins with 'The Lord is my shepherd, I shall not want,' expressing trust in God's provision."
+  }
+]
