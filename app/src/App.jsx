@@ -121,54 +121,50 @@ export default function App() {
 
   return (
     <div className="app">
-      <div className="app-container">
-        <header className="app-header">
-          <h1><span className="logo-mark">TC</span> TrivCanon</h1>
-          <p className="app-subtitle">Master the Canon</p>
-        </header>
+      <header className="app-header">
+        <h1><span className="logo-mark">TC</span> TrivCanon</h1>
+        <p className="app-subtitle">Master the Canon</p>
+      </header>
 
-        <main className="app-main">
-          {screen === 'theme-select' && (
-            <ThemeSelector
-              allQuestions={questions}
-              onStart={handleStartQuiz}
-            />
-          )}
+      <main className="app-main">
+        {screen === 'theme-select' && (
+          <ThemeSelector
+            allQuestions={questions}
+            onStart={handleStartQuiz}
+          />
+        )}
 
-          {screen === 'question' && currentQuestion && (
-            <QuizQuestion
-              question={currentQuestion}
-              questionNumber={questionNumber}
-              totalQuestions={totalQuestions}
-              onAnswer={handleAnswer}
-              onQuit={handleChangeThemes}
-            />
-          )}
+        {screen === 'question' && currentQuestion && (
+          <QuizQuestion
+            question={currentQuestion}
+            questionNumber={questionNumber}
+            totalQuestions={totalQuestions}
+            onAnswer={handleAnswer}
+          />
+        )}
 
-          {screen === 'feedback' && currentQuestion && userAnswer !== null && (
-            <QuestionFeedback
-              question={currentQuestion}
-              userAnswer={userAnswer}
-              onNext={handleNext}
-              onQuit={handleChangeThemes}
-            />
-          )}
+        {screen === 'feedback' && currentQuestion && userAnswer !== null && (
+          <QuestionFeedback
+            question={currentQuestion}
+            userAnswer={userAnswer}
+            onNext={handleNext}
+          />
+        )}
 
-          {screen === 'score' && (
-            <QuizScore
-              score={score}
-              totalQuestions={results.length}
-              results={results}
-              onPlayAgain={handlePlayAgain}
-              onChangeThemes={handleChangeThemes}
-            />
-          )}
-        </main>
+        {screen === 'score' && (
+          <QuizScore
+            score={score}
+            totalQuestions={results.length}
+            results={results}
+            onPlayAgain={handlePlayAgain}
+            onChangeThemes={handleChangeThemes}
+          />
+        )}
+      </main>
 
-        <footer className="app-footer">
-          <p>Using the King James Version (KJV)</p>
-        </footer>
-      </div>
+      <footer className="app-footer">
+        <p>Using the King James Version (KJV)</p>
+      </footer>
     </div>
   );
 }

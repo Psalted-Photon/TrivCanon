@@ -1,6 +1,6 @@
 .question-feedback {
   max-width: 700px;
-  width: 100%;
+  margin: 0 auto;
   padding: 2rem 1rem;
 }
 
@@ -58,12 +58,12 @@
 }
 
 .user-answer.wrong {
-  background: #4a5568;
+  background: #FFF5F5;
   border-left: 4px solid #FC8181;
 }
 
 .correct-answer {
-  background: #4a5568;
+  background: #F0FFF4;
   border-left: 4px solid #68D391;
 }
 
@@ -74,7 +74,7 @@
   text-transform: uppercase;
   letter-spacing: 0.5px;
   margin-bottom: 0.5rem;
-  color: #d4af37;
+  color: #475569;
 }
 
 .value {
@@ -86,11 +86,11 @@
 
 .correct-answer-display {
   padding: 1.5rem;
-  background: #4a5568;
+  background: #F0FFF4;
   border-radius: 12px;
   font-size: 1.25rem;
   font-weight: 600;
-  color: #d4af37;
+  color: #22543D;
   text-align: center;
   margin-bottom: 2rem;
 }
@@ -101,10 +101,10 @@
 }
 
 .explanation {
-  background: #4a5568;
+  background: #faf9f6;
   padding: 1.5rem;
   border-radius: 12px;
-  border: 2px solid #5a6578;
+  border: 2px solid #cbd5e1;
   margin-bottom: 2rem;
 }
 
@@ -113,7 +113,7 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  color: #d4af37;
+  color: #475569;
   margin-bottom: 1rem;
 }
 
@@ -127,7 +127,6 @@
   color: #d4af37;
   font-weight: 600;
   font-size: 0.95rem;
-  text-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
 }
 
 .next-btn {
@@ -136,37 +135,17 @@
   font-size: 1.1rem;
   font-weight: 600;
   background: linear-gradient(135deg, #d4af37 0%, #c5a028 100%);
-  color: #475569;
+  color: #d4af37;
   border: none;
   border-radius: 12px;
   cursor: pointer;
   transition: all 0.2s;
-  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.4), 0 0 20px rgba(212, 175, 55, 0.3);
+  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.4);
 }
 
 .next-btn:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 16px rgba(212, 175, 55, 0.5);
-}
-
-.quit-btn {
-  width: 100%;
-  margin-top: 1rem;
-  padding: 0.75rem 1.5rem;
-  background: transparent;
-  color: #d4af37;
-  border: 2px solid #475569;
-  border-radius: 8px;
-  font-size: 0.95rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.2s;
-}
-
-.quit-btn:hover {
-  border-color: #d4af37;
-  background: rgba(212, 175, 55, 0.1);
-  text-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
 }
 
 @media (max-width: 640px) {

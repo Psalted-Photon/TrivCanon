@@ -10,7 +10,7 @@
 }
 
 .header p {
-  color: #faf9f6;
+  color: #d4af37;
   font-size: 1.1rem;
   opacity: 0.9;
   margin: 0;
@@ -56,28 +56,31 @@
   cursor: pointer;
   text-align: center;
   transition: all 0.2s;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
 
 .theme-card:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  background: #5a6578;
 }
 
 .theme-card.selected {
-  border-color: var(--theme-color);
-  background: linear-gradient(135deg, #5a6578 0%, var(--theme-color)15 100%);
+  border-color: #d4af37;
+  background: #5a6578;
+  box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);
 }
 
 .theme-icon {
-  font-size: 2rem;
+  font-size: 2.5rem;
   margin-bottom: 0.5rem;
+  filter: drop-shadow(0 0 8px rgba(212, 175, 55, 0.3));
 }
 
-.theme-name {
+.theme-card .theme-name {
   font-size: 1.4rem !important;
   font-weight: 600;
-  color: #d4af37;
+  color: #d4af37 !important;
   text-shadow: 0 0 10px rgba(212, 175, 55, 0.2);
 }
 
@@ -87,19 +90,20 @@
   right: 0.5rem;
   width: 24px;
   height: 24px;
-  border: 2px solid #475569;
+  border: 2px solid #d4af37;
   border-radius: 4px;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 0.9rem;
-  background: #3a4558;
+  background: #4a5568;
+  color: #d4af37;
 }
 
 .theme-card.selected .checkbox {
-  background: var(--theme-color);
-  border-color: var(--theme-color);
-  color: white;
+  background: #d4af37;
+  border-color: #d4af37;
+  color: #475569;
 }
 
 .rotation-mode {
@@ -107,6 +111,7 @@
   gap: 2rem;
   justify-content: center;
   margin-bottom: 2rem;
+  color: #d4af37;
 }
 
 .mode-label {
@@ -138,7 +143,7 @@
   border-radius: 12px;
   cursor: pointer;
   transition: all 0.2s;
-  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.4), 0 0 20px rgba(212, 175, 55, 0.3);
+  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.4);
 }
 
 .start-btn:hover:not(:disabled) {
@@ -169,5 +174,6 @@
 
   .theme-name {
     font-size: 1.4rem !important;
+    color: #d4af37 !important;
   }
 }

@@ -1,6 +1,6 @@
 .quiz-question {
   max-width: 700px;
-  width: 100%;
+  margin: 0 auto;
   padding: 2rem 1rem;
 }
 
@@ -28,18 +28,16 @@
 
 .theme-badge {
   padding: 0.5rem 1rem;
-  background: #4a5568;
+  background: #faf9f6;
   border-radius: 20px;
   font-size: 0.9rem;
   font-weight: 600;
   color: #d4af37;
-  border: 1px solid #475569;
 }
 
 .question-counter {
-  color: #d4af37;
+  color: #475569;
   font-size: 0.95rem;
-  text-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
 }
 
 .question-text {
@@ -49,7 +47,6 @@
   line-height: 1.6;
   margin-bottom: 2rem;
   text-align: center;
-  text-shadow: 0 0 15px rgba(212, 175, 55, 0.3);
 }
 
 .choices {
@@ -61,7 +58,7 @@
 
 .choice-btn {
   padding: 1.25rem 1.5rem;
-  background: #4a5568;
+  background: #faf9f6;
   border: 2px solid #475569;
   border-radius: 12px;
   font-size: 1.1rem;
@@ -75,10 +72,10 @@
 
 .choice-btn:hover {
   border-color: #d4af37;
-  background: #5a6578;
+  background: white;
   color: #d4af37;
   transform: translateX(4px);
-  box-shadow: 0 4px 8px rgba(212, 175, 55, 0.3), 0 0 15px rgba(212, 175, 55, 0.2);
+  box-shadow: 0 4px 8px rgba(212, 175, 55, 0.3);
 }
 
 .difficulty-indicator {
@@ -107,26 +104,6 @@
 .difficulty.hard {
   background: #FECACA;
   color: #7F1D1D;
-}
-
-.quit-btn {
-  width: 100%;
-  margin-top: 1.5rem;
-  padding: 0.75rem 1.5rem;
-  background: transparent;
-  color: #d4af37;
-  border: 2px solid #475569;
-  border-radius: 8px;
-  font-size: 0.95rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.2s;
-}
-
-.quit-btn:hover {
-  border-color: #d4af37;
-  background: rgba(212, 175, 55, 0.1);
-  text-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
 }
 
 @media (max-width: 640px) {
