@@ -7,11 +7,33 @@ import QuestionFeedback from './components/QuestionFeedback';
 import QuizScore from './components/QuizScore';
 import './App.css';
 
+// Shuffle answer choices and update correctIndex
+function shuffleChoices(question) {
+  const shuffled = { ...question };
+  const correctAnswer = question.choices[question.correctIndex];
+  
+  // Create array of indices and shuffle
+  const indices = question.choices.map((_, i) => i);
+  for (let i = indices.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [indices[i], indices[j]] = [indices[j], indices[i]];
+  }
+  
+  // Reorder choices and find new correct index
+  shuffled.choices = indices.map(i => question.choices[i]);
+  shuffled.correctIndex = shuffled.choices.indexOf(correctAnswer);
+  
+  return shuffled;
+}
+
 export default function App() {
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(true);
   const [screen, setScreen] = useState('theme-select'); // 'theme-select', 'question', 'feedback', 'score'
   const [selectedThemes, setSelectedThemes] = useState([]);
+  const [selectedDifficulty, setSelectedDifficulty] = useState('all');
+  const [quizMode, setQuizMode] = useState('endless');
+  const [maxQuestions, setMaxQuestions] = useState(null);
   const [rotationMode, setRotationMode] = useState('shuffled');
   const [currentQuestion, setCurrentQuestion] = useState(null);
   const [questionNumber, setQuestionNumber] = useState(1);
@@ -19,11 +41,17 @@ export default function App() {
   const [score, setScore] = useState(0);
   const [results, setResults] = useState([]);
 
-  const { getNextQuestion, reset } = useQuizRotation(selectedThemes, questions, rotationMode);
+  const { getNextQuestion, reset } = useQuizRotation(selectedThemes, questions, rotationMode, selectedDifficulty);
 
   useEffect(() => {
     loadQuestionsWithCache()
       .then(data => {
+        console.log('Loaded questions:', data.length, 'total');
+        const byTheme = data.reduce((acc, q) => {
+          acc[q.theme] = (acc[q.theme] || 0) + 1;
+          return acc;
+        }, {});
+        console.log('Questions by theme:', byTheme);
         setQuestions(data);
         setLoading(false);
       })
@@ -33,18 +61,25 @@ export default function App() {
       });
   }, []);
 
-  const handleStartQuiz = (themes, mode) => {
+  const handleStartQuiz = (themes, mode, difficulty, quizModeType) => {
     setSelectedThemes(themes);
+    setSelectedDifficulty(difficulty);
+    setQuizMode(quizModeType);
+    
+    // Set max questions based on quiz mode
+    const maxQ = quizModeType === '10q' ? 10 : quizModeType === '25q' ? 25 : quizModeType === '50q' ? 50 : null;
+    setMaxQuestions(maxQ);
+    
     setRotationMode(mode);
     setQuestionNumber(1);
     setScore(0);
     setResults([]);
     reset();
     
-    // Get first question
+    // Get first question and shuffle choices
     const firstQuestion = getNextQuestion();
     if (firstQuestion) {
-      setCurrentQuestion(firstQuestion);
+      setCurrentQuestion(shuffleChoices(firstQuestion));
       setScreen('question');
     }
   };
@@ -70,10 +105,16 @@ export default function App() {
   };
 
   const handleNext = () => {
+    // Check if we've reached the max questions for this quiz mode
+    if (maxQuestions && questionNumber >= maxQuestions) {
+      setScreen('score');
+      return;
+    }
+    
     const nextQuestion = getNextQuestion();
     
     if (nextQuestion) {
-      setCurrentQuestion(nextQuestion);
+      setCurrentQuestion(shuffleChoices(nextQuestion));
       setUserAnswer(null);
       setQuestionNumber(questionNumber + 1);
       setScreen('question');
@@ -91,7 +132,7 @@ export default function App() {
     
     const firstQuestion = getNextQuestion();
     if (firstQuestion) {
-      setCurrentQuestion(firstQuestion);
+      setCurrentQuestion(shuffleChoices(firstQuestion));
       setUserAnswer(null);
       setScreen('question');
     }
@@ -116,8 +157,11 @@ export default function App() {
     );
   }
 
-  // Calculate total questions available for selected themes
-  const totalQuestions = questions.filter(q => selectedThemes.includes(q.theme)).length;
+  // Calculate total questions available for selected themes and difficulty
+  const totalQuestions = questions.filter(q => 
+    selectedThemes.includes(q.theme) && 
+    (selectedDifficulty === 'all' || q.difficulty === selectedDifficulty)
+  ).length;
 
   return (
     <div className="app">
@@ -138,8 +182,9 @@ export default function App() {
           <QuizQuestion
             question={currentQuestion}
             questionNumber={questionNumber}
-            totalQuestions={totalQuestions}
+            totalQuestions={maxQuestions || totalQuestions}
             onAnswer={handleAnswer}
+            onQuit={handleChangeThemes}
           />
         )}
 
@@ -148,6 +193,7 @@ export default function App() {
             question={currentQuestion}
             userAnswer={userAnswer}
             onNext={handleNext}
+            onQuit={handleChangeThemes}
           />
         )}
 
@@ -156,6 +202,7 @@ export default function App() {
             score={score}
             totalQuestions={results.length}
             results={results}
+            quizMode={quizMode}
             onPlayAgain={handlePlayAgain}
             onChangeThemes={handleChangeThemes}
           />
@@ -164,6 +211,7 @@ export default function App() {
 
       <footer className="app-footer">
         <p>Using the King James Version (KJV)</p>
+        <p className="question-count">{questions.length} questions available</p>
       </footer>
     </div>
   );

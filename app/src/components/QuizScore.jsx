@@ -1,6 +1,6 @@
 import './QuizScore.css';
 
-export default function QuizScore({ score, totalQuestions, results, onPlayAgain, onChangeThemes }) {
+export default function QuizScore({ score, totalQuestions, results, quizMode, onPlayAgain, onChangeThemes }) {
   const percentage = Math.round((score / totalQuestions) * 100);
   
   const getGrade = () => {
@@ -11,6 +11,12 @@ export default function QuizScore({ score, totalQuestions, results, onPlayAgain,
   };
 
   const grade = getGrade();
+  
+  // Determine quiz mode label
+  const quizModeLabel = quizMode === '10q' ? '10 Question Quiz' 
+    : quizMode === '25q' ? '25 Question Quiz' 
+    : quizMode === '50q' ? '50 Question Quiz' 
+    : 'Quiz';
 
   // Calculate stats by theme
   const themeStats = {};
@@ -26,6 +32,10 @@ export default function QuizScore({ score, totalQuestions, results, onPlayAgain,
 
   return (
     <div className="quiz-score">
+      <div className="quiz-mode-header">
+        <h2>{quizModeLabel} Complete!</h2>
+      </div>
+      
       <div className="score-banner" style={{ borderColor: grade.color }}>
         <div className="score-emoji">{grade.emoji}</div>
         <div className="score-text" style={{ color: grade.color }}>{grade.text}</div>
@@ -58,10 +68,10 @@ export default function QuizScore({ score, totalQuestions, results, onPlayAgain,
 
       <div className="action-buttons">
         <button className="play-again-btn" onClick={onPlayAgain}>
-          🔄 Play Again
+          🔄 Retry Quiz
         </button>
         <button className="change-themes-btn" onClick={onChangeThemes}>
-          🎯 Change Themes
+          🎯 New Quiz
         </button>
       </div>
     </div>

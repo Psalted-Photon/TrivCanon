@@ -12,7 +12,7 @@ function shuffleArray(array) {
   return shuffled;
 }
 
-export function useQuizRotation(selectedThemes, questions, rotationMode = 'shuffled') {
+export function useQuizRotation(selectedThemes, questions, rotationMode = 'shuffled', difficulty = 'all') {
   const [currentRound, setCurrentRound] = useState(0);
   const [themeIndexInRound, setThemeIndexInRound] = useState(0);
   
@@ -25,10 +25,13 @@ export function useQuizRotation(selectedThemes, questions, rotationMode = 'shuff
     return shuffleArray(selectedThemes);
   }, [selectedThemes, currentRound, rotationMode]);
   
-  // Filter questions by selected themes
+  // Filter questions by selected themes and difficulty
   const availableQuestions = useMemo(() => {
-    return questions.filter(q => selectedThemes.includes(q.theme));
-  }, [questions, selectedThemes]);
+    return questions.filter(q => 
+      selectedThemes.includes(q.theme) &&
+      (difficulty === 'all' || q.difficulty === difficulty)
+    );
+  }, [questions, selectedThemes, difficulty]);
   
   // Group questions by theme
   const questionsByTheme = useMemo(() => {

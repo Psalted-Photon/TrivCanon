@@ -5,7 +5,7 @@ import { openDB } from 'idb';
 
 const DB_NAME = 'bible-trivia-db';
 const STORE_NAME = 'questions';
-const DB_VERSION = 1;
+const DB_VERSION = 2;
 
 export async function initDB() {
   return openDB(DB_NAME, DB_VERSION, {
@@ -28,13 +28,7 @@ export async function getQuestions() {
 }
 
 export async function loadQuestionsWithCache() {
-  // Try IndexedDB first
-  const cached = await getQuestions();
-  if (cached) {
-    return cached;
-  }
-
-  // Fetch from network
+  // Always fetch from network to get latest questions
   const response = await fetch('/questions.json');
   const questions = await response.json();
   

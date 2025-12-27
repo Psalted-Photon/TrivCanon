@@ -80,6 +80,16 @@
   font-size: 0.9rem;
 }
 
+.app-footer p {
+  margin: 0.3rem 0;
+}
+
+.question-count {
+  color: #d4af37;
+  font-weight: 500;
+  opacity: 1;
+}
+
 .app-loading {
   display: flex;
   flex-direction: column;

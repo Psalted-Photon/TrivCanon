@@ -16,8 +16,10 @@ const THEMES = [
   { name: "Wisdom & Psalms", icon: "📖🎼", color: "#63B3ED" }
 ];
 
-export default function ThemeSelector({ onStart }) {
+export default function ThemeSelector({ onStart, totalQuestions }) {
   const [selectedThemes, setSelectedThemes] = useState(THEMES.map(t => t.name));
+  const [difficulty, setDifficulty] = useState('all');
+  const [quizMode, setQuizMode] = useState('10q');
   const [rotationMode, setRotationMode] = useState('shuffled');
 
   const toggleTheme = (themeName) => {
@@ -33,7 +35,7 @@ export default function ThemeSelector({ onStart }) {
 
   const handleStart = () => {
     if (selectedThemes.length > 0) {
-      onStart(selectedThemes, rotationMode);
+      onStart(selectedThemes, rotationMode, difficulty, quizMode);
     }
   };
 
@@ -63,6 +65,90 @@ export default function ThemeSelector({ onStart }) {
             </div>
           </div>
         ))}
+      </div>
+
+      <div className="difficulty-filter">
+        <h3>Difficulty Level</h3>
+        <div className="difficulty-options">
+          <label className="difficulty-label">
+            <input
+              type="radio"
+              value="all"
+              checked={difficulty === 'all'}
+              onChange={(e) => setDifficulty(e.target.value)}
+            />
+            <span>All</span>
+          </label>
+          <label className="difficulty-label">
+            <input
+              type="radio"
+              value="easy"
+              checked={difficulty === 'easy'}
+              onChange={(e) => setDifficulty(e.target.value)}
+            />
+            <span>Easy</span>
+          </label>
+          <label className="difficulty-label">
+            <input
+              type="radio"
+              value="medium"
+              checked={difficulty === 'medium'}
+              onChange={(e) => setDifficulty(e.target.value)}
+            />
+            <span>Medium</span>
+          </label>
+          <label className="difficulty-label">
+            <input
+              type="radio"
+              value="hard"
+              checked={difficulty === 'hard'}
+              onChange={(e) => setDifficulty(e.target.value)}
+            />
+            <span>Hard</span>
+          </label>
+        </div>
+      </div>
+
+      <div className="quiz-mode-filter">
+        <h3>Quiz Mode</h3>
+        <div className="quiz-mode-options">
+          <label className="quiz-mode-label">
+            <input
+              type="radio"
+              value="10q"
+              checked={quizMode === '10q'}
+              onChange={(e) => setQuizMode(e.target.value)}
+            />
+            <span>10 Questions</span>
+          </label>
+          <label className="quiz-mode-label">
+            <input
+              type="radio"
+              value="25q"
+              checked={quizMode === '25q'}
+              onChange={(e) => setQuizMode(e.target.value)}
+            />
+            <span>25 Questions</span>
+          </label>
+          <label className="quiz-mode-label">
+            <input
+              type="radio"
+              value="50q"
+              checked={quizMode === '50q'}
+              onChange={(e) => setQuizMode(e.target.value)}
+            />
+            <span>50 Questions</span>
+          </label>
+          <label className="quiz-mode-label">
+            <input
+              type="radio"
+              value="endless"
+              checked={quizMode === 'endless'}
+              onChange={(e) => setQuizMode(e.target.value)}
+            />
+            <span>Endless</span>
+          </label>
+        </div>
       </div>
 
       <div className="rotation-mode">

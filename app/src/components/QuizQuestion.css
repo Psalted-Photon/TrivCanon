@@ -28,7 +28,7 @@
 
 .theme-badge {
   padding: 0.5rem 1rem;
-  background: #faf9f6;
+  background: #64748b;
   border-radius: 20px;
   font-size: 0.9rem;
   font-weight: 600;
@@ -36,12 +36,13 @@
 }
 
 .question-counter {
-  color: #475569;
-  font-size: 0.95rem;
+  color: #d4af37;
+  font-size: 1.1rem;
+  font-weight: 600;
 }
 
 .question-text {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: 600;
   color: #d4af37;
   line-height: 1.6;
@@ -58,10 +59,10 @@
 
 .choice-btn {
   padding: 1.25rem 1.5rem;
-  background: #faf9f6;
+  background: #64748b;
   border: 2px solid #475569;
   border-radius: 12px;
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   color: #d4af37;
   font-weight: 500;
   text-align: left;
@@ -72,7 +73,7 @@
 
 .choice-btn:hover {
   border-color: #d4af37;
-  background: white;
+  background: #74859b;
   color: #d4af37;
   transform: translateX(4px);
   box-shadow: 0 4px 8px rgba(212, 175, 55, 0.3);
