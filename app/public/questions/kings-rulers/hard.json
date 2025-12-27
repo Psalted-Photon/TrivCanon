@@ -1,0 +1,458 @@
+[
+  {
+    "id": "KNG-H-0001",
+    "theme": "Kings & Rulers",
+    "question": "Which king destroyed the bronze serpent Moses had made because people were worshiping it?",
+    "choices": [
+      "Hezekiah",
+      "Josiah",
+      "Asa",
+      "Jehoshaphat"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 18,
+      "verse": "4"
+    },
+    "explanation": "King Hezekiah broke into pieces the bronze serpent Moses had made, which had become an object of worship."
+  },
+  {
+    "id": "KNG-H-0002",
+    "theme": "Kings & Rulers",
+    "question": "Which king was struck with leprosy for burning incense in the temple?",
+    "choices": [
+      "Uzziah",
+      "Hezekiah",
+      "Manasseh",
+      "Jotham"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verse": "19"
+    },
+    "explanation": "King Uzziah became angry with the priests and leprosy broke out on his forehead in the temple."
+  },
+  {
+    "id": "KNG-H-0003",
+    "theme": "Kings & Rulers",
+    "question": "Which king had the longest reign over Judah?",
+    "choices": [
+      "Manasseh",
+      "Asa",
+      "Hezekiah",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Chronicles",
+      "chapter": 33,
+      "verse": "1"
+    },
+    "explanation": "Manasseh reigned 55 years in Jerusalem, the longest reign of any king of Judah."
+  },
+  {
+    "id": "KNG-H-0004",
+    "theme": "Kings & Rulers",
+    "question": "Which king made a rash vow that led to his daughter's death?",
+    "choices": [
+      "Jephthah",
+      "Saul",
+      "David",
+      "Herod"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Judges",
+      "chapter": 11,
+      "verse": "30-31"
+    },
+    "explanation": "Jephthah vowed to sacrifice whatever came out of his house first, which was his only daughter."
+  },
+  {
+    "id": "KNG-H-0005",
+    "theme": "Kings & Rulers",
+    "question": "Which king had to crawl on the ground eating grass like an animal?",
+    "choices": [
+      "Nebuchadnezzar",
+      "Belshazzar",
+      "Darius",
+      "Cyrus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 4,
+      "verse": "33"
+    },
+    "explanation": "Nebuchadnezzar was driven from people and ate grass like cattle until he acknowledged God's sovereignty."
+  },
+  {
+    "id": "KNG-H-0006",
+    "theme": "Kings & Rulers",
+    "question": "Which king burned Jeremiah's scroll?",
+    "choices": [
+      "Jehoiakim",
+      "Zedekiah",
+      "Josiah",
+      "Jehoiachin"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 36,
+      "verse": "23"
+    },
+    "explanation": "King Jehoiakim cut off the scroll with a scribe's knife and threw it into the fire."
+  },
+  {
+    "id": "KNG-H-0007",
+    "theme": "Kings & Rulers",
+    "question": "Who was the last king of Judah before the Babylonian exile?",
+    "choices": [
+      "Zedekiah",
+      "Jehoiachin",
+      "Josiah",
+      "Jehoiakim"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verse": "1-7"
+    },
+    "explanation": "Zedekiah was the last king of Judah before Jerusalem fell to Babylon."
+  },
+  {
+    "id": "KNG-H-0008",
+    "theme": "Kings & Rulers",
+    "question": "Which king killed his brother to secure the throne?",
+    "choices": [
+      "Abimelech",
+      "Absalom",
+      "Solomon",
+      "Rehoboam"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Judges",
+      "chapter": 9,
+      "verse": "5"
+    },
+    "explanation": "Abimelech went to his father's house and murdered his seventy brothers on one stone."
+  },
+  {
+    "id": "KNG-H-0009",
+    "theme": "Kings & Rulers",
+    "question": "Who was king of Judah when Jerusalem fell to Babylon?",
+    "choices": [
+      "Zedekiah",
+      "Jehoiakim",
+      "Josiah",
+      "Hezekiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verse": "1"
+    },
+    "explanation": "In the ninth year of Zedekiah's reign, Nebuchadnezzar king of Babylon marched against Jerusalem."
+  },
+  {
+    "id": "KNG-H-0010",
+    "theme": "Kings & Rulers",
+    "question": "Which king had the longest reign in the Bible, ruling for 55 years?",
+    "choices": [
+      "Manasseh",
+      "Asa",
+      "Azariah",
+      "Jehoshaphat"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Chronicles",
+      "chapter": 33,
+      "verse": "1"
+    },
+    "explanation": "Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years."
+  },
+  {
+    "id": "KNG-H-0011",
+    "theme": "Kings & Rulers",
+    "question": "Which king was struck with leprosy for trying to burn incense in the temple?",
+    "choices": [
+      "Uzziah",
+      "Ahaz",
+      "Jotham",
+      "Hezekiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verse": "19"
+    },
+    "explanation": "King Uzziah became angry when priests confronted him, and leprosy broke out on his forehead."
+  },
+  {
+    "id": "KNG-H-0012",
+    "theme": "Kings & Rulers",
+    "question": "Who was the king of Judah when Jerusalem fell to Babylon?",
+    "choices": [
+      "Zedekiah",
+      "Jehoiakim",
+      "Jehoiachin",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verse": "7"
+    },
+    "explanation": "King Zedekiah witnessed his sons being killed, then had his eyes put out before being taken to Babylon."
+  },
+  {
+    "id": "KNG-H-0013",
+    "theme": "Kings & Rulers",
+    "question": "Which king restored the temple worship during his reign?",
+    "choices": [
+      "Hezekiah",
+      "Josiah",
+      "Joash",
+      "Asa"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Chronicles",
+      "chapter": 29,
+      "verse": "3"
+    },
+    "explanation": "In the first month of his reign, Hezekiah opened the doors of the temple and repaired them."
+  },
+  {
+    "id": "KNG-H-0014",
+    "theme": "Kings & Rulers",
+    "question": "Which king was eaten by worms for accepting worship?",
+    "choices": [
+      "Herod Agrippa",
+      "Herod the Great",
+      "Pontius Pilate",
+      "Nebuchadnezzar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 12,
+      "verse": "23"
+    },
+    "explanation": "Immediately an angel struck Herod down because he did not give praise to God, and he was eaten by worms."
+  },
+  {
+    "id": "KNG-H-0015",
+    "theme": "Kings & Rulers",
+    "question": "Which king had a navy that brought him gold, silver, ivory, apes, and peacocks?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Hiram",
+      "Jehoshaphat"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verse": "22"
+    },
+    "explanation": "The king had a fleet of trading ships that brought gold, silver, ivory, apes and baboons."
+  },
+  {
+    "id": "KNG-H-0016",
+    "theme": "Kings & Rulers",
+    "question": "Which king had a sundial that went backward as a sign?",
+    "choices": [
+      "Hezekiah",
+      "Ahaz",
+      "Josiah",
+      "Manasseh"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 20,
+      "verse": "11"
+    },
+    "explanation": "Then the prophet Isaiah called on the Lord, and the Lord made the shadow go back the ten steps it had gone down on the stairway of Ahaz."
+  },
+  {
+    "id": "KNG-H-0017",
+    "theme": "Kings & Rulers",
+    "question": "Which king of Judah became king at age eight?",
+    "choices": [
+      "Josiah",
+      "Joash",
+      "Uzziah",
+      "Manasseh"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 22,
+      "verse": "1"
+    },
+    "explanation": "Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years."
+  },
+  {
+    "id": "KNG-H-0018",
+    "theme": "Kings & Rulers",
+    "question": "Which king of Israel was killed by Jehu?",
+    "choices": [
+      "Joram",
+      "Ahab",
+      "Ahaziah",
+      "Jehoram"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 9,
+      "verse": "24"
+    },
+    "explanation": "Then Jehu drew his bow and shot Joram between the shoulders. The arrow pierced his heart and he slumped down in his chariot."
+  },
+  {
+    "id": "KNG-H-0019",
+    "theme": "Kings & Rulers",
+    "question": "Which king walked around naked and barefoot for three years as a sign?",
+    "choices": [
+      "Isaiah (as a prophet, not king)",
+      "David",
+      "Saul",
+      "Ahab"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 20,
+      "verse": "3"
+    },
+    "explanation": "The Lord said, 'Just as my servant Isaiah has gone stripped and barefoot for three years, as a sign against Egypt and Cush.'"
+  },
+  {
+    "id": "KNG-H-0020",
+    "theme": "Kings & Rulers",
+    "question": "Which king was struck with leprosy for entering the temple to burn incense?",
+    "choices": [
+      "Uzziah",
+      "Hezekiah",
+      "Manasseh",
+      "Ahaz"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verse": "19"
+    },
+    "explanation": "Uzziah became angry. While he was raging at the priests, leprosy broke out on his forehead."
+  },
+  {
+    "id": "KNG-H-0021",
+    "theme": "Kings & Rulers",
+    "question": "Which king made a rash vow that led to his daughter's sacrifice?",
+    "choices": [
+      "Jephthah",
+      "Saul",
+      "David",
+      "Ahab"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Judges",
+      "chapter": 11,
+      "verse": "30-31"
+    },
+    "explanation": "And Jephthah made a vow to the Lord: 'If you give the Ammonites into my hands, whatever comes out of the door of my house to meet me will be the Lord's.'"
+  },
+  {
+    "id": "KNG-H-0022",
+    "theme": "Kings & Rulers",
+    "question": "Which king had his eyes gouged out by the Babylonians?",
+    "choices": [
+      "Zedekiah",
+      "Jehoiachin",
+      "Josiah",
+      "Manasseh"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verse": "7"
+    },
+    "explanation": "They killed the sons of Zedekiah before his eyes. Then they put out his eyes, bound him with bronze shackles and took him to Babylon."
+  },
+  {
+    "id": "KNG-H-0023",
+    "theme": "Kings & Rulers",
+    "question": "Which king of Judah became king at age seven?",
+    "choices": [
+      "Joash",
+      "Josiah",
+      "Uzziah",
+      "Manasseh"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 11,
+      "verse": "21"
+    },
+    "explanation": "Joash was seven years old when he began to reign."
+  },
+  {
+    "id": "KNG-H-0024",
+    "theme": "Kings & Rulers",
+    "question": "Which king reigned for only seven days?",
+    "choices": [
+      "Zimri",
+      "Omri",
+      "Ahab",
+      "Jehu"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 16,
+      "verse": "15"
+    },
+    "explanation": "In the twenty-seventh year of Asa king of Judah, Zimri reigned in Tirzah seven days."
+  }
+]

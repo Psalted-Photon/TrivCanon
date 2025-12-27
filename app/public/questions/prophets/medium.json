@@ -1,0 +1,515 @@
+[
+  {
+    "id": "PRO-M-0001",
+    "theme": "Prophets",
+    "question": "Who prophesied about the coming Messiah being born in Bethlehem?",
+    "choices": [
+      "Micah",
+      "Hosea",
+      "Joel",
+      "Amos"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Micah",
+      "chapter": 5,
+      "verse": "2"
+    },
+    "explanation": "Micah prophesied that the Messiah would be born in Bethlehem, the city of David."
+  },
+  {
+    "id": "PRO-M-0002",
+    "theme": "Prophets",
+    "question": "Which prophet had a vision of the valley of dry bones coming to life?",
+    "choices": [
+      "Ezekiel",
+      "Daniel",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 37,
+      "verse": "1-14"
+    },
+    "explanation": "Ezekiel saw a vision of dry bones coming together and being filled with breath, representing Israel's restoration."
+  },
+  {
+    "id": "PRO-M-0003",
+    "theme": "Prophets",
+    "question": "Which prophet confronted King David about his sin with Bathsheba?",
+    "choices": [
+      "Nathan",
+      "Samuel",
+      "Gad",
+      "Elijah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "verse": "7"
+    },
+    "explanation": "Nathan told David a parable about a rich man and a poor man, then declared 'You are the man!'"
+  },
+  {
+    "id": "PRO-M-0004",
+    "theme": "Prophets",
+    "question": "Who prophesied about a suffering servant who would bear our sins?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Daniel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 53,
+      "verse": "5"
+    },
+    "explanation": "Isaiah prophesied about the suffering servant who was pierced for our transgressions and crushed for our iniquities."
+  },
+  {
+    "id": "PRO-M-0005",
+    "theme": "Prophets",
+    "question": "What miraculous sign did Elisha perform with an axe head?",
+    "choices": [
+      "Made it float",
+      "Split a rock with it",
+      "Turned it to gold",
+      "Made it multiply"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 6,
+      "verse": "6"
+    },
+    "explanation": "When an axe head fell into the water, Elisha threw a stick in and made the iron float."
+  },
+  {
+    "id": "PRO-M-0006",
+    "theme": "Prophets",
+    "question": "How many false prophets did Elijah challenge on Mount Carmel?",
+    "choices": [
+      "450 prophets of Baal",
+      "400 prophets of Baal",
+      "700 prophets of Baal",
+      "100 prophets of Baal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verse": "22"
+    },
+    "explanation": "Elijah alone faced 450 prophets of Baal in a contest to prove who was the true God."
+  },
+  {
+    "id": "PRO-M-0007",
+    "theme": "Prophets",
+    "question": "What did God tell Ezekiel to eat to symbolize receiving His word?",
+    "choices": [
+      "A scroll",
+      "Honey",
+      "Bread",
+      "Ashes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 3,
+      "verse": "1"
+    },
+    "explanation": "God commanded Ezekiel to eat a scroll, which tasted as sweet as honey, symbolizing ingesting God's word."
+  },
+  {
+    "id": "PRO-M-0008",
+    "theme": "Prophets",
+    "question": "Which prophet was thrown into a cistern for his prophecies?",
+    "choices": [
+      "Jeremiah",
+      "Isaiah",
+      "Ezekiel",
+      "Amos"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 38,
+      "verse": "6"
+    },
+    "explanation": "Officials threw Jeremiah into a cistern where he sank into the mud because of his prophecies."
+  },
+  {
+    "id": "PRO-M-0009",
+    "theme": "Prophets",
+    "question": "What did God tell Jeremiah he was before he was born?",
+    "choices": [
+      "Set apart as a prophet to the nations",
+      "A chosen vessel",
+      "A mighty warrior",
+      "A king"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 1,
+      "verse": "5"
+    },
+    "explanation": "Before I formed you in the womb I knew you, and set you apart as a prophet to the nations."
+  },
+  {
+    "id": "PRO-M-0010",
+    "theme": "Prophets",
+    "question": "Which prophet said 'Woe is me, for I am undone'?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Daniel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": "5"
+    },
+    "explanation": "When Isaiah saw the Lord in the temple, he cried out about his unworthiness."
+  },
+  {
+    "id": "PRO-M-0011",
+    "theme": "Prophets",
+    "question": "What did the angel touch to Isaiah's lips?",
+    "choices": [
+      "A live coal",
+      "A scroll",
+      "Oil",
+      "Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": "6-7"
+    },
+    "explanation": "A seraphim touched Isaiah's mouth with a live coal from the altar to atone for his sin."
+  },
+  {
+    "id": "PRO-M-0012",
+    "theme": "Prophets",
+    "question": "Which prophet saw a wheel within a wheel?",
+    "choices": [
+      "Ezekiel",
+      "Daniel",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verse": "16"
+    },
+    "explanation": "Ezekiel saw four wheels, and their appearance was like a wheel intersecting a wheel."
+  },
+  {
+    "id": "PRO-M-0013",
+    "theme": "Prophets",
+    "question": "Who prophesied about the valley of dry bones?",
+    "choices": [
+      "Ezekiel",
+      "Jeremiah",
+      "Daniel",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 37,
+      "verse": "1"
+    },
+    "explanation": "The hand of the Lord was on Ezekiel, and he brought him out by the Spirit to the middle of a valley full of bones."
+  },
+  {
+    "id": "PRO-M-0014",
+    "theme": "Prophets",
+    "question": "Who prophesied that a virgin would conceive?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Micah",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 7,
+      "verse": "14"
+    },
+    "explanation": "Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son."
+  },
+  {
+    "id": "PRO-M-0015",
+    "theme": "Prophets",
+    "question": "Which prophet saw a vision of dry bones coming to life?",
+    "choices": [
+      "Ezekiel",
+      "Daniel",
+      "Jeremiah",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 37,
+      "verse": "10"
+    },
+    "explanation": "Ezekiel prophesied to the dry bones and they came to life, representing God's promise to restore Israel."
+  },
+  {
+    "id": "PRO-M-0016",
+    "theme": "Prophets",
+    "question": "Which prophet married a prostitute as a symbol of Israel's unfaithfulness?",
+    "choices": [
+      "Hosea",
+      "Jeremiah",
+      "Ezekiel",
+      "Amos"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Hosea",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "God commanded Hosea to marry Gomer, a prostitute, to illustrate Israel's spiritual adultery."
+  },
+  {
+    "id": "PRO-M-0017",
+    "theme": "Prophets",
+    "question": "Who prophesied from inside a cistern where he was thrown?",
+    "choices": [
+      "Jeremiah",
+      "Daniel",
+      "Ezekiel",
+      "Jonah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 38,
+      "verse": "6"
+    },
+    "explanation": "Jeremiah was thrown into a muddy cistern for prophesying Jerusalem's fall, but was later rescued."
+  },
+  {
+    "id": "PRO-M-0018",
+    "theme": "Prophets",
+    "question": "What did Ezekiel eat that tasted like honey?",
+    "choices": [
+      "A scroll",
+      "Manna",
+      "Bread",
+      "Fruit"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 3,
+      "verse": "3"
+    },
+    "explanation": "So I ate the scroll, and it tasted as sweet as honey in my mouth."
+  },
+  {
+    "id": "PRO-M-0019",
+    "theme": "Prophets",
+    "question": "Which prophet saw chariots of fire and horses of fire?",
+    "choices": [
+      "Elisha",
+      "Elijah",
+      "Ezekiel",
+      "Daniel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 6,
+      "verse": "17"
+    },
+    "explanation": "Elisha prayed, and the Lord opened the servant's eyes, and he saw horses and chariots of fire."
+  },
+  {
+    "id": "PRO-M-0020",
+    "theme": "Prophets",
+    "question": "Which prophet struck the Jordan River with Elijah's cloak?",
+    "choices": [
+      "Elisha",
+      "Isaiah",
+      "Jeremiah",
+      "Samuel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 2,
+      "verse": "14"
+    },
+    "explanation": "Elisha struck the water with Elijah's cloak and the water divided, and he crossed over."
+  },
+  {
+    "id": "PRO-M-0021",
+    "theme": "Prophets",
+    "question": "Which prophet was commanded to marry an adulterous woman?",
+    "choices": [
+      "Hosea",
+      "Jeremiah",
+      "Ezekiel",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Hosea",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "The Lord said to Hosea, 'Go, marry a promiscuous woman and have children with her, for like an adulterous wife this land is guilty of unfaithfulness.'"
+  },
+  {
+    "id": "PRO-M-0022",
+    "theme": "Prophets",
+    "question": "Which prophet confronted King Ahab about Naboth's vineyard?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 21,
+      "verse": "20"
+    },
+    "explanation": "Ahab said to Elijah, 'So you have found me, my enemy!' 'I have found you,' he answered, 'because you have sold yourself to do evil.'"
+  },
+  {
+    "id": "PRO-M-0023",
+    "theme": "Prophets",
+    "question": "Which prophet had a vision of four great beasts?",
+    "choices": [
+      "Daniel",
+      "Ezekiel",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 7,
+      "verse": "3"
+    },
+    "explanation": "Four great beasts, each different from the others, came up out of the sea."
+  },
+  {
+    "id": "PRO-M-0024",
+    "theme": "Prophets",
+    "question": "Which prophet saw the Lord sitting on a throne, high and exalted?",
+    "choices": [
+      "Isaiah",
+      "Ezekiel",
+      "Daniel",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": "1"
+    },
+    "explanation": "In the year that King Uzziah died, I saw the Lord, high and exalted, seated on a throne."
+  },
+  {
+    "id": "PRO-M-0025",
+    "theme": "Prophets",
+    "question": "Which prophet received double the spirit that was on Elijah?",
+    "choices": [
+      "Elisha",
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 2,
+      "verse": "9"
+    },
+    "explanation": "When they had crossed, Elijah said to Elisha, 'Tell me, what can I do for you before I am taken from you?' 'Let me inherit a double portion of your spirit,' Elisha replied."
+  },
+  {
+    "id": "PRO-M-0026",
+    "theme": "Prophets",
+    "question": "Which prophet prophesied the birth of Jesus in Bethlehem?",
+    "choices": [
+      "Micah",
+      "Isaiah",
+      "Jeremiah",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Micah",
+      "chapter": 5,
+      "verse": "2"
+    },
+    "explanation": "But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel."
+  },
+  {
+    "id": "PRO-M-0027",
+    "theme": "Prophets",
+    "question": "Which prophet's wife was named Gomer?",
+    "choices": [
+      "Hosea",
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Hosea",
+      "chapter": 1,
+      "verse": "3"
+    },
+    "explanation": "So he married Gomer daughter of Diblaim, and she conceived and bore him a son."
+  }
+]

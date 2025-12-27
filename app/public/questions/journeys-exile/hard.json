@@ -1,0 +1,230 @@
+[
+  {
+    "id": "JRN-H-0001",
+    "theme": "Journeys & Exile",
+    "question": "Who led the first group of exiles back to Jerusalem from Babylon?",
+    "choices": [
+      "Zerubbabel",
+      "Ezra",
+      "Nehemiah",
+      "Joshua"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Ezra",
+      "chapter": 2,
+      "verse": "2"
+    },
+    "explanation": "Zerubbabel led the first return of exiles and oversaw the rebuilding of the temple."
+  },
+  {
+    "id": "JRN-H-0002",
+    "theme": "Journeys & Exile",
+    "question": "How long was the Israelites' journey from Egypt to the Promised Land supposed to take?",
+    "choices": [
+      "11 days",
+      "40 days",
+      "1 year",
+      "6 months"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "It takes eleven days to go from Horeb to Kadesh Barnea by the Mount Seir road."
+  },
+  {
+    "id": "JRN-H-0003",
+    "theme": "Journeys & Exile",
+    "question": "Where did Lot escape to when Sodom was destroyed?",
+    "choices": [
+      "Zoar",
+      "Bethel",
+      "Haran",
+      "Egypt"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 19,
+      "verse": "22-23"
+    },
+    "explanation": "Lot fled to the town of Zoar as the sun rose over the land."
+  },
+  {
+    "id": "JRN-H-0004",
+    "theme": "Journeys & Exile",
+    "question": "Where did Jacob see a ladder reaching to heaven?",
+    "choices": [
+      "Bethel",
+      "Beersheba",
+      "Haran",
+      "Shechem"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 28,
+      "verse": "19"
+    },
+    "explanation": "Jacob called that place Bethel, though the city used to be called Luz."
+  },
+  {
+    "id": "JRN-H-0005",
+    "theme": "Journeys & Exile",
+    "question": "How many years were the Israelites in Egypt?",
+    "choices": [
+      "430 years",
+      "400 years",
+      "40 years",
+      "70 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "40"
+    },
+    "explanation": "The length of time the Israelite people lived in Egypt was 430 years."
+  },
+  {
+    "id": "JRN-H-0006",
+    "theme": "Journeys & Exile",
+    "question": "How long did it take to rebuild the walls of Jerusalem under Nehemiah?",
+    "choices": [
+      "52 days",
+      "40 days",
+      "100 days",
+      "One year"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Nehemiah",
+      "chapter": 6,
+      "verse": "15"
+    },
+    "explanation": "The wall was completed in fifty-two days, on the twenty-fifth of Elul."
+  },
+  {
+    "id": "JRN-H-0007",
+    "theme": "Journeys & Exile",
+    "question": "Where was Paul shipwrecked on his way to Rome?",
+    "choices": [
+      "Malta",
+      "Crete",
+      "Cyprus",
+      "Sicily"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 28,
+      "verse": "1"
+    },
+    "explanation": "Once safely on shore, we found out that the island was called Malta."
+  },
+  {
+    "id": "JRN-H-0008",
+    "theme": "Journeys & Exile",
+    "question": "Where was Paul when he had the vision of the Macedonian man?",
+    "choices": [
+      "Troas",
+      "Philippi",
+      "Athens",
+      "Corinth"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 16,
+      "verse": "9"
+    },
+    "explanation": "During the night Paul had a vision of a man of Macedonia standing and begging him, 'Come over to Macedonia and help us.'"
+  },
+  {
+    "id": "JRN-H-0009",
+    "theme": "Journeys & Exile",
+    "question": "How many days did it take Nehemiah to inspect Jerusalem's walls?",
+    "choices": [
+      "Three days",
+      "Seven days",
+      "One day",
+      "Forty days"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Nehemiah",
+      "chapter": 2,
+      "verse": "11"
+    },
+    "explanation": "I went to Jerusalem, and after staying there three days, I set out during the night with a few others."
+  },
+  {
+    "id": "JRN-H-0010",
+    "theme": "Journeys & Exile",
+    "question": "How much did Joseph's brothers sell him for?",
+    "choices": [
+      "Twenty shekels of silver",
+      "Thirty pieces of silver",
+      "Fifty shekels",
+      "Ten shekels"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 37,
+      "verse": "28"
+    },
+    "explanation": "His brothers pulled Joseph up out of the cistern and sold him for twenty shekels of silver to the Ishmaelites."
+  },
+  {
+    "id": "JRN-H-0011",
+    "theme": "Journeys & Exile",
+    "question": "How old was Joseph when he stood before Pharaoh?",
+    "choices": [
+      "Thirty years old",
+      "Twenty years old",
+      "Forty years old",
+      "Seventeen years old"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 41,
+      "verse": "46"
+    },
+    "explanation": "Joseph was thirty years old when he entered the service of Pharaoh king of Egypt."
+  },
+  {
+    "id": "JRN-H-0012",
+    "theme": "Journeys & Exile",
+    "question": "Which brother did Joseph keep as a hostage?",
+    "choices": [
+      "Simeon",
+      "Reuben",
+      "Levi",
+      "Judah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 42,
+      "verse": "24"
+    },
+    "explanation": "He turned away from them and began to weep, but then came back and spoke to them again. He had Simeon taken from them and bound before their eyes."
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "id": "FES-M-0001",
+    "theme": "Festivals & Customs",
+    "question": "What festival is also known as the Feast of Weeks?",
+    "choices": [
+      "Pentecost",
+      "Passover",
+      "Tabernacles",
+      "Purim"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "15-16"
+    },
+    "explanation": "Pentecost, or the Feast of Weeks, occurs 50 days after Passover and celebrates the harvest."
+  },
+  {
+    "id": "FES-M-0002",
+    "theme": "Festivals & Customs",
+    "question": "What is the Festival of Booths (Tabernacles) meant to commemorate?",
+    "choices": [
+      "Israel's dwelling in tents during the wilderness journey",
+      "The dedication of Solomon's temple",
+      "The victory over the Philistines",
+      "The giving of the Ten Commandments"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "43"
+    },
+    "explanation": "The Festival of Tabernacles commemorates when God made Israel live in temporary shelters during the Exodus."
+  },
+  {
+    "id": "FES-M-0003",
+    "theme": "Festivals & Customs",
+    "question": "What festival celebrates the deliverance of the Jews from Haman's plot?",
+    "choices": [
+      "Purim",
+      "Passover",
+      "Pentecost",
+      "Dedication"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Esther",
+      "chapter": 9,
+      "verse": "26"
+    },
+    "explanation": "Purim celebrates how Esther and Mordecai saved the Jewish people from destruction."
+  },
+  {
+    "id": "FES-M-0004",
+    "theme": "Festivals & Customs",
+    "question": "What is the feast that celebrates the rededication of the temple during the Maccabean period?",
+    "choices": [
+      "Hanukkah (Dedication)",
+      "Purim",
+      "Passover",
+      "Tabernacles"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 10,
+      "verse": "22"
+    },
+    "explanation": "The Feast of Dedication (Hanukkah) celebrates when the temple was cleansed and rededicated."
+  },
+  {
+    "id": "FES-M-0005",
+    "theme": "Festivals & Customs",
+    "question": "What were Israelites commanded to do on the Day of Atonement?",
+    "choices": [
+      "Fast and not work",
+      "Sacrifice a lamb",
+      "Give offerings",
+      "Read the Law"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "27-28"
+    },
+    "explanation": "The Day of Atonement was a day to deny themselves, not work, and make atonement for sins."
+  },
+  {
+    "id": "FES-M-0006",
+    "theme": "Festivals & Customs",
+    "question": "What did Jewish men do three times a year according to the Law?",
+    "choices": [
+      "Appear before the Lord in Jerusalem",
+      "Fast",
+      "Offer sacrifices at home",
+      "Study the Torah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 16,
+      "verse": "16"
+    },
+    "explanation": "Three times a year all men were to appear before the Lord at the place He chose: Passover, Pentecost, and Tabernacles."
+  },
+  {
+    "id": "FES-M-0007",
+    "theme": "Festivals & Customs",
+    "question": "What were Jewish boys circumcised on according to the Law?",
+    "choices": [
+      "The eighth day",
+      "The first day",
+      "The seventh day",
+      "The fortieth day"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 12,
+      "verse": "3"
+    },
+    "explanation": "On the eighth day, the boy was to be circumcised as a sign of the covenant with God."
+  },
+  {
+    "id": "FES-M-0008",
+    "theme": "Festivals & Customs",
+    "question": "What did Israelites build during the Feast of Tabernacles?",
+    "choices": [
+      "Temporary shelters",
+      "Altars",
+      "Wells",
+      "Walls"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "42"
+    },
+    "explanation": "Live in temporary shelters for seven days to remember how I had the Israelites live in shelters."
+  },
+  {
+    "id": "FES-M-0009",
+    "theme": "Festivals & Customs",
+    "question": "What was the shofar made from?",
+    "choices": [
+      "A ram's horn",
+      "Wood",
+      "Bronze",
+      "Silver"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 6,
+      "verse": "4"
+    },
+    "explanation": "Have seven priests carry trumpets of rams' horns in front of the ark."
+  },
+  {
+    "id": "FES-M-0010",
+    "theme": "Festivals & Customs",
+    "question": "What were firstfruits?",
+    "choices": [
+      "The first portion of the harvest offered to God",
+      "The first animals born",
+      "The first coins earned",
+      "The first prayers"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 23,
+      "verse": "19"
+    },
+    "explanation": "Bring the best of the firstfruits of your soil to the house of the Lord your God."
+  },
+  {
+    "id": "FES-M-0011",
+    "theme": "Festivals & Customs",
+    "question": "How many days did God command Israel to celebrate Passover?",
+    "choices": [
+      "Seven days",
+      "One day",
+      "Three days",
+      "Forty days"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "15"
+    },
+    "explanation": "For seven days you are to eat bread made without yeast as part of the Passover celebration."
+  },
+  {
+    "id": "FES-M-0012",
+    "theme": "Festivals & Customs",
+    "question": "What were Jews required to give as a tithe?",
+    "choices": [
+      "A tenth of their produce",
+      "Half their income",
+      "Their firstborn animals only",
+      "Gold and silver"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 27,
+      "verse": "30"
+    },
+    "explanation": "A tithe of everything from the land, whether grain or fruit, belongs to the Lord; it is holy."
+  },
+  {
+    "id": "FES-M-0013",
+    "theme": "Festivals & Customs",
+    "question": "How long did the Feast of Unleavened Bread last?",
+    "choices": [
+      "Seven days",
+      "One day",
+      "Three days",
+      "Forty days"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "15"
+    },
+    "explanation": "For seven days you are to eat bread made without yeast."
+  },
+  {
+    "id": "FES-M-0014",
+    "theme": "Festivals & Customs",
+    "question": "What were the Israelites commanded to build during the Feast of Tabernacles?",
+    "choices": [
+      "Temporary shelters",
+      "Altars",
+      "Walls",
+      "Gates"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "42"
+    },
+    "explanation": "Live in temporary shelters for seven days during the Feast of Tabernacles."
+  },
+  {
+    "id": "FES-M-0015",
+    "theme": "Festivals & Customs",
+    "question": "What did the Israelites do on the Day of Atonement?",
+    "choices": [
+      "Fast and confess sins",
+      "Celebrate with feasting",
+      "Offer firstfruits",
+      "Build shelters"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verse": "29"
+    },
+    "explanation": "On the tenth day of the seventh month you must deny yourselves and not do any work."
+  },
+  {
+    "id": "FES-M-0016",
+    "theme": "Festivals & Customs",
+    "question": "What festival is also known as the Feast of Booths?",
+    "choices": [
+      "Feast of Tabernacles",
+      "Passover",
+      "Pentecost",
+      "Day of Atonement"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "34"
+    },
+    "explanation": "The Feast of Tabernacles (Sukkot) commemorates the Israelites dwelling in temporary shelters in the wilderness."
+  },
+  {
+    "id": "FES-M-0017",
+    "theme": "Festivals & Customs",
+    "question": "How many days does the Feast of Unleavened Bread last?",
+    "choices": [
+      "Seven days",
+      "Three days",
+      "Forty days",
+      "Fourteen days"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "15"
+    },
+    "explanation": "For seven days you are to eat bread made without yeast."
+  },
+  {
+    "id": "FES-M-0018",
+    "theme": "Festivals & Customs",
+    "question": "What is the holiest day in the Jewish calendar?",
+    "choices": [
+      "Day of Atonement (Yom Kippur)",
+      "Passover",
+      "Sabbath",
+      "Rosh Hashanah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verse": "30"
+    },
+    "explanation": "On this day atonement will be made for you, to cleanse you. Then, before the Lord, you will be clean from all your sins."
+  },
+  {
+    "id": "FES-M-0019",
+    "theme": "Festivals & Customs",
+    "question": "What instrument was blown to announce festivals and special occasions?",
+    "choices": [
+      "The shofar (ram's horn)",
+      "The harp",
+      "The trumpet",
+      "The cymbal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "24"
+    },
+    "explanation": "On the first day of the seventh month you are to have a day of sabbath rest, a sacred assembly commemorated with trumpet blasts."
+  },
+  {
+    "id": "FES-M-0020",
+    "theme": "Festivals & Customs",
+    "question": "What festival celebrates Queen Esther saving the Jews?",
+    "choices": [
+      "Purim",
+      "Hanukkah",
+      "Passover",
+      "Pentecost"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Esther",
+      "chapter": 9,
+      "verse": "26"
+    },
+    "explanation": "These days were called Purim, from the word pur (lot), celebrating the Jews' deliverance from Haman's plot."
+  },
+  {
+    "id": "FES-M-0021",
+    "theme": "Festivals & Customs",
+    "question": "What did the high priest enter once a year on the Day of Atonement?",
+    "choices": [
+      "The Most Holy Place",
+      "The Holy Place",
+      "The temple courts",
+      "The altar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verse": "2"
+    },
+    "explanation": "The Lord said to Moses: 'Tell Aaron not to come whenever he chooses into the Most Holy Place.'"
+  },
+  {
+    "id": "FES-M-0022",
+    "theme": "Festivals & Customs",
+    "question": "What feast lasted seven days and celebrated the fall harvest?",
+    "choices": [
+      "Feast of Tabernacles",
+      "Passover",
+      "Pentecost",
+      "Purim"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "34"
+    },
+    "explanation": "Say to the Israelites: 'On the fifteenth day of the seventh month the Lord's Festival of Tabernacles begins.'"
+  },
+  {
+    "id": "FES-M-0023",
+    "theme": "Festivals & Customs",
+    "question": "What is the Day of Atonement called in Hebrew?",
+    "choices": [
+      "Yom Kippur",
+      "Passover",
+      "Rosh Hashanah",
+      "Sukkot"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "27"
+    },
+    "explanation": "The tenth day of this seventh month is the Day of Atonement (Yom Kippur)."
+  },
+  {
+    "id": "FES-M-0024",
+    "theme": "Festivals & Customs",
+    "question": "What feast celebrates the wheat harvest?",
+    "choices": [
+      "Pentecost (Feast of Weeks)",
+      "Tabernacles",
+      "Passover",
+      "Trumpets"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 34,
+      "verse": "22"
+    },
+    "explanation": "Celebrate the Festival of Weeks with the firstfruits of the wheat harvest."
+  },
+  {
+    "id": "FES-M-0025",
+    "theme": "Festivals & Customs",
+    "question": "How often was the Year of Jubilee to be celebrated?",
+    "choices": [
+      "Every 50 years",
+      "Every 7 years",
+      "Every 25 years",
+      "Every 49 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verse": "10"
+    },
+    "explanation": "Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you."
+  },
+  {
+    "id": "FES-M-0026",
+    "theme": "Festivals & Customs",
+    "question": "What instrument was blown on the Feast of Trumpets?",
+    "choices": [
+      "Ram's horn (shofar)",
+      "Silver trumpet",
+      "Cymbal",
+      "Harp"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "24"
+    },
+    "explanation": "Say to the Israelites: 'On the first day of the seventh month you are to have a day of sabbath rest, a sacred assembly commemorated with trumpet blasts.'"
+  },
+  {
+    "id": "FES-M-0027",
+    "theme": "Festivals & Customs",
+    "question": "What were Israelites to do on the Day of Atonement?",
+    "choices": [
+      "Deny themselves (fast)",
+      "Celebrate",
+      "Work in the fields",
+      "Travel to Jerusalem"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "27"
+    },
+    "explanation": "The tenth day of this seventh month is the Day of Atonement. You must deny yourselves and present a food offering to the Lord."
+  },
+  {
+    "id": "FES-M-0028",
+    "theme": "Festivals & Customs",
+    "question": "What does the Feast of Tabernacles commemorate?",
+    "choices": [
+      "Israel living in temporary shelters in the wilderness",
+      "The harvest",
+      "The giving of the Law",
+      "The exodus from Egypt"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "43"
+    },
+    "explanation": "So your descendants will know that I had the Israelites live in temporary shelters when I brought them out of Egypt."
+  },
+  {
+    "id": "FES-M-0029",
+    "theme": "Festivals & Customs",
+    "question": "What were the Israelites to eat with the Passover lamb?",
+    "choices": [
+      "Bitter herbs and unleavened bread",
+      "Honey and milk",
+      "Wine and bread",
+      "Fruit and vegetables"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "8"
+    },
+    "explanation": "That same night they are to eat the meat roasted over the fire, along with bitter herbs, and bread made without yeast."
+  },
+  {
+    "id": "FES-M-0030",
+    "theme": "Festivals & Customs",
+    "question": "What were the Israelites to do every seventh year?",
+    "choices": [
+      "Let the land rest",
+      "Celebrate",
+      "Fast",
+      "Travel to Jerusalem"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verse": "4"
+    },
+    "explanation": "But in the seventh year the land is to have a year of sabbath rest, a sabbath to the Lord. Do not sow your fields or prune your vineyards."
+  },
+  {
+    "id": "FES-M-0031",
+    "theme": "Festivals & Customs",
+    "question": "What happened to debts in the Year of Jubilee?",
+    "choices": [
+      "They were canceled",
+      "They were doubled",
+      "They were paid",
+      "Nothing"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verse": "10"
+    },
+    "explanation": "Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you; each of you is to return to your family property."
+  },
+  {
+    "id": "FES-M-0032",
+    "theme": "Festivals & Customs",
+    "question": "What was done with the scapegoat?",
+    "choices": [
+      "Released into the wilderness",
+      "Sacrificed",
+      "Kept in the temple",
+      "Given to the poor"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verse": "22"
+    },
+    "explanation": "The goat will carry on itself all their sins to a remote place; and the man shall release it in the wilderness."
+  }
+]

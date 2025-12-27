@@ -1,0 +1,420 @@
+[
+  {
+    "id": "PRO-E-0001",
+    "theme": "Prophets",
+    "question": "Which prophet was swallowed by a great fish?",
+    "choices": [
+      "Jonah",
+      "Elijah",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Jonah",
+      "chapter": 1,
+      "verse": "17"
+    },
+    "explanation": "Jonah was swallowed by a great fish for three days after fleeing from God's command to go to Nineveh."
+  },
+  {
+    "id": "PRO-E-0002",
+    "theme": "Prophets",
+    "question": "Which prophet was taken up to heaven in a whirlwind?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Enoch",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 2,
+      "verse": "11"
+    },
+    "explanation": "Elijah went up to heaven in a whirlwind, with chariots and horses of fire separating him from Elisha."
+  },
+  {
+    "id": "PRO-E-0003",
+    "theme": "Prophets",
+    "question": "Which prophet called down fire from heaven on Mount Carmel?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Moses",
+      "Samuel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verse": "38"
+    },
+    "explanation": "Elijah called on God, and fire fell from heaven, consuming the sacrifice and proving God's power over Baal."
+  },
+  {
+    "id": "PRO-E-0004",
+    "theme": "Prophets",
+    "question": "Which prophet interpreted King Nebuchadnezzar's dreams?",
+    "choices": [
+      "Daniel",
+      "Ezekiel",
+      "Jeremiah",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 2,
+      "verse": "19"
+    },
+    "explanation": "God revealed the dream and its interpretation to Daniel, who then told the king."
+  },
+  {
+    "id": "PRO-E-0005",
+    "theme": "Prophets",
+    "question": "Which prophet said 'Here am I. Send me!' when God asked who would go?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Amos"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": "8"
+    },
+    "explanation": "After being cleansed by a seraphim with a burning coal, Isaiah eagerly volunteered to be God's messenger."
+  },
+  {
+    "id": "PRO-E-0006",
+    "theme": "Prophets",
+    "question": "Which prophet saw a vision of a valley filled with dry bones?",
+    "choices": [
+      "Ezekiel",
+      "Daniel",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 37,
+      "verse": "1-2"
+    },
+    "explanation": "God led Ezekiel to a valley full of dry bones and asked if they could live again."
+  },
+  {
+    "id": "PRO-E-0007",
+    "theme": "Prophets",
+    "question": "Which prophet was fed by ravens?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Samuel",
+      "Nathan"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verse": "6"
+    },
+    "explanation": "The ravens brought Elijah bread and meat in the morning and evening, and he drank from the brook."
+  },
+  {
+    "id": "PRO-E-0008",
+    "theme": "Prophets",
+    "question": "What did Balaam's donkey do that was unusual?",
+    "choices": [
+      "Spoke to him",
+      "Flew",
+      "Disappeared",
+      "Turned to stone"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Numbers",
+      "chapter": 22,
+      "verse": "28"
+    },
+    "explanation": "The Lord opened the donkey's mouth, and it said to Balaam, 'What have I done to you?'"
+  },
+  {
+    "id": "PRO-E-0009",
+    "theme": "Prophets",
+    "question": "Which prophet warned Nineveh of God's judgment?",
+    "choices": [
+      "Jonah",
+      "Nahum",
+      "Micah",
+      "Habakkuk"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Jonah",
+      "chapter": 3,
+      "verse": "4"
+    },
+    "explanation": "Jonah proclaimed: 'Forty more days and Nineveh will be overthrown.'"
+  },
+  {
+    "id": "PRO-E-0010",
+    "theme": "Prophets",
+    "question": "Which prophet married a prostitute as commanded by God?",
+    "choices": [
+      "Hosea",
+      "Jeremiah",
+      "Isaiah",
+      "Amos"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Hosea",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "The Lord said to Hosea, 'Go, marry a promiscuous woman' to illustrate Israel's unfaithfulness."
+  },
+  {
+    "id": "PRO-E-0011",
+    "theme": "Prophets",
+    "question": "Which prophet stood before King Ahab and predicted drought?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Nathan",
+      "Samuel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verse": "1"
+    },
+    "explanation": "Elijah said to Ahab, 'As the Lord lives, there will be neither dew nor rain except at my word.'"
+  },
+  {
+    "id": "PRO-E-0012",
+    "theme": "Prophets",
+    "question": "Who was the last prophet in the Old Testament?",
+    "choices": [
+      "Malachi",
+      "Zechariah",
+      "Haggai",
+      "Joel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Malachi",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "Malachi is the last book of the Old Testament and the last of the writing prophets."
+  },
+  {
+    "id": "PRO-E-0013",
+    "theme": "Prophets",
+    "question": "How long did Jonah spend inside the great fish?",
+    "choices": [
+      "Three days and nights",
+      "Seven days",
+      "Forty days",
+      "One day"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Jonah",
+      "chapter": 1,
+      "verse": "17"
+    },
+    "explanation": "Now the Lord provided a huge fish to swallow Jonah, and Jonah was in the belly of the fish three days and three nights."
+  },
+  {
+    "id": "PRO-E-0014",
+    "theme": "Prophets",
+    "question": "Which prophet saw God sitting on a throne with seraphim calling 'Holy, holy, holy'?",
+    "choices": [
+      "Isaiah",
+      "Ezekiel",
+      "Daniel",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": "3"
+    },
+    "explanation": "Isaiah saw the Lord seated on a throne, high and exalted, with seraphim praising His holiness."
+  },
+  {
+    "id": "PRO-E-0015",
+    "theme": "Prophets",
+    "question": "Who interpreted King Nebuchadnezzar's dream about a great statue?",
+    "choices": [
+      "Daniel",
+      "Ezekiel",
+      "Jeremiah",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 2,
+      "verse": "36"
+    },
+    "explanation": "Daniel interpreted the king's dream about a statue with different metals representing successive kingdoms."
+  },
+  {
+    "id": "PRO-E-0016",
+    "theme": "Prophets",
+    "question": "Which prophet was fed by ravens during a drought?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verse": "6"
+    },
+    "explanation": "God commanded ravens to bring bread and meat to Elijah at the Brook Cherith during the drought."
+  },
+  {
+    "id": "PRO-E-0017",
+    "theme": "Prophets",
+    "question": "Which prophet was fed by ravens at the Brook Cherith?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verse": "6"
+    },
+    "explanation": "The ravens brought him bread and meat in the morning and bread and meat in the evening, and he drank from the brook."
+  },
+  {
+    "id": "PRO-E-0018",
+    "theme": "Prophets",
+    "question": "Which prophet was thrown into a lion's den?",
+    "choices": [
+      "Daniel",
+      "Jeremiah",
+      "Ezekiel",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 6,
+      "verse": "16"
+    },
+    "explanation": "So the king gave the order, and they brought Daniel and threw him into the lions' den."
+  },
+  {
+    "id": "PRO-E-0019",
+    "theme": "Prophets",
+    "question": "Which prophet said 'Here am I. Send me!' when God asked whom to send?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Samuel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": "8"
+    },
+    "explanation": "Then I heard the voice of the Lord saying, 'Whom shall I send?' And I said, 'Here am I. Send me!'"
+  },
+  {
+    "id": "PRO-E-0020",
+    "theme": "Prophets",
+    "question": "Which prophet prophesied that a virgin would conceive?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Micah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 7,
+      "verse": "14"
+    },
+    "explanation": "Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel."
+  },
+  {
+    "id": "PRO-E-0021",
+    "theme": "Prophets",
+    "question": "What does the name Immanuel mean?",
+    "choices": [
+      "God with us",
+      "God saves",
+      "God is great",
+      "God is holy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 7,
+      "verse": "14"
+    },
+    "explanation": "The virgin will conceive and give birth to a son, and will call him Immanuel (which means 'God with us')."
+  },
+  {
+    "id": "PRO-E-0022",
+    "theme": "Prophets",
+    "question": "Which prophet saw a vision of a valley of dry bones?",
+    "choices": [
+      "Ezekiel",
+      "Daniel",
+      "Jeremiah",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 37,
+      "verse": "1-2"
+    },
+    "explanation": "The hand of the Lord was on me, and he brought me out by the Spirit of the Lord and set me in the middle of a valley; it was full of bones."
+  }
+]

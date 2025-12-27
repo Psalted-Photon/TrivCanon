@@ -1,0 +1,420 @@
+[
+  {
+    "id": "FES-H-0001",
+    "theme": "Festivals & Customs",
+    "question": "On the Day of Atonement, what did the high priest do with the scapegoat?",
+    "choices": [
+      "Released it into the wilderness",
+      "Sacrificed it on the altar",
+      "Brought it before the people",
+      "Kept it in the temple"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verse": "22"
+    },
+    "explanation": "The scapegoat carried the people's sins into the wilderness, symbolizing their removal."
+  },
+  {
+    "id": "FES-H-0002",
+    "theme": "Festivals & Customs",
+    "question": "What were Israelites commanded to do every seventh year?",
+    "choices": [
+      "Let the land rest (Sabbatical year)",
+      "Give double tithes",
+      "Make a pilgrimage to Jerusalem",
+      "Fast for a month"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verse": "4"
+    },
+    "explanation": "Every seventh year was a Sabbath for the land, when fields were not to be sown or reaped."
+  },
+  {
+    "id": "FES-H-0003",
+    "theme": "Festivals & Customs",
+    "question": "What festival celebrates the giving of the Law at Mount Sinai?",
+    "choices": [
+      "Pentecost (Shavuot)",
+      "Passover",
+      "Tabernacles",
+      "Trumpets"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 19,
+      "verse": "1"
+    },
+    "explanation": "Pentecost, occurring 50 days after Passover, commemorates when God gave the Law at Sinai."
+  },
+  {
+    "id": "FES-H-0004",
+    "theme": "Festivals & Customs",
+    "question": "What was the Year of Jubilee?",
+    "choices": [
+      "Every 50th year when slaves were freed and land returned",
+      "A year of fasting",
+      "A year of war",
+      "The year the king was crowned"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verse": "10"
+    },
+    "explanation": "The 50th year was the Year of Jubilee when liberty was proclaimed, slaves freed, and property returned."
+  },
+  {
+    "id": "FES-H-0005",
+    "theme": "Festivals & Customs",
+    "question": "What was the Feast of Trumpets?",
+    "choices": [
+      "A day of rest and sacred assembly",
+      "A harvest festival",
+      "A day of fasting",
+      "A memorial for the exodus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "24"
+    },
+    "explanation": "The first day of the seventh month was to be a day of sabbath rest, commemorated with trumpet blasts."
+  },
+  {
+    "id": "FES-H-0006",
+    "theme": "Festivals & Customs",
+    "question": "What does the Hebrew word 'Selah' in Psalms likely mean?",
+    "choices": [
+      "Pause or musical interlude",
+      "Amen",
+      "Forever",
+      "Praise"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 3,
+      "verse": "2"
+    },
+    "explanation": "Selah appears throughout the Psalms and is thought to indicate a pause for reflection or a musical interlude."
+  },
+  {
+    "id": "FES-H-0007",
+    "theme": "Festivals & Customs",
+    "question": "What did the high priest wear on his breastplate?",
+    "choices": [
+      "Twelve precious stones",
+      "Gold coins",
+      "The Ten Commandments",
+      "Sacred scrolls"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 28,
+      "verse": "17-21"
+    },
+    "explanation": "Mount four rows of precious stones on the breastplate, representing the twelve tribes of Israel."
+  },
+  {
+    "id": "FES-H-0008",
+    "theme": "Festivals & Customs",
+    "question": "What was the purpose of the Year of Jubilee?",
+    "choices": [
+      "To free slaves and return property",
+      "To celebrate harvest",
+      "To remember the exodus",
+      "To anoint a new king"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verse": "10"
+    },
+    "explanation": "Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants."
+  },
+  {
+    "id": "FES-H-0009",
+    "theme": "Festivals & Customs",
+    "question": "What was the scapegoat in the Day of Atonement ceremony?",
+    "choices": [
+      "A goat sent into the wilderness bearing sins",
+      "A sacrifice on the altar",
+      "A gift to the poor",
+      "A ceremonial offering"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verse": "10"
+    },
+    "explanation": "The goat chosen by lot as the scapegoat shall be sent into the wilderness to take away the sins of the people."
+  },
+  {
+    "id": "FES-H-0010",
+    "theme": "Festivals & Customs",
+    "question": "What did Jews wear to remind them of God's commandments?",
+    "choices": [
+      "Phylacteries (tassels)",
+      "Blue robes",
+      "Golden rings",
+      "Head coverings"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Numbers",
+      "chapter": 15,
+      "verse": "38-39"
+    },
+    "explanation": "Make tassels on the corners of your garments to help you remember all the commands of the Lord."
+  },
+  {
+    "id": "FES-H-0011",
+    "theme": "Festivals & Customs",
+    "question": "What is the Feast of Tabernacles also called?",
+    "choices": [
+      "Sukkot",
+      "Hanukkah",
+      "Purim",
+      "Yom Kippur"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "34"
+    },
+    "explanation": "Say to the Israelites: 'On the fifteenth day of the seventh month the Lord's Festival of Tabernacles begins.'"
+  },
+  {
+    "id": "FES-H-0012",
+    "theme": "Festivals & Customs",
+    "question": "What is Pentecost also called?",
+    "choices": [
+      "Feast of Weeks",
+      "Feast of Trumpets",
+      "Feast of Lights",
+      "Feast of Dedication"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "15"
+    },
+    "explanation": "Count off seven weeks from the day after the Sabbath until the Feast of Weeks."
+  },
+  {
+    "id": "FES-H-0013",
+    "theme": "Festivals & Customs",
+    "question": "How often was the Year of Jubilee celebrated?",
+    "choices": [
+      "Every 50 years",
+      "Every 7 years",
+      "Every 25 years",
+      "Every 100 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verse": "10"
+    },
+    "explanation": "Consecrate the fiftieth year and proclaim liberty throughout the land."
+  },
+  {
+    "id": "FES-H-0014",
+    "theme": "Festivals & Customs",
+    "question": "What did Jews write on their doorposts?",
+    "choices": [
+      "The Shema (God's commands)",
+      "The Ten Commandments",
+      "Psalms",
+      "Their names"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 6,
+      "verse": "9"
+    },
+    "explanation": "Write them on the doorframes of your houses and on your gates."
+  },
+  {
+    "id": "FES-H-0015",
+    "theme": "Festivals & Customs",
+    "question": "What was the Sabbath day journey limit?",
+    "choices": [
+      "About 3/4 of a mile",
+      "One mile",
+      "Two miles",
+      "500 yards"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 1,
+      "verse": "12"
+    },
+    "explanation": "Then the apostles returned to Jerusalem from the Mount of Olives, a Sabbath day's walk from the city."
+  },
+  {
+    "id": "FES-H-0016",
+    "theme": "Festivals & Customs",
+    "question": "What were Jews required to do every seventh year regarding debts?",
+    "choices": [
+      "Cancel them",
+      "Double them",
+      "Collect them",
+      "Record them"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 15,
+      "verse": "1-2"
+    },
+    "explanation": "At the end of every seven years you must cancel debts."
+  },
+  {
+    "id": "FES-H-0017",
+    "theme": "Festivals & Customs",
+    "question": "What were Jews commanded to wear on the corners of their garments?",
+    "choices": [
+      "Tassels",
+      "Bells",
+      "Purple thread",
+      "Gold cord"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Numbers",
+      "chapter": 15,
+      "verse": "38"
+    },
+    "explanation": "Speak to the Israelites and say to them: 'Make tassels on the corners of your garments.'"
+  },
+  {
+    "id": "FES-H-0018",
+    "theme": "Festivals & Customs",
+    "question": "What were Israelite men required to appear before the Lord with three times a year?",
+    "choices": [
+      "Offerings",
+      "Their families",
+      "Sacrifices",
+      "Nothing"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 23,
+      "verse": "17"
+    },
+    "explanation": "Three times a year all the men are to appear before the Sovereign Lord."
+  },
+  {
+    "id": "FES-H-0019",
+    "theme": "Festivals & Customs",
+    "question": "What month was Passover celebrated?",
+    "choices": [
+      "The first month",
+      "The seventh month",
+      "The third month",
+      "The tenth month"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "2"
+    },
+    "explanation": "This month is to be for you the first month, the first month of your year."
+  },
+  {
+    "id": "FES-H-0020",
+    "theme": "Festivals & Customs",
+    "question": "On what day of the month was Passover celebrated?",
+    "choices": [
+      "The fourteenth day",
+      "The first day",
+      "The fifteenth day",
+      "The tenth day"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "6"
+    },
+    "explanation": "Take care of them until the fourteenth day of the month, when all the members of the community of Israel must slaughter them at twilight."
+  },
+  {
+    "id": "FES-H-0021",
+    "theme": "Festivals & Customs",
+    "question": "How were the Israelites to eat the Passover meal?",
+    "choices": [
+      "With cloak tucked in, sandals on, and staff in hand",
+      "Sitting down",
+      "At a table",
+      "In silence"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "11"
+    },
+    "explanation": "This is how you are to eat it: with your cloak tucked into your belt, your sandals on your feet and your staff in your hand. Eat it in haste; it is the Lord's Passover."
+  },
+  {
+    "id": "FES-H-0022",
+    "theme": "Festivals & Customs",
+    "question": "What animal did the high priest sacrifice on the Day of Atonement?",
+    "choices": [
+      "A bull and a goat",
+      "A lamb",
+      "A dove",
+      "A ram"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verse": "11"
+    },
+    "explanation": "Aaron shall bring the bull for his own sin offering to make atonement for himself and his household, and he is to slaughter the bull for his own sin offering."
+  }
+]

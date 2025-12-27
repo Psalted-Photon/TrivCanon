@@ -1,0 +1,667 @@
+[
+  {
+    "id": "MIR-M-0001",
+    "theme": "Miracles",
+    "question": "How many loaves and fish did Jesus use to feed the 5,000?",
+    "choices": [
+      "5 loaves and 2 fish",
+      "7 loaves and 3 fish",
+      "3 loaves and 5 fish",
+      "2 loaves and 7 fish"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 14,
+      "verse": "17"
+    },
+    "explanation": "A boy brought 5 loaves and 2 fish, which Jesus multiplied to feed over 5,000 people."
+  },
+  {
+    "id": "MIR-M-0002",
+    "theme": "Miracles",
+    "question": "Whose sight did Jesus restore by making mud with his saliva and dirt?",
+    "choices": [
+      "A man born blind",
+      "Bartimaeus",
+      "Two blind men",
+      "A blind beggar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 9,
+      "verse": "6-7"
+    },
+    "explanation": "Jesus made mud from saliva and dirt, anointed the blind man's eyes, and told him to wash in the Pool of Siloam."
+  },
+  {
+    "id": "MIR-M-0003",
+    "theme": "Miracles",
+    "question": "What disease did Jesus heal ten men of, though only one returned to thank him?",
+    "choices": [
+      "Leprosy",
+      "Blindness",
+      "Paralysis",
+      "Deafness"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 17,
+      "verse": "12-19"
+    },
+    "explanation": "Jesus healed ten lepers, but only one, a Samaritan, returned to give thanks."
+  },
+  {
+    "id": "MIR-M-0004",
+    "theme": "Miracles",
+    "question": "What happened to the fig tree Jesus cursed?",
+    "choices": [
+      "It withered from the roots",
+      "It bore fruit immediately",
+      "It fell down",
+      "It was struck by lightning"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Mark",
+      "chapter": 11,
+      "verse": "20"
+    },
+    "explanation": "The disciples saw that the fig tree Jesus cursed had withered from the roots up."
+  },
+  {
+    "id": "MIR-M-0005",
+    "theme": "Miracles",
+    "question": "Whose servant did Jesus heal without going to the person's house?",
+    "choices": [
+      "A centurion's",
+      "A Pharisee's",
+      "A priest's",
+      "A tax collector's"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 8,
+      "verse": "13"
+    },
+    "explanation": "Jesus healed the centurion's servant from a distance, commending the centurion's great faith."
+  },
+  {
+    "id": "MIR-M-0006",
+    "theme": "Miracles",
+    "question": "How many fish and loaves did Jesus use to feed the 4,000?",
+    "choices": [
+      "7 loaves and a few fish",
+      "5 loaves and 2 fish",
+      "12 loaves and 7 fish",
+      "3 loaves and 5 fish"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 15,
+      "verse": "34"
+    },
+    "explanation": "Jesus fed 4,000 men plus women and children with seven loaves and a few small fish."
+  },
+  {
+    "id": "MIR-M-0007",
+    "theme": "Miracles",
+    "question": "What did Peter find in a fish's mouth to pay the temple tax?",
+    "choices": [
+      "A coin",
+      "A pearl",
+      "A ring",
+      "A key"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 17,
+      "verse": "27"
+    },
+    "explanation": "Jesus told Peter to catch a fish, and in its mouth he would find a coin to pay the temple tax for both of them."
+  },
+  {
+    "id": "MIR-M-0008",
+    "theme": "Miracles",
+    "question": "How many times did Elisha tell Naaman to wash in the Jordan to be healed?",
+    "choices": [
+      "Seven",
+      "Three",
+      "Ten",
+      "Twelve"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 5,
+      "verse": "10"
+    },
+    "explanation": "Elisha told Naaman to wash seven times in the Jordan River to be cleansed of his leprosy."
+  },
+  {
+    "id": "MIR-M-0009",
+    "theme": "Miracles",
+    "question": "What happened when Peter's shadow fell on people?",
+    "choices": [
+      "They were healed",
+      "They believed",
+      "They spoke in tongues",
+      "They fell down"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 5,
+      "verse": "15"
+    },
+    "explanation": "People brought the sick into the streets hoping that Peter's shadow might fall on them and heal them."
+  },
+  {
+    "id": "MIR-M-0010",
+    "theme": "Miracles",
+    "question": "What happened to Aaron's rod?",
+    "choices": [
+      "It budded and produced almonds",
+      "It turned into a snake",
+      "It struck water from rock",
+      "It parted the sea"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Numbers",
+      "chapter": 17,
+      "verse": "8"
+    },
+    "explanation": "Aaron's staff had budded, blossomed and produced almonds as a sign of God's choice."
+  },
+  {
+    "id": "MIR-M-0011",
+    "theme": "Miracles",
+    "question": "What happened to the widow's oil when Elisha prayed?",
+    "choices": [
+      "It multiplied to fill many jars",
+      "It turned to wine",
+      "It became pure",
+      "It never ran out"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 4,
+      "verse": "5-6"
+    },
+    "explanation": "The oil kept flowing until all the jars were full, enough to pay her debts and live on."
+  },
+  {
+    "id": "MIR-M-0012",
+    "theme": "Miracles",
+    "question": "How many people did Jesus feed with seven loaves and a few fish?",
+    "choices": [
+      "4,000",
+      "5,000",
+      "3,000",
+      "7,000"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 15,
+      "verse": "38"
+    },
+    "explanation": "The number of those who ate was four thousand men, besides women and children."
+  },
+  {
+    "id": "MIR-M-0013",
+    "theme": "Miracles",
+    "question": "What happened when Paul shook off a viper into the fire?",
+    "choices": [
+      "Nothing - he was unharmed",
+      "His hand swelled",
+      "He fell down dead",
+      "He was healed"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 28,
+      "verse": "5"
+    },
+    "explanation": "Paul shook the snake off into the fire and suffered no ill effects, amazing the islanders."
+  },
+  {
+    "id": "MIR-M-0014",
+    "theme": "Miracles",
+    "question": "How did Jesus heal the man born blind in John 9?",
+    "choices": [
+      "Made mud with saliva and put it on his eyes",
+      "Touched his eyes",
+      "Spoke a word",
+      "Prayed for him"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 9,
+      "verse": "6"
+    },
+    "explanation": "He spit on the ground, made some mud with the saliva, and put it on the man's eyes."
+  },
+  {
+    "id": "MIR-M-0015",
+    "theme": "Miracles",
+    "question": "What happened when Elijah prayed for no rain?",
+    "choices": [
+      "No rain fell for three and a half years",
+      "It rained immediately",
+      "A drought lasted seven years",
+      "The land flooded"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "James",
+      "chapter": 5,
+      "verse": "17"
+    },
+    "explanation": "Elijah prayed earnestly that it would not rain, and it did not rain for three and a half years."
+  },
+  {
+    "id": "MIR-M-0016",
+    "theme": "Miracles",
+    "question": "What did Jesus say to the storm?",
+    "choices": [
+      "Peace, be still",
+      "Stop",
+      "Cease",
+      "Be calm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Mark",
+      "chapter": 4,
+      "verse": "39"
+    },
+    "explanation": "He got up, rebuked the wind and said to the waves, 'Quiet! Be still!'"
+  },
+  {
+    "id": "MIR-M-0017",
+    "theme": "Miracles",
+    "question": "What did Jesus do to prove He had authority to forgive sins?",
+    "choices": [
+      "Healed a paralyzed man",
+      "Walked on water",
+      "Calmed the storm",
+      "Fed 5,000"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Mark",
+      "chapter": 2,
+      "verse": "10-11"
+    },
+    "explanation": "To prove the Son of Man has authority to forgive sins, Jesus told the paralytic to get up and walk."
+  },
+  {
+    "id": "MIR-M-0018",
+    "theme": "Miracles",
+    "question": "How long was the woman with the issue of blood sick?",
+    "choices": [
+      "12 years",
+      "7 years",
+      "18 years",
+      "38 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Mark",
+      "chapter": 5,
+      "verse": "25"
+    },
+    "explanation": "And a woman was there who had been subject to bleeding for twelve years."
+  },
+  {
+    "id": "MIR-M-0019",
+    "theme": "Miracles",
+    "question": "Who was healed of leprosy after dipping seven times in the Jordan River?",
+    "choices": [
+      "Naaman",
+      "Gehazi",
+      "Elisha",
+      "Azariah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 5,
+      "verse": "14"
+    },
+    "explanation": "Naaman, a Syrian commander, was healed of leprosy when he obeyed Elisha's instruction to wash in the Jordan River seven times."
+  },
+  {
+    "id": "MIR-M-0020",
+    "theme": "Miracles",
+    "question": "What did Jesus say to the paralyzed man before healing him?",
+    "choices": [
+      "Your sins are forgiven",
+      "Be healed",
+      "Rise and walk",
+      "Believe and be whole"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Mark",
+      "chapter": 2,
+      "verse": "5"
+    },
+    "explanation": "Jesus first told the paralytic that his sins were forgiven, demonstrating his authority to forgive sins before healing him."
+  },
+  {
+    "id": "MIR-M-0021",
+    "theme": "Miracles",
+    "question": "What pool did Jesus tell the blind man to wash in to receive his sight?",
+    "choices": [
+      "Pool of Siloam",
+      "Pool of Bethesda",
+      "Pool of Solomon",
+      "Pool of David"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 9,
+      "verse": "7"
+    },
+    "explanation": "Jesus put mud on the blind man's eyes and told him to wash in the Pool of Siloam, and he came back seeing."
+  },
+  {
+    "id": "MIR-M-0022",
+    "theme": "Miracles",
+    "question": "How many baskets of leftovers were collected after Jesus fed the 5,000?",
+    "choices": [
+      "Twelve",
+      "Seven",
+      "Five",
+      "Ten"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 14,
+      "verse": "20"
+    },
+    "explanation": "The disciples picked up twelve basketfuls of broken pieces that were left over."
+  },
+  {
+    "id": "MIR-M-0023",
+    "theme": "Miracles",
+    "question": "What did Jesus give the disciples power over?",
+    "choices": [
+      "Unclean spirits and to heal diseases",
+      "Nature",
+      "Death",
+      "Time"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 10,
+      "verse": "1"
+    },
+    "explanation": "Jesus gave His twelve disciples authority to drive out impure spirits and to heal every disease."
+  },
+  {
+    "id": "MIR-M-0024",
+    "theme": "Miracles",
+    "question": "What did Jesus breathe on His disciples after His resurrection?",
+    "choices": [
+      "The Holy Spirit",
+      "Life",
+      "Peace",
+      "Power"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 20,
+      "verse": "22"
+    },
+    "explanation": "Jesus breathed on them and said, 'Receive the Holy Spirit.'"
+  },
+  {
+    "id": "MIR-M-0025",
+    "theme": "Miracles",
+    "question": "What happened to Uzzah when he touched the Ark of the Covenant?",
+    "choices": [
+      "He died instantly",
+      "He was struck with leprosy",
+      "He went blind",
+      "He was paralyzed"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verse": "7"
+    },
+    "explanation": "The Lord's anger burned against Uzzah, and God struck him down because he had put his hand on the ark."
+  },
+  {
+    "id": "MIR-M-0026",
+    "theme": "Miracles",
+    "question": "What did Jesus do with the five loaves and two fish before distributing them?",
+    "choices": [
+      "Gave thanks and broke them",
+      "Blessed them",
+      "Multiplied them",
+      "Prayed over them"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 14,
+      "verse": "19"
+    },
+    "explanation": "Taking the five loaves and the two fish and looking up to heaven, he gave thanks and broke the loaves."
+  },
+  {
+    "id": "MIR-M-0027",
+    "theme": "Miracles",
+    "question": "How did Jesus heal the centurion's servant?",
+    "choices": [
+      "By speaking a word from a distance",
+      "By touching him",
+      "By praying",
+      "By anointing with oil"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 8,
+      "verse": "13"
+    },
+    "explanation": "Jesus said to the centurion, 'Go! Let it be done just as you believed it would.' And his servant was healed at that moment."
+  },
+  {
+    "id": "MIR-M-0028",
+    "theme": "Miracles",
+    "question": "How many days was Lazarus in the tomb before Jesus raised him?",
+    "choices": [
+      "Four days",
+      "Three days",
+      "Seven days",
+      "One day"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 11,
+      "verse": "17"
+    },
+    "explanation": "On his arrival, Jesus found that Lazarus had already been in the tomb for four days."
+  },
+  {
+    "id": "MIR-M-0029",
+    "theme": "Miracles",
+    "question": "What happened to the fig tree that Jesus cursed?",
+    "choices": [
+      "It withered from the roots",
+      "It bore fruit",
+      "It fell down",
+      "Nothing happened"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Mark",
+      "chapter": 11,
+      "verse": "20"
+    },
+    "explanation": "In the morning, as they went along, they saw the fig tree withered from the roots."
+  },
+  {
+    "id": "MIR-M-0030",
+    "theme": "Miracles",
+    "question": "How many years had the woman with the issue of blood suffered?",
+    "choices": [
+      "Twelve years",
+      "Seven years",
+      "Ten years",
+      "Eighteen years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Mark",
+      "chapter": 5,
+      "verse": "25"
+    },
+    "explanation": "And a woman was there who had been subject to bleeding for twelve years."
+  },
+  {
+    "id": "MIR-M-0031",
+    "theme": "Miracles",
+    "question": "What did Peter find in the fish's mouth?",
+    "choices": [
+      "A coin",
+      "A ring",
+      "A pearl",
+      "A key"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 17,
+      "verse": "27"
+    },
+    "explanation": "Take the first fish you catch; open its mouth and you will find a four-drachma coin."
+  },
+  {
+    "id": "MIR-M-0032",
+    "theme": "Miracles",
+    "question": "What happened to the Egyptians' staffs after Aaron's became a serpent?",
+    "choices": [
+      "Aaron's staff swallowed them",
+      "They disappeared",
+      "They turned to dust",
+      "Nothing happened"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 7,
+      "verse": "12"
+    },
+    "explanation": "Each one threw down his staff and it became a snake. But Aaron's staff swallowed up their staffs."
+  },
+  {
+    "id": "MIR-M-0033",
+    "theme": "Miracles",
+    "question": "What did the widow of Zarephath have left when Elijah came to her?",
+    "choices": [
+      "A handful of flour and a little oil",
+      "Nothing",
+      "Enough for many days",
+      "Bread and water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verse": "12"
+    },
+    "explanation": "'I don't have any bread—only a handful of flour in a jar and a little olive oil in a jug.'"
+  },
+  {
+    "id": "MIR-M-0034",
+    "theme": "Miracles",
+    "question": "What did the disciples say when Jesus calmed the storm?",
+    "choices": [
+      "Who is this? Even the wind and waves obey him!",
+      "He is the Son of God",
+      "This is amazing",
+      "We are saved"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Mark",
+      "chapter": 4,
+      "verse": "41"
+    },
+    "explanation": "They were terrified and asked each other, 'Who is this? Even the wind and the waves obey him!'"
+  },
+  {
+    "id": "MIR-M-0035",
+    "theme": "Miracles",
+    "question": "What did Jesus say first to the paralyzed man?",
+    "choices": [
+      "Son, your sins are forgiven",
+      "Get up and walk",
+      "Be healed",
+      "Your faith has saved you"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Mark",
+      "chapter": 2,
+      "verse": "5"
+    },
+    "explanation": "When Jesus saw their faith, he said to the paralyzed man, 'Son, your sins are forgiven.'"
+  }
+]

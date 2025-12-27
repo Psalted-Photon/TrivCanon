@@ -1,0 +1,211 @@
+[
+  {
+    "id": "WOF-H-0001",
+    "theme": "Women of Faith",
+    "question": "Which woman was raised from the dead by the apostle Peter?",
+    "choices": [
+      "Tabitha (Dorcas)",
+      "Lydia",
+      "Priscilla",
+      "Phoebe"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 9,
+      "verse": "40"
+    },
+    "explanation": "Peter raised Tabitha (also called Dorcas) from the dead in Joppa, and many believed because of this miracle."
+  },
+  {
+    "id": "WOF-H-0002",
+    "theme": "Women of Faith",
+    "question": "Who opened her home to house the apostle Peter after he escaped from prison?",
+    "choices": [
+      "Mary, mother of John Mark",
+      "Lydia",
+      "Priscilla",
+      "Tabitha"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 12,
+      "verse": "12"
+    },
+    "explanation": "Peter went to the house of Mary, the mother of John Mark, where many had gathered to pray for him."
+  },
+  {
+    "id": "WOF-H-0003",
+    "theme": "Women of Faith",
+    "question": "Which woman's faith was commended for believing her son would be raised?",
+    "choices": [
+      "The Shunammite woman",
+      "The widow of Zarephath",
+      "Hannah",
+      "Elizabeth"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 4,
+      "verse": "20-37"
+    },
+    "explanation": "The Shunammite woman's son died, but she sought Elisha who raised him back to life."
+  },
+  {
+    "id": "WOF-H-0004",
+    "theme": "Women of Faith",
+    "question": "Who offered to sell all she had to help Paul?",
+    "choices": [
+      "Lydia",
+      "Priscilla",
+      "Phoebe",
+      "Eunice"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 16,
+      "verse": "15"
+    },
+    "explanation": "When Lydia and her household were baptized, she invited Paul to stay at her house."
+  },
+  {
+    "id": "WOF-H-0005",
+    "theme": "Women of Faith",
+    "question": "Who helped Timothy develop his faith from childhood?",
+    "choices": [
+      "His mother Eunice and grandmother Lois",
+      "His mother Mary",
+      "The apostle Paul",
+      "His father"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Timothy",
+      "chapter": 1,
+      "verse": "5"
+    },
+    "explanation": "I am reminded of your sincere faith, which first lived in your grandmother Lois and in your mother Eunice."
+  },
+  {
+    "id": "WOF-H-0006",
+    "theme": "Women of Faith",
+    "question": "Which woman prophesied that Mary would have a sword pierce her soul?",
+    "choices": [
+      "Anna",
+      "Elizabeth",
+      "Simeon (male)",
+      "Mary Magdalene"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Luke",
+      "chapter": 2,
+      "verse": "35"
+    },
+    "explanation": "Then Simeon blessed them and said to Mary, his mother: 'A sword will pierce your own soul too.'"
+  },
+  {
+    "id": "WOF-H-0007",
+    "theme": "Women of Faith",
+    "question": "How old was Sarah when she gave birth to Isaac?",
+    "choices": [
+      "Ninety years old",
+      "One hundred years old",
+      "Eighty years old",
+      "Seventy years old"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 17,
+      "verse": "17"
+    },
+    "explanation": "Abraham fell facedown; he laughed and said to himself, 'Will a son be born to a man a hundred years old? Will Sarah bear a child at the age of ninety?'"
+  },
+  {
+    "id": "WOF-H-0008",
+    "theme": "Women of Faith",
+    "question": "Which woman was the mother of King Lemuel, who wrote Proverbs 31?",
+    "choices": [
+      "His mother (unnamed)",
+      "Bathsheba",
+      "Abigail",
+      "Jezebel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 31,
+      "verse": "1"
+    },
+    "explanation": "The sayings of King Lemuel—an inspired utterance his mother taught him."
+  },
+  {
+    "id": "WOF-H-0009",
+    "theme": "Women of Faith",
+    "question": "Which woman did Paul commend as a deacon and benefactor in the church at Cenchreae?",
+    "choices": [
+      "Phoebe",
+      "Priscilla",
+      "Lydia",
+      "Lois"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Romans",
+      "chapter": 16,
+      "verse": "1-2"
+    },
+    "explanation": "I commend to you our sister Phoebe, a deacon of the church in Cenchreae. She has been the benefactor of many people, including me."
+  },
+  {
+    "id": "WOF-H-0010",
+    "theme": "Women of Faith",
+    "question": "Who was Timothy's grandmother who had sincere faith?",
+    "choices": [
+      "Lois",
+      "Eunice",
+      "Priscilla",
+      "Lydia"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Timothy",
+      "chapter": 1,
+      "verse": "5"
+    },
+    "explanation": "I am reminded of your sincere faith, which first lived in your grandmother Lois and in your mother Eunice and, I am persuaded, now lives in you also."
+  },
+  {
+    "id": "WOF-H-0011",
+    "theme": "Women of Faith",
+    "question": "Who was the daughter of Philip the evangelist who prophesied?",
+    "choices": [
+      "Philip's four unmarried daughters",
+      "Mary Magdalene",
+      "Priscilla",
+      "Anna"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 21,
+      "verse": "9"
+    },
+    "explanation": "He had four unmarried daughters who prophesied."
+  }
+]

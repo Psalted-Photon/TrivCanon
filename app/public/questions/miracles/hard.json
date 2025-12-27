@@ -1,0 +1,344 @@
+[
+  {
+    "id": "MIR-H-0001",
+    "theme": "Miracles",
+    "question": "How many fish did Peter catch after Jesus told him to cast his net on the other side?",
+    "choices": [
+      "153",
+      "100",
+      "50",
+      "200"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 21,
+      "verse": "11"
+    },
+    "explanation": "The net was full of 153 large fish, yet the net was not torn despite the great catch."
+  },
+  {
+    "id": "MIR-H-0002",
+    "theme": "Miracles",
+    "question": "What did Jesus write on the ground when the Pharisees brought Him a woman caught in adultery?",
+    "choices": [
+      "The Bible doesn't say",
+      "Their sins",
+      "The Ten Commandments",
+      "Judgment"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 8,
+      "verse": "6"
+    },
+    "explanation": "The scripture only says Jesus wrote on the ground with His finger, but doesn't reveal what He wrote."
+  },
+  {
+    "id": "MIR-H-0003",
+    "theme": "Miracles",
+    "question": "Whose ear did Jesus heal after Peter cut it off?",
+    "choices": [
+      "Malchus, the high priest's servant",
+      "A Roman soldier",
+      "Judas Iscariot",
+      "Caiaphas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Luke",
+      "chapter": 22,
+      "verse": "51"
+    },
+    "explanation": "When Peter cut off the ear of Malchus, Jesus touched the ear and healed him."
+  },
+  {
+    "id": "MIR-H-0004",
+    "theme": "Miracles",
+    "question": "How many fish did the disciples catch after Jesus' resurrection?",
+    "choices": [
+      "153",
+      "12",
+      "100",
+      "200"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 21,
+      "verse": "11"
+    },
+    "explanation": "Simon Peter climbed aboard and dragged the net ashore. It was full of large fish, 153."
+  },
+  {
+    "id": "MIR-H-0005",
+    "theme": "Miracles",
+    "question": "What did Jesus use to heal a blind man in Bethsaida?",
+    "choices": [
+      "Spit",
+      "Mud",
+      "Oil",
+      "Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Mark",
+      "chapter": 8,
+      "verse": "23"
+    },
+    "explanation": "He spit on the man's eyes and put his hands on him."
+  },
+  {
+    "id": "MIR-H-0006",
+    "theme": "Miracles",
+    "question": "What did Jesus use to heal the deaf man's ears?",
+    "choices": [
+      "His fingers and spit",
+      "Oil",
+      "Clay",
+      "Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Mark",
+      "chapter": 7,
+      "verse": "33"
+    },
+    "explanation": "Jesus put his fingers into the man's ears and touched his tongue with spit before commanding it to be opened."
+  },
+  {
+    "id": "MIR-H-0007",
+    "theme": "Miracles",
+    "question": "How many demon-possessed pigs ran into the sea after Jesus cast out Legion?",
+    "choices": [
+      "About 2,000",
+      "About 1,000",
+      "About 500",
+      "About 3,000"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Mark",
+      "chapter": 5,
+      "verse": "13"
+    },
+    "explanation": "The herd, numbering about two thousand, rushed down the steep bank into the lake and drowned."
+  },
+  {
+    "id": "MIR-H-0008",
+    "theme": "Miracles",
+    "question": "What woman did Jesus raise from the dead in the town of Joppa?",
+    "choices": [
+      "Tabitha (Dorcas)",
+      "Lydia",
+      "Priscilla",
+      "Phoebe"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 9,
+      "verse": "40"
+    },
+    "explanation": "Peter raised Tabitha (also called Dorcas) from the dead in Joppa, and many believed in the Lord."
+  },
+  {
+    "id": "MIR-H-0009",
+    "theme": "Miracles",
+    "question": "What did Jesus say caused the man to be born blind?",
+    "choices": [
+      "So God's works might be displayed",
+      "His parents' sin",
+      "His own sin",
+      "A curse"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 9,
+      "verse": "3"
+    },
+    "explanation": "Neither this man nor his parents sinned, but this happened so that the works of God might be displayed."
+  },
+  {
+    "id": "MIR-H-0010",
+    "theme": "Miracles",
+    "question": "How did Peter's shadow affect people?",
+    "choices": [
+      "It healed them",
+      "It frightened them",
+      "It blessed them",
+      "Nothing happened"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 5,
+      "verse": "15"
+    },
+    "explanation": "People brought the sick hoping Peter's shadow might fall on some of them and heal them."
+  },
+  {
+    "id": "MIR-H-0011",
+    "theme": "Miracles",
+    "question": "How many fish did Peter catch after Jesus' resurrection?",
+    "choices": [
+      "153",
+      "100",
+      "200",
+      "Fish were uncountable"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 21,
+      "verse": "11"
+    },
+    "explanation": "Simon Peter climbed aboard and dragged the net ashore. It was full of large fish, 153."
+  },
+  {
+    "id": "MIR-H-0012",
+    "theme": "Miracles",
+    "question": "What did Elijah do to the prophets of Baal after fire fell from heaven?",
+    "choices": [
+      "He had them killed",
+      "He sent them away",
+      "He converted them",
+      "He challenged them again"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verse": "40"
+    },
+    "explanation": "Elijah commanded them, 'Seize the prophets of Baal. Don't let anyone get away!' They seized them, and Elijah had them brought down and slaughtered."
+  },
+  {
+    "id": "MIR-H-0013",
+    "theme": "Miracles",
+    "question": "What did Jesus put on the blind man's eyes at Bethsaida?",
+    "choices": [
+      "Spit",
+      "Clay",
+      "Oil",
+      "Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Mark",
+      "chapter": 8,
+      "verse": "23"
+    },
+    "explanation": "He spit on the man's eyes and put his hands on him."
+  },
+  {
+    "id": "MIR-H-0014",
+    "theme": "Miracles",
+    "question": "What happened when Elisha's bones touched a dead man?",
+    "choices": [
+      "The man came to life",
+      "The bones glowed",
+      "Nothing happened",
+      "The man was healed"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 13,
+      "verse": "21"
+    },
+    "explanation": "When the body touched Elisha's bones, the man came to life and stood up on his feet."
+  },
+  {
+    "id": "MIR-H-0015",
+    "theme": "Miracles",
+    "question": "What did Jesus tell the blind man to do after putting mud on his eyes?",
+    "choices": [
+      "Wash in the Pool of Siloam",
+      "Go home",
+      "Wait",
+      "Pray"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 9,
+      "verse": "7"
+    },
+    "explanation": "'Go,' he told him, 'wash in the Pool of Siloam.' So the man went and washed, and came home seeing."
+  },
+  {
+    "id": "MIR-H-0016",
+    "theme": "Miracles",
+    "question": "How many loaves and fish did Jesus use to feed 4,000 people?",
+    "choices": [
+      "Seven loaves and a few small fish",
+      "Five loaves and two fish",
+      "Twelve loaves and ten fish",
+      "Three loaves and five fish"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 15,
+      "verse": "34"
+    },
+    "explanation": "'How many loaves do you have?' Jesus asked. 'Seven,' they replied, 'and a few small fish.'"
+  },
+  {
+    "id": "MIR-H-0017",
+    "theme": "Miracles",
+    "question": "How many baskets of leftovers were collected after feeding the 4,000?",
+    "choices": [
+      "Seven",
+      "Twelve",
+      "Five",
+      "Ten"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 15,
+      "verse": "37"
+    },
+    "explanation": "They all ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over."
+  },
+  {
+    "id": "MIR-H-0018",
+    "theme": "Miracles",
+    "question": "What did Jesus say to Jairus' daughter?",
+    "choices": [
+      "Talitha koum (Little girl, get up)",
+      "Arise",
+      "Wake up",
+      "Come forth"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Mark",
+      "chapter": 5,
+      "verse": "41"
+    },
+    "explanation": "He took her by the hand and said to her, 'Talitha koum!' (which means 'Little girl, I say to you, get up!')."
+  }
+]

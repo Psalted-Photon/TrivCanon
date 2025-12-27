@@ -1,0 +1,401 @@
+[
+  {
+    "id": "FES-E-0001",
+    "theme": "Festivals & Customs",
+    "question": "What event does the Passover commemorate?",
+    "choices": [
+      "Israel's exodus from Egypt",
+      "The giving of the Law",
+      "The dedication of the temple",
+      "The harvest season"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "14"
+    },
+    "explanation": "Passover celebrates when God passed over the houses marked with lamb's blood in Egypt."
+  },
+  {
+    "id": "FES-E-0002",
+    "theme": "Festivals & Customs",
+    "question": "On which day of the week is the Sabbath observed?",
+    "choices": [
+      "Seventh day (Saturday)",
+      "First day (Sunday)",
+      "Sixth day (Friday)",
+      "Third day (Tuesday)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 20,
+      "verse": "8-10"
+    },
+    "explanation": "The Sabbath is the seventh day of the week, a day of rest commanded by God."
+  },
+  {
+    "id": "FES-E-0003",
+    "theme": "Festivals & Customs",
+    "question": "What feast did Jesus celebrate in Jerusalem just before His crucifixion?",
+    "choices": [
+      "Passover",
+      "Pentecost",
+      "Tabernacles",
+      "Dedication"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 22,
+      "verse": "15"
+    },
+    "explanation": "Jesus celebrated the Passover meal with His disciples, which became the Last Supper."
+  },
+  {
+    "id": "FES-E-0004",
+    "theme": "Festivals & Customs",
+    "question": "What did families eat at Passover?",
+    "choices": [
+      "A lamb with unleavened bread and bitter herbs",
+      "Fish and bread",
+      "Roasted grain",
+      "Honey cakes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "8"
+    },
+    "explanation": "They were to eat the lamb, roasted over fire, with bitter herbs and unleavened bread."
+  },
+  {
+    "id": "FES-E-0005",
+    "theme": "Festivals & Customs",
+    "question": "What was placed on doorframes during Passover?",
+    "choices": [
+      "Blood of a lamb",
+      "Oil",
+      "Water",
+      "Wine"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "7"
+    },
+    "explanation": "They were to take some of the blood and put it on the sides and tops of the doorframes."
+  },
+  {
+    "id": "FES-E-0006",
+    "theme": "Festivals & Customs",
+    "question": "What were Israelites forbidden to eat during Passover week?",
+    "choices": [
+      "Leavened bread",
+      "Meat",
+      "Fish",
+      "Vegetables"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "15"
+    },
+    "explanation": "For seven days they were to eat bread made without yeast and remove all yeast from their houses."
+  },
+  {
+    "id": "FES-E-0007",
+    "theme": "Festivals & Customs",
+    "question": "What offering was required for sin in the Old Testament?",
+    "choices": [
+      "A blood sacrifice",
+      "Money",
+      "Grain",
+      "Incense"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 17,
+      "verse": "11"
+    },
+    "explanation": "For the life of a creature is in the blood, and I have given it to you to make atonement for your sins."
+  },
+  {
+    "id": "FES-E-0008",
+    "theme": "Festivals & Customs",
+    "question": "What feast celebrates the Israelites' escape from Egypt?",
+    "choices": [
+      "Passover",
+      "Pentecost",
+      "Tabernacles",
+      "Purim"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "27"
+    },
+    "explanation": "It is the Passover sacrifice to the Lord, who passed over the houses of the Israelites in Egypt."
+  },
+  {
+    "id": "FES-E-0009",
+    "theme": "Festivals & Customs",
+    "question": "What did the Israelites put on their doorposts during Passover?",
+    "choices": [
+      "Lamb's blood",
+      "Oil",
+      "Wine",
+      "Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "7"
+    },
+    "explanation": "Then they are to take some of the blood and put it on the sides and tops of the doorframes."
+  },
+  {
+    "id": "FES-E-0010",
+    "theme": "Festivals & Customs",
+    "question": "What is the Jewish day of rest called?",
+    "choices": [
+      "Sabbath",
+      "Passover",
+      "Purim",
+      "Shavuot"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 20,
+      "verse": "8"
+    },
+    "explanation": "Remember the Sabbath day by keeping it holy."
+  },
+  {
+    "id": "FES-E-0011",
+    "theme": "Festivals & Customs",
+    "question": "What festival celebrates the Israelites' exodus from Egypt?",
+    "choices": [
+      "Passover",
+      "Pentecost",
+      "Tabernacles",
+      "Purim"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "14"
+    },
+    "explanation": "This is a day you are to commemorate; for the generations to come you shall celebrate it as a festival to the Lord."
+  },
+  {
+    "id": "FES-E-0012",
+    "theme": "Festivals & Customs",
+    "question": "What were the Israelites commanded to do on the Sabbath?",
+    "choices": [
+      "Rest and do no work",
+      "Worship at the temple",
+      "Fast",
+      "Give offerings"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 20,
+      "verse": "10"
+    },
+    "explanation": "But the seventh day is a sabbath to the Lord your God. On it you shall not do any work."
+  },
+  {
+    "id": "FES-E-0013",
+    "theme": "Festivals & Customs",
+    "question": "What animal was sacrificed at Passover?",
+    "choices": [
+      "A lamb",
+      "A goat",
+      "A bull",
+      "A dove"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "5"
+    },
+    "explanation": "The animals you choose must be year-old males without defect, and you may take them from the sheep or the goats."
+  },
+  {
+    "id": "FES-E-0014",
+    "theme": "Festivals & Customs",
+    "question": "What did the Israelites live in during the Feast of Tabernacles?",
+    "choices": [
+      "Temporary shelters (booths)",
+      "Tents",
+      "Houses",
+      "The temple courts"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "42"
+    },
+    "explanation": "Live in temporary shelters for seven days: All native-born Israelites are to live in such shelters."
+  },
+  {
+    "id": "FES-E-0015",
+    "theme": "Festivals & Customs",
+    "question": "What does Passover commemorate?",
+    "choices": [
+      "Israel's deliverance from Egypt",
+      "The giving of the Law",
+      "The fall harvest",
+      "The Day of Atonement"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "14"
+    },
+    "explanation": "This is a day you are to commemorate; for the generations to come you shall celebrate it as a festival to the Lord."
+  },
+  {
+    "id": "FES-E-0016",
+    "theme": "Festivals & Customs",
+    "question": "What did the Israelites put on their doorposts during the first Passover?",
+    "choices": [
+      "Blood",
+      "Oil",
+      "Water",
+      "Flour"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "7"
+    },
+    "explanation": "Then they are to take some of the blood and put it on the sides and tops of the doorframes of the houses."
+  },
+  {
+    "id": "FES-E-0017",
+    "theme": "Festivals & Customs",
+    "question": "What happened on the Day of Pentecost in Acts?",
+    "choices": [
+      "The Holy Spirit came upon the disciples",
+      "Jesus ascended",
+      "Peter preached his first sermon",
+      "3000 were baptized"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Acts",
+      "chapter": 2,
+      "verse": "4"
+    },
+    "explanation": "All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them."
+  },
+  {
+    "id": "FES-E-0018",
+    "theme": "Festivals & Customs",
+    "question": "What is the name of the bread eaten during Passover?",
+    "choices": [
+      "Unleavened bread",
+      "Manna",
+      "Showbread",
+      "Holy bread"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "17"
+    },
+    "explanation": "Celebrate the Festival of Unleavened Bread, because it was on this very day that I brought your divisions out of Egypt."
+  },
+  {
+    "id": "FES-E-0019",
+    "theme": "Festivals & Customs",
+    "question": "What were the Israelites to do with the Passover lamb's blood?",
+    "choices": [
+      "Put it on doorframes",
+      "Drink it",
+      "Pour it on the altar",
+      "Sprinkle it on the people"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "7"
+    },
+    "explanation": "Then they are to take some of the blood and put it on the sides and tops of the doorframes of the houses where they eat the lambs."
+  },
+  {
+    "id": "FES-E-0020",
+    "theme": "Festivals & Customs",
+    "question": "How many days did the Feast of Tabernacles last?",
+    "choices": [
+      "Seven days",
+      "Three days",
+      "Forty days",
+      "One day"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "34"
+    },
+    "explanation": "Say to the Israelites: 'On the fifteenth day of the seventh month the Lord's Festival of Tabernacles begins, and it lasts for seven days.'"
+  },
+  {
+    "id": "FES-E-0021",
+    "theme": "Festivals & Customs",
+    "question": "What were the Israelites to build during the Feast of Tabernacles?",
+    "choices": [
+      "Temporary shelters",
+      "Altars",
+      "Monuments",
+      "Temples"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "42"
+    },
+    "explanation": "Live in temporary shelters for seven days: All native-born Israelites are to live in such shelters."
+  }
+]

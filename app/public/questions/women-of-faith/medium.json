@@ -1,0 +1,458 @@
+[
+  {
+    "id": "WOF-M-0001",
+    "theme": "Women of Faith",
+    "question": "Who hid Israelite spies in Jericho and was spared when the city fell?",
+    "choices": [
+      "Rahab",
+      "Ruth",
+      "Deborah",
+      "Miriam"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 2,
+      "verse": "1-21"
+    },
+    "explanation": "Rahab hid the spies and marked her house with a scarlet cord, saving her family when Jericho was conquered."
+  },
+  {
+    "id": "WOF-M-0002",
+    "theme": "Women of Faith",
+    "question": "Who was the mother of Samuel, the prophet and judge?",
+    "choices": [
+      "Hannah",
+      "Elizabeth",
+      "Mary",
+      "Sarah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "verse": "20"
+    },
+    "explanation": "Hannah prayed earnestly for a son and dedicated Samuel to the Lord's service when he was born."
+  },
+  {
+    "id": "WOF-M-0003",
+    "theme": "Women of Faith",
+    "question": "Which prophetess judged Israel and led them in battle against the Canaanites?",
+    "choices": [
+      "Deborah",
+      "Miriam",
+      "Huldah",
+      "Anna"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "4"
+    },
+    "explanation": "Deborah was a prophetess and judge who summoned Barak to lead Israel's army against Sisera."
+  },
+  {
+    "id": "WOF-M-0004",
+    "theme": "Women of Faith",
+    "question": "Who was the first person to see Jesus after His resurrection?",
+    "choices": [
+      "Mary Magdalene",
+      "Mary the mother of Jesus",
+      "Martha",
+      "Joanna"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 20,
+      "verse": "16"
+    },
+    "explanation": "Mary Magdalene was the first to see the risen Christ when he appeared to her at the tomb."
+  },
+  {
+    "id": "WOF-M-0005",
+    "theme": "Women of Faith",
+    "question": "Which woman anointed Jesus' feet with expensive perfume and wiped them with her hair?",
+    "choices": [
+      "Mary of Bethany",
+      "Mary Magdalene",
+      "Martha",
+      "Salome"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 12,
+      "verse": "3"
+    },
+    "explanation": "Mary of Bethany anointed Jesus with expensive nard and wiped his feet with her hair."
+  },
+  {
+    "id": "WOF-M-0006",
+    "theme": "Women of Faith",
+    "question": "Which prophetess spoke about the infant Jesus when He was presented at the temple?",
+    "choices": [
+      "Anna",
+      "Elizabeth",
+      "Mary",
+      "Huldah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 2,
+      "verse": "36-38"
+    },
+    "explanation": "Anna, a prophetess who was 84 years old, gave thanks to God and spoke about Jesus to all who were waiting for redemption."
+  },
+  {
+    "id": "WOF-M-0007",
+    "theme": "Women of Faith",
+    "question": "Who was the great-grandmother of King David?",
+    "choices": [
+      "Ruth",
+      "Rahab",
+      "Tamar",
+      "Bathsheba"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Ruth",
+      "chapter": 4,
+      "verse": "17"
+    },
+    "explanation": "Ruth was the mother of Obed, who was the father of Jesse, who was the father of David."
+  },
+  {
+    "id": "WOF-M-0008",
+    "theme": "Women of Faith",
+    "question": "Who was the wife of Aquila and worked with Paul making tents?",
+    "choices": [
+      "Priscilla",
+      "Lydia",
+      "Phoebe",
+      "Eunice"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 18,
+      "verse": "2-3"
+    },
+    "explanation": "Priscilla and Aquila were tentmakers who worked with Paul and taught Apollos the way of God more adequately."
+  },
+  {
+    "id": "WOF-M-0009",
+    "theme": "Women of Faith",
+    "question": "Who was the mother of Moses?",
+    "choices": [
+      "Jochebed",
+      "Miriam",
+      "Zipporah",
+      "Deborah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 6,
+      "verse": "20"
+    },
+    "explanation": "Amram married his aunt Jochebed, who bore him Aaron and Moses."
+  },
+  {
+    "id": "WOF-M-0010",
+    "theme": "Women of Faith",
+    "question": "Which woman asked for her sons to sit at Jesus' right and left in His kingdom?",
+    "choices": [
+      "The mother of James and John",
+      "Mary Magdalene",
+      "Martha",
+      "Salome"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 20,
+      "verse": "20-21"
+    },
+    "explanation": "The mother of Zebedee's sons came to Jesus with her sons and made this request."
+  },
+  {
+    "id": "WOF-M-0011",
+    "theme": "Women of Faith",
+    "question": "Which woman washed Jesus' feet with her tears?",
+    "choices": [
+      "A sinful woman",
+      "Mary Magdalene",
+      "Mary of Bethany",
+      "Martha"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 7,
+      "verse": "38"
+    },
+    "explanation": "A woman who had lived a sinful life wept at Jesus' feet, wiped them with her hair, and anointed them."
+  },
+  {
+    "id": "WOF-M-0012",
+    "theme": "Women of Faith",
+    "question": "Which woman drove a tent peg through Sisera's temple?",
+    "choices": [
+      "Jael",
+      "Deborah",
+      "Ruth",
+      "Judith"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "21"
+    },
+    "explanation": "Jael picked up a tent peg and a hammer and drove the peg through Sisera's temple into the ground."
+  },
+  {
+    "id": "WOF-M-0013",
+    "theme": "Women of Faith",
+    "question": "Which woman was praised for her hospitality to Elisha?",
+    "choices": [
+      "The Shunammite woman",
+      "The widow of Zarephath",
+      "Ruth",
+      "Naomi"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 4,
+      "verse": "8"
+    },
+    "explanation": "One day Elisha went to Shunem, and a well-to-do woman urged him to stay for a meal."
+  },
+  {
+    "id": "WOF-M-0014",
+    "theme": "Women of Faith",
+    "question": "Who was the prophetess and judge who led Israel?",
+    "choices": [
+      "Deborah",
+      "Miriam",
+      "Huldah",
+      "Anna"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "4"
+    },
+    "explanation": "Now Deborah, a prophet, the wife of Lappidoth, was leading Israel at that time."
+  },
+  {
+    "id": "WOF-M-0015",
+    "theme": "Women of Faith",
+    "question": "Which woman anointed Jesus' feet with expensive perfume?",
+    "choices": [
+      "Mary of Bethany",
+      "Mary Magdalene",
+      "Martha",
+      "Joanna"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 12,
+      "verse": "3"
+    },
+    "explanation": "Mary took about a pint of pure nard, an expensive perfume; she poured it on Jesus' feet."
+  },
+  {
+    "id": "WOF-M-0016",
+    "theme": "Women of Faith",
+    "question": "Which woman drove a tent peg through the head of Sisera?",
+    "choices": [
+      "Jael",
+      "Deborah",
+      "Rahab",
+      "Abigail"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "21"
+    },
+    "explanation": "Jael killed the Canaanite commander Sisera by driving a tent peg through his temple while he slept."
+  },
+  {
+    "id": "WOF-M-0017",
+    "theme": "Women of Faith",
+    "question": "Which prophetess recognized baby Jesus in the temple?",
+    "choices": [
+      "Anna",
+      "Elizabeth",
+      "Mary",
+      "Priscilla"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 2,
+      "verse": "38"
+    },
+    "explanation": "Anna, a prophetess of great age, gave thanks to God and spoke about Jesus to all who were waiting for redemption."
+  },
+  {
+    "id": "WOF-M-0018",
+    "theme": "Women of Faith",
+    "question": "Who was known for her many acts of kindness and charity?",
+    "choices": [
+      "Dorcas (Tabitha)",
+      "Lydia",
+      "Priscilla",
+      "Phoebe"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 9,
+      "verse": "36"
+    },
+    "explanation": "In Joppa there was a disciple named Tabitha who was always doing good and helping the poor."
+  },
+  {
+    "id": "WOF-M-0019",
+    "theme": "Women of Faith",
+    "question": "Who assisted Paul and taught Apollos?",
+    "choices": [
+      "Priscilla",
+      "Lydia",
+      "Phoebe",
+      "Eunice"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 18,
+      "verse": "26"
+    },
+    "explanation": "Priscilla and Aquila invited Apollos to their home and explained to him the way of God more adequately."
+  },
+  {
+    "id": "WOF-M-0020",
+    "theme": "Women of Faith",
+    "question": "Which prophetess spoke about Jesus when He was presented at the temple?",
+    "choices": [
+      "Anna",
+      "Huldah",
+      "Deborah",
+      "Miriam"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 2,
+      "verse": "36"
+    },
+    "explanation": "There was also a prophet, Anna, the daughter of Penuel, of the tribe of Asher. She was very old."
+  },
+  {
+    "id": "WOF-M-0021",
+    "theme": "Women of Faith",
+    "question": "Which woman was commended for her hospitality to Elisha?",
+    "choices": [
+      "The Shunammite woman",
+      "The widow of Zarephath",
+      "Rahab",
+      "Ruth"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 4,
+      "verse": "8"
+    },
+    "explanation": "One day Elisha went to Shunem. And a well-to-do woman was there, who urged him to stay for a meal."
+  },
+  {
+    "id": "WOF-M-0022",
+    "theme": "Women of Faith",
+    "question": "Who was David's wife who despised him for dancing before the Lord?",
+    "choices": [
+      "Michal",
+      "Bathsheba",
+      "Abigail",
+      "Ahinoam"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verse": "16"
+    },
+    "explanation": "As the ark of the Lord was entering the City of David, Michal daughter of Saul watched from a window and saw King David leaping and dancing before the Lord, and she despised him in her heart."
+  },
+  {
+    "id": "WOF-M-0023",
+    "theme": "Women of Faith",
+    "question": "Which woman sold purple cloth and had her household baptized after believing Paul's message?",
+    "choices": [
+      "Lydia",
+      "Priscilla",
+      "Phoebe",
+      "Dorcas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 16,
+      "verse": "14-15"
+    },
+    "explanation": "One of those listening was a woman from the city of Thyatira named Lydia, a dealer in purple cloth. The Lord opened her heart to respond to Paul's message. When she and the members of her household were baptized, she invited us to her home."
+  },
+  {
+    "id": "WOF-M-0024",
+    "theme": "Women of Faith",
+    "question": "Which woman was known for making robes and clothing for the poor and was raised from the dead by Peter?",
+    "choices": [
+      "Tabitha (Dorcas)",
+      "Lydia",
+      "Priscilla",
+      "Phoebe"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 9,
+      "verse": "36-41"
+    },
+    "explanation": "In Joppa there was a disciple named Tabitha (in Greek her name is Dorcas); she was always doing good and helping the poor. All the widows stood around Peter, showing him the robes and other clothing that Dorcas had made. Peter sent them all out of the room; then he got down on his knees and prayed. Turning toward the dead woman, he said, 'Tabitha, get up.' She opened her eyes, and seeing Peter she sat up."
+  }
+]

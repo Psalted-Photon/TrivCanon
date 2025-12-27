@@ -1,0 +1,477 @@
+[
+  {
+    "id": "KNG-E-0001",
+    "theme": "Kings & Rulers",
+    "question": "Who was the first king of Israel?",
+    "choices": [
+      "Saul",
+      "David",
+      "Solomon",
+      "Samuel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "verse": "1"
+    },
+    "explanation": "Saul was anointed by Samuel as the first king of Israel, though he later fell from God's favor."
+  },
+  {
+    "id": "KNG-E-0002",
+    "theme": "Kings & Rulers",
+    "question": "Which king wrote most of the Proverbs?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Hezekiah",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "Solomon, known for his wisdom, authored most of the book of Proverbs."
+  },
+  {
+    "id": "KNG-E-0003",
+    "theme": "Kings & Rulers",
+    "question": "Which king built the first temple in Jerusalem?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Hezekiah",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 6,
+      "verse": "1"
+    },
+    "explanation": "Solomon built the magnificent temple in Jerusalem using materials his father David had gathered."
+  },
+  {
+    "id": "KNG-E-0004",
+    "theme": "Kings & Rulers",
+    "question": "Which king ordered all male Hebrew babies to be killed in Egypt?",
+    "choices": [
+      "Pharaoh",
+      "Herod",
+      "Nebuchadnezzar",
+      "Ahab"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 1,
+      "verse": "22"
+    },
+    "explanation": "Pharaoh ordered every Hebrew boy to be thrown into the Nile River to control the Israelite population."
+  },
+  {
+    "id": "KNG-E-0005",
+    "theme": "Kings & Rulers",
+    "question": "Which king was known for his great wisdom?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Hezekiah",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verse": "12"
+    },
+    "explanation": "God gave Solomon wisdom and very great insight, and a breadth of understanding as measureless as the sand."
+  },
+  {
+    "id": "KNG-E-0006",
+    "theme": "Kings & Rulers",
+    "question": "What did King Solomon ask God for?",
+    "choices": [
+      "Wisdom and knowledge",
+      "Wealth and honor",
+      "Long life",
+      "Victory over enemies"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verse": "9"
+    },
+    "explanation": "Solomon asked for a discerning heart to govern the people and distinguish between right and wrong."
+  },
+  {
+    "id": "KNG-E-0007",
+    "theme": "Kings & Rulers",
+    "question": "Which king sought to kill baby Jesus?",
+    "choices": [
+      "Herod the Great",
+      "Herod Antipas",
+      "Pontius Pilate",
+      "Caesar Augustus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 2,
+      "verse": "16"
+    },
+    "explanation": "When Herod realized he had been outwitted, he ordered the killing of all boys in Bethlehem two years old and under."
+  },
+  {
+    "id": "KNG-E-0008",
+    "theme": "Kings & Rulers",
+    "question": "Which king's heart was hardened against letting Israel go?",
+    "choices": [
+      "Pharaoh",
+      "Nebuchadnezzar",
+      "Herod",
+      "Cyrus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 9,
+      "verse": "12"
+    },
+    "explanation": "The Lord hardened Pharaoh's heart and he would not listen to Moses and Aaron."
+  },
+  {
+    "id": "KNG-E-0009",
+    "theme": "Kings & Rulers",
+    "question": "Which king put Daniel's three friends in the fiery furnace?",
+    "choices": [
+      "Nebuchadnezzar",
+      "Darius",
+      "Belshazzar",
+      "Cyrus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 3,
+      "verse": "20"
+    },
+    "explanation": "Nebuchadnezzar commanded mighty soldiers to bind Shadrach, Meshach, and Abednego and throw them in the furnace."
+  },
+  {
+    "id": "KNG-E-0010",
+    "theme": "Kings & Rulers",
+    "question": "Who was the wisest man who ever lived?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Daniel",
+      "Joseph"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verse": "12"
+    },
+    "explanation": "God gave Solomon wisdom and very great insight, and a breadth of understanding."
+  },
+  {
+    "id": "KNG-E-0011",
+    "theme": "Kings & Rulers",
+    "question": "Which king had a dream about a statue with different metals?",
+    "choices": [
+      "Nebuchadnezzar",
+      "Belshazzar",
+      "Darius",
+      "Cyrus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 2,
+      "verse": "31"
+    },
+    "explanation": "You looked, Your Majesty, and there before you stood a large statue with a head of gold."
+  },
+  {
+    "id": "KNG-E-0012",
+    "theme": "Kings & Rulers",
+    "question": "Who succeeded Moses as leader of Israel?",
+    "choices": [
+      "Joshua",
+      "Aaron",
+      "Caleb",
+      "Eleazar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 31,
+      "verse": "23"
+    },
+    "explanation": "The Lord gave this command to Joshua: 'Be strong and courageous, for you will bring the Israelites into the land.'"
+  },
+  {
+    "id": "KNG-E-0013",
+    "theme": "Kings & Rulers",
+    "question": "Which king was known for his many wives and concubines?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Rehoboam",
+      "Ahab"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verse": "3"
+    },
+    "explanation": "King Solomon had seven hundred wives of royal birth and three hundred concubines."
+  },
+  {
+    "id": "KNG-E-0014",
+    "theme": "Kings & Rulers",
+    "question": "Which king ordered all baby boys in Bethlehem killed?",
+    "choices": [
+      "Herod",
+      "Pharaoh",
+      "Nebuchadnezzar",
+      "Caesar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 2,
+      "verse": "16"
+    },
+    "explanation": "When Herod realized he had been outwitted by the Magi, he gave orders to kill all the boys in Bethlehem."
+  },
+  {
+    "id": "KNG-E-0015",
+    "theme": "Kings & Rulers",
+    "question": "Which king wrote most of the Psalms?",
+    "choices": [
+      "David",
+      "Solomon",
+      "Hezekiah",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 3,
+      "verse": "1"
+    },
+    "explanation": "David, the shepherd king, wrote approximately 73 of the 150 Psalms in the Bible."
+  },
+  {
+    "id": "KNG-E-0016",
+    "theme": "Kings & Rulers",
+    "question": "Which king allowed the Jews to return to Jerusalem?",
+    "choices": [
+      "Cyrus",
+      "Darius",
+      "Artaxerxes",
+      "Xerxes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ezra",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "Cyrus king of Persia says: 'The Lord has appointed me to build a temple for Him at Jerusalem.'"
+  },
+  {
+    "id": "KNG-E-0017",
+    "theme": "Kings & Rulers",
+    "question": "Which king was the first king of Israel?",
+    "choices": [
+      "Saul",
+      "David",
+      "Solomon",
+      "Rehoboam"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "verse": "24"
+    },
+    "explanation": "Samuel said to all the people, 'Do you see the man the Lord has chosen? There is no one like him among all the people.'"
+  },
+  {
+    "id": "KNG-E-0018",
+    "theme": "Kings & Rulers",
+    "question": "Which king was anointed by Samuel while he was still a boy?",
+    "choices": [
+      "David",
+      "Saul",
+      "Solomon",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "verse": "13"
+    },
+    "explanation": "So Samuel took the horn of oil and anointed him in the presence of his brothers, and from that day on the Spirit of the Lord came powerfully upon David."
+  },
+  {
+    "id": "KNG-E-0019",
+    "theme": "Kings & Rulers",
+    "question": "Which king threw Shadrach, Meshach, and Abednego into the fiery furnace?",
+    "choices": [
+      "Nebuchadnezzar",
+      "Belshazzar",
+      "Darius",
+      "Cyrus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 3,
+      "verse": "20"
+    },
+    "explanation": "He commanded some of the strongest soldiers in his army to tie up Shadrach, Meshach and Abednego and throw them into the blazing furnace."
+  },
+  {
+    "id": "KNG-E-0020",
+    "theme": "Kings & Rulers",
+    "question": "Which king ordered all baby boys in Bethlehem to be killed?",
+    "choices": [
+      "Herod the Great",
+      "Herod Antipas",
+      "Pontius Pilate",
+      "Caesar Augustus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 2,
+      "verse": "16"
+    },
+    "explanation": "When Herod realized that he had been outwitted by the Magi, he gave orders to kill all the boys in Bethlehem who were two years old and under."
+  },
+  {
+    "id": "KNG-E-0021",
+    "theme": "Kings & Rulers",
+    "question": "Which king was the son of David and Bathsheba?",
+    "choices": [
+      "Solomon",
+      "Absalom",
+      "Adonijah",
+      "Amnon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "verse": "24"
+    },
+    "explanation": "Then David comforted his wife Bathsheba, and he went to her and made love to her. She gave birth to a son, and they named him Solomon."
+  },
+  {
+    "id": "KNG-E-0022",
+    "theme": "Kings & Rulers",
+    "question": "Which king had Uriah killed to take his wife?",
+    "choices": [
+      "David",
+      "Solomon",
+      "Saul",
+      "Ahab"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "verse": "15"
+    },
+    "explanation": "In the letter David wrote, 'Put Uriah out in front where the fighting is fiercest. Then withdraw from him so he will be struck down and die.'"
+  },
+  {
+    "id": "KNG-E-0023",
+    "theme": "Kings & Rulers",
+    "question": "Who was Uriah's wife whom David took?",
+    "choices": [
+      "Bathsheba",
+      "Abigail",
+      "Michal",
+      "Ahinoam"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "verse": "3"
+    },
+    "explanation": "David sent someone to find out about her. The man said, 'She is Bathsheba, the daughter of Eliam and the wife of Uriah the Hittite.'"
+  },
+  {
+    "id": "KNG-E-0024",
+    "theme": "Kings & Rulers",
+    "question": "Which of David's sons rebelled against him?",
+    "choices": [
+      "Absalom",
+      "Solomon",
+      "Amnon",
+      "Adonijah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "verse": "10"
+    },
+    "explanation": "Then Absalom sent secret messengers throughout the tribes of Israel to say, 'As soon as you hear the sound of the trumpets, then say, \"Absalom is king in Hebron.\"'"
+  },
+  {
+    "id": "KNG-E-0025",
+    "theme": "Kings & Rulers",
+    "question": "Which king asked God for wisdom?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Hezekiah",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verse": "9"
+    },
+    "explanation": "So give your servant a discerning heart to govern your people and to distinguish between right and wrong."
+  }
+]

@@ -44,6 +44,7 @@ export default function App() {
   const { getNextQuestion, reset } = useQuizRotation(selectedThemes, questions, rotationMode, selectedDifficulty);
 
   useEffect(() => {
+    // Load all questions initially to populate theme selector
     loadQuestionsWithCache()
       .then(data => {
         console.log('Loaded questions:', data.length, 'total');
@@ -61,7 +62,7 @@ export default function App() {
       });
   }, []);
 
-  const handleStartQuiz = (themes, mode, difficulty, quizModeType) => {
+  const handleStartQuiz = async (themes, mode, difficulty, quizModeType) => {
     setSelectedThemes(themes);
     setSelectedDifficulty(difficulty);
     setQuizMode(quizModeType);
@@ -75,6 +76,16 @@ export default function App() {
     setScore(0);
     setResults([]);
     reset();
+    
+    // Load filtered questions based on selected themes and difficulty
+    const difficulties = difficulty === 'all' ? null : [difficulty];
+    const filteredQuestions = await loadQuestionsWithCache({ 
+      themes: themes.length > 0 ? themes : null,
+      difficulties 
+    });
+    
+    console.log(`Loaded ${filteredQuestions.length} questions for selected filters`);
+    setQuestions(filteredQuestions);
     
     // Get first question and shuffle choices
     const firstQuestion = getNextQuestion();

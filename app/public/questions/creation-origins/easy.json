@@ -1,0 +1,724 @@
+[
+  {
+    "id": "CRE-E-0001",
+    "theme": "Creation & Origins",
+    "question": "On which day did God create man and woman?",
+    "choices": [
+      "Sixth day",
+      "Fifth day",
+      "Seventh day",
+      "First day"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "27"
+    },
+    "explanation": "God created mankind in His own image on the sixth day of creation."
+  },
+  {
+    "id": "CRE-E-0002",
+    "theme": "Creation & Origins",
+    "question": "What was the name of the garden where Adam and Eve lived?",
+    "choices": [
+      "Eden",
+      "Gethsemane",
+      "Paradise",
+      "Zion"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "8"
+    },
+    "explanation": "God planted a garden in Eden and placed Adam there to work it and take care of it."
+  },
+  {
+    "id": "CRE-E-0003",
+    "theme": "Creation & Origins",
+    "question": "What did God use to create Eve?",
+    "choices": [
+      "Adam's rib",
+      "Dust from the ground",
+      "Clay",
+      "His breath"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "22"
+    },
+    "explanation": "God took one of Adam's ribs and made it into a woman, Eve."
+  },
+  {
+    "id": "CRE-E-0004",
+    "theme": "Creation & Origins",
+    "question": "What sign did God give as a promise never to flood the earth again?",
+    "choices": [
+      "A rainbow",
+      "A dove",
+      "The sun",
+      "A star"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 9,
+      "verse": "13"
+    },
+    "explanation": "God set a rainbow in the clouds as a sign of the covenant between Him and the earth."
+  },
+  {
+    "id": "CRE-E-0005",
+    "theme": "Creation & Origins",
+    "question": "Who were the sons of Adam and Eve who made the first recorded offerings to God?",
+    "choices": [
+      "Cain and Abel",
+      "Seth and Cain",
+      "Abel and Seth",
+      "Enoch and Cain"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "3-4"
+    },
+    "explanation": "Cain brought fruits of the soil, while Abel brought fat portions from his flock's firstborn."
+  },
+  {
+    "id": "CRE-E-0006",
+    "theme": "Creation & Origins",
+    "question": "How long did it rain during the flood?",
+    "choices": [
+      "40 days and 40 nights",
+      "30 days and 30 nights",
+      "7 days and 7 nights",
+      "100 days"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 7,
+      "verse": "12"
+    },
+    "explanation": "Rain fell on the earth for 40 days and 40 nights during the great flood."
+  },
+  {
+    "id": "CRE-E-0007",
+    "theme": "Creation & Origins",
+    "question": "What was the name of the tree in the Garden of Eden that Adam and Eve were forbidden to eat from?",
+    "choices": [
+      "Tree of Knowledge of Good and Evil",
+      "Tree of Life",
+      "Tree of Wisdom",
+      "Tree of Heaven"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "17"
+    },
+    "explanation": "God commanded Adam not to eat from the Tree of Knowledge of Good and Evil."
+  },
+  {
+    "id": "CRE-E-0008",
+    "theme": "Creation & Origins",
+    "question": "What did God create on the fourth day?",
+    "choices": [
+      "Sun, moon, and stars",
+      "Birds and fish",
+      "Land animals",
+      "Plants"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "16"
+    },
+    "explanation": "God made two great lights—the sun and the moon—and the stars on the fourth day."
+  },
+  {
+    "id": "CRE-E-0009",
+    "theme": "Creation & Origins",
+    "question": "Who was the oldest person recorded in the Bible?",
+    "choices": [
+      "Methuselah",
+      "Noah",
+      "Adam",
+      "Seth"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "27"
+    },
+    "explanation": "Methuselah lived 969 years, the longest lifespan recorded in the Bible."
+  },
+  {
+    "id": "CRE-E-0010",
+    "theme": "Creation & Origins",
+    "question": "What language were all people speaking before the Tower of Babel?",
+    "choices": [
+      "One language",
+      "Hebrew",
+      "Aramaic",
+      "Many languages"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 11,
+      "verse": "1"
+    },
+    "explanation": "The whole world had one language and a common speech before God confused their language at Babel."
+  },
+  {
+    "id": "CRE-E-0011",
+    "theme": "Creation & Origins",
+    "question": "What did God create on the fifth day?",
+    "choices": [
+      "Birds and sea creatures",
+      "Land animals",
+      "Plants",
+      "The sun and moon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "20-23"
+    },
+    "explanation": "God created the birds of the sky and every living creature that moves in the water on the fifth day."
+  },
+  {
+    "id": "CRE-E-0012",
+    "theme": "Creation & Origins",
+    "question": "What was Abel's occupation?",
+    "choices": [
+      "Shepherd",
+      "Farmer",
+      "Hunter",
+      "Builder"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "2"
+    },
+    "explanation": "Abel kept flocks while his brother Cain worked the soil."
+  },
+  {
+    "id": "CRE-E-0013",
+    "theme": "Creation & Origins",
+    "question": "How many days did God take to create the world?",
+    "choices": [
+      "Six",
+      "Seven",
+      "One",
+      "Forty"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "31"
+    },
+    "explanation": "God saw all that He had made in six days, and it was very good. On the seventh day He rested."
+  },
+  {
+    "id": "CRE-E-0014",
+    "theme": "Creation & Origins",
+    "question": "From what was woman created?",
+    "choices": [
+      "Man's rib",
+      "Dust of the ground",
+      "Clay",
+      "God's breath"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "22"
+    },
+    "explanation": "The Lord God made a woman from the rib he had taken out of the man."
+  },
+  {
+    "id": "CRE-E-0015",
+    "theme": "Creation & Origins",
+    "question": "What did God say after creating each thing in Genesis 1?",
+    "choices": [
+      "It was good",
+      "It was perfect",
+      "It was finished",
+      "It was blessed"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "10"
+    },
+    "explanation": "After each day of creation, God saw that it was good."
+  },
+  {
+    "id": "CRE-E-0016",
+    "theme": "Creation & Origins",
+    "question": "What did God breathe into Adam's nostrils?",
+    "choices": [
+      "The breath of life",
+      "The Holy Spirit",
+      "Divine wisdom",
+      "Eternal life"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "7"
+    },
+    "explanation": "The Lord God formed man from the dust and breathed into his nostrils the breath of life."
+  },
+  {
+    "id": "CRE-E-0017",
+    "theme": "Creation & Origins",
+    "question": "Who was the first murderer?",
+    "choices": [
+      "Cain",
+      "Lamech",
+      "Esau",
+      "Absalom"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "8"
+    },
+    "explanation": "Cain attacked his brother Abel and killed him."
+  },
+  {
+    "id": "CRE-E-0018",
+    "theme": "Creation & Origins",
+    "question": "What did God promise never to do again after the flood?",
+    "choices": [
+      "Destroy the earth with a flood",
+      "Destroy all living things",
+      "Send rain",
+      "Curse the ground"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 9,
+      "verse": "11"
+    },
+    "explanation": "I establish my covenant with you: Never again will all life be destroyed by the waters of a flood."
+  },
+  {
+    "id": "CRE-E-0019",
+    "theme": "Creation & Origins",
+    "question": "What was the name of the garden where God placed Adam?",
+    "choices": [
+      "Eden",
+      "Gethsemane",
+      "Babylon",
+      "Paradise"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "8"
+    },
+    "explanation": "The Lord God planted a garden in Eden, in the east, and there he put the man he had formed."
+  },
+  {
+    "id": "CRE-E-0020",
+    "theme": "Creation & Origins",
+    "question": "How many sons did Noah have?",
+    "choices": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 6,
+      "verse": "10"
+    },
+    "explanation": "Noah had three sons: Shem, Ham, and Japheth."
+  },
+  {
+    "id": "CRE-E-0021",
+    "theme": "Creation & Origins",
+    "question": "What was Eve's punishment for eating the forbidden fruit?",
+    "choices": [
+      "Pain in childbirth",
+      "Death",
+      "Exile",
+      "Blindness"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "16"
+    },
+    "explanation": "To the woman he said, 'I will make your pains in childbearing very severe.'"
+  },
+  {
+    "id": "CRE-E-0022",
+    "theme": "Creation & Origins",
+    "question": "What did God use to create woman?",
+    "choices": [
+      "Adam's rib",
+      "Dust",
+      "Clay",
+      "Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "22"
+    },
+    "explanation": "Then the Lord God made a woman from the rib he had taken out of the man."
+  },
+  {
+    "id": "CRE-E-0023",
+    "theme": "Creation & Origins",
+    "question": "What was the first thing God created?",
+    "choices": [
+      "Light",
+      "Water",
+      "Land",
+      "Sky"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "3"
+    },
+    "explanation": "And God said, 'Let there be light,' and there was light."
+  },
+  {
+    "id": "CRE-E-0024",
+    "theme": "Creation & Origins",
+    "question": "What tree did God forbid Adam and Eve from eating?",
+    "choices": [
+      "Tree of knowledge of good and evil",
+      "Tree of life",
+      "Fig tree",
+      "Olive tree"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "17"
+    },
+    "explanation": "But you must not eat from the tree of the knowledge of good and evil."
+  },
+  {
+    "id": "CRE-E-0025",
+    "theme": "Creation & Origins",
+    "question": "How long did God take to create the world?",
+    "choices": [
+      "Six days",
+      "Seven days",
+      "Three days",
+      "Forty days"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "2"
+    },
+    "explanation": "By the seventh day God had finished the work he had been doing, so on the seventh day he rested."
+  },
+  {
+    "id": "CRE-E-0026",
+    "theme": "Creation & Origins",
+    "question": "What did God call the darkness?",
+    "choices": [
+      "Night",
+      "Void",
+      "Shadow",
+      "Abyss"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "5"
+    },
+    "explanation": "God called the light 'day,' and the darkness he called 'night.'"
+  },
+  {
+    "id": "CRE-E-0027",
+    "theme": "Creation & Origins",
+    "question": "What creatures did God create on the fifth day?",
+    "choices": [
+      "Birds and sea creatures",
+      "Land animals",
+      "Humans",
+      "Plants"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "20-21"
+    },
+    "explanation": "God created the great creatures of the sea and every living thing that moves in the water, and every winged bird."
+  },
+  {
+    "id": "CRE-E-0028",
+    "theme": "Creation & Origins",
+    "question": "What were Adam and Eve wearing in the Garden before they sinned?",
+    "choices": [
+      "Nothing - they were naked",
+      "Leaves",
+      "Animal skins",
+      "Robes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "25"
+    },
+    "explanation": "Adam and his wife were both naked, and they felt no shame."
+  },
+  {
+    "id": "CRE-E-0029",
+    "theme": "Creation & Origins",
+    "question": "What did God use to form man from the earth?",
+    "choices": [
+      "Dust from the ground",
+      "Clay",
+      "Mud",
+      "Sand"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "7"
+    },
+    "explanation": "The Lord God formed a man from the dust of the ground and breathed into his nostrils the breath of life."
+  },
+  {
+    "id": "CRE-E-0030",
+    "theme": "Creation & Origins",
+    "question": "What did God say about His creation?",
+    "choices": [
+      "It was very good",
+      "It was perfect",
+      "It was blessed",
+      "It was complete"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "31"
+    },
+    "explanation": "God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day."
+  },
+  {
+    "id": "CRE-E-0031",
+    "theme": "Creation & Origins",
+    "question": "What did Adam name his wife?",
+    "choices": [
+      "Eve",
+      "Sarah",
+      "Rachel",
+      "Rebekah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "20"
+    },
+    "explanation": "Adam named his wife Eve, because she would become the mother of all the living."
+  },
+  {
+    "id": "CRE-E-0032",
+    "theme": "Creation & Origins",
+    "question": "On which day did God create man?",
+    "choices": [
+      "Sixth day",
+      "Fifth day",
+      "Seventh day",
+      "First day"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "26-27"
+    },
+    "explanation": "Then God said, 'Let us make mankind in our image.' So God created mankind on the sixth day."
+  },
+  {
+    "id": "CRE-E-0033",
+    "theme": "Creation & Origins",
+    "question": "What did God do on the seventh day?",
+    "choices": [
+      "He rested",
+      "He created angels",
+      "He blessed creation",
+      "He walked in the garden"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "2"
+    },
+    "explanation": "By the seventh day God had finished the work he had been doing; so on the seventh day he rested from all his work."
+  },
+  {
+    "id": "CRE-E-0034",
+    "theme": "Creation & Origins",
+    "question": "From what part of Adam did God create Eve?",
+    "choices": [
+      "A rib",
+      "Dust",
+      "His breath",
+      "His hand"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "21-22"
+    },
+    "explanation": "So the Lord God caused the man to fall into a deep sleep; and while he was sleeping, he took one of the man's ribs and then made a woman from the rib."
+  },
+  {
+    "id": "CRE-E-0035",
+    "theme": "Creation & Origins",
+    "question": "What was the punishment for eating from the forbidden tree?",
+    "choices": [
+      "Death",
+      "Exile",
+      "Pain",
+      "Blindness"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "17"
+    },
+    "explanation": "But you must not eat from the tree of the knowledge of good and evil, for when you eat from it you will certainly die."
+  },
+  {
+    "id": "CRE-E-0036",
+    "theme": "Creation & Origins",
+    "question": "What did God create on the sixth day besides man?",
+    "choices": [
+      "Land animals",
+      "Sea creatures",
+      "Birds",
+      "Vegetation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "24-25"
+    },
+    "explanation": "And God said, 'Let the land produce living creatures according to their kinds: the livestock, the creatures that move along the ground, and the wild animals.' And it was so."
+  },
+  {
+    "id": "CRE-E-0037",
+    "theme": "Creation & Origins",
+    "question": "What did God give humans dominion over?",
+    "choices": [
+      "All living creatures",
+      "The earth only",
+      "The sea only",
+      "Plants only"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "26"
+    },
+    "explanation": "Then God said, 'Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals.'"
+  },
+  {
+    "id": "CRE-E-0038",
+    "theme": "Creation & Origins",
+    "question": "What did God say about all He had made?",
+    "choices": [
+      "It was very good",
+      "It was perfect",
+      "It was complete",
+      "It was finished"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "31"
+    },
+    "explanation": "God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day."
+  }
+]

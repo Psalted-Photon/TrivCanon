@@ -1,0 +1,781 @@
+[
+  {
+    "id": "WIS-E-0001",
+    "theme": "Wisdom & Psalms",
+    "question": "Who is traditionally credited with writing most of the Psalms?",
+    "choices": [
+      "David",
+      "Solomon",
+      "Moses",
+      "Asaph"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "King David wrote approximately half of the 150 psalms in the book of Psalms."
+  },
+  {
+    "id": "WIS-E-0002",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what is the beginning of wisdom?",
+    "choices": [
+      "Fear of the Lord",
+      "Knowledge",
+      "Understanding",
+      "Instruction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 9,
+      "verse": "10"
+    },
+    "explanation": "The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding."
+  },
+  {
+    "id": "WIS-E-0003",
+    "theme": "Wisdom & Psalms",
+    "question": "Complete this verse: 'The Lord is my shepherd, I shall not ___'",
+    "choices": [
+      "want",
+      "fear",
+      "fall",
+      "fail"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 23,
+      "verse": "1"
+    },
+    "explanation": "Psalm 23 begins with 'The Lord is my shepherd, I shall not want,' expressing trust in God's provision."
+  },
+  {
+    "id": "WIS-E-0004",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what does a gentle answer do?",
+    "choices": [
+      "Turns away wrath",
+      "Brings wisdom",
+      "Multiplies friends",
+      "Increases knowledge"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verse": "1"
+    },
+    "explanation": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+  },
+  {
+    "id": "WIS-E-0005",
+    "theme": "Wisdom & Psalms",
+    "question": "Complete this Proverb: 'Trust in the Lord with all your heart and lean not on your own ___'",
+    "choices": [
+      "understanding",
+      "wisdom",
+      "strength",
+      "knowledge"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 3,
+      "verse": "5"
+    },
+    "explanation": "This verse encourages complete trust in God rather than relying on our limited understanding."
+  },
+  {
+    "id": "WIS-E-0006",
+    "theme": "Wisdom & Psalms",
+    "question": "Which book of wisdom explores the question of why the righteous suffer?",
+    "choices": [
+      "Job",
+      "Ecclesiastes",
+      "Proverbs",
+      "Psalms"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Job",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "The book of Job tells the story of a righteous man's suffering and his dialogue with God and his friends."
+  },
+  {
+    "id": "WIS-E-0007",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 1 say the blessed person meditates on day and night?",
+    "choices": [
+      "The law of the Lord",
+      "God's creation",
+      "The psalms of David",
+      "The prophets"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "Blessed is the one who delights in the law of the Lord and meditates on it day and night."
+  },
+  {
+    "id": "WIS-E-0008",
+    "theme": "Wisdom & Psalms",
+    "question": "What book begins with 'Meaningless! Meaningless! Everything is meaningless'?",
+    "choices": [
+      "Ecclesiastes",
+      "Job",
+      "Proverbs",
+      "Lamentations"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "Ecclesiastes begins with the Teacher declaring the vanity and meaninglessness of worldly pursuits."
+  },
+  {
+    "id": "WIS-E-0009",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Psalms, what do the heavens declare?",
+    "choices": [
+      "The glory of God",
+      "His judgments",
+      "His mercy",
+      "His power"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 19,
+      "verse": "1"
+    },
+    "explanation": "The heavens declare the glory of God; the skies proclaim the work of his hands."
+  },
+  {
+    "id": "WIS-E-0010",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say about training a child?",
+    "choices": [
+      "Train up a child in the way he should go",
+      "Discipline brings wisdom",
+      "Children are a blessing",
+      "Teach them the Law"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verse": "6"
+    },
+    "explanation": "Train up a child in the way he should go, and when he is old he will not depart from it."
+  },
+  {
+    "id": "WIS-E-0011",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Psalm 119, what is a lamp to my feet?",
+    "choices": [
+      "Your word",
+      "Your love",
+      "Your Spirit",
+      "Your commandments"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 119,
+      "verse": "105"
+    },
+    "explanation": "Your word is a lamp for my feet, a light on my path."
+  },
+  {
+    "id": "WIS-E-0012",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say about pride?",
+    "choices": [
+      "Pride goes before destruction",
+      "Pride leads to wealth",
+      "Pride brings honor",
+      "Pride is strength"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 16,
+      "verse": "18"
+    },
+    "explanation": "Pride goes before destruction, a haughty spirit before a fall."
+  },
+  {
+    "id": "WIS-E-0013",
+    "theme": "Wisdom & Psalms",
+    "question": "What does the book of Job explore?",
+    "choices": [
+      "Why the righteous suffer",
+      "The meaning of life",
+      "God's creation",
+      "The end times"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Job",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "Job was blameless and upright, yet suffered greatly, raising questions about suffering and God's justice."
+  },
+  {
+    "id": "WIS-E-0014",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Ecclesiastes, what is there a time for?",
+    "choices": [
+      "Everything",
+      "Joy",
+      "Sorrow",
+      "Work"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "verse": "1"
+    },
+    "explanation": "There is a time for everything, and a season for every activity under the heavens."
+  },
+  {
+    "id": "WIS-E-0015",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 100 command us to do?",
+    "choices": [
+      "Make a joyful noise to the Lord",
+      "Be still",
+      "Wait on the Lord",
+      "Fear God"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 100,
+      "verse": "1"
+    },
+    "explanation": "Make a joyful noise unto the Lord, all ye lands."
+  },
+  {
+    "id": "WIS-E-0016",
+    "theme": "Wisdom & Psalms",
+    "question": "What is better than silver and gold according to Proverbs?",
+    "choices": [
+      "Wisdom",
+      "Health",
+      "Friends",
+      "Long life"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 16,
+      "verse": "16"
+    },
+    "explanation": "How much better to get wisdom than gold, to get insight rather than silver!"
+  },
+  {
+    "id": "WIS-E-0017",
+    "theme": "Wisdom & Psalms",
+    "question": "What kind of fool does Proverbs warn against?",
+    "choices": [
+      "One who despises wisdom and instruction",
+      "One who is poor",
+      "One who is weak",
+      "One who is young"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verse": "7"
+    },
+    "explanation": "The fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction."
+  },
+  {
+    "id": "WIS-E-0018",
+    "theme": "Wisdom & Psalms",
+    "question": "How does Psalm 23 describe the valley we walk through?",
+    "choices": [
+      "The valley of the shadow of death",
+      "The valley of weeping",
+      "The valley of decision",
+      "The valley of despair"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 23,
+      "verse": "4"
+    },
+    "explanation": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me."
+  },
+  {
+    "id": "WIS-E-0019",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say a soft answer does?",
+    "choices": [
+      "Turns away wrath",
+      "Brings peace",
+      "Shows wisdom",
+      "Wins friends"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verse": "1"
+    },
+    "explanation": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+  },
+  {
+    "id": "WIS-E-0020",
+    "theme": "Wisdom & Psalms",
+    "question": "What should we delight in according to Psalm 1?",
+    "choices": [
+      "The law of the Lord",
+      "Righteousness",
+      "Good works",
+      "Prayer"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "But whose delight is in the law of the Lord, and who meditates on his law day and night."
+  },
+  {
+    "id": "WIS-E-0021",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Psalm 119, what is a lamp unto our feet?",
+    "choices": [
+      "God's word",
+      "Faith",
+      "Love",
+      "Hope"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 119,
+      "verse": "105"
+    },
+    "explanation": "Your word is a lamp for my feet, a light on my path."
+  },
+  {
+    "id": "WIS-E-0022",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say pride comes before?",
+    "choices": [
+      "A fall",
+      "Destruction",
+      "Dishonor",
+      "Shame"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 16,
+      "verse": "18"
+    },
+    "explanation": "Pride goes before destruction, a haughty spirit before a fall."
+  },
+  {
+    "id": "WIS-E-0023",
+    "theme": "Wisdom & Psalms",
+    "question": "Who wrote the book of Proverbs?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Moses",
+      "Job"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "The proverbs of Solomon son of David, king of Israel."
+  },
+  {
+    "id": "WIS-E-0024",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 23 say the Lord is?",
+    "choices": [
+      "My shepherd",
+      "My rock",
+      "My fortress",
+      "My king"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 23,
+      "verse": "1"
+    },
+    "explanation": "The Lord is my shepherd, I lack nothing."
+  },
+  {
+    "id": "WIS-E-0025",
+    "theme": "Wisdom & Psalms",
+    "question": "Complete this verse: 'Be still, and know that...'",
+    "choices": [
+      "I am God",
+      "The Lord is good",
+      "I am with you",
+      "I will provide"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 46,
+      "verse": "10"
+    },
+    "explanation": "He says, 'Be still, and know that I am God; I will be exalted among the nations.'"
+  },
+  {
+    "id": "WIS-E-0026",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Ecclesiastes, there is a time for everything under what?",
+    "choices": [
+      "Heaven",
+      "The sun",
+      "The earth",
+      "God's will"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "verse": "1"
+    },
+    "explanation": "There is a time for everything, and a season for every activity under the heavens."
+  },
+  {
+    "id": "WIS-E-0027",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say about raising a child?",
+    "choices": [
+      "Train them in the way they should go",
+      "Discipline them early",
+      "Love them always",
+      "Teach them wisdom"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verse": "6"
+    },
+    "explanation": "Start children off on the way they should go, and even when they are old they will not turn from it."
+  },
+  {
+    "id": "WIS-E-0028",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 139 say about God's knowledge of us?",
+    "choices": [
+      "He knows when we sit and rise",
+      "He knows our thoughts",
+      "He knows our ways",
+      "All of these"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 139,
+      "verse": "2"
+    },
+    "explanation": "You know when I sit and when I rise; you perceive my thoughts from afar."
+  },
+  {
+    "id": "WIS-E-0029",
+    "theme": "Wisdom & Psalms",
+    "question": "What comparison does Psalm 42 make about the soul?",
+    "choices": [
+      "Like a deer panting for water",
+      "Like a bird seeking its nest",
+      "Like sheep without a shepherd",
+      "Like a tree by the water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 42,
+      "verse": "1"
+    },
+    "explanation": "As the deer pants for streams of water, so my soul pants for you, my God."
+  },
+  {
+    "id": "WIS-E-0030",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Ecclesiastes say about vanity?",
+    "choices": [
+      "Everything is meaningless",
+      "Pride leads to vanity",
+      "Vanity is foolishness",
+      "Vanity destroys"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "'Meaningless! Meaningless!' says the Teacher. 'Utterly meaningless! Everything is meaningless.'"
+  },
+  {
+    "id": "WIS-E-0031",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what is better than silver or gold?",
+    "choices": [
+      "Wisdom",
+      "Love",
+      "Righteousness",
+      "Knowledge"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 3,
+      "verse": "14"
+    },
+    "explanation": "For she is more profitable than silver and yields better returns than gold."
+  },
+  {
+    "id": "WIS-E-0032",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 1 say about the blessed person?",
+    "choices": [
+      "They delight in the law of the Lord",
+      "They are righteous",
+      "They do good works",
+      "They pray always"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "But whose delight is in the law of the Lord, and who meditates on his law day and night."
+  },
+  {
+    "id": "WIS-E-0033",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 23 call the Lord?",
+    "choices": [
+      "My shepherd",
+      "My rock",
+      "My fortress",
+      "My deliverer"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 23,
+      "verse": "1"
+    },
+    "explanation": "The Lord is my shepherd, I lack nothing."
+  },
+  {
+    "id": "WIS-E-0034",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what does a soft answer do?",
+    "choices": [
+      "Turns away wrath",
+      "Brings peace",
+      "Shows wisdom",
+      "Heals wounds"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verse": "1"
+    },
+    "explanation": "A soft answer turns away wrath, but a harsh word stirs up anger."
+  },
+  {
+    "id": "WIS-E-0035",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 46 say God is to us?",
+    "choices": [
+      "Our refuge and strength",
+      "Our shepherd",
+      "Our light",
+      "Our salvation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 46,
+      "verse": "1"
+    },
+    "explanation": "God is our refuge and strength, an ever-present help in trouble."
+  },
+  {
+    "id": "WIS-E-0036",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 119 say God's word is to our feet?",
+    "choices": [
+      "A lamp",
+      "A light",
+      "A guide",
+      "A path"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 119,
+      "verse": "105"
+    },
+    "explanation": "Your word is a lamp for my feet, a light on my path."
+  },
+  {
+    "id": "WIS-E-0037",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 100 tell us to enter His gates with?",
+    "choices": [
+      "Thanksgiving",
+      "Praise",
+      "Joy",
+      "Singing"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 100,
+      "verse": "4"
+    },
+    "explanation": "Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name."
+  },
+  {
+    "id": "WIS-E-0038",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Psalms, what does the Lord do for the brokenhearted?",
+    "choices": [
+      "He heals them",
+      "He comforts them",
+      "He strengthens them",
+      "He saves them"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 147,
+      "verse": "3"
+    },
+    "explanation": "He heals the brokenhearted and binds up their wounds."
+  },
+  {
+    "id": "WIS-E-0039",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say about the tongue?",
+    "choices": [
+      "It has the power of life and death",
+      "It can bless or curse",
+      "It should be guarded",
+      "It reveals the heart"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 18,
+      "verse": "21"
+    },
+    "explanation": "The tongue has the power of life and death, and those who love it will eat its fruit."
+  },
+  {
+    "id": "WIS-E-0040",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 34 say the Lord is near to?",
+    "choices": [
+      "The brokenhearted",
+      "The righteous",
+      "Those who seek Him",
+      "The faithful"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 34,
+      "verse": "18"
+    },
+    "explanation": "The Lord is close to the brokenhearted and saves those who are crushed in spirit."
+  },
+  {
+    "id": "WIS-E-0041",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what should you trust with all your heart?",
+    "choices": [
+      "The Lord",
+      "Wisdom",
+      "Understanding",
+      "Your faith"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 3,
+      "verse": "5"
+    },
+    "explanation": "Trust in the Lord with all your heart and lean not on your own understanding."
+  }
+]

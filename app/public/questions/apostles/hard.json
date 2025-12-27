@@ -1,0 +1,325 @@
+[
+  {
+    "id": "APO-H-0001",
+    "theme": "Apostles",
+    "question": "How many of Jesus' brothers are named in the Bible?",
+    "choices": [
+      "Four",
+      "Two",
+      "Three",
+      "Five"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 13,
+      "verse": "55"
+    },
+    "explanation": "Jesus' brothers were James, Joseph, Simon, and Judas (not Iscariot)."
+  },
+  {
+    "id": "APO-H-0002",
+    "theme": "Apostles",
+    "question": "What other name was Bartholomew known by?",
+    "choices": [
+      "Nathanael",
+      "Thaddaeus",
+      "Simon",
+      "Levi"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 1,
+      "verse": "45"
+    },
+    "explanation": "Bartholomew is believed to be the same person as Nathanael, whom Philip brought to Jesus."
+  },
+  {
+    "id": "APO-H-0003",
+    "theme": "Apostles",
+    "question": "Where was Paul when he had a vision of a man from Macedonia?",
+    "choices": [
+      "Troas",
+      "Athens",
+      "Corinth",
+      "Ephesus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 16,
+      "verse": "9"
+    },
+    "explanation": "During the night Paul had a vision of a man of Macedonia standing and begging him to come help them."
+  },
+  {
+    "id": "APO-H-0004",
+    "theme": "Apostles",
+    "question": "How many apostles wrote books of the New Testament?",
+    "choices": [
+      "Five or more",
+      "Three",
+      "Seven",
+      "All twelve"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "Matthew, John, Peter, James, and Jude (if counted) wrote New Testament books."
+  },
+  {
+    "id": "APO-H-0005",
+    "theme": "Apostles",
+    "question": "Which apostle was called 'the Zealot'?",
+    "choices": [
+      "Simon",
+      "Matthew",
+      "Philip",
+      "Bartholomew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Luke",
+      "chapter": 6,
+      "verse": "15"
+    },
+    "explanation": "Matthew, Thomas, James son of Alphaeus, Simon who was called the Zealot."
+  },
+  {
+    "id": "APO-H-0006",
+    "theme": "Apostles",
+    "question": "Which apostle was chosen to replace Judas Iscariot?",
+    "choices": [
+      "Matthias",
+      "Barnabas",
+      "Silas",
+      "Timothy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 1,
+      "verse": "26"
+    },
+    "explanation": "The apostles cast lots between Matthias and Justus, and Matthias was chosen to replace Judas."
+  },
+  {
+    "id": "APO-H-0007",
+    "theme": "Apostles",
+    "question": "Which apostle walked with Jesus on the road to Emmaus without recognizing him?",
+    "choices": [
+      "Cleopas",
+      "Thomas",
+      "Philip",
+      "Bartholomew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Luke",
+      "chapter": 24,
+      "verse": "18"
+    },
+    "explanation": "Cleopas and another disciple walked with Jesus to Emmaus, but their eyes were kept from recognizing him."
+  },
+  {
+    "id": "APO-H-0008",
+    "theme": "Apostles",
+    "question": "Who accompanied Paul to Athens?",
+    "choices": [
+      "Silas and Timothy",
+      "Barnabas and Mark",
+      "Luke and Titus",
+      "Peter and John"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 17,
+      "verse": "14-15"
+    },
+    "explanation": "Silas and Timothy stayed in Berea while Paul went to Athens, then joined him later."
+  },
+  {
+    "id": "APO-H-0009",
+    "theme": "Apostles",
+    "question": "How many years did Paul spend in Arabia after his conversion?",
+    "choices": [
+      "Three",
+      "One",
+      "Seven",
+      "Forty"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Galatians",
+      "chapter": 1,
+      "verse": "18"
+    },
+    "explanation": "Three years later Paul went up to Jerusalem to get acquainted with Peter."
+  },
+  {
+    "id": "APO-H-0010",
+    "theme": "Apostles",
+    "question": "Which apostle was a zealot?",
+    "choices": [
+      "Simon",
+      "Matthew",
+      "James",
+      "Bartholomew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Luke",
+      "chapter": 6,
+      "verse": "15"
+    },
+    "explanation": "Matthew, Thomas, James son of Alphaeus, Simon who was called the Zealot."
+  },
+  {
+    "id": "APO-H-0011",
+    "theme": "Apostles",
+    "question": "What was Bartholomew's other name?",
+    "choices": [
+      "Nathanael",
+      "Thaddaeus",
+      "Judas",
+      "Simon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 1,
+      "verse": "45"
+    },
+    "explanation": "Philip found Nathanael and told him, 'We have found the one Moses wrote about in the Law.'"
+  },
+  {
+    "id": "APO-H-0012",
+    "theme": "Apostles",
+    "question": "Which apostle is called 'the Lesser'?",
+    "choices": [
+      "James son of Alphaeus",
+      "James son of Zebedee",
+      "John",
+      "Jude"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Mark",
+      "chapter": 15,
+      "verse": "40"
+    },
+    "explanation": "Among them were Mary Magdalene, Mary the mother of James the younger and of Joseph, and Salome."
+  },
+  {
+    "id": "APO-H-0013",
+    "theme": "Apostles",
+    "question": "Which apostle questioned how they could afford to feed 5,000 people?",
+    "choices": [
+      "Philip",
+      "Andrew",
+      "Peter",
+      "Thomas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 6,
+      "verse": "7"
+    },
+    "explanation": "Philip answered him, 'It would take more than half a year's wages to buy enough bread for each one to have a bite!'"
+  },
+  {
+    "id": "APO-H-0014",
+    "theme": "Apostles",
+    "question": "What was Matthew also called?",
+    "choices": [
+      "Levi",
+      "Thaddaeus",
+      "Simon",
+      "Judas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Mark",
+      "chapter": 2,
+      "verse": "14"
+    },
+    "explanation": "As he walked along, he saw Levi son of Alphaeus sitting at the tax collector's booth."
+  },
+  {
+    "id": "APO-H-0015",
+    "theme": "Apostles",
+    "question": "Which apostle was known as Didymus?",
+    "choices": [
+      "Thomas",
+      "Bartholomew",
+      "Thaddaeus",
+      "Simon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 11,
+      "verse": "16"
+    },
+    "explanation": "Then Thomas (also known as Didymus) said to the rest of the disciples, 'Let us also go, that we may die with him.'"
+  },
+  {
+    "id": "APO-H-0016",
+    "theme": "Apostles",
+    "question": "Which apostle brought Greeks to see Jesus?",
+    "choices": [
+      "Philip",
+      "Andrew",
+      "Bartholomew",
+      "Thomas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 12,
+      "verse": "21-22"
+    },
+    "explanation": "They came to Philip with a request. 'Sir,' they said, 'we would like to see Jesus.' Philip went to tell Andrew; Andrew and Philip in turn told Jesus."
+  },
+  {
+    "id": "APO-H-0017",
+    "theme": "Apostles",
+    "question": "Which apostle asked Jesus to show them the Father?",
+    "choices": [
+      "Philip",
+      "Thomas",
+      "Andrew",
+      "Bartholomew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 14,
+      "verse": "8"
+    },
+    "explanation": "Philip said, 'Lord, show us the Father and that will be enough for us.'"
+  }
+]

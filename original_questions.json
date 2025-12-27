@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 1,
     "theme": "Miracles",
@@ -1487,7 +1487,7 @@
     "correctIndex": 0,
     "difficulty": "easy",
     "reference": {"book": "Genesis", "chapter": 1, "verse": "16"},
-    "explanation": "God made two great lights—the sun and the moon—and the stars on the fourth day."
+    "explanation": "God made two great lightsΓÇöthe sun and the moonΓÇöand the stars on the fourth day."
   },
   {
     "id": 150,
@@ -6437,7 +6437,7 @@
     "correctIndex": 0,
     "difficulty": "medium",
     "reference": {"book": "Acts", "chapter": 3, "verse": "1"},
-    "explanation": "One day Peter and John were going up to the temple at the time of prayer—at three in the afternoon."
+    "explanation": "One day Peter and John were going up to the temple at the time of prayerΓÇöat three in the afternoon."
   },
   {
     "id": 644,
@@ -6757,7 +6757,7 @@
     "correctIndex": 0,
     "difficulty": "easy",
     "reference": {"book": "Genesis", "chapter": 1, "verse": "31"},
-    "explanation": "God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day."
+    "explanation": "God saw all that he had made, and it was very good. And there was evening, and there was morningΓÇöthe sixth day."
   },
   {
     "id": 676,
@@ -6927,7 +6927,7 @@
     "correctIndex": 0,
     "difficulty": "medium",
     "reference": {"book": "Acts", "chapter": 8, "verse": "26"},
-    "explanation": "Now an angel of the Lord said to Philip, 'Go south to the road—the desert road—that goes down from Jerusalem to Gaza.'"
+    "explanation": "Now an angel of the Lord said to Philip, 'Go south to the roadΓÇöthe desert roadΓÇöthat goes down from Jerusalem to Gaza.'"
   },
   {
     "id": 693,
@@ -7067,7 +7067,7 @@
     "correctIndex": 0,
     "difficulty": "medium",
     "reference": {"book": "Ecclesiastes", "chapter": 3, "verse": "13"},
-    "explanation": "That each of them may eat and drink, and find satisfaction in all their toil—this is the gift of God."
+    "explanation": "That each of them may eat and drink, and find satisfaction in all their toilΓÇöthis is the gift of God."
   },
   {
     "id": 707,

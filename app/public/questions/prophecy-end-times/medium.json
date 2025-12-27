@@ -1,0 +1,705 @@
+[
+  {
+    "id": "END-M-0001",
+    "theme": "Prophecy & End Times",
+    "question": "In Revelation, what color is the horse that Death rides?",
+    "choices": [
+      "Pale",
+      "Black",
+      "Red",
+      "White"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 6,
+      "verse": "8"
+    },
+    "explanation": "Death rides a pale horse, and Hades follows with him, representing death and the grave."
+  },
+  {
+    "id": "END-M-0002",
+    "theme": "Prophecy & End Times",
+    "question": "How many seals are on the scroll in Revelation?",
+    "choices": [
+      "Seven",
+      "Four",
+      "Twelve",
+      "Ten"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 5,
+      "verse": "1"
+    },
+    "explanation": "The scroll sealed with seven seals is opened by the Lamb, revealing judgments and prophecies."
+  },
+  {
+    "id": "END-M-0003",
+    "theme": "Prophecy & End Times",
+    "question": "In Revelation, how many elders sit around the throne of God?",
+    "choices": [
+      "24",
+      "12",
+      "7",
+      "144"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 4,
+      "verse": "4"
+    },
+    "explanation": "Twenty-four elders sit on thrones around God's throne, dressed in white with golden crowns."
+  },
+  {
+    "id": "END-M-0004",
+    "theme": "Prophecy & End Times",
+    "question": "According to Revelation, what will be the number of those sealed from the tribes of Israel?",
+    "choices": [
+      "144,000",
+      "12,000",
+      "1,000,000",
+      "7,000"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 7,
+      "verse": "4"
+    },
+    "explanation": "144,000 from all the tribes of Israel will be sealed, 12,000 from each tribe."
+  },
+  {
+    "id": "END-M-0005",
+    "theme": "Prophecy & End Times",
+    "question": "What are the four horsemen of the Apocalypse commonly understood to represent?",
+    "choices": [
+      "Conquest, War, Famine, and Death",
+      "Pestilence, Plague, Destruction, and Judgment",
+      "Sin, Suffering, Sorrow, and Salvation",
+      "Fire, Flood, Earthquake, and Storm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 6,
+      "verse": "1-8"
+    },
+    "explanation": "The four horsemen ride white, red, black, and pale horses, representing conquest, war, famine, and death."
+  },
+  {
+    "id": "END-M-0006",
+    "theme": "Prophecy & End Times",
+    "question": "According to Jesus, what sign will appear in the sky before His return?",
+    "choices": [
+      "The sign of the Son of Man",
+      "A great star",
+      "A rainbow",
+      "Lightning"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 24,
+      "verse": "30"
+    },
+    "explanation": "Jesus said the sign of the Son of Man will appear in heaven, and all nations will see Him coming on the clouds."
+  },
+  {
+    "id": "END-M-0007",
+    "theme": "Prophecy & End Times",
+    "question": "How many trumpets are blown in the book of Revelation?",
+    "choices": [
+      "Seven",
+      "Four",
+      "Twelve",
+      "Ten"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 8,
+      "verse": "2"
+    },
+    "explanation": "Seven angels were given seven trumpets, each bringing judgment when blown."
+  },
+  {
+    "id": "END-M-0008",
+    "theme": "Prophecy & End Times",
+    "question": "In Daniel's vision, what came out of the sea?",
+    "choices": [
+      "Four great beasts",
+      "Seven dragons",
+      "Ten horns",
+      "A great fish"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 7,
+      "verse": "3"
+    },
+    "explanation": "Daniel saw four great beasts coming up out of the sea, representing different kingdoms."
+  },
+  {
+    "id": "END-M-0009",
+    "theme": "Prophecy & End Times",
+    "question": "What will NOT be in the New Jerusalem according to Revelation?",
+    "choices": [
+      "A temple",
+      "Streets of gold",
+      "The throne of God",
+      "The tree of life"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "22"
+    },
+    "explanation": "There will be no temple in the New Jerusalem because the Lord God Almighty and the Lamb are its temple."
+  },
+  {
+    "id": "END-M-0010",
+    "theme": "Prophecy & End Times",
+    "question": "What will happen to death in the end, according to Revelation?",
+    "choices": [
+      "It will be thrown into the lake of fire",
+      "It will flee",
+      "It will be defeated",
+      "It will surrender"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 20,
+      "verse": "14"
+    },
+    "explanation": "Death and Hades were thrown into the lake of fire. This is the second death."
+  },
+  {
+    "id": "END-M-0011",
+    "theme": "Prophecy & End Times",
+    "question": "According to Jesus, what will happen to the sun and moon before His return?",
+    "choices": [
+      "They will be darkened",
+      "They will fall",
+      "They will shine brighter",
+      "They will disappear"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 24,
+      "verse": "29"
+    },
+    "explanation": "Immediately after the tribulation, the sun will be darkened and the moon will not give its light."
+  },
+  {
+    "id": "END-M-0012",
+    "theme": "Prophecy & End Times",
+    "question": "What are the names of the two cities mentioned in Revelation?",
+    "choices": [
+      "Babylon and Jerusalem",
+      "Sodom and Gomorrah",
+      "Rome and Athens",
+      "Tyre and Sidon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 17,
+      "verse": "5"
+    },
+    "explanation": "Babylon the Great represents evil, while the New Jerusalem represents God's kingdom."
+  },
+  {
+    "id": "END-M-0013",
+    "theme": "Prophecy & End Times",
+    "question": "What will the saints do in heaven according to Revelation?",
+    "choices": [
+      "Reign with Christ",
+      "Rest forever",
+      "Sing songs",
+      "Walk streets of gold"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 20,
+      "verse": "6"
+    },
+    "explanation": "They will be priests of God and of Christ and will reign with him for a thousand years."
+  },
+  {
+    "id": "END-M-0014",
+    "theme": "Prophecy & End Times",
+    "question": "What did the merchants weep over in Revelation?",
+    "choices": [
+      "The fall of Babylon",
+      "The beast",
+      "The mark",
+      "The plagues"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 18,
+      "verse": "11"
+    },
+    "explanation": "The merchants of the earth will weep and mourn over Babylon because no one buys their cargoes anymore."
+  },
+  {
+    "id": "END-M-0015",
+    "theme": "Prophecy & End Times",
+    "question": "What comes out of Jesus' mouth in Revelation 19?",
+    "choices": [
+      "A sharp sword",
+      "Fire",
+      "Words of judgment",
+      "Thunder"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 19,
+      "verse": "15"
+    },
+    "explanation": "Coming out of his mouth is a sharp sword with which to strike down the nations."
+  },
+  {
+    "id": "END-M-0016",
+    "theme": "Prophecy & End Times",
+    "question": "What will be bound for a thousand years according to Revelation?",
+    "choices": [
+      "Satan",
+      "Death",
+      "Sin",
+      "The beast"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 20,
+      "verse": "2"
+    },
+    "explanation": "He seized the dragon, that ancient serpent who is Satan, and bound him for a thousand years."
+  },
+  {
+    "id": "END-M-0017",
+    "theme": "Prophecy & End Times",
+    "question": "What color horse does Jesus ride in Revelation 19?",
+    "choices": [
+      "White",
+      "Red",
+      "Black",
+      "Pale"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 19,
+      "verse": "11"
+    },
+    "explanation": "I saw heaven standing open and there before me was a white horse, whose rider is called Faithful and True."
+  },
+  {
+    "id": "END-M-0018",
+    "theme": "Prophecy & End Times",
+    "question": "What will happen when Jesus returns according to 1 Thessalonians?",
+    "choices": [
+      "The dead in Christ will rise first",
+      "The heavens will shake",
+      "The sun will darken",
+      "Mountains will fall"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Thessalonians",
+      "chapter": 4,
+      "verse": "16"
+    },
+    "explanation": "The dead in Christ will rise first. After that, we who are still alive will be caught up together with them."
+  },
+  {
+    "id": "END-M-0019",
+    "theme": "Prophecy & End Times",
+    "question": "According to Revelation, how many seals are on the scroll?",
+    "choices": [
+      "Seven",
+      "Ten",
+      "Twelve",
+      "Four"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 5,
+      "verse": "1"
+    },
+    "explanation": "Then I saw in the right hand of him who sat on the throne a scroll with writing on both sides and sealed with seven seals."
+  },
+  {
+    "id": "END-M-0020",
+    "theme": "Prophecy & End Times",
+    "question": "How many trumpets are mentioned in Revelation?",
+    "choices": [
+      "Seven",
+      "Ten",
+      "Twelve",
+      "Four"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 8,
+      "verse": "2"
+    },
+    "explanation": "And I saw the seven angels who stand before God, and seven trumpets were given to them."
+  },
+  {
+    "id": "END-M-0021",
+    "theme": "Prophecy & End Times",
+    "question": "What will happen to the dead in Christ when Jesus returns?",
+    "choices": [
+      "They will rise first",
+      "They will be judged",
+      "They will sleep",
+      "They will be transformed"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Thessalonians",
+      "chapter": 4,
+      "verse": "16"
+    },
+    "explanation": "For the Lord himself will come down from heaven, and the dead in Christ will rise first."
+  },
+  {
+    "id": "END-M-0022",
+    "theme": "Prophecy & End Times",
+    "question": "Which prophet saw a vision of four horsemen?",
+    "choices": [
+      "John (in Revelation)",
+      "Ezekiel",
+      "Daniel",
+      "Zechariah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 6,
+      "verse": "2"
+    },
+    "explanation": "John saw the four horsemen of the apocalypse representing conquest, war, famine, and death."
+  },
+  {
+    "id": "END-M-0023",
+    "theme": "Prophecy & End Times",
+    "question": "How many angels stand before God's throne in Revelation?",
+    "choices": [
+      "Seven",
+      "Four",
+      "Twelve",
+      "Twenty-four"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 8,
+      "verse": "2"
+    },
+    "explanation": "And I saw the seven angels who stand before God, and seven trumpets were given to them."
+  },
+  {
+    "id": "END-M-0024",
+    "theme": "Prophecy & End Times",
+    "question": "What does Revelation say will have no need of the sun or moon?",
+    "choices": [
+      "The New Jerusalem",
+      "The throne room",
+      "The sea of glass",
+      "The garden"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "23"
+    },
+    "explanation": "The city does not need the sun or moon to shine on it, for the glory of God gives it light."
+  },
+  {
+    "id": "END-M-0025",
+    "theme": "Prophecy & End Times",
+    "question": "What falls from the sky in Revelation during the third trumpet?",
+    "choices": [
+      "A great star",
+      "Fire",
+      "Hail",
+      "Locusts"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 8,
+      "verse": "10"
+    },
+    "explanation": "A great star, blazing like a torch, fell from the sky on a third of the rivers."
+  },
+  {
+    "id": "END-M-0026",
+    "theme": "Prophecy & End Times",
+    "question": "What falls on those who worship the beast?",
+    "choices": [
+      "Painful sores",
+      "Fire",
+      "Darkness",
+      "Hail"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 16,
+      "verse": "2"
+    },
+    "explanation": "The first angel poured out his bowl, and ugly, festering sores broke out on those who had the mark of the beast."
+  },
+  {
+    "id": "END-M-0027",
+    "theme": "Prophecy & End Times",
+    "question": "How many gates does the New Jerusalem have?",
+    "choices": [
+      "Twelve",
+      "Seven",
+      "Four",
+      "Twenty-four"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "12"
+    },
+    "explanation": "It had a great, high wall with twelve gates, and with twelve angels at the gates."
+  },
+  {
+    "id": "END-M-0028",
+    "theme": "Prophecy & End Times",
+    "question": "How many heads does the beast from the sea have?",
+    "choices": [
+      "Seven",
+      "Ten",
+      "Three",
+      "Twelve"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 13,
+      "verse": "1"
+    },
+    "explanation": "The dragon stood on the shore of the sea. And I saw a beast coming out of the sea. It had ten horns and seven heads."
+  },
+  {
+    "id": "END-M-0029",
+    "theme": "Prophecy & End Times",
+    "question": "What are the names on the twelve gates of the New Jerusalem?",
+    "choices": [
+      "The twelve tribes of Israel",
+      "The twelve apostles",
+      "The twelve prophets",
+      "The twelve patriarchs"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "12"
+    },
+    "explanation": "It had a great, high wall with twelve gates, and with twelve angels at the gates. On the gates were written the names of the twelve tribes of Israel."
+  },
+  {
+    "id": "END-M-0030",
+    "theme": "Prophecy & End Times",
+    "question": "Who is thrown into the lake of fire at the end?",
+    "choices": [
+      "Death and Hades",
+      "Satan",
+      "The beast and false prophet",
+      "All of these"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 20,
+      "verse": "14"
+    },
+    "explanation": "Then death and Hades were thrown into the lake of fire. The lake of fire is the second death."
+  },
+  {
+    "id": "END-M-0031",
+    "theme": "Prophecy & End Times",
+    "question": "How long will Satan be bound in the bottomless pit?",
+    "choices": [
+      "1,000 years",
+      "100 years",
+      "Forever",
+      "Seven years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 20,
+      "verse": "2"
+    },
+    "explanation": "He seized the dragon, that ancient serpent, who is the devil, or Satan, and bound him for a thousand years."
+  },
+  {
+    "id": "END-M-0032",
+    "theme": "Prophecy & End Times",
+    "question": "What does the river of life flow from in the New Jerusalem?",
+    "choices": [
+      "The throne of God and the Lamb",
+      "The temple",
+      "The gates",
+      "The foundation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 22,
+      "verse": "1"
+    },
+    "explanation": "Then the angel showed me the river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb."
+  },
+  {
+    "id": "END-M-0033",
+    "theme": "Prophecy & End Times",
+    "question": "What does the rider on the red horse take from the earth?",
+    "choices": [
+      "Peace",
+      "Life",
+      "Hope",
+      "Joy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 6,
+      "verse": "4"
+    },
+    "explanation": "Then another horse came out, a fiery red one. Its rider was given power to take peace from the earth and to make people kill each other."
+  },
+  {
+    "id": "END-M-0034",
+    "theme": "Prophecy & End Times",
+    "question": "What does the rider on the black horse hold?",
+    "choices": [
+      "A pair of scales",
+      "A sword",
+      "A bow",
+      "A sickle"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 6,
+      "verse": "5"
+    },
+    "explanation": "There before me was a black horse! Its rider was holding a pair of scales in his hand."
+  },
+  {
+    "id": "END-M-0035",
+    "theme": "Prophecy & End Times",
+    "question": "What comes down from heaven as a bride?",
+    "choices": [
+      "The New Jerusalem",
+      "The church",
+      "Israel",
+      "Heaven itself"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "2"
+    },
+    "explanation": "I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband."
+  },
+  {
+    "id": "END-M-0036",
+    "theme": "Prophecy & End Times",
+    "question": "What does the white horse rider represent?",
+    "choices": [
+      "Conquest",
+      "War",
+      "Famine",
+      "Death"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 6,
+      "verse": "2"
+    },
+    "explanation": "I looked, and there before me was a white horse! Its rider held a bow, and he was given a crown, and he rode out as a conqueror bent on conquest."
+  },
+  {
+    "id": "END-M-0037",
+    "theme": "Prophecy & End Times",
+    "question": "What does the black horse rider represent?",
+    "choices": [
+      "Famine",
+      "War",
+      "Conquest",
+      "Death"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 6,
+      "verse": "5-6"
+    },
+    "explanation": "Its rider was holding a pair of scales. Then I heard a voice say, 'Two pounds of wheat for a day's wages,' indicating famine."
+  }
+]

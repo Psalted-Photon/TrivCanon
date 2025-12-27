@@ -1,0 +1,515 @@
+[
+  {
+    "id": "MIR-E-0001",
+    "theme": "Miracles",
+    "question": "Who walked on water to meet Jesus during a storm?",
+    "choices": [
+      "Peter",
+      "John",
+      "James",
+      "Andrew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 14,
+      "verse": "29"
+    },
+    "explanation": "Peter stepped out of the boat and walked on the water toward Jesus, though he began to sink when he became afraid."
+  },
+  {
+    "id": "MIR-E-0002",
+    "theme": "Miracles",
+    "question": "What did Jesus turn water into at the wedding in Cana?",
+    "choices": [
+      "Wine",
+      "Oil",
+      "Milk",
+      "Honey"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 2,
+      "verse": "9"
+    },
+    "explanation": "Jesus performed his first miracle by turning water into wine at a wedding in Cana of Galilee."
+  },
+  {
+    "id": "MIR-E-0003",
+    "theme": "Miracles",
+    "question": "What did Jesus do to calm the storm on the Sea of Galilee?",
+    "choices": [
+      "Rebuked the wind and waves",
+      "Prayed to the Father",
+      "Commanded the disciples to row",
+      "Threw bread into the water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Mark",
+      "chapter": 4,
+      "verse": "39"
+    },
+    "explanation": "Jesus rebuked the wind and said to the waves, 'Quiet! Be still!' and the storm immediately ceased."
+  },
+  {
+    "id": "MIR-E-0004",
+    "theme": "Miracles",
+    "question": "Who did Jesus raise from the dead after he had been in the tomb for four days?",
+    "choices": [
+      "Lazarus",
+      "Jairus's daughter",
+      "The widow's son",
+      "Tabitha"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 11,
+      "verse": "43-44"
+    },
+    "explanation": "Jesus called out 'Lazarus, come forth!' and Lazarus came out of the tomb, wrapped in grave clothes."
+  },
+  {
+    "id": "MIR-E-0005",
+    "theme": "Miracles",
+    "question": "What did Jesus do when He came to Jairus's house?",
+    "choices": [
+      "Raised his daughter from the dead",
+      "Healed his wife",
+      "Cast out demons",
+      "Blessed his household"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Mark",
+      "chapter": 5,
+      "verse": "41-42"
+    },
+    "explanation": "Jesus took the girl by the hand and said 'Talitha koum!' and she immediately stood up and walked."
+  },
+  {
+    "id": "MIR-E-0006",
+    "theme": "Miracles",
+    "question": "What did Moses' staff turn into when he threw it on the ground?",
+    "choices": [
+      "A snake",
+      "A rod of fire",
+      "A sword",
+      "Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 4,
+      "verse": "3"
+    },
+    "explanation": "When Moses threw his staff on the ground, it became a snake, and when he grabbed it, it became a staff again."
+  },
+  {
+    "id": "MIR-E-0007",
+    "theme": "Miracles",
+    "question": "What happened to the Red Sea when Moses stretched out his hand?",
+    "choices": [
+      "It parted and became dry ground",
+      "It became blood",
+      "It flooded Egypt",
+      "Fish filled it"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 14,
+      "verse": "21"
+    },
+    "explanation": "Moses stretched out his hand and the Lord drove the sea back with a strong east wind, turning it into dry land."
+  },
+  {
+    "id": "MIR-E-0008",
+    "theme": "Miracles",
+    "question": "How long was Lazarus in the tomb before Jesus raised him?",
+    "choices": [
+      "Four days",
+      "Three days",
+      "One day",
+      "Seven days"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 11,
+      "verse": "17"
+    },
+    "explanation": "On his arrival, Jesus found that Lazarus had already been in the tomb for four days."
+  },
+  {
+    "id": "MIR-E-0009",
+    "theme": "Miracles",
+    "question": "Who was healed of leprosy by washing seven times in the Jordan?",
+    "choices": [
+      "Naaman",
+      "Gehazi",
+      "Miriam",
+      "A Samaritan"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 5,
+      "verse": "14"
+    },
+    "explanation": "Naaman dipped himself in the Jordan seven times and his flesh was restored like that of a young boy."
+  },
+  {
+    "id": "MIR-E-0010",
+    "theme": "Miracles",
+    "question": "What happened to Lot's wife when she looked back?",
+    "choices": [
+      "She became a pillar of salt",
+      "She was blinded",
+      "She fell down",
+      "She disappeared"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 19,
+      "verse": "26"
+    },
+    "explanation": "But Lot's wife looked back, and she became a pillar of salt."
+  },
+  {
+    "id": "MIR-E-0011",
+    "theme": "Miracles",
+    "question": "Who was struck blind on the road to Damascus?",
+    "choices": [
+      "Saul (Paul)",
+      "Peter",
+      "Ananias",
+      "Barnabas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Acts",
+      "chapter": 9,
+      "verse": "8"
+    },
+    "explanation": "Saul got up from the ground, but when he opened his eyes he could see nothing."
+  },
+  {
+    "id": "MIR-E-0012",
+    "theme": "Miracles",
+    "question": "What happened to the sun during Jesus' crucifixion?",
+    "choices": [
+      "Darkness covered the land",
+      "It stood still",
+      "It turned red",
+      "It disappeared"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 23,
+      "verse": "44"
+    },
+    "explanation": "It was now about noon, and darkness came over the whole land until three in the afternoon."
+  },
+  {
+    "id": "MIR-E-0013",
+    "theme": "Miracles",
+    "question": "What happened to the temple curtain when Jesus died?",
+    "choices": [
+      "It was torn in two from top to bottom",
+      "It caught fire",
+      "It turned white",
+      "It disappeared"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 27,
+      "verse": "51"
+    },
+    "explanation": "At that moment the curtain of the temple was torn in two from top to bottom."
+  },
+  {
+    "id": "MIR-E-0014",
+    "theme": "Miracles",
+    "question": "How many lepers did Jesus heal at once?",
+    "choices": [
+      "Ten",
+      "Seven",
+      "Twelve",
+      "Five"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 17,
+      "verse": "12"
+    },
+    "explanation": "As he was going into a village, ten men who had leprosy met him."
+  },
+  {
+    "id": "MIR-E-0015",
+    "theme": "Miracles",
+    "question": "Who was raised from the dead after being in the tomb for four days?",
+    "choices": [
+      "Lazarus",
+      "Jairus's daughter",
+      "Widow's son",
+      "Dorcas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 11,
+      "verse": "17"
+    },
+    "explanation": "On his arrival, Jesus found that Lazarus had already been in the tomb for four days."
+  },
+  {
+    "id": "MIR-E-0016",
+    "theme": "Miracles",
+    "question": "What did Jesus turn into wine?",
+    "choices": [
+      "Water",
+      "Grape juice",
+      "Vinegar",
+      "Milk"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 2,
+      "verse": "9"
+    },
+    "explanation": "The master of the banquet tasted the water that had been turned into wine."
+  },
+  {
+    "id": "MIR-E-0017",
+    "theme": "Miracles",
+    "question": "How many years had the woman with the issue of blood suffered before Jesus healed her?",
+    "choices": [
+      "12 years",
+      "7 years",
+      "18 years",
+      "5 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Mark",
+      "chapter": 5,
+      "verse": "25"
+    },
+    "explanation": "The woman had suffered from bleeding for twelve years before she touched Jesus' garment and was healed."
+  },
+  {
+    "id": "MIR-E-0018",
+    "theme": "Miracles",
+    "question": "What disease did the ten men have that Jesus healed?",
+    "choices": [
+      "Leprosy",
+      "Blindness",
+      "Paralysis",
+      "Fever"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 17,
+      "verse": "12"
+    },
+    "explanation": "Ten men who had leprosy met Jesus and called out to Him for mercy."
+  },
+  {
+    "id": "MIR-E-0019",
+    "theme": "Miracles",
+    "question": "What happened when Peter's mother-in-law was healed?",
+    "choices": [
+      "She got up and began to serve them",
+      "She praised God",
+      "She followed Jesus",
+      "She told everyone"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 8,
+      "verse": "15"
+    },
+    "explanation": "Jesus touched her hand and the fever left her, and she got up and began to wait on him."
+  },
+  {
+    "id": "MIR-E-0020",
+    "theme": "Miracles",
+    "question": "What did the woman with the issue of blood touch to be healed?",
+    "choices": [
+      "The edge of Jesus' cloak",
+      "Jesus' hand",
+      "Jesus' feet",
+      "A piece of Jesus' robe"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 8,
+      "verse": "44"
+    },
+    "explanation": "She came up behind him and touched the edge of his cloak, and immediately her bleeding stopped."
+  },
+  {
+    "id": "MIR-E-0021",
+    "theme": "Miracles",
+    "question": "How many times did Naaman have to dip in the Jordan to be healed?",
+    "choices": [
+      "Seven times",
+      "Three times",
+      "Ten times",
+      "Once"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 5,
+      "verse": "10"
+    },
+    "explanation": "Elisha sent a messenger to say to him, 'Go, wash yourself seven times in the Jordan.'"
+  },
+  {
+    "id": "MIR-E-0022",
+    "theme": "Miracles",
+    "question": "How many lepers were healed by Jesus, but only one returned to give thanks?",
+    "choices": [
+      "Ten",
+      "Seven",
+      "Five",
+      "Three"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 17,
+      "verse": "17"
+    },
+    "explanation": "Jesus asked, 'Were not all ten cleansed? Where are the other nine?'"
+  },
+  {
+    "id": "MIR-E-0023",
+    "theme": "Miracles",
+    "question": "What did Aaron's staff turn into before Pharaoh?",
+    "choices": [
+      "A serpent",
+      "A rod",
+      "A river",
+      "Fire"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 7,
+      "verse": "10"
+    },
+    "explanation": "Aaron threw his staff down in front of Pharaoh and his officials, and it became a snake."
+  },
+  {
+    "id": "MIR-E-0024",
+    "theme": "Miracles",
+    "question": "What did Jesus do to calm the storm?",
+    "choices": [
+      "Rebuked the wind and said, 'Peace, be still'",
+      "Prayed",
+      "Raised His hands",
+      "Spoke to the disciples"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Mark",
+      "chapter": 4,
+      "verse": "39"
+    },
+    "explanation": "He got up, rebuked the wind and said to the waves, 'Quiet! Be still!' Then the wind died down and it was completely calm."
+  },
+  {
+    "id": "MIR-E-0025",
+    "theme": "Miracles",
+    "question": "How long had the woman been bleeding when she touched Jesus' cloak?",
+    "choices": [
+      "Twelve years",
+      "Seven years",
+      "Ten years",
+      "Five years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Mark",
+      "chapter": 5,
+      "verse": "25"
+    },
+    "explanation": "And a woman was there who had been subject to bleeding for twelve years."
+  },
+  {
+    "id": "MIR-E-0026",
+    "theme": "Miracles",
+    "question": "What did Jesus say healed the woman with the issue of blood?",
+    "choices": [
+      "Your faith has healed you",
+      "Your prayer has healed you",
+      "Your suffering has healed you",
+      "The power of God has healed you"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Mark",
+      "chapter": 5,
+      "verse": "34"
+    },
+    "explanation": "He said to her, 'Daughter, your faith has healed you. Go in peace and be freed from your suffering.'"
+  },
+  {
+    "id": "MIR-E-0027",
+    "theme": "Miracles",
+    "question": "How did the paralyzed man get to Jesus?",
+    "choices": [
+      "Through the roof",
+      "Through the door",
+      "Through the window",
+      "Carried by servants"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Mark",
+      "chapter": 2,
+      "verse": "4"
+    },
+    "explanation": "Since they could not get him to Jesus because of the crowd, they made an opening in the roof above Jesus by digging through it and then lowered the mat the man was lying on."
+  }
+]

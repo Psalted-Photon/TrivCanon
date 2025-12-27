@@ -1,0 +1,401 @@
+[
+  {
+    "id": "CRE-M-0001",
+    "theme": "Creation & Origins",
+    "question": "What bird did Noah send out first from the ark?",
+    "choices": [
+      "A raven",
+      "A dove",
+      "An eagle",
+      "A sparrow"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 8,
+      "verse": "7"
+    },
+    "explanation": "Noah first sent out a raven, which kept flying back and forth until the water dried up."
+  },
+  {
+    "id": "CRE-M-0002",
+    "theme": "Creation & Origins",
+    "question": "Who was born holding his twin brother's heel?",
+    "choices": [
+      "Jacob",
+      "Esau",
+      "Cain",
+      "Abel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 25,
+      "verse": "26"
+    },
+    "explanation": "Jacob was born with his hand grasping Esau's heel, which is why he was named Jacob (meaning 'he grasps the heel')."
+  },
+  {
+    "id": "CRE-M-0003",
+    "theme": "Creation & Origins",
+    "question": "What kind of tree was in the middle of the Garden of Eden besides the tree of knowledge?",
+    "choices": [
+      "Tree of life",
+      "Tree of wisdom",
+      "Tree of heaven",
+      "Tree of glory"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "9"
+    },
+    "explanation": "In the middle of the garden were the tree of life and the tree of the knowledge of good and evil."
+  },
+  {
+    "id": "CRE-M-0004",
+    "theme": "Creation & Origins",
+    "question": "What covered the earth before God separated the waters?",
+    "choices": [
+      "Darkness and deep waters",
+      "Light",
+      "Clouds",
+      "Mist"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "The earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God hovered."
+  },
+  {
+    "id": "CRE-M-0005",
+    "theme": "Creation & Origins",
+    "question": "What did Enoch do that was unique among early humans?",
+    "choices": [
+      "Walked with God and was taken up without dying",
+      "Lived the longest",
+      "Built the first city",
+      "Invented music"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "24"
+    },
+    "explanation": "Enoch walked faithfully with God; then he was no more, because God took him away."
+  },
+  {
+    "id": "CRE-M-0006",
+    "theme": "Creation & Origins",
+    "question": "What did the serpent tell Eve would happen if she ate the fruit?",
+    "choices": [
+      "You will be like God, knowing good and evil",
+      "You will live forever",
+      "You will become powerful",
+      "You will gain wisdom"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "5"
+    },
+    "explanation": "For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil."
+  },
+  {
+    "id": "CRE-M-0007",
+    "theme": "Creation & Origins",
+    "question": "On which day did God create the sun, moon, and stars?",
+    "choices": [
+      "Fourth day",
+      "First day",
+      "Third day",
+      "Fifth day"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "16-19"
+    },
+    "explanation": "God made two great lights and the stars, and set them in the vault of the sky on the fourth day."
+  },
+  {
+    "id": "CRE-M-0008",
+    "theme": "Creation & Origins",
+    "question": "What did God create on the second day?",
+    "choices": [
+      "The sky/expanse",
+      "The land and seas",
+      "The sun and moon",
+      "Birds and fish"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "7"
+    },
+    "explanation": "God made the expanse and separated the water under it from the water above it, calling it 'sky.'"
+  },
+  {
+    "id": "CRE-M-0009",
+    "theme": "Creation & Origins",
+    "question": "What was Adam's job in the Garden of Eden?",
+    "choices": [
+      "To work it and take care of it",
+      "To name the animals",
+      "To guard the tree of life",
+      "To eat from every tree"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "15"
+    },
+    "explanation": "God placed Adam in the Garden of Eden to work it and take care of it."
+  },
+  {
+    "id": "CRE-M-0010",
+    "theme": "Creation & Origins",
+    "question": "What kind of tree was in the middle of the Garden of Eden?",
+    "choices": [
+      "Tree of life and tree of knowledge",
+      "Tree of wisdom",
+      "Tree of immortality",
+      "Tree of righteousness"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "9"
+    },
+    "explanation": "In the middle of the garden were the tree of life and the tree of the knowledge of good and evil."
+  },
+  {
+    "id": "CRE-M-0011",
+    "theme": "Creation & Origins",
+    "question": "What did God put in the east of Eden after expelling Adam?",
+    "choices": [
+      "Cherubim and a flaming sword",
+      "An angel",
+      "A wall",
+      "A river"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "24"
+    },
+    "explanation": "God placed cherubim and a flaming sword flashing back and forth to guard the way to the tree of life."
+  },
+  {
+    "id": "CRE-M-0012",
+    "theme": "Creation & Origins",
+    "question": "What was the name of the third son of Adam and Eve?",
+    "choices": [
+      "Seth",
+      "Abel",
+      "Cain",
+      "Enoch"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "25"
+    },
+    "explanation": "Adam made love to his wife again, and she gave birth to a son and named him Seth."
+  },
+  {
+    "id": "CRE-M-0013",
+    "theme": "Creation & Origins",
+    "question": "What did God place to guard the way to the tree of life?",
+    "choices": [
+      "Cherubim and a flaming sword",
+      "Angels",
+      "A wall of fire",
+      "Lightning"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "24"
+    },
+    "explanation": "He placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life."
+  },
+  {
+    "id": "CRE-M-0014",
+    "theme": "Creation & Origins",
+    "question": "What did the serpent say would happen if they ate from the forbidden tree?",
+    "choices": [
+      "Their eyes would be opened and they would be like God",
+      "They would die",
+      "They would live forever",
+      "They would gain wisdom"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "5"
+    },
+    "explanation": "For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil."
+  },
+  {
+    "id": "CRE-M-0015",
+    "theme": "Creation & Origins",
+    "question": "What was Cain's occupation?",
+    "choices": [
+      "A farmer",
+      "A shepherd",
+      "A hunter",
+      "A craftsman"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "2"
+    },
+    "explanation": "Now Abel kept flocks, and Cain worked the soil."
+  },
+  {
+    "id": "CRE-M-0016",
+    "theme": "Creation & Origins",
+    "question": "What two trees were in the middle of the Garden of Eden?",
+    "choices": [
+      "Tree of life and tree of knowledge of good and evil",
+      "Tree of life and tree of wisdom",
+      "Tree of knowledge and tree of death",
+      "Tree of life and tree of heaven"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "9"
+    },
+    "explanation": "In the middle of the garden were the tree of life and the tree of the knowledge of good and evil."
+  },
+  {
+    "id": "CRE-M-0017",
+    "theme": "Creation & Origins",
+    "question": "What happened to Enoch?",
+    "choices": [
+      "God took him away",
+      "He died",
+      "He was translated",
+      "He went to heaven"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "24"
+    },
+    "explanation": "Enoch walked faithfully with God; then he was no more, because God took him away."
+  },
+  {
+    "id": "CRE-M-0018",
+    "theme": "Creation & Origins",
+    "question": "What did God see about mankind that grieved His heart?",
+    "choices": [
+      "Their wickedness was great",
+      "They forgot Him",
+      "They were foolish",
+      "They were violent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 6,
+      "verse": "5"
+    },
+    "explanation": "The Lord saw how great the wickedness of the human race had become on the earth, and that every inclination of the thoughts of the human heart was only evil all the time."
+  },
+  {
+    "id": "CRE-M-0019",
+    "theme": "Creation & Origins",
+    "question": "What did God separate on the second day?",
+    "choices": [
+      "Waters above from waters below",
+      "Light from darkness",
+      "Land from sea",
+      "Day from night"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "6-7"
+    },
+    "explanation": "And God said, 'Let there be a vault between the waters to separate water from water.' So God made the vault and separated the water under the vault from the water above it."
+  },
+  {
+    "id": "CRE-M-0020",
+    "theme": "Creation & Origins",
+    "question": "What did God call the vault between the waters?",
+    "choices": [
+      "Sky",
+      "Heaven",
+      "Firmament",
+      "Air"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "8"
+    },
+    "explanation": "God called the vault 'sky.' And there was evening, and there was morning—the second day."
+  },
+  {
+    "id": "CRE-M-0021",
+    "theme": "Creation & Origins",
+    "question": "On which day did God create vegetation?",
+    "choices": [
+      "Third day",
+      "Second day",
+      "Fourth day",
+      "Fifth day"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "11-13"
+    },
+    "explanation": "Then God said, 'Let the land produce vegetation.' And there was evening, and there was morning—the third day."
+  }
+]

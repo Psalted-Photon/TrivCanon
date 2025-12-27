@@ -1,0 +1,515 @@
+[
+  {
+    "id": "APO-M-0001",
+    "theme": "Apostles",
+    "question": "Which two apostles were known as the 'Sons of Thunder'?",
+    "choices": [
+      "James and John",
+      "Peter and Andrew",
+      "Philip and Bartholomew",
+      "Simon and Judas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Mark",
+      "chapter": 3,
+      "verse": "17"
+    },
+    "explanation": "Jesus gave James and John, the sons of Zebedee, the name Boanerges, which means Sons of Thunder."
+  },
+  {
+    "id": "APO-M-0002",
+    "theme": "Apostles",
+    "question": "Which apostle replaced Judas Iscariot after the ascension?",
+    "choices": [
+      "Matthias",
+      "Barnabas",
+      "Silas",
+      "Timothy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 1,
+      "verse": "26"
+    },
+    "explanation": "The apostles cast lots between Matthias and Barsabbas, and Matthias was chosen to replace Judas."
+  },
+  {
+    "id": "APO-M-0003",
+    "theme": "Apostles",
+    "question": "Which apostle is believed to have written five books of the New Testament?",
+    "choices": [
+      "John",
+      "Peter",
+      "Paul",
+      "Matthew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 21,
+      "verse": "24"
+    },
+    "explanation": "John wrote the Gospel of John, 1 John, 2 John, 3 John, and Revelation."
+  },
+  {
+    "id": "APO-M-0004",
+    "theme": "Apostles",
+    "question": "Which apostle was known as 'the Zealot'?",
+    "choices": [
+      "Simon",
+      "Matthew",
+      "James",
+      "Judas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 6,
+      "verse": "15"
+    },
+    "explanation": "Simon the Zealot was one of the twelve apostles, distinguished from Simon Peter by this title."
+  },
+  {
+    "id": "APO-M-0005",
+    "theme": "Apostles",
+    "question": "What was the apostle Paul's occupation before becoming a missionary?",
+    "choices": [
+      "Tentmaker",
+      "Fisherman",
+      "Tax collector",
+      "Carpenter"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 18,
+      "verse": "3"
+    },
+    "explanation": "Paul worked as a tentmaker and practiced this trade even during his missionary journeys."
+  },
+  {
+    "id": "APO-M-0006",
+    "theme": "Apostles",
+    "question": "Which apostle was a physician?",
+    "choices": [
+      "Luke",
+      "Matthew",
+      "Mark",
+      "Paul"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Colossians",
+      "chapter": 4,
+      "verse": "14"
+    },
+    "explanation": "Paul refers to Luke as 'our dear friend Luke, the doctor' in his letter to the Colossians."
+  },
+  {
+    "id": "APO-M-0007",
+    "theme": "Apostles",
+    "question": "Which apostle brought Nathanael to Jesus?",
+    "choices": [
+      "Philip",
+      "Andrew",
+      "Peter",
+      "John"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 1,
+      "verse": "45"
+    },
+    "explanation": "Philip found Nathanael and told him 'We have found the one Moses wrote about in the Law.'"
+  },
+  {
+    "id": "APO-M-0008",
+    "theme": "Apostles",
+    "question": "Which apostle was present at the Transfiguration along with Peter and John?",
+    "choices": [
+      "James",
+      "Andrew",
+      "Matthew",
+      "Thomas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 17,
+      "verse": "1"
+    },
+    "explanation": "Jesus took Peter, James, and John up a high mountain where He was transfigured before them."
+  },
+  {
+    "id": "APO-M-0009",
+    "theme": "Apostles",
+    "question": "What was Matthew's other name?",
+    "choices": [
+      "Levi",
+      "Thaddaeus",
+      "Judas",
+      "Simon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Mark",
+      "chapter": 2,
+      "verse": "14"
+    },
+    "explanation": "Jesus saw Levi son of Alphaeus sitting at the tax collector's booth and called him to follow."
+  },
+  {
+    "id": "APO-M-0010",
+    "theme": "Apostles",
+    "question": "Who did Paul take on his second missionary journey?",
+    "choices": [
+      "Silas",
+      "Barnabas",
+      "Timothy",
+      "Titus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 15,
+      "verse": "40"
+    },
+    "explanation": "Paul chose Silas and left, commended by the believers to the grace of the Lord."
+  },
+  {
+    "id": "APO-M-0011",
+    "theme": "Apostles",
+    "question": "Which apostle was called by Jesus from under a fig tree?",
+    "choices": [
+      "Nathanael",
+      "Philip",
+      "Matthew",
+      "James"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 1,
+      "verse": "48"
+    },
+    "explanation": "Jesus said to Nathanael, 'I saw you while you were still under the fig tree.'"
+  },
+  {
+    "id": "APO-M-0012",
+    "theme": "Apostles",
+    "question": "What happened to Ananias and Sapphira when they lied to Peter?",
+    "choices": [
+      "They both died",
+      "They were expelled",
+      "They repented",
+      "They were forgiven"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 5,
+      "verse": "5-10"
+    },
+    "explanation": "When they heard this, they fell down and died for lying to the Holy Spirit."
+  },
+  {
+    "id": "APO-M-0013",
+    "theme": "Apostles",
+    "question": "Who traveled with Paul on his first missionary journey?",
+    "choices": [
+      "Barnabas",
+      "Silas",
+      "Timothy",
+      "Titus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 13,
+      "verse": "2"
+    },
+    "explanation": "The Holy Spirit said, 'Set apart for me Barnabas and Saul for the work to which I have called them.'"
+  },
+  {
+    "id": "APO-M-0014",
+    "theme": "Apostles",
+    "question": "What were James and John nicknamed?",
+    "choices": [
+      "Sons of Thunder",
+      "Sons of Light",
+      "Sons of Peace",
+      "Sons of David"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Mark",
+      "chapter": 3,
+      "verse": "17"
+    },
+    "explanation": "James son of Zebedee and his brother John (to them he gave the name Boanerges, which means 'sons of thunder')."
+  },
+  {
+    "id": "APO-M-0015",
+    "theme": "Apostles",
+    "question": "Who was with Peter when the lame beggar was healed?",
+    "choices": [
+      "John",
+      "James",
+      "Andrew",
+      "Philip"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 3,
+      "verse": "1"
+    },
+    "explanation": "One day Peter and John were going up to the temple at the time of prayer."
+  },
+  {
+    "id": "APO-M-0016",
+    "theme": "Apostles",
+    "question": "Which apostle brought his brother Simon Peter to Jesus?",
+    "choices": [
+      "Andrew",
+      "James",
+      "John",
+      "Philip"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 1,
+      "verse": "41"
+    },
+    "explanation": "Andrew found his brother Simon and brought him to Jesus, saying 'We have found the Messiah.'"
+  },
+  {
+    "id": "APO-M-0017",
+    "theme": "Apostles",
+    "question": "Which two apostles were called 'Sons of Thunder'?",
+    "choices": [
+      "James and John",
+      "Peter and Andrew",
+      "Philip and Bartholomew",
+      "Thomas and Matthew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Mark",
+      "chapter": 3,
+      "verse": "17"
+    },
+    "explanation": "Jesus gave James and John, the sons of Zebedee, the name Boanerges, which means Sons of Thunder."
+  },
+  {
+    "id": "APO-M-0018",
+    "theme": "Apostles",
+    "question": "Which apostle suggested replacing Judas?",
+    "choices": [
+      "Peter",
+      "John",
+      "James",
+      "Andrew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 1,
+      "verse": "15"
+    },
+    "explanation": "Peter stood up among the believers and proposed they choose someone to replace Judas."
+  },
+  {
+    "id": "APO-M-0019",
+    "theme": "Apostles",
+    "question": "Which two apostles ran to Jesus' tomb?",
+    "choices": [
+      "Peter and John",
+      "Peter and James",
+      "John and Andrew",
+      "James and John"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 20,
+      "verse": "3-4"
+    },
+    "explanation": "Peter and the other disciple (John) started for the tomb. Both were running."
+  },
+  {
+    "id": "APO-M-0020",
+    "theme": "Apostles",
+    "question": "Who was with Peter when he healed the lame beggar?",
+    "choices": [
+      "John",
+      "James",
+      "Andrew",
+      "Philip"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 3,
+      "verse": "1"
+    },
+    "explanation": "One day Peter and John were going up to the temple at the time of prayer—at three in the afternoon."
+  },
+  {
+    "id": "APO-M-0021",
+    "theme": "Apostles",
+    "question": "Which apostle was present when Jesus raised Jairus' daughter?",
+    "choices": [
+      "Peter, James, and John",
+      "All twelve apostles",
+      "Peter and John",
+      "Peter alone"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 8,
+      "verse": "51"
+    },
+    "explanation": "He did not let anyone go in with him except Peter, John and James, and the child's father and mother."
+  },
+  {
+    "id": "APO-M-0022",
+    "theme": "Apostles",
+    "question": "Who replaced Judas Iscariot as the twelfth apostle?",
+    "choices": [
+      "Matthias",
+      "Barnabas",
+      "Paul",
+      "Mark"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 1,
+      "verse": "26"
+    },
+    "explanation": "Then they cast lots, and the lot fell to Matthias; so he was added to the eleven apostles."
+  },
+  {
+    "id": "APO-M-0023",
+    "theme": "Apostles",
+    "question": "Which apostle was martyred by Herod Agrippa?",
+    "choices": [
+      "James son of Zebedee",
+      "Peter",
+      "John",
+      "Stephen"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 12,
+      "verse": "2"
+    },
+    "explanation": "He had James, the brother of John, put to death with the sword."
+  },
+  {
+    "id": "APO-M-0024",
+    "theme": "Apostles",
+    "question": "How many days after His resurrection did Jesus appear to the disciples?",
+    "choices": [
+      "Multiple times over forty days",
+      "One day",
+      "Seven days",
+      "Three days"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 1,
+      "verse": "3"
+    },
+    "explanation": "After his suffering, he presented himself to them and gave many convincing proofs that he was alive. He appeared to them over a period of forty days."
+  },
+  {
+    "id": "APO-M-0025",
+    "theme": "Apostles",
+    "question": "Which apostle said, 'Lord, to whom shall we go? You have the words of eternal life'?",
+    "choices": [
+      "Peter",
+      "John",
+      "James",
+      "Andrew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 6,
+      "verse": "68"
+    },
+    "explanation": "Simon Peter answered him, 'Lord, to whom shall we go? You have the words of eternal life.'"
+  },
+  {
+    "id": "APO-M-0026",
+    "theme": "Apostles",
+    "question": "Which apostle leaned on Jesus' breast at the Last Supper?",
+    "choices": [
+      "John",
+      "Peter",
+      "James",
+      "Judas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 13,
+      "verse": "23"
+    },
+    "explanation": "One of them, the disciple whom Jesus loved, was reclining next to him."
+  },
+  {
+    "id": "APO-M-0027",
+    "theme": "Apostles",
+    "question": "Who was the first apostle to be martyred?",
+    "choices": [
+      "James son of Zebedee",
+      "Stephen",
+      "Peter",
+      "Paul"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 12,
+      "verse": "2"
+    },
+    "explanation": "He had James, the brother of John, put to death with the sword."
+  }
+]

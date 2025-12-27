@@ -1,0 +1,515 @@
+[
+  {
+    "id": "PRO-H-0001",
+    "theme": "Prophets",
+    "question": "Which prophet was told by God not to marry or have children as a sign to Israel?",
+    "choices": [
+      "Jeremiah",
+      "Ezekiel",
+      "Hosea",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 16,
+      "verse": "2"
+    },
+    "explanation": "God commanded Jeremiah not to marry or have children as a prophetic sign of coming judgment."
+  },
+  {
+    "id": "PRO-H-0002",
+    "theme": "Prophets",
+    "question": "Which prophet was commanded by God to marry an unfaithful woman as a symbol of Israel's unfaithfulness?",
+    "choices": [
+      "Hosea",
+      "Jeremiah",
+      "Amos",
+      "Joel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Hosea",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "God told Hosea to marry Gomer, a prostitute, to illustrate Israel's spiritual adultery against God."
+  },
+  {
+    "id": "PRO-H-0003",
+    "theme": "Prophets",
+    "question": "Which prophet's bones brought a dead man back to life when the body touched them?",
+    "choices": [
+      "Elisha",
+      "Elijah",
+      "Samuel",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 13,
+      "verse": "21"
+    },
+    "explanation": "When a dead man was thrown into Elisha's tomb and touched his bones, the man came to life and stood up."
+  },
+  {
+    "id": "PRO-H-0004",
+    "theme": "Prophets",
+    "question": "Which prophet had a vision of a plumb line?",
+    "choices": [
+      "Amos",
+      "Micah",
+      "Habakkuk",
+      "Zephaniah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Amos",
+      "chapter": 7,
+      "verse": "7-8"
+    },
+    "explanation": "God showed Amos a plumb line to illustrate that He was measuring Israel's righteousness."
+  },
+  {
+    "id": "PRO-H-0005",
+    "theme": "Prophets",
+    "question": "What did God command Hosea to name his daughter to symbolize Israel's condition?",
+    "choices": [
+      "Lo-Ruhamah (not loved)",
+      "Lo-Ammi (not my people)",
+      "Gomer",
+      "Jezreel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Hosea",
+      "chapter": 1,
+      "verse": "6"
+    },
+    "explanation": "God told Hosea to name his daughter Lo-Ruhamah, meaning 'not loved,' symbolizing God's rejection of Israel."
+  },
+  {
+    "id": "PRO-H-0006",
+    "theme": "Prophets",
+    "question": "Which prophet's wife was called 'the prophetess'?",
+    "choices": [
+      "Isaiah's",
+      "Jeremiah's",
+      "Ezekiel's",
+      "Hosea's"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 8,
+      "verse": "3"
+    },
+    "explanation": "Isaiah went to the prophetess, and she conceived and gave birth to a son."
+  },
+  {
+    "id": "PRO-H-0007",
+    "theme": "Prophets",
+    "question": "Which prophet prophesied that Rachel would weep for her children?",
+    "choices": [
+      "Jeremiah",
+      "Isaiah",
+      "Hosea",
+      "Micah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 31,
+      "verse": "15"
+    },
+    "explanation": "A voice is heard in Ramah, Rachel weeping for her children and refusing to be comforted."
+  },
+  {
+    "id": "PRO-H-0008",
+    "theme": "Prophets",
+    "question": "Which prophet was told to lie on his left side for 390 days?",
+    "choices": [
+      "Ezekiel",
+      "Jeremiah",
+      "Isaiah",
+      "Daniel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 4,
+      "verse": "5"
+    },
+    "explanation": "God told Ezekiel to lie on his left side for 390 days to bear the sin of Israel."
+  },
+  {
+    "id": "PRO-H-0009",
+    "theme": "Prophets",
+    "question": "Which prophet was told he would not see death before seeing the Messiah?",
+    "choices": [
+      "Simeon",
+      "Zechariah",
+      "John the Baptist",
+      "Malachi"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Luke",
+      "chapter": 2,
+      "verse": "26"
+    },
+    "explanation": "It had been revealed to Simeon that he would not die before he had seen the Lord's Messiah."
+  },
+  {
+    "id": "PRO-H-0010",
+    "theme": "Prophets",
+    "question": "Who prophesied while standing in a basket of summer fruit?",
+    "choices": [
+      "Amos",
+      "Hosea",
+      "Joel",
+      "Obadiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Amos",
+      "chapter": 8,
+      "verse": "1"
+    },
+    "explanation": "God showed Amos a basket of summer fruit as a sign that the end had come for Israel."
+  },
+  {
+    "id": "PRO-H-0011",
+    "theme": "Prophets",
+    "question": "Which prophet witnessed the glory of the Lord departing from the temple?",
+    "choices": [
+      "Ezekiel",
+      "Jeremiah",
+      "Isaiah",
+      "Daniel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 10,
+      "verse": "18"
+    },
+    "explanation": "Then the glory of the Lord departed from over the threshold of the temple."
+  },
+  {
+    "id": "PRO-H-0012",
+    "theme": "Prophets",
+    "question": "Which prophet was commanded to buy a field while Jerusalem was under siege?",
+    "choices": [
+      "Jeremiah",
+      "Isaiah",
+      "Ezekiel",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 32,
+      "verse": "7"
+    },
+    "explanation": "God told Jeremiah to buy the field in Anathoth as a sign that houses and fields would be bought again."
+  },
+  {
+    "id": "PRO-H-0013",
+    "theme": "Prophets",
+    "question": "Which prophet had a son named Maher-Shalal-Hash-Baz?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 8,
+      "verse": "3"
+    },
+    "explanation": "The prophetess gave birth to a son, and the Lord said to name him Maher-Shalal-Hash-Baz."
+  },
+  {
+    "id": "PRO-H-0014",
+    "theme": "Prophets",
+    "question": "Which prophet saw a vision of a lion, ox, man, and eagle?",
+    "choices": [
+      "Ezekiel",
+      "Daniel",
+      "Isaiah",
+      "Zechariah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verse": "10"
+    },
+    "explanation": "Ezekiel saw four living creatures, each with four faces: man, lion, ox, and eagle."
+  },
+  {
+    "id": "PRO-H-0015",
+    "theme": "Prophets",
+    "question": "Which prophet saw a vision of a man with a measuring line?",
+    "choices": [
+      "Zechariah",
+      "Ezekiel",
+      "Daniel",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Zechariah",
+      "chapter": 2,
+      "verse": "1"
+    },
+    "explanation": "Then I looked up, and there before me was a man with a measuring line in his hand."
+  },
+  {
+    "id": "PRO-H-0016",
+    "theme": "Prophets",
+    "question": "Which prophet saw a vision of a plumb line?",
+    "choices": [
+      "Amos",
+      "Micah",
+      "Habakkuk",
+      "Zephaniah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Amos",
+      "chapter": 7,
+      "verse": "7-8"
+    },
+    "explanation": "The Lord was standing by a wall with a plumb line in his hand, showing judgment against Israel."
+  },
+  {
+    "id": "PRO-H-0017",
+    "theme": "Prophets",
+    "question": "Which prophet was lowered into a muddy cistern?",
+    "choices": [
+      "Jeremiah",
+      "Isaiah",
+      "Ezekiel",
+      "Daniel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 38,
+      "verse": "6"
+    },
+    "explanation": "They lowered Jeremiah by ropes into the cistern; it had no water in it, only mud, and Jeremiah sank down into the mud."
+  },
+  {
+    "id": "PRO-H-0018",
+    "theme": "Prophets",
+    "question": "Which prophet was commanded to cook food over human dung?",
+    "choices": [
+      "Ezekiel",
+      "Jeremiah",
+      "Hosea",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 4,
+      "verse": "12"
+    },
+    "explanation": "Eat the food as you would a loaf of barley bread; bake it in the sight of the people, using human excrement for fuel."
+  },
+  {
+    "id": "PRO-H-0019",
+    "theme": "Prophets",
+    "question": "Which prophet was told not to mourn when his wife died?",
+    "choices": [
+      "Ezekiel",
+      "Hosea",
+      "Jeremiah",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 24,
+      "verse": "16"
+    },
+    "explanation": "Son of man, with one blow I am about to take away from you the delight of your eyes. Yet do not lament or weep or shed any tears."
+  },
+  {
+    "id": "PRO-H-0020",
+    "theme": "Prophets",
+    "question": "Which prophet walked around naked for three years as a sign?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 20,
+      "verse": "3"
+    },
+    "explanation": "Then the Lord said, 'Just as my servant Isaiah has gone stripped and barefoot for three years, as a sign and portent against Egypt and Cush.'"
+  },
+  {
+    "id": "PRO-H-0021",
+    "theme": "Prophets",
+    "question": "Which prophet's name means 'Yahweh is God'?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verse": "1"
+    },
+    "explanation": "Elijah's name in Hebrew means 'Yahweh is God,' reflecting his mission to turn Israel back to the true God."
+  },
+  {
+    "id": "PRO-H-0022",
+    "theme": "Prophets",
+    "question": "Which prophet was called while plowing with twelve yoke of oxen?",
+    "choices": [
+      "Elisha",
+      "Elijah",
+      "Amos",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 19,
+      "verse": "19"
+    },
+    "explanation": "So Elijah went from there and found Elisha son of Shaphat. He was plowing with twelve yoke of oxen, and he himself was driving the twelfth pair."
+  },
+  {
+    "id": "PRO-H-0023",
+    "theme": "Prophets",
+    "question": "Which prophet was a shepherd from Tekoa?",
+    "choices": [
+      "Amos",
+      "Hosea",
+      "Micah",
+      "Habakkuk"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Amos",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "The words of Amos, one of the shepherds of Tekoa."
+  },
+  {
+    "id": "PRO-H-0024",
+    "theme": "Prophets",
+    "question": "Which prophet was told to name his son 'Not my people'?",
+    "choices": [
+      "Hosea",
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Hosea",
+      "chapter": 1,
+      "verse": "9"
+    },
+    "explanation": "Then the Lord said, 'Call him Lo-Ammi (which means \"not my people\"), for you are not my people, and I am not your God.'"
+  },
+  {
+    "id": "PRO-H-0025",
+    "theme": "Prophets",
+    "question": "Which prophet prophesied for exactly two years?",
+    "choices": [
+      "Haggai",
+      "Zechariah",
+      "Malachi",
+      "Obadiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Haggai",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "Haggai's ministry lasted from the second to the fourth year of King Darius, approximately two years."
+  },
+  {
+    "id": "PRO-H-0026",
+    "theme": "Prophets",
+    "question": "Which prophet has the shortest book in the Old Testament?",
+    "choices": [
+      "Obadiah",
+      "Haggai",
+      "Nahum",
+      "Malachi"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Obadiah",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "The book of Obadiah has only one chapter with 21 verses, making it the shortest book in the Old Testament."
+  },
+  {
+    "id": "PRO-H-0027",
+    "theme": "Prophets",
+    "question": "Which prophet prophesied against Nineveh?",
+    "choices": [
+      "Nahum",
+      "Jonah",
+      "Micah",
+      "Habakkuk"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Nahum",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "A prophecy concerning Nineveh. The book of the vision of Nahum the Elkoshite."
+  }
+]

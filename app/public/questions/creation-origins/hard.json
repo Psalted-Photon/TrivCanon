@@ -1,0 +1,230 @@
+[
+  {
+    "id": "CRE-H-0001",
+    "theme": "Creation & Origins",
+    "question": "How many of each clean animal did Noah take on the ark?",
+    "choices": [
+      "Seven pairs",
+      "One pair",
+      "Two pairs",
+      "Three pairs"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 7,
+      "verse": "2"
+    },
+    "explanation": "Noah took seven pairs of clean animals and one pair of unclean animals onto the ark."
+  },
+  {
+    "id": "CRE-H-0002",
+    "theme": "Creation & Origins",
+    "question": "Who was the father of Noah?",
+    "choices": [
+      "Lamech",
+      "Methuselah",
+      "Enoch",
+      "Seth"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "29"
+    },
+    "explanation": "Lamech was Noah's father and said Noah would comfort them in the work of their hands."
+  },
+  {
+    "id": "CRE-H-0003",
+    "theme": "Creation & Origins",
+    "question": "What was the name of the city Cain built?",
+    "choices": [
+      "Enoch",
+      "Nod",
+      "Eden",
+      "Babel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "17"
+    },
+    "explanation": "Cain built a city and named it after his son Enoch."
+  },
+  {
+    "id": "CRE-H-0004",
+    "theme": "Creation & Origins",
+    "question": "What was the mark that God put on Cain?",
+    "choices": [
+      "The Bible doesn't specify",
+      "A scar",
+      "A tattoo",
+      "A brand"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "15"
+    },
+    "explanation": "The Lord put a mark on Cain so that no one who found him would kill him, but the nature of the mark is not described."
+  },
+  {
+    "id": "CRE-H-0005",
+    "theme": "Creation & Origins",
+    "question": "Who was the father of Methuselah?",
+    "choices": [
+      "Enoch",
+      "Noah",
+      "Lamech",
+      "Jared"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "21"
+    },
+    "explanation": "When Enoch had lived 65 years, he became the father of Methuselah."
+  },
+  {
+    "id": "CRE-H-0006",
+    "theme": "Creation & Origins",
+    "question": "Who was the father of all who play stringed instruments and pipes?",
+    "choices": [
+      "Jubal",
+      "Tubal-Cain",
+      "Jabal",
+      "Cain"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "21"
+    },
+    "explanation": "Jubal was the father of all who play stringed instruments and pipes."
+  },
+  {
+    "id": "CRE-H-0007",
+    "theme": "Creation & Origins",
+    "question": "How old was Methuselah when he died?",
+    "choices": [
+      "969 years",
+      "900 years",
+      "777 years",
+      "365 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "27"
+    },
+    "explanation": "Altogether, Methuselah lived a total of 969 years, and then he died."
+  },
+  {
+    "id": "CRE-H-0008",
+    "theme": "Creation & Origins",
+    "question": "Who was the first person to build a city?",
+    "choices": [
+      "Cain",
+      "Enoch",
+      "Lamech",
+      "Noah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "17"
+    },
+    "explanation": "Cain was then building a city, and he named it after his son Enoch."
+  },
+  {
+    "id": "CRE-H-0009",
+    "theme": "Creation & Origins",
+    "question": "Where did Cain go after killing Abel?",
+    "choices": [
+      "The land of Nod",
+      "Egypt",
+      "Babylon",
+      "Canaan"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "16"
+    },
+    "explanation": "So Cain went out from the Lord's presence and lived in the land of Nod, east of Eden."
+  },
+  {
+    "id": "CRE-H-0010",
+    "theme": "Creation & Origins",
+    "question": "Who was the father of Enoch?",
+    "choices": [
+      "Jared",
+      "Seth",
+      "Cain",
+      "Adam"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "18"
+    },
+    "explanation": "When Jared had lived 162 years, he became the father of Enoch."
+  },
+  {
+    "id": "CRE-H-0011",
+    "theme": "Creation & Origins",
+    "question": "How many years did Enoch live before God took him?",
+    "choices": [
+      "365 years",
+      "969 years",
+      "777 years",
+      "120 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "23"
+    },
+    "explanation": "Altogether, Enoch lived a total of 365 years."
+  },
+  {
+    "id": "CRE-H-0012",
+    "theme": "Creation & Origins",
+    "question": "What river flowed through Eden?",
+    "choices": [
+      "A river that separated into four headwaters",
+      "The Jordan",
+      "The Euphrates",
+      "The Nile"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "10"
+    },
+    "explanation": "A river watering the garden flowed from Eden; from there it was separated into four headwaters."
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "id": "END-E-0001",
+    "theme": "Prophecy & End Times",
+    "question": "What did Jesus say no one knows, not even the angels in heaven?",
+    "choices": [
+      "The day and hour of His return",
+      "The names in the Book of Life",
+      "The depth of God's love",
+      "The number of stars"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 24,
+      "verse": "36"
+    },
+    "explanation": "Jesus said that about the day or hour of His return, no one knows except the Father alone."
+  },
+  {
+    "id": "END-E-0002",
+    "theme": "Prophecy & End Times",
+    "question": "What did John see coming down from heaven in Revelation 21?",
+    "choices": [
+      "The New Jerusalem",
+      "The throne of God",
+      "Angels with trumpets",
+      "The Book of Life"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "2"
+    },
+    "explanation": "John saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride."
+  },
+  {
+    "id": "END-E-0003",
+    "theme": "Prophecy & End Times",
+    "question": "What does the prophet Joel say God will pour out on all people?",
+    "choices": [
+      "His Spirit",
+      "His wrath",
+      "His blessing",
+      "His mercy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joel",
+      "chapter": 2,
+      "verse": "28"
+    },
+    "explanation": "God promised to pour out His Spirit on all people, and their sons and daughters will prophesy."
+  },
+  {
+    "id": "END-E-0004",
+    "theme": "Prophecy & End Times",
+    "question": "What will God wipe away from every eye in the new heaven and earth?",
+    "choices": [
+      "Every tear",
+      "Every sin",
+      "Every memory",
+      "Every sorrow"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "4"
+    },
+    "explanation": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain."
+  },
+  {
+    "id": "END-E-0005",
+    "theme": "Prophecy & End Times",
+    "question": "What is the number of the Beast in Revelation?",
+    "choices": [
+      "666",
+      "777",
+      "1000",
+      "144"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 13,
+      "verse": "18"
+    },
+    "explanation": "This calls for wisdom. Let the person who has insight calculate the number of the beast: 666."
+  },
+  {
+    "id": "END-E-0006",
+    "theme": "Prophecy & End Times",
+    "question": "What will every knee do at the name of Jesus?",
+    "choices": [
+      "Bow",
+      "Tremble",
+      "Shake",
+      "Bend"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Philippians",
+      "chapter": 2,
+      "verse": "10"
+    },
+    "explanation": "At the name of Jesus every knee should bow, in heaven and on earth and under the earth."
+  },
+  {
+    "id": "END-E-0007",
+    "theme": "Prophecy & End Times",
+    "question": "What is the number of the beast in Revelation?",
+    "choices": [
+      "666",
+      "777",
+      "999",
+      "333"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 13,
+      "verse": "18"
+    },
+    "explanation": "This calls for wisdom. Let the person who has insight calculate the number of the beast, for it is the number of a man. That number is 666."
+  },
+  {
+    "id": "END-E-0008",
+    "theme": "Prophecy & End Times",
+    "question": "How many elders are seated around God's throne in Revelation?",
+    "choices": [
+      "Twenty-four",
+      "Twelve",
+      "Seventy",
+      "Seven"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 4,
+      "verse": "4"
+    },
+    "explanation": "Surrounding the throne were twenty-four other thrones, and seated on them were twenty-four elders."
+  },
+  {
+    "id": "END-E-0009",
+    "theme": "Prophecy & End Times",
+    "question": "What is the name of the final battle in Revelation?",
+    "choices": [
+      "Armageddon",
+      "Gog and Magog",
+      "The Great Battle",
+      "Judgment Day"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 16,
+      "verse": "16"
+    },
+    "explanation": "Then they gathered the kings together to the place that in Hebrew is called Armageddon."
+  },
+  {
+    "id": "END-E-0010",
+    "theme": "Prophecy & End Times",
+    "question": "What does Revelation say will light the New Jerusalem?",
+    "choices": [
+      "The glory of God",
+      "The sun",
+      "Lamps",
+      "Stars"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "23"
+    },
+    "explanation": "The city does not need the sun or the moon to shine on it, for the glory of God gives it light."
+  },
+  {
+    "id": "END-E-0011",
+    "theme": "Prophecy & End Times",
+    "question": "What color is the horse of the first horseman?",
+    "choices": [
+      "White",
+      "Red",
+      "Black",
+      "Pale"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 6,
+      "verse": "2"
+    },
+    "explanation": "I looked, and there before me was a white horse! Its rider held a bow, and he was given a crown."
+  },
+  {
+    "id": "END-E-0012",
+    "theme": "Prophecy & End Times",
+    "question": "How many angels will sound trumpets in Revelation?",
+    "choices": [
+      "Seven",
+      "Four",
+      "Twelve",
+      "Ten"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 8,
+      "verse": "2"
+    },
+    "explanation": "And I saw the seven angels who stand before God, and seven trumpets were given to them."
+  },
+  {
+    "id": "END-E-0013",
+    "theme": "Prophecy & End Times",
+    "question": "What tree grows on both sides of the river in the New Jerusalem?",
+    "choices": [
+      "The tree of life",
+      "The tree of knowledge",
+      "Palm trees",
+      "Fig trees"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 22,
+      "verse": "2"
+    },
+    "explanation": "Down the middle of the great street of the city. On each side of the river stood the tree of life, bearing twelve crops of fruit."
+  },
+  {
+    "id": "END-E-0014",
+    "theme": "Prophecy & End Times",
+    "question": "What will there be no more of in the New Jerusalem?",
+    "choices": [
+      "Death, mourning, crying, or pain",
+      "Sin",
+      "Darkness",
+      "Time"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "4"
+    },
+    "explanation": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away."
+  },
+  {
+    "id": "END-E-0015",
+    "theme": "Prophecy & End Times",
+    "question": "What are the four horsemen of the apocalypse riding?",
+    "choices": [
+      "White, red, black, and pale horses",
+      "All white horses",
+      "All black horses",
+      "Red and white horses"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 6,
+      "verse": "2-8"
+    },
+    "explanation": "The four horsemen ride white, red, black, and pale horses, representing conquest, war, famine, and death."
+  },
+  {
+    "id": "END-E-0016",
+    "theme": "Prophecy & End Times",
+    "question": "How many people are sealed from the tribes of Israel in Revelation?",
+    "choices": [
+      "144,000",
+      "12,000",
+      "1,000,000",
+      "7,000"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 7,
+      "verse": "4"
+    },
+    "explanation": "Then I heard the number of those who were sealed: 144,000 from all the tribes of Israel."
+  },
+  {
+    "id": "END-E-0017",
+    "theme": "Prophecy & End Times",
+    "question": "What is the name of the city that falls in Revelation 18?",
+    "choices": [
+      "Babylon",
+      "Jerusalem",
+      "Rome",
+      "Nineveh"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 18,
+      "verse": "2"
+    },
+    "explanation": "With a mighty voice he shouted: 'Fallen! Fallen is Babylon the Great!'"
+  },
+  {
+    "id": "END-E-0018",
+    "theme": "Prophecy & End Times",
+    "question": "What does the red horse rider represent?",
+    "choices": [
+      "War",
+      "Conquest",
+      "Famine",
+      "Death"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 6,
+      "verse": "4"
+    },
+    "explanation": "Then another horse came out, a fiery red one. Its rider was given power to take peace from the earth and to make people kill each other. To him was given a large sword."
+  },
+  {
+    "id": "END-E-0019",
+    "theme": "Prophecy & End Times",
+    "question": "What color is the fourth horse?",
+    "choices": [
+      "Pale",
+      "White",
+      "Black",
+      "Red"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 6,
+      "verse": "8"
+    },
+    "explanation": "I looked, and there before me was a pale horse! Its rider was named Death, and Hades was following close behind him."
+  },
+  {
+    "id": "END-E-0020",
+    "theme": "Prophecy & End Times",
+    "question": "How many churches are addressed in Revelation?",
+    "choices": [
+      "Seven",
+      "Twelve",
+      "Ten",
+      "Five"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 1,
+      "verse": "11"
+    },
+    "explanation": "Write on a scroll what you see and send it to the seven churches: to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia and Laodicea."
+  }
+]

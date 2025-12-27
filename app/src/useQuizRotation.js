@@ -1,7 +1,8 @@
 /**
- * Hook for managing shuffled round-robin theme rotation
+ * Hook for managing shuffled round-robin theme rotation with no repeats
+ * Ensures all themes, difficulties, and questions are used before any repeat
  */
-import { useState, useCallback, useMemo } from 'react';
+import { useState, useCallback, useMemo, useRef } from 'react';
 
 function shuffleArray(array) {
   const shuffled = [...array];
@@ -14,16 +15,23 @@ function shuffleArray(array) {
 
 export function useQuizRotation(selectedThemes, questions, rotationMode = 'shuffled', difficulty = 'all') {
   const [currentRound, setCurrentRound] = useState(0);
-  const [themeIndexInRound, setThemeIndexInRound] = useState(0);
   
-  // Create shuffled theme order for current round
-  const themeOrder = useMemo(() => {
-    if (rotationMode === 'ordered') {
-      return selectedThemes;
-    }
-    // Shuffle themes each round
-    return shuffleArray(selectedThemes);
-  }, [selectedThemes, currentRound, rotationMode]);
+  // For shuffled mode: track used items to prevent repeats
+  const usedThemesInCycle = useRef(new Set());
+  const usedDifficultiesInCycle = useRef(new Set());
+  const usedQuestionsPerCombo = useRef(new Map()); // key: "theme-difficulty", value: Set of used question IDs
+  
+  // For shuffled mode: shuffled arrays that get regenerated when exhausted
+  const shuffledThemes = useRef([]);
+  const shuffledDifficulties = useRef([]);
+  const shuffledQuestionsByCombo = useRef(new Map()); // key: "theme-difficulty", value: shuffled array
+  
+  // For ordered mode: simple indices
+  const [themeIndexInRound, setThemeIndexInRound] = useState(0);
+  const [questionIndexInTheme, setQuestionIndexInTheme] = useState(0);
+  
+  // Difficulty order when "all" is selected
+  const difficultyOrder = ['easy', 'medium', 'hard'];
   
   // Filter questions by selected themes and difficulty
   const availableQuestions = useMemo(() => {
@@ -33,55 +41,200 @@ export function useQuizRotation(selectedThemes, questions, rotationMode = 'shuff
     );
   }, [questions, selectedThemes, difficulty]);
   
-  // Group questions by theme
+  // Group questions by theme and difficulty combo
+  const questionsByCombo = useMemo(() => {
+    const grouped = new Map();
+    
+    availableQuestions.forEach(q => {
+      const key = `${q.theme}-${q.difficulty}`;
+      if (!grouped.has(key)) {
+        grouped.set(key, []);
+      }
+      grouped.get(key).push(q);
+    });
+    
+    // Sort questions in each combo by ID for ordered mode
+    grouped.forEach((questions, key) => {
+      questions.sort((a, b) => {
+        if (typeof a.id === 'string' && typeof b.id === 'string') {
+          return a.id.localeCompare(b.id);
+        }
+        return 0;
+      });
+    });
+    
+    return grouped;
+  }, [availableQuestions]);
+  
+  // For ordered mode: group by theme
   const questionsByTheme = useMemo(() => {
     const grouped = {};
     selectedThemes.forEach(theme => {
-      grouped[theme] = availableQuestions.filter(q => q.theme === theme);
+      const themeQuestions = availableQuestions.filter(q => q.theme === theme);
+      themeQuestions.sort((a, b) => {
+        if (typeof a.id === 'string' && typeof b.id === 'string') {
+          return a.id.localeCompare(b.id);
+        }
+        return 0;
+      });
+      grouped[theme] = themeQuestions;
     });
     return grouped;
   }, [availableQuestions, selectedThemes]);
   
-  // Get next question following round-robin pattern
-  const getNextQuestion = useCallback(() => {
-    if (themeOrder.length === 0) return null;
+  // Get next question for SHUFFLED mode
+  const getNextQuestionShuffled = useCallback(() => {
+    // Step 1: Select a theme that hasn't been used in current cycle
+    if (shuffledThemes.current.length === 0 || usedThemesInCycle.current.size === selectedThemes.length) {
+      // All themes used or first time - reshuffle
+      shuffledThemes.current = shuffleArray(selectedThemes);
+      usedThemesInCycle.current.clear();
+    }
     
-    const currentTheme = themeOrder[themeIndexInRound];
+    // Get next unused theme
+    let selectedTheme = null;
+    for (const theme of shuffledThemes.current) {
+      if (!usedThemesInCycle.current.has(theme)) {
+        selectedTheme = theme;
+        usedThemesInCycle.current.add(theme);
+        break;
+      }
+    }
+    
+    if (!selectedTheme) return null;
+    
+    // Step 2: Select a difficulty that hasn't been used in current cycle
+    const availableDifficulties = difficulty === 'all' ? difficultyOrder : [difficulty];
+    
+    if (shuffledDifficulties.current.length === 0 || usedDifficultiesInCycle.current.size === availableDifficulties.length) {
+      // All difficulties used or first time - reshuffle
+      shuffledDifficulties.current = shuffleArray(availableDifficulties);
+      usedDifficultiesInCycle.current.clear();
+    }
+    
+    // Get next unused difficulty
+    let selectedDifficulty = null;
+    for (const diff of shuffledDifficulties.current) {
+      if (!usedDifficultiesInCycle.current.has(diff)) {
+        selectedDifficulty = diff;
+        usedDifficultiesInCycle.current.add(diff);
+        break;
+      }
+    }
+    
+    if (!selectedDifficulty) return null;
+    
+    // Step 3: Select a question from this theme-difficulty combo that hasn't been used
+    const comboKey = `${selectedTheme}-${selectedDifficulty}`;
+    const comboQuestions = questionsByCombo.get(comboKey);
+    
+    if (!comboQuestions || comboQuestions.length === 0) {
+      // This combo has no questions, try again with different theme/difficulty
+      return getNextQuestionShuffled();
+    }
+    
+    // Initialize tracking for this combo if needed
+    if (!usedQuestionsPerCombo.current.has(comboKey)) {
+      usedQuestionsPerCombo.current.set(comboKey, new Set());
+    }
+    
+    const usedQuestions = usedQuestionsPerCombo.current.get(comboKey);
+    
+    // Check if all questions in this combo have been used
+    if (usedQuestions.size === comboQuestions.length) {
+      // All questions used - clear and reshuffle
+      usedQuestions.clear();
+      shuffledQuestionsByCombo.current.delete(comboKey);
+    }
+    
+    // Get or create shuffled question array for this combo
+    if (!shuffledQuestionsByCombo.current.has(comboKey)) {
+      shuffledQuestionsByCombo.current.set(comboKey, shuffleArray(comboQuestions));
+    }
+    
+    const shuffledQuestions = shuffledQuestionsByCombo.current.get(comboKey);
+    
+    // Find first unused question
+    let selectedQuestion = null;
+    for (const q of shuffledQuestions) {
+      if (!usedQuestions.has(q.id)) {
+        selectedQuestion = q;
+        usedQuestions.add(q.id);
+        break;
+      }
+    }
+    
+    // If we couldn't find a question (shouldn't happen), reshuffle and try again
+    if (!selectedQuestion && shuffledQuestions.length > 0) {
+      usedQuestions.clear();
+      shuffledQuestionsByCombo.current.set(comboKey, shuffleArray(comboQuestions));
+      selectedQuestion = shuffledQuestionsByCombo.current.get(comboKey)[0];
+      usedQuestions.add(selectedQuestion.id);
+    }
+    
+    return selectedQuestion;
+  }, [selectedThemes, difficulty, difficultyOrder, questionsByCombo]);
+  
+  // Get next question for ORDERED mode
+  const getNextQuestionOrdered = useCallback(() => {
+    if (selectedThemes.length === 0) return null;
+    
+    const currentTheme = selectedThemes[themeIndexInRound];
     const themeQuestions = questionsByTheme[currentTheme];
     
     if (!themeQuestions || themeQuestions.length === 0) {
-      // Move to next theme if current has no questions
-      const nextIndex = (themeIndexInRound + 1) % themeOrder.length;
+      // Move to next theme
+      const nextIndex = (themeIndexInRound + 1) % selectedThemes.length;
+      setThemeIndexInRound(nextIndex);
       if (nextIndex === 0) {
         setCurrentRound(r => r + 1);
       }
-      setThemeIndexInRound(nextIndex);
-      return getNextQuestion();
+      return getNextQuestionOrdered();
     }
     
-    // Get random question from current theme
-    const randomQuestion = themeQuestions[Math.floor(Math.random() * themeQuestions.length)];
+    // Get question sequentially
+    const questionIndex = questionIndexInTheme % themeQuestions.length;
+    const selectedQuestion = themeQuestions[questionIndex];
+    setQuestionIndexInTheme(questionIndex + 1);
     
-    // Move to next theme in round
-    const nextIndex = (themeIndexInRound + 1) % themeOrder.length;
-    if (nextIndex === 0) {
-      // Completed a full round, reshuffle for next round
-      setCurrentRound(r => r + 1);
-    }
+    // Move to next theme
+    const nextIndex = (themeIndexInRound + 1) % selectedThemes.length;
     setThemeIndexInRound(nextIndex);
+    if (nextIndex === 0) {
+      setCurrentRound(r => r + 1);
+      setQuestionIndexInTheme(0);
+    }
     
-    return randomQuestion;
-  }, [themeOrder, themeIndexInRound, questionsByTheme]);
+    return selectedQuestion;
+  }, [selectedThemes, themeIndexInRound, questionIndexInTheme, questionsByTheme]);
+  
+  // Main getNextQuestion function
+  const getNextQuestion = useCallback(() => {
+    if (rotationMode === 'shuffled') {
+      return getNextQuestionShuffled();
+    } else {
+      return getNextQuestionOrdered();
+    }
+  }, [rotationMode, getNextQuestionShuffled, getNextQuestionOrdered]);
   
   const reset = useCallback(() => {
     setCurrentRound(0);
     setThemeIndexInRound(0);
+    setQuestionIndexInTheme(0);
+    
+    // Clear shuffled mode tracking
+    usedThemesInCycle.current.clear();
+    usedDifficultiesInCycle.current.clear();
+    usedQuestionsPerCombo.current.clear();
+    shuffledThemes.current = [];
+    shuffledDifficulties.current = [];
+    shuffledQuestionsByCombo.current.clear();
   }, []);
   
   return {
     getNextQuestion,
     reset,
-    currentTheme: themeOrder[themeIndexInRound],
+    currentTheme: rotationMode === 'ordered' ? selectedThemes[themeIndexInRound] : null,
     totalQuestions: availableQuestions.length
   };
 }

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "WIS-H-0001",
+    "theme": "Wisdom & Psalms",
+    "question": "What kind of person does Proverbs say is a companion of fools?",
+    "choices": [
+      "Someone who suffers harm",
+      "Someone who is blessed",
+      "Someone who is wise",
+      "Someone who is wealthy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 13,
+      "verse": "20"
+    },
+    "explanation": "Walk with the wise and become wise, for a companion of fools suffers harm."
+  },
+  {
+    "id": "WIS-H-0002",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Ecclesiastes, what is better than the day of birth?",
+    "choices": [
+      "The day of death",
+      "The day of marriage",
+      "The day of rest",
+      "The day of celebration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "verse": "1"
+    },
+    "explanation": "A good name is better than fine perfume, and the day of death better than the day of birth."
+  }
+]

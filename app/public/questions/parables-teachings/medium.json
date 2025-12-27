@@ -1,0 +1,477 @@
+[
+  {
+    "id": "PAR-M-0001",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the sower, what happened to the seed that fell on rocky ground?",
+    "choices": [
+      "It sprouted quickly but withered in the sun",
+      "It was eaten by birds",
+      "It grew strong and bore fruit",
+      "It was choked by thorns"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 13,
+      "verse": "5-6"
+    },
+    "explanation": "The seed on rocky ground sprouted quickly but had no root, so it withered when the sun came up."
+  },
+  {
+    "id": "PAR-M-0002",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the talents, how many talents did the master give to the first servant?",
+    "choices": [
+      "Five",
+      "Two",
+      "One",
+      "Ten"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 25,
+      "verse": "15"
+    },
+    "explanation": "The master gave five talents to the first servant, two to the second, and one to the third."
+  },
+  {
+    "id": "PAR-M-0003",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the ten virgins, what did the foolish virgins forget to bring?",
+    "choices": [
+      "Extra oil",
+      "Their lamps",
+      "Wedding garments",
+      "Food"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 25,
+      "verse": "3"
+    },
+    "explanation": "The foolish virgins took their lamps but didn't bring extra oil, so they weren't prepared when the bridegroom arrived."
+  },
+  {
+    "id": "PAR-M-0004",
+    "theme": "Parables & Teachings",
+    "question": "What did the father give to the prodigal son when he returned home?",
+    "choices": [
+      "A robe, ring, and sandals",
+      "Money and food",
+      "A new home",
+      "Half the inheritance"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 15,
+      "verse": "22"
+    },
+    "explanation": "The father gave his returning son the best robe, a ring for his finger, and sandals for his feet."
+  },
+  {
+    "id": "PAR-M-0005",
+    "theme": "Parables & Teachings",
+    "question": "What did the Pharisee and tax collector do in the temple parable?",
+    "choices": [
+      "They both prayed",
+      "They both made offerings",
+      "They argued",
+      "They worshiped together"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 18,
+      "verse": "10"
+    },
+    "explanation": "Both went to pray, but the humble tax collector's prayer was heard while the proud Pharisee's was not."
+  },
+  {
+    "id": "PAR-M-0006",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the mustard seed, what does the seed represent?",
+    "choices": [
+      "The kingdom of heaven",
+      "Faith",
+      "The church",
+      "God's love"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 13,
+      "verse": "31"
+    },
+    "explanation": "Jesus compared the kingdom of heaven to a mustard seed, the smallest seed that grows into a large tree."
+  },
+  {
+    "id": "PAR-M-0007",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the wedding feast, why was one guest cast out?",
+    "choices": [
+      "He wasn't wearing wedding clothes",
+      "He came late",
+      "He was drunk",
+      "He insulted the host"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 22,
+      "verse": "11-13"
+    },
+    "explanation": "The king found a man without wedding clothes and had him thrown into outer darkness."
+  },
+  {
+    "id": "PAR-M-0008",
+    "theme": "Parables & Teachings",
+    "question": "What separated the sheep from the goats in Jesus' teaching?",
+    "choices": [
+      "How they treated others in need",
+      "Their faith",
+      "Their wealth",
+      "Their knowledge"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 25,
+      "verse": "35-40"
+    },
+    "explanation": "The sheep helped those in need (hungry, thirsty, stranger, naked, sick, imprisoned), while the goats did not."
+  },
+  {
+    "id": "PAR-M-0009",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the laborers, when did the last workers arrive?",
+    "choices": [
+      "The eleventh hour",
+      "The ninth hour",
+      "The sixth hour",
+      "The third hour"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 20,
+      "verse": "6"
+    },
+    "explanation": "The landowner went out at the eleventh hour and found still others standing around doing nothing."
+  },
+  {
+    "id": "PAR-M-0010",
+    "theme": "Parables & Teachings",
+    "question": "What did the Pharisee thank God for in the temple?",
+    "choices": [
+      "That he was not like other people",
+      "His wealth",
+      "His wisdom",
+      "His family"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 18,
+      "verse": "11"
+    },
+    "explanation": "The Pharisee stood by himself and prayed, 'God, I thank you that I am not like other people.'"
+  },
+  {
+    "id": "PAR-M-0011",
+    "theme": "Parables & Teachings",
+    "question": "According to Jesus, what defiles a person?",
+    "choices": [
+      "What comes out of their mouth",
+      "What they eat",
+      "What they touch",
+      "Where they go"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 15,
+      "verse": "11"
+    },
+    "explanation": "What goes into someone's mouth does not defile them, but what comes out of their mouth defiles them."
+  },
+  {
+    "id": "PAR-M-0012",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the Good Samaritan, who passed by the injured man first?",
+    "choices": [
+      "A priest",
+      "A Levite",
+      "A Samaritan",
+      "A merchant"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 10,
+      "verse": "31"
+    },
+    "explanation": "A priest happened to be going down the same road, and when he saw the man, he passed by on the other side."
+  },
+  {
+    "id": "PAR-M-0013",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the sower, what happened to the seed on rocky ground?",
+    "choices": [
+      "It sprouted but withered in the sun",
+      "Birds ate it",
+      "It grew tall",
+      "Thorns choked it"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 13,
+      "verse": "6"
+    },
+    "explanation": "But when the sun came up, the plants were scorched, and they withered because they had no root."
+  },
+  {
+    "id": "PAR-M-0014",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the talents, how many talents did the lazy servant receive?",
+    "choices": [
+      "One",
+      "Two",
+      "Five",
+      "Ten"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 25,
+      "verse": "15"
+    },
+    "explanation": "To one he gave five talents, to another two talents, and to another one talent."
+  },
+  {
+    "id": "PAR-M-0015",
+    "theme": "Parables & Teachings",
+    "question": "In the Beatitudes, who will inherit the earth?",
+    "choices": [
+      "The meek",
+      "The poor",
+      "The merciful",
+      "The pure in heart"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 5,
+      "verse": "5"
+    },
+    "explanation": "Blessed are the meek, for they will inherit the earth."
+  },
+  {
+    "id": "PAR-M-0016",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say about those who are persecuted?",
+    "choices": [
+      "Theirs is the kingdom of heaven",
+      "They will be comforted",
+      "They will inherit the earth",
+      "They are blessed"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 5,
+      "verse": "10"
+    },
+    "explanation": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven."
+  },
+  {
+    "id": "PAR-M-0017",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say we should be as wise as and as innocent as?",
+    "choices": [
+      "Serpents and doves",
+      "Lions and lambs",
+      "Eagles and sheep",
+      "Foxes and children"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 10,
+      "verse": "16"
+    },
+    "explanation": "I am sending you out like sheep among wolves. Therefore be as shrewd as snakes and as innocent as doves."
+  },
+  {
+    "id": "PAR-M-0018",
+    "theme": "Parables & Teachings",
+    "question": "What did the persistent widow want from the judge?",
+    "choices": [
+      "Justice against her adversary",
+      "Money",
+      "Land",
+      "Freedom"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 18,
+      "verse": "3"
+    },
+    "explanation": "And there was a widow in that town who kept coming to him with the plea, 'Grant me justice against my adversary.'"
+  },
+  {
+    "id": "PAR-M-0019",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the workers, when did the last workers start?",
+    "choices": [
+      "The eleventh hour",
+      "The ninth hour",
+      "The sixth hour",
+      "The third hour"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 20,
+      "verse": "6"
+    },
+    "explanation": "About five in the afternoon he went out and found still others standing around."
+  },
+  {
+    "id": "PAR-M-0020",
+    "theme": "Parables & Teachings",
+    "question": "According to Jesus, what should we do when we pray?",
+    "choices": [
+      "Go into your room and close the door",
+      "Pray publicly",
+      "Pray loudly",
+      "Pray with others"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "6"
+    },
+    "explanation": "But when you pray, go into your room, close the door and pray to your Father, who is unseen."
+  },
+  {
+    "id": "PAR-M-0021",
+    "theme": "Parables & Teachings",
+    "question": "According to Jesus, what will happen if you have faith as small as a mustard seed?",
+    "choices": [
+      "You can move mountains",
+      "You will be saved",
+      "You will see miracles",
+      "You will never doubt"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 17,
+      "verse": "20"
+    },
+    "explanation": "If you have faith as small as a mustard seed, you can say to this mountain, 'Move from here to there,' and it will move."
+  },
+  {
+    "id": "PAR-M-0022",
+    "theme": "Parables & Teachings",
+    "question": "What did the father give the prodigal son when he returned?",
+    "choices": [
+      "A robe, ring, and sandals",
+      "Money",
+      "A feast only",
+      "Nothing"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 15,
+      "verse": "22"
+    },
+    "explanation": "But the father said to his servants, 'Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet.'"
+  },
+  {
+    "id": "PAR-M-0023",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the rich man and Lazarus, where did Lazarus go after death?",
+    "choices": [
+      "Abraham's side",
+      "Heaven",
+      "Paradise",
+      "Sheol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 16,
+      "verse": "22"
+    },
+    "explanation": "The time came when the beggar died and the angels carried him to Abraham's side."
+  },
+  {
+    "id": "PAR-M-0024",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the wedding banquet, why did the invited guests not come?",
+    "choices": [
+      "They made excuses",
+      "They were busy",
+      "They didn't know the king",
+      "They were afraid"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 22,
+      "verse": "5"
+    },
+    "explanation": "But they paid no attention and went off—one to his field, another to his business."
+  },
+  {
+    "id": "PAR-M-0025",
+    "theme": "Parables & Teachings",
+    "question": "Who did the king invite after the original guests refused?",
+    "choices": [
+      "Anyone they could find",
+      "His servants",
+      "The poor",
+      "His family"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 22,
+      "verse": "9"
+    },
+    "explanation": "So go to the street corners and invite to the banquet anyone you find."
+  }
+]

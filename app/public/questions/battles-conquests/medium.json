@@ -1,0 +1,534 @@
+[
+  {
+    "id": "BAT-M-0001",
+    "theme": "Battles & Conquests",
+    "question": "How many soldiers did Gideon have when he defeated the Midianites?",
+    "choices": [
+      "300",
+      "3,000",
+      "30,000",
+      "300,000"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Judges",
+      "chapter": 7,
+      "verse": "7"
+    },
+    "explanation": "God reduced Gideon's army to just 300 men to show that victory came from the Lord, not human strength."
+  },
+  {
+    "id": "BAT-M-0002",
+    "theme": "Battles & Conquests",
+    "question": "Who made the sun stand still during a battle?",
+    "choices": [
+      "Joshua",
+      "Moses",
+      "David",
+      "Elijah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 10,
+      "verse": "13"
+    },
+    "explanation": "Joshua commanded the sun to stand still over Gibeon so Israel could defeat their enemies."
+  },
+  {
+    "id": "BAT-M-0003",
+    "theme": "Battles & Conquests",
+    "question": "Which woman killed the Canaanite commander Sisera with a tent peg?",
+    "choices": [
+      "Jael",
+      "Deborah",
+      "Rahab",
+      "Judith"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "21"
+    },
+    "explanation": "Jael gave Sisera shelter but killed him while he slept by driving a tent peg through his temple."
+  },
+  {
+    "id": "BAT-M-0004",
+    "theme": "Battles & Conquests",
+    "question": "What unusual weapons did Gideon's army use to defeat the Midianites?",
+    "choices": [
+      "Torches, jars, and trumpets",
+      "Slings and stones",
+      "Bows and arrows",
+      "Swords and spears"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Judges",
+      "chapter": 7,
+      "verse": "20"
+    },
+    "explanation": "Gideon's 300 men broke jars hiding torches and blew trumpets, causing the Midianites to flee in confusion."
+  },
+  {
+    "id": "BAT-M-0005",
+    "theme": "Battles & Conquests",
+    "question": "Which nation did King Saul fail to completely destroy as commanded?",
+    "choices": [
+      "Amalekites",
+      "Philistines",
+      "Moabites",
+      "Edomites"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 15,
+      "verse": "3"
+    },
+    "explanation": "Saul was commanded to destroy the Amalekites completely but spared King Agag and the best livestock."
+  },
+  {
+    "id": "BAT-M-0006",
+    "theme": "Battles & Conquests",
+    "question": "What was Samson's greatest feat of strength?",
+    "choices": [
+      "Pushing down the temple pillars",
+      "Killing a lion",
+      "Breaking ropes",
+      "Defeating 1000 Philistines"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Judges",
+      "chapter": 16,
+      "verse": "29-30"
+    },
+    "explanation": "Samson pushed down the two central pillars of the temple, killing more Philistines in his death than in his life."
+  },
+  {
+    "id": "BAT-M-0007",
+    "theme": "Battles & Conquests",
+    "question": "How many stones did David take from the stream to fight Goliath?",
+    "choices": [
+      "Five",
+      "One",
+      "Three",
+      "Seven"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "40"
+    },
+    "explanation": "David chose five smooth stones from the stream and put them in his shepherd's bag."
+  },
+  {
+    "id": "BAT-M-0008",
+    "theme": "Battles & Conquests",
+    "question": "Who led Israel's army against Sisera?",
+    "choices": [
+      "Barak",
+      "Joshua",
+      "Gideon",
+      "Othniel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "6"
+    },
+    "explanation": "Deborah summoned Barak and told him the Lord commanded him to lead the attack against Sisera."
+  },
+  {
+    "id": "BAT-M-0009",
+    "theme": "Battles & Conquests",
+    "question": "What sign did God give Gideon with a fleece?",
+    "choices": [
+      "Dew on the fleece but not the ground, then the reverse",
+      "Fire consumed it",
+      "It turned to blood",
+      "It floated"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Judges",
+      "chapter": 6,
+      "verse": "37-40"
+    },
+    "explanation": "God made the fleece wet and the ground dry, then reversed it to confirm His will."
+  },
+  {
+    "id": "BAT-M-0010",
+    "theme": "Battles & Conquests",
+    "question": "What city did Abraham rescue Lot from?",
+    "choices": [
+      "Sodom",
+      "Gomorrah",
+      "Admah",
+      "Zeboiim"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 14,
+      "verse": "16"
+    },
+    "explanation": "Abraham recovered all the goods and brought back his relative Lot and his possessions."
+  },
+  {
+    "id": "BAT-M-0011",
+    "theme": "Battles & Conquests",
+    "question": "Who fought against Israel at Rephidim?",
+    "choices": [
+      "The Amalekites",
+      "The Philistines",
+      "The Moabites",
+      "The Edomites"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 17,
+      "verse": "8"
+    },
+    "explanation": "The Amalekites came and attacked the Israelites at Rephidim."
+  },
+  {
+    "id": "BAT-M-0012",
+    "theme": "Battles & Conquests",
+    "question": "What did the Israelites carry around Jericho?",
+    "choices": [
+      "The Ark of the Covenant",
+      "The tablets of stone",
+      "Trumpets only",
+      "Torches"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 6,
+      "verse": "6"
+    },
+    "explanation": "Seven priests carrying seven trumpets went forward, marching before the ark of the Lord."
+  },
+  {
+    "id": "BAT-M-0013",
+    "theme": "Battles & Conquests",
+    "question": "Who killed Absalom?",
+    "choices": [
+      "Joab",
+      "David",
+      "Abishai",
+      "Ittai"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "verse": "14"
+    },
+    "explanation": "Joab took three javelins and plunged them into Absalom's heart while he was still alive in the oak tree."
+  },
+  {
+    "id": "BAT-M-0014",
+    "theme": "Battles & Conquests",
+    "question": "How many men did Gideon have when he defeated the Midianites?",
+    "choices": [
+      "300",
+      "3,000",
+      "30",
+      "30,000"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Judges",
+      "chapter": 7,
+      "verse": "7"
+    },
+    "explanation": "The Lord said to Gideon, 'With the three hundred men that lapped I will save you.'"
+  },
+  {
+    "id": "BAT-M-0015",
+    "theme": "Battles & Conquests",
+    "question": "What did the Israelites shout to make the walls of Jericho fall?",
+    "choices": [
+      "A loud shout",
+      "Hallelujah",
+      "Victory",
+      "Amen"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 6,
+      "verse": "20"
+    },
+    "explanation": "When the trumpets sounded, the army shouted, and at the sound of the trumpet, when the men gave a loud shout, the wall collapsed."
+  },
+  {
+    "id": "BAT-M-0016",
+    "theme": "Battles & Conquests",
+    "question": "Which battle was stopped when Joshua commanded the sun to stand still?",
+    "choices": [
+      "Battle of Gibeon",
+      "Battle of Jericho",
+      "Battle of Ai",
+      "Battle of Megiddo"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 10,
+      "verse": "12"
+    },
+    "explanation": "Joshua commanded the sun to stand still over Gibeon so Israel could defeat their enemies."
+  },
+  {
+    "id": "BAT-M-0017",
+    "theme": "Battles & Conquests",
+    "question": "How many stones did David take from the brook before fighting Goliath?",
+    "choices": [
+      "Five",
+      "Three",
+      "Seven",
+      "One"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "40"
+    },
+    "explanation": "David chose five smooth stones from the stream and put them in his shepherd's bag."
+  },
+  {
+    "id": "BAT-M-0018",
+    "theme": "Battles & Conquests",
+    "question": "Which city's defeat was caused by Achan's sin of taking forbidden plunder?",
+    "choices": [
+      "Ai",
+      "Jericho",
+      "Hazor",
+      "Lachish"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 7,
+      "verse": "1"
+    },
+    "explanation": "Israel was defeated at Ai because Achan had taken devoted things from Jericho."
+  },
+  {
+    "id": "BAT-M-0019",
+    "theme": "Battles & Conquests",
+    "question": "What did the Israelites shout when the walls of Jericho fell?",
+    "choices": [
+      "A great shout",
+      "Hosanna",
+      "Victory",
+      "The Lord reigns"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 6,
+      "verse": "20"
+    },
+    "explanation": "When the trumpets sounded, the army shouted, and at the sound the wall collapsed."
+  },
+  {
+    "id": "BAT-M-0020",
+    "theme": "Battles & Conquests",
+    "question": "Which nation attacked Israel from behind while they traveled through the wilderness?",
+    "choices": [
+      "Amalekites",
+      "Philistines",
+      "Moabites",
+      "Edomites"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 25,
+      "verse": "18"
+    },
+    "explanation": "The Amalekites met you on your journey and attacked all who were lagging behind."
+  },
+  {
+    "id": "BAT-M-0021",
+    "theme": "Battles & Conquests",
+    "question": "How tall was Goliath?",
+    "choices": [
+      "Over nine feet",
+      "Seven feet",
+      "Eight feet",
+      "Ten feet"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "4"
+    },
+    "explanation": "A champion named Goliath came out from the Philistine camp. His height was six cubits and a span (over 9 feet)."
+  },
+  {
+    "id": "BAT-M-0022",
+    "theme": "Battles & Conquests",
+    "question": "What did the Israelites take from Jericho that caused their defeat at Ai?",
+    "choices": [
+      "Devoted things (plunder)",
+      "Weapons",
+      "Food",
+      "Gold idols"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 7,
+      "verse": "1"
+    },
+    "explanation": "The Israelites were unfaithful regarding the devoted things; Achan took some of them."
+  },
+  {
+    "id": "BAT-M-0023",
+    "theme": "Battles & Conquests",
+    "question": "Who killed Sisera with a tent peg?",
+    "choices": [
+      "Jael",
+      "Deborah",
+      "Ruth",
+      "Rahab"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "21"
+    },
+    "explanation": "But Jael, Heber's wife, picked up a tent peg and a hammer and went quietly to him. She drove the peg through his temple."
+  },
+  {
+    "id": "BAT-M-0024",
+    "theme": "Battles & Conquests",
+    "question": "What miracle occurred during the battle at Gibeon?",
+    "choices": [
+      "The sun stood still",
+      "Hail fell from heaven",
+      "The earth shook",
+      "Fire fell from heaven"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 10,
+      "verse": "13"
+    },
+    "explanation": "The sun stopped in the middle of the sky and delayed going down about a full day."
+  },
+  {
+    "id": "BAT-M-0025",
+    "theme": "Battles & Conquests",
+    "question": "Which judge tore down his father's altar to Baal?",
+    "choices": [
+      "Gideon",
+      "Samson",
+      "Jephthah",
+      "Ehud"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Judges",
+      "chapter": 6,
+      "verse": "27"
+    },
+    "explanation": "So Gideon took ten of his servants and did as the Lord told him. But because he was afraid, he did it at night."
+  },
+  {
+    "id": "BAT-M-0026",
+    "theme": "Battles & Conquests",
+    "question": "What did David take from Goliath after killing him?",
+    "choices": [
+      "His head and his sword",
+      "His armor",
+      "His shield",
+      "His spear"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "51"
+    },
+    "explanation": "David ran and stood over him. He took hold of the Philistine's sword and drew it from the sheath. After he killed him, he cut off his head with the sword."
+  },
+  {
+    "id": "BAT-M-0027",
+    "theme": "Battles & Conquests",
+    "question": "What did Gideon's men carry into battle?",
+    "choices": [
+      "Trumpets, jars, and torches",
+      "Swords and shields",
+      "Bows and arrows",
+      "Spears and javelins"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Judges",
+      "chapter": 7,
+      "verse": "16"
+    },
+    "explanation": "He gave them trumpets and empty jars, with torches inside."
+  },
+  {
+    "id": "BAT-M-0028",
+    "theme": "Battles & Conquests",
+    "question": "What fell from heaven during the battle at Gibeon?",
+    "choices": [
+      "Large hailstones",
+      "Fire",
+      "Lightning",
+      "Rain"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 10,
+      "verse": "11"
+    },
+    "explanation": "As they fled before Israel, the Lord hurled large hailstones down on them, and more of them died from the hail than were killed by the swords of the Israelites."
+  }
+]

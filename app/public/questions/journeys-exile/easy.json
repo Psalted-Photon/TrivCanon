@@ -1,0 +1,648 @@
+[
+  {
+    "id": "JRN-E-0001",
+    "theme": "Journeys & Exile",
+    "question": "Who led the Israelites out of Egypt?",
+    "choices": [
+      "Moses",
+      "Joshua",
+      "Aaron",
+      "Caleb"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 3,
+      "verse": "10"
+    },
+    "explanation": "God called Moses to lead His people out of slavery in Egypt to the Promised Land."
+  },
+  {
+    "id": "JRN-E-0002",
+    "theme": "Journeys & Exile",
+    "question": "How many years did the Israelites wander in the wilderness?",
+    "choices": [
+      "40 years",
+      "20 years",
+      "70 years",
+      "10 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Numbers",
+      "chapter": 14,
+      "verse": "33"
+    },
+    "explanation": "Because of their disobedience, the Israelites wandered in the wilderness for 40 years."
+  },
+  {
+    "id": "JRN-E-0003",
+    "theme": "Journeys & Exile",
+    "question": "What did God provide for the Israelites to eat in the wilderness?",
+    "choices": [
+      "Manna and quail",
+      "Bread and fish",
+      "Honey and locusts",
+      "Grain and water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 16,
+      "verse": "13-15"
+    },
+    "explanation": "God provided manna each morning and quail each evening to feed the Israelites in the wilderness."
+  },
+  {
+    "id": "JRN-E-0004",
+    "theme": "Journeys & Exile",
+    "question": "Through which body of water did the Israelites cross to escape Egypt?",
+    "choices": [
+      "Red Sea",
+      "Jordan River",
+      "Sea of Galilee",
+      "Dead Sea"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 14,
+      "verse": "21"
+    },
+    "explanation": "God parted the Red Sea so the Israelites could cross on dry ground while escaping Pharaoh's army."
+  },
+  {
+    "id": "JRN-E-0005",
+    "theme": "Journeys & Exile",
+    "question": "Who led the Israelites across the Jordan River into the Promised Land?",
+    "choices": [
+      "Joshua",
+      "Moses",
+      "Aaron",
+      "Caleb"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 3,
+      "verse": "7"
+    },
+    "explanation": "After Moses died, Joshua led the people across the Jordan River on dry ground into Canaan."
+  },
+  {
+    "id": "JRN-E-0006",
+    "theme": "Journeys & Exile",
+    "question": "On what mountain did Moses receive the Ten Commandments?",
+    "choices": [
+      "Mount Sinai",
+      "Mount Horeb",
+      "Mount Nebo",
+      "Mount Zion"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 19,
+      "verse": "20"
+    },
+    "explanation": "God called Moses to the top of Mount Sinai to give him the Law written on stone tablets."
+  },
+  {
+    "id": "JRN-E-0007",
+    "theme": "Journeys & Exile",
+    "question": "Who went with Ruth to Bethlehem?",
+    "choices": [
+      "Naomi",
+      "Orpah",
+      "Elimelech",
+      "Boaz"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ruth",
+      "chapter": 1,
+      "verse": "22"
+    },
+    "explanation": "Naomi returned from Moab with Ruth the Moabite, her daughter-in-law."
+  },
+  {
+    "id": "JRN-E-0008",
+    "theme": "Journeys & Exile",
+    "question": "What did the pillar of cloud and fire guide the Israelites through?",
+    "choices": [
+      "The wilderness",
+      "The Red Sea",
+      "The Jordan River",
+      "The desert of Sinai"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 13,
+      "verse": "21"
+    },
+    "explanation": "God went ahead of them in a pillar of cloud by day and fire by night to guide them through the wilderness."
+  },
+  {
+    "id": "JRN-E-0009",
+    "theme": "Journeys & Exile",
+    "question": "Who returned to rebuild the walls of Jerusalem?",
+    "choices": [
+      "Nehemiah",
+      "Ezra",
+      "Zerubbabel",
+      "Haggai"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Nehemiah",
+      "chapter": 2,
+      "verse": "5"
+    },
+    "explanation": "Nehemiah asked the king for permission to return to Jerusalem to rebuild the city walls."
+  },
+  {
+    "id": "JRN-E-0010",
+    "theme": "Journeys & Exile",
+    "question": "Where did Joseph's brothers sell him?",
+    "choices": [
+      "Egypt",
+      "Babylon",
+      "Assyria",
+      "Canaan"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 37,
+      "verse": "28"
+    },
+    "explanation": "They sold Joseph to the Ishmaelites for twenty shekels of silver, and he was taken to Egypt."
+  },
+  {
+    "id": "JRN-E-0011",
+    "theme": "Journeys & Exile",
+    "question": "What did the Israelites complain about in the wilderness?",
+    "choices": [
+      "Lack of food and water",
+      "The heat",
+      "Their clothing",
+      "Wild animals"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 16,
+      "verse": "3"
+    },
+    "explanation": "The Israelites said to Moses and Aaron, 'If only we had died in Egypt where we had meat and bread!'"
+  },
+  {
+    "id": "JRN-E-0012",
+    "theme": "Journeys & Exile",
+    "question": "Where did Jonah try to flee to instead of Nineveh?",
+    "choices": [
+      "Tarshish",
+      "Egypt",
+      "Babylon",
+      "Damascus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Jonah",
+      "chapter": 1,
+      "verse": "3"
+    },
+    "explanation": "Jonah ran away from the Lord and headed for Tarshish to flee from the Lord."
+  },
+  {
+    "id": "JRN-E-0013",
+    "theme": "Journeys & Exile",
+    "question": "How long was Jonah in the belly of the fish?",
+    "choices": [
+      "Three days and three nights",
+      "One day",
+      "Seven days",
+      "Forty days"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Jonah",
+      "chapter": 1,
+      "verse": "17"
+    },
+    "explanation": "Jonah was in the belly of the huge fish three days and three nights."
+  },
+  {
+    "id": "JRN-E-0014",
+    "theme": "Journeys & Exile",
+    "question": "Where did the Israelites cross into the Promised Land?",
+    "choices": [
+      "The Jordan River",
+      "The Red Sea",
+      "The Jabbok River",
+      "The Nile River"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 3,
+      "verse": "17"
+    },
+    "explanation": "The priests carrying the ark stood firm on dry ground in the middle of the Jordan while Israel crossed over."
+  },
+  {
+    "id": "JRN-E-0015",
+    "theme": "Journeys & Exile",
+    "question": "How many people were saved in the ark?",
+    "choices": [
+      "Eight",
+      "Two",
+      "Four",
+      "Ten"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Peter",
+      "chapter": 3,
+      "verse": "20"
+    },
+    "explanation": "Only a few people, eight in all, were saved through water in Noah's ark."
+  },
+  {
+    "id": "JRN-E-0016",
+    "theme": "Journeys & Exile",
+    "question": "Who interpreted dreams for Pharaoh in Egypt?",
+    "choices": [
+      "Joseph",
+      "Daniel",
+      "Moses",
+      "Aaron"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 41,
+      "verse": "15"
+    },
+    "explanation": "Pharaoh said to Joseph, 'I had a dream, and no one can interpret it. But I have heard you can interpret dreams.'"
+  },
+  {
+    "id": "JRN-E-0017",
+    "theme": "Journeys & Exile",
+    "question": "Who led the Israelites after Moses died?",
+    "choices": [
+      "Joshua",
+      "Aaron",
+      "Caleb",
+      "Eleazar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "After the death of Moses the servant of the Lord, the Lord said to Joshua son of Nun, Moses' aide."
+  },
+  {
+    "id": "JRN-E-0018",
+    "theme": "Journeys & Exile",
+    "question": "How long was Daniel in the lions' den?",
+    "choices": [
+      "One night",
+      "Three days",
+      "Seven days",
+      "Forty days"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 6,
+      "verse": "19"
+    },
+    "explanation": "At the first light of dawn, the king got up and hurried to the lions' den."
+  },
+  {
+    "id": "JRN-E-0019",
+    "theme": "Journeys & Exile",
+    "question": "How many plagues did God send on Egypt?",
+    "choices": [
+      "Ten",
+      "Seven",
+      "Twelve",
+      "Forty"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 7,
+      "verse": "14"
+    },
+    "explanation": "God sent ten plagues upon Egypt to convince Pharaoh to let the Israelites go."
+  },
+  {
+    "id": "JRN-E-0020",
+    "theme": "Journeys & Exile",
+    "question": "Where did Moses receive the Ten Commandments?",
+    "choices": [
+      "Mount Sinai",
+      "Mount Nebo",
+      "Mount Carmel",
+      "Mount Horeb"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 19,
+      "verse": "20"
+    },
+    "explanation": "The Lord descended to the top of Mount Sinai and called Moses to come up to receive the commandments."
+  },
+  {
+    "id": "JRN-E-0021",
+    "theme": "Journeys & Exile",
+    "question": "What river did the Israelites cross to enter the Promised Land?",
+    "choices": [
+      "Jordan River",
+      "Euphrates River",
+      "Nile River",
+      "Tigris River"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 3,
+      "verse": "17"
+    },
+    "explanation": "The priests who carried the ark stood firm on dry ground in the middle of the Jordan while all Israel passed by."
+  },
+  {
+    "id": "JRN-E-0022",
+    "theme": "Journeys & Exile",
+    "question": "Where did Jonah end up after being thrown overboard?",
+    "choices": [
+      "Inside a great fish",
+      "On an island",
+      "Back on the ship",
+      "In Nineveh"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Jonah",
+      "chapter": 1,
+      "verse": "17"
+    },
+    "explanation": "The Lord provided a huge fish to swallow Jonah, and Jonah was in the belly of the fish three days."
+  },
+  {
+    "id": "JRN-E-0023",
+    "theme": "Journeys & Exile",
+    "question": "What did the Israelites build while Moses was on Mount Sinai?",
+    "choices": [
+      "A golden calf",
+      "An altar",
+      "A tabernacle",
+      "A temple"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 32,
+      "verse": "4"
+    },
+    "explanation": "Aaron took their gold and made it into an idol cast in the shape of a calf."
+  },
+  {
+    "id": "JRN-E-0024",
+    "theme": "Journeys & Exile",
+    "question": "To which island was John exiled when he wrote Revelation?",
+    "choices": [
+      "Patmos",
+      "Cyprus",
+      "Crete",
+      "Malta"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 1,
+      "verse": "9"
+    },
+    "explanation": "I, John, your brother, was on the island of Patmos because of the word of God and the testimony of Jesus."
+  },
+  {
+    "id": "JRN-E-0025",
+    "theme": "Journeys & Exile",
+    "question": "What was the first plague on Egypt?",
+    "choices": [
+      "Water turned to blood",
+      "Frogs",
+      "Gnats",
+      "Darkness"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 7,
+      "verse": "20"
+    },
+    "explanation": "Moses and Aaron did just as the Lord had commanded. He raised his staff and struck the water of the Nile, and all the water was changed into blood."
+  },
+  {
+    "id": "JRN-E-0026",
+    "theme": "Journeys & Exile",
+    "question": "What was the last plague on Egypt?",
+    "choices": [
+      "Death of the firstborn",
+      "Darkness",
+      "Hail",
+      "Locusts"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 11,
+      "verse": "5"
+    },
+    "explanation": "Every firstborn son in Egypt will die, from the firstborn son of Pharaoh to the firstborn of the female slave."
+  },
+  {
+    "id": "JRN-E-0027",
+    "theme": "Journeys & Exile",
+    "question": "What body of water did Moses part?",
+    "choices": [
+      "The Red Sea",
+      "The Jordan River",
+      "The Mediterranean Sea",
+      "The Sea of Galilee"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 14,
+      "verse": "21"
+    },
+    "explanation": "Then Moses stretched out his hand over the sea, and all that night the Lord drove the sea back with a strong east wind and turned it into dry land."
+  },
+  {
+    "id": "JRN-E-0028",
+    "theme": "Journeys & Exile",
+    "question": "Where did God give Moses the Ten Commandments?",
+    "choices": [
+      "Mount Sinai",
+      "Mount Horeb",
+      "Mount Nebo",
+      "Mount Carmel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 19,
+      "verse": "20"
+    },
+    "explanation": "The Lord descended to the top of Mount Sinai and called Moses to the top of the mountain."
+  },
+  {
+    "id": "JRN-E-0029",
+    "theme": "Journeys & Exile",
+    "question": "Who bought Joseph in Egypt?",
+    "choices": [
+      "Potiphar",
+      "Pharaoh",
+      "The baker",
+      "The cupbearer"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 39,
+      "verse": "1"
+    },
+    "explanation": "Now Joseph had been taken down to Egypt. Potiphar, an Egyptian who was one of Pharaoh's officials, bought him from the Ishmaelites."
+  },
+  {
+    "id": "JRN-E-0030",
+    "theme": "Journeys & Exile",
+    "question": "Why was Joseph put in prison?",
+    "choices": [
+      "False accusation by Potiphar's wife",
+      "He stole",
+      "He committed treason",
+      "He ran away"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 39,
+      "verse": "19-20"
+    },
+    "explanation": "When his master heard the story his wife told him, he burned with anger. Joseph's master took him and put him in prison."
+  },
+  {
+    "id": "JRN-E-0031",
+    "theme": "Journeys & Exile",
+    "question": "How many years of famine did Joseph predict?",
+    "choices": [
+      "Seven years",
+      "Three years",
+      "Forty years",
+      "Ten years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 41,
+      "verse": "30"
+    },
+    "explanation": "But seven years of famine will follow them. Then all the abundance in Egypt will be forgotten, and the famine will ravage the land."
+  },
+  {
+    "id": "JRN-E-0032",
+    "theme": "Journeys & Exile",
+    "question": "Who recognized Joseph's robe?",
+    "choices": [
+      "Jacob",
+      "Reuben",
+      "Benjamin",
+      "Judah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 37,
+      "verse": "33"
+    },
+    "explanation": "He recognized it and said, 'It is my son's robe! Some ferocious animal has devoured him. Joseph has surely been torn to pieces.'"
+  },
+  {
+    "id": "JRN-E-0033",
+    "theme": "Journeys & Exile",
+    "question": "What position did Joseph hold in Egypt?",
+    "choices": [
+      "Second in command to Pharaoh",
+      "Chief servant",
+      "Captain of the guard",
+      "Advisor"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 41,
+      "verse": "40"
+    },
+    "explanation": "You shall be in charge of my palace, and all my people are to submit to your orders. Only with respect to the throne will I be greater than you."
+  },
+  {
+    "id": "JRN-E-0034",
+    "theme": "Journeys & Exile",
+    "question": "What did Joseph's brothers bow down before him fulfilling?",
+    "choices": [
+      "His dreams",
+      "A prophecy",
+      "Egyptian custom",
+      "Pharaoh's command"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 42,
+      "verse": "6"
+    },
+    "explanation": "Now Joseph was the governor of the land; he was the one who sold grain to all its people. So when Joseph's brothers arrived, they bowed down to him with their faces to the ground."
+  }
+]

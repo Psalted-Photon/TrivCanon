@@ -1,0 +1,515 @@
+[
+  {
+    "id": "JRN-M-0001",
+    "theme": "Journeys & Exile",
+    "question": "Which prophet was taken to Babylon during the exile?",
+    "choices": [
+      "Daniel",
+      "Isaiah",
+      "Hosea",
+      "Amos"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 1,
+      "verse": "6"
+    },
+    "explanation": "Daniel was among the young nobles taken to Babylon where he served in the king's court."
+  },
+  {
+    "id": "JRN-M-0002",
+    "theme": "Journeys & Exile",
+    "question": "How many years were the Israelites in Babylonian captivity?",
+    "choices": [
+      "70 years",
+      "40 years",
+      "400 years",
+      "7 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 29,
+      "verse": "10"
+    },
+    "explanation": "Jeremiah prophesied that the exile would last 70 years before God would bring His people back."
+  },
+  {
+    "id": "JRN-M-0003",
+    "theme": "Journeys & Exile",
+    "question": "What mountain did Moses climb to view the Promised Land before he died?",
+    "choices": [
+      "Mount Nebo",
+      "Mount Sinai",
+      "Mount Horeb",
+      "Mount Carmel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 34,
+      "verse": "1"
+    },
+    "explanation": "Moses went up from the plains of Moab to Mount Nebo where God showed him the Promised Land."
+  },
+  {
+    "id": "JRN-M-0004",
+    "theme": "Journeys & Exile",
+    "question": "Who led the second group of exiles back from Babylon to teach the Law?",
+    "choices": [
+      "Ezra",
+      "Nehemiah",
+      "Zerubbabel",
+      "Joshua"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Ezra",
+      "chapter": 7,
+      "verse": "6"
+    },
+    "explanation": "Ezra, a teacher well versed in the Law of Moses, came from Babylon to Jerusalem."
+  },
+  {
+    "id": "JRN-M-0005",
+    "theme": "Journeys & Exile",
+    "question": "Where did Jacob have his dream of a stairway to heaven?",
+    "choices": [
+      "Bethel",
+      "Haran",
+      "Beersheba",
+      "Peniel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 28,
+      "verse": "19"
+    },
+    "explanation": "Jacob had the dream at a place he named Bethel, meaning 'house of God.'"
+  },
+  {
+    "id": "JRN-M-0006",
+    "theme": "Journeys & Exile",
+    "question": "Where did Abraham come from before God called him?",
+    "choices": [
+      "Ur of the Chaldeans",
+      "Haran",
+      "Canaan",
+      "Egypt"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 11,
+      "verse": "31"
+    },
+    "explanation": "Terah took his son Abram and left Ur of the Chaldeans to go to Canaan."
+  },
+  {
+    "id": "JRN-M-0007",
+    "theme": "Journeys & Exile",
+    "question": "How many years did Jacob work for Rachel?",
+    "choices": [
+      "14 years",
+      "7 years",
+      "20 years",
+      "10 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 29,
+      "verse": "27-28"
+    },
+    "explanation": "Jacob worked seven years for Rachel, then was tricked into marrying Leah, then worked another seven years."
+  },
+  {
+    "id": "JRN-M-0008",
+    "theme": "Journeys & Exile",
+    "question": "Where did Moses flee after killing an Egyptian?",
+    "choices": [
+      "Midian",
+      "Egypt",
+      "Canaan",
+      "Sinai"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 2,
+      "verse": "15"
+    },
+    "explanation": "When Pharaoh heard of this, he tried to kill Moses, but Moses fled to Midian."
+  },
+  {
+    "id": "JRN-M-0009",
+    "theme": "Journeys & Exile",
+    "question": "How long did it take Solomon to build the temple?",
+    "choices": [
+      "7 years",
+      "10 years",
+      "20 years",
+      "3 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 6,
+      "verse": "38"
+    },
+    "explanation": "He had spent seven years building it."
+  },
+  {
+    "id": "JRN-M-0010",
+    "theme": "Journeys & Exile",
+    "question": "Where did God appear to Moses in a burning bush?",
+    "choices": [
+      "Mount Horeb",
+      "Mount Sinai",
+      "Mount Nebo",
+      "Mount Carmel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 3,
+      "verse": "1"
+    },
+    "explanation": "Moses led the flock to the far side of the wilderness and came to Horeb, the mountain of God."
+  },
+  {
+    "id": "JRN-M-0011",
+    "theme": "Journeys & Exile",
+    "question": "Where did Abraham live before God called him?",
+    "choices": [
+      "Ur of the Chaldeans",
+      "Haran",
+      "Egypt",
+      "Canaan"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 11,
+      "verse": "31"
+    },
+    "explanation": "Terah took his son Abram and together they set out from Ur of the Chaldeans to go to Canaan."
+  },
+  {
+    "id": "JRN-M-0012",
+    "theme": "Journeys & Exile",
+    "question": "Where did Ruth come from before going to Bethlehem?",
+    "choices": [
+      "Moab",
+      "Egypt",
+      "Edom",
+      "Ammon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Ruth",
+      "chapter": 1,
+      "verse": "4"
+    },
+    "explanation": "They married Moabite women, one named Orpah and the other Ruth."
+  },
+  {
+    "id": "JRN-M-0013",
+    "theme": "Journeys & Exile",
+    "question": "To what city did Jonah flee instead of going to Nineveh?",
+    "choices": [
+      "Tarshish",
+      "Joppa",
+      "Jerusalem",
+      "Babylon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Jonah",
+      "chapter": 1,
+      "verse": "3"
+    },
+    "explanation": "Jonah ran away from the Lord and headed for Tarshish, boarding a ship at Joppa."
+  },
+  {
+    "id": "JRN-M-0014",
+    "theme": "Journeys & Exile",
+    "question": "How long was the Babylonian exile prophesied to last?",
+    "choices": [
+      "Seventy years",
+      "Forty years",
+      "One hundred years",
+      "Fifty years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 25,
+      "verse": "11"
+    },
+    "explanation": "This whole country will become a desolate wasteland, and these nations will serve the king of Babylon seventy years."
+  },
+  {
+    "id": "JRN-M-0015",
+    "theme": "Journeys & Exile",
+    "question": "Where did Abraham travel from when God called him?",
+    "choices": [
+      "Ur of the Chaldeans",
+      "Haran",
+      "Egypt",
+      "Canaan"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 11,
+      "verse": "31"
+    },
+    "explanation": "Terah took Abram and set out from Ur of the Chaldeans to go to Canaan."
+  },
+  {
+    "id": "JRN-M-0016",
+    "theme": "Journeys & Exile",
+    "question": "Where did Moses meet his wife?",
+    "choices": [
+      "At a well in Midian",
+      "In Egypt",
+      "In the wilderness",
+      "At Mount Sinai"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 2,
+      "verse": "16-21"
+    },
+    "explanation": "Moses sat down by a well in Midian where he met the priest's seven daughters, and married Zipporah."
+  },
+  {
+    "id": "JRN-M-0017",
+    "theme": "Journeys & Exile",
+    "question": "Where did Jacob have his dream of the ladder to heaven?",
+    "choices": [
+      "Bethel",
+      "Haran",
+      "Beersheba",
+      "Shechem"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 28,
+      "verse": "19"
+    },
+    "explanation": "He called that place Bethel, though the city used to be called Luz."
+  },
+  {
+    "id": "JRN-M-0018",
+    "theme": "Journeys & Exile",
+    "question": "How many years did Jacob work to marry Rachel?",
+    "choices": [
+      "Fourteen years",
+      "Seven years",
+      "Twenty years",
+      "Ten years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 29,
+      "verse": "27-30"
+    },
+    "explanation": "Jacob worked seven years for Rachel, then was tricked into marrying Leah, and worked another seven years for Rachel."
+  },
+  {
+    "id": "JRN-M-0019",
+    "theme": "Journeys & Exile",
+    "question": "How long did the Israelites eat manna?",
+    "choices": [
+      "Forty years",
+      "Forty days",
+      "Seven years",
+      "One year"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 16,
+      "verse": "35"
+    },
+    "explanation": "The Israelites ate manna forty years, until they came to a land that was settled."
+  },
+  {
+    "id": "JRN-M-0020",
+    "theme": "Journeys & Exile",
+    "question": "Where did Philip meet the Ethiopian eunuch?",
+    "choices": [
+      "On the road from Jerusalem to Gaza",
+      "In Samaria",
+      "In Jerusalem",
+      "In Ethiopia"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 8,
+      "verse": "26"
+    },
+    "explanation": "Now an angel of the Lord said to Philip, 'Go south to the road—the desert road—that goes down from Jerusalem to Gaza.'"
+  },
+  {
+    "id": "JRN-M-0021",
+    "theme": "Journeys & Exile",
+    "question": "How long did Moses spend on Mount Sinai?",
+    "choices": [
+      "Forty days and forty nights",
+      "Seven days",
+      "Three days",
+      "One year"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 24,
+      "verse": "18"
+    },
+    "explanation": "Then Moses entered the cloud as he went on up the mountain. And he stayed on the mountain forty days and forty nights."
+  },
+  {
+    "id": "JRN-M-0022",
+    "theme": "Journeys & Exile",
+    "question": "Who led the Israelites back to Jerusalem from Babylonian exile?",
+    "choices": [
+      "Ezra and Nehemiah",
+      "Daniel",
+      "Esther",
+      "Zerubbabel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Ezra",
+      "chapter": 7,
+      "verse": "6"
+    },
+    "explanation": "Ezra came up from Babylon. He was a teacher well versed in the Law of Moses, which the Lord, the God of Israel, had given."
+  },
+  {
+    "id": "JRN-M-0023",
+    "theme": "Journeys & Exile",
+    "question": "Where did Joseph's brothers throw him?",
+    "choices": [
+      "A cistern",
+      "A well",
+      "A pit",
+      "A cave"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 37,
+      "verse": "24"
+    },
+    "explanation": "And they took him and threw him into the cistern. The cistern was empty; there was no water in it."
+  },
+  {
+    "id": "JRN-M-0024",
+    "theme": "Journeys & Exile",
+    "question": "To whom was Joseph sold?",
+    "choices": [
+      "Ishmaelite merchants",
+      "Egyptians",
+      "Midianites",
+      "Amalekites"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 37,
+      "verse": "28"
+    },
+    "explanation": "So when the Midianite merchants came by, his brothers pulled Joseph up out of the cistern and sold him for twenty shekels of silver to the Ishmaelites, who took him to Egypt."
+  },
+  {
+    "id": "JRN-M-0025",
+    "theme": "Journeys & Exile",
+    "question": "How many brothers did Joseph have?",
+    "choices": [
+      "Eleven",
+      "Twelve",
+      "Ten",
+      "Nine"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 42,
+      "verse": "13"
+    },
+    "explanation": "They replied, 'Your servants were twelve brothers, the sons of one man, who lives in the land of Canaan.'"
+  },
+  {
+    "id": "JRN-M-0026",
+    "theme": "Journeys & Exile",
+    "question": "What did Joseph's brothers dip his robe in?",
+    "choices": [
+      "Goat's blood",
+      "Wine",
+      "Water",
+      "Mud"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 37,
+      "verse": "31"
+    },
+    "explanation": "Then they got Joseph's robe, slaughtered a goat and dipped the robe in the blood."
+  },
+  {
+    "id": "JRN-M-0027",
+    "theme": "Journeys & Exile",
+    "question": "What did Joseph put in Benjamin's sack?",
+    "choices": [
+      "His silver cup",
+      "Money",
+      "Grain",
+      "A ring"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 44,
+      "verse": "2"
+    },
+    "explanation": "Then put my cup, the silver one, in the mouth of the youngest one's sack, along with the silver for his grain."
+  }
+]

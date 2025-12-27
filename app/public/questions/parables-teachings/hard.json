@@ -1,0 +1,59 @@
+[
+  {
+    "id": "PAR-H-0001",
+    "theme": "Parables & Teachings",
+    "question": "What treasure did the man find hidden in a field?",
+    "choices": [
+      "The parable doesn't specify",
+      "Gold coins",
+      "Jewels",
+      "A chest"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 13,
+      "verse": "44"
+    },
+    "explanation": "Jesus simply calls it 'treasure' without specifying what it was; the kingdom of heaven is like this treasure."
+  },
+  {
+    "id": "PAR-H-0002",
+    "theme": "Parables & Teachings",
+    "question": "What separated the rich man from Lazarus in the afterlife?",
+    "choices": [
+      "A great chasm",
+      "A river",
+      "A wall",
+      "Darkness"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Luke",
+      "chapter": 16,
+      "verse": "26"
+    },
+    "explanation": "And besides all this, between us and you a great chasm has been set in place, so that those who want to go from here to you cannot, nor can anyone cross over from there to us."
+  },
+  {
+    "id": "PAR-H-0003",
+    "theme": "Parables & Teachings",
+    "question": "What happened to the guest without wedding clothes?",
+    "choices": [
+      "He was thrown out into darkness",
+      "He was forgiven",
+      "He was given clothes",
+      "He left on his own"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 22,
+      "verse": "13"
+    },
+    "explanation": "Then the king told the attendants, 'Tie him hand and foot, and throw him outside, into the darkness, where there will be weeping and gnashing of teeth.'"
+  }
+]

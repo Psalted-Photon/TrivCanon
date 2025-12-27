@@ -1,0 +1,572 @@
+[
+  {
+    "id": "APO-E-0001",
+    "theme": "Apostles",
+    "question": "Which apostle was a tax collector before following Jesus?",
+    "choices": [
+      "Matthew",
+      "Peter",
+      "John",
+      "Philip"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 9,
+      "verse": "9"
+    },
+    "explanation": "Matthew (also called Levi) was a tax collector when Jesus called him to be a disciple."
+  },
+  {
+    "id": "APO-E-0002",
+    "theme": "Apostles",
+    "question": "What were the occupations of Peter and Andrew before becoming disciples?",
+    "choices": [
+      "Fishermen",
+      "Carpenters",
+      "Shepherds",
+      "Farmers"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 4,
+      "verse": "18"
+    },
+    "explanation": "Peter and Andrew were fishermen casting their nets when Jesus called them to become fishers of men."
+  },
+  {
+    "id": "APO-E-0003",
+    "theme": "Apostles",
+    "question": "Which apostle is known as 'Doubting' because he questioned Jesus' resurrection?",
+    "choices": [
+      "Thomas",
+      "Bartholomew",
+      "James",
+      "Thaddaeus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 20,
+      "verse": "24-29"
+    },
+    "explanation": "Thomas doubted the resurrection until he saw and touched Jesus' wounds, leading to his famous declaration of faith."
+  },
+  {
+    "id": "APO-E-0004",
+    "theme": "Apostles",
+    "question": "What was Peter's original name before Jesus renamed him?",
+    "choices": [
+      "Simon",
+      "Andrew",
+      "Cephas",
+      "Jonas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 1,
+      "verse": "42"
+    },
+    "explanation": "Jesus renamed Simon to Cephas (Peter), which means rock."
+  },
+  {
+    "id": "APO-E-0005",
+    "theme": "Apostles",
+    "question": "On what road was Paul traveling when he encountered Jesus?",
+    "choices": [
+      "Road to Damascus",
+      "Road to Jerusalem",
+      "Road to Antioch",
+      "Road to Rome"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Acts",
+      "chapter": 9,
+      "verse": "3"
+    },
+    "explanation": "Saul (Paul) was on his way to Damascus to persecute Christians when Jesus appeared to him in a blinding light."
+  },
+  {
+    "id": "APO-E-0006",
+    "theme": "Apostles",
+    "question": "What was Judas Iscariot's role among the disciples?",
+    "choices": [
+      "He kept the money bag",
+      "He was the scribe",
+      "He was the spokesman",
+      "He arranged lodging"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 12,
+      "verse": "6"
+    },
+    "explanation": "Judas kept the money bag and was a thief who used to help himself to what was put into it."
+  },
+  {
+    "id": "APO-E-0007",
+    "theme": "Apostles",
+    "question": "How did Judas identify Jesus to the soldiers?",
+    "choices": [
+      "With a kiss",
+      "By pointing",
+      "By calling his name",
+      "With a signal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 26,
+      "verse": "48-49"
+    },
+    "explanation": "Judas had arranged a signal: 'The one I kiss is the man; arrest him.'"
+  },
+  {
+    "id": "APO-E-0008",
+    "theme": "Apostles",
+    "question": "Which apostle did Jesus call the 'rock'?",
+    "choices": [
+      "Peter",
+      "Andrew",
+      "James",
+      "John"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 16,
+      "verse": "18"
+    },
+    "explanation": "Jesus said to Peter, 'You are Peter (rock), and on this rock I will build my church.'"
+  },
+  {
+    "id": "APO-E-0009",
+    "theme": "Apostles",
+    "question": "What was Peter doing when Jesus called him?",
+    "choices": [
+      "Fishing",
+      "Collecting taxes",
+      "Working as a carpenter",
+      "Studying scripture"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 5,
+      "verse": "4-5"
+    },
+    "explanation": "Jesus told Peter to put out into deep water and let down the nets for a catch."
+  },
+  {
+    "id": "APO-E-0010",
+    "theme": "Apostles",
+    "question": "Which apostle asked to see Jesus' hands and side?",
+    "choices": [
+      "Thomas",
+      "Peter",
+      "John",
+      "Philip"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 20,
+      "verse": "25"
+    },
+    "explanation": "Thomas said, 'Unless I see the nail marks in his hands and put my finger where the nails were, I will not believe.'"
+  },
+  {
+    "id": "APO-E-0011",
+    "theme": "Apostles",
+    "question": "How many apostles did Jesus choose?",
+    "choices": [
+      "Twelve",
+      "Ten",
+      "Seven",
+      "Eleven"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 10,
+      "verse": "1"
+    },
+    "explanation": "Jesus called his twelve disciples to him and gave them authority to drive out impure spirits."
+  },
+  {
+    "id": "APO-E-0012",
+    "theme": "Apostles",
+    "question": "Who was stoned to death, becoming the first Christian martyr?",
+    "choices": [
+      "Stephen",
+      "James",
+      "Peter",
+      "Paul"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Acts",
+      "chapter": 7,
+      "verse": "59"
+    },
+    "explanation": "While they were stoning him, Stephen prayed, 'Lord Jesus, receive my spirit.'"
+  },
+  {
+    "id": "APO-E-0013",
+    "theme": "Apostles",
+    "question": "Who cut off the high priest's servant's ear?",
+    "choices": [
+      "Peter",
+      "John",
+      "James",
+      "Andrew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 18,
+      "verse": "10"
+    },
+    "explanation": "Simon Peter had a sword and drew it, striking the high priest's servant and cutting off his right ear."
+  },
+  {
+    "id": "APO-E-0014",
+    "theme": "Apostles",
+    "question": "How many times did Peter deny Jesus?",
+    "choices": [
+      "Three",
+      "Two",
+      "Four",
+      "Seven"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 26,
+      "verse": "75"
+    },
+    "explanation": "Peter remembered what Jesus had said: 'Before the rooster crows, you will disown me three times.'"
+  },
+  {
+    "id": "APO-E-0015",
+    "theme": "Apostles",
+    "question": "What was Paul's occupation?",
+    "choices": [
+      "Tentmaker",
+      "Fisherman",
+      "Tax collector",
+      "Scribe"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Acts",
+      "chapter": 18,
+      "verse": "3"
+    },
+    "explanation": "Because he was a tentmaker as they were, he stayed and worked with them."
+  },
+  {
+    "id": "APO-E-0016",
+    "theme": "Apostles",
+    "question": "Which apostle was called 'the beloved disciple'?",
+    "choices": [
+      "John",
+      "Peter",
+      "James",
+      "Andrew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 13,
+      "verse": "23"
+    },
+    "explanation": "One of them, the disciple whom Jesus loved, was reclining next to him."
+  },
+  {
+    "id": "APO-E-0017",
+    "theme": "Apostles",
+    "question": "Which apostle was a tax collector?",
+    "choices": [
+      "Matthew",
+      "Peter",
+      "John",
+      "James"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 9,
+      "verse": "9"
+    },
+    "explanation": "As Jesus went on from there, he saw a man named Matthew sitting at the tax collector's booth."
+  },
+  {
+    "id": "APO-E-0018",
+    "theme": "Apostles",
+    "question": "Which apostle walked on water with Jesus?",
+    "choices": [
+      "Peter",
+      "John",
+      "James",
+      "Andrew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 14,
+      "verse": "29"
+    },
+    "explanation": "Then Peter got down out of the boat, walked on the water and came toward Jesus."
+  },
+  {
+    "id": "APO-E-0019",
+    "theme": "Apostles",
+    "question": "Which apostle doubted Jesus' resurrection until he saw and touched Jesus' wounds?",
+    "choices": [
+      "Thomas",
+      "Philip",
+      "Bartholomew",
+      "Matthew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 20,
+      "verse": "27"
+    },
+    "explanation": "Thomas said he would not believe unless he could put his finger in the nail marks and his hand in Jesus' side."
+  },
+  {
+    "id": "APO-E-0020",
+    "theme": "Apostles",
+    "question": "Which apostle wrote the most New Testament books?",
+    "choices": [
+      "Paul",
+      "John",
+      "Peter",
+      "Matthew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Romans",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "Paul wrote 13 or 14 epistles (if Hebrews is included), the most of any New Testament author."
+  },
+  {
+    "id": "APO-E-0021",
+    "theme": "Apostles",
+    "question": "Which apostle was present at Jesus' transfiguration?",
+    "choices": [
+      "Peter, James, and John",
+      "All twelve",
+      "Peter and John only",
+      "The inner four"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 17,
+      "verse": "1"
+    },
+    "explanation": "Jesus took Peter, James and John up a high mountain where He was transfigured."
+  },
+  {
+    "id": "APO-E-0022",
+    "theme": "Apostles",
+    "question": "Who was the apostle to the Gentiles?",
+    "choices": [
+      "Paul",
+      "Peter",
+      "Philip",
+      "Barnabas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Romans",
+      "chapter": 11,
+      "verse": "13"
+    },
+    "explanation": "I am talking to you Gentiles. Inasmuch as I am the apostle to the Gentiles, I take pride in my ministry."
+  },
+  {
+    "id": "APO-E-0023",
+    "theme": "Apostles",
+    "question": "Which apostle brought his brother to Jesus?",
+    "choices": [
+      "Andrew",
+      "Peter",
+      "James",
+      "John"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 1,
+      "verse": "41-42"
+    },
+    "explanation": "The first thing Andrew did was to find his brother Simon and tell him, 'We have found the Messiah.'"
+  },
+  {
+    "id": "APO-E-0024",
+    "theme": "Apostles",
+    "question": "Which apostle doubted Jesus' resurrection until he saw Him?",
+    "choices": [
+      "Thomas",
+      "Peter",
+      "Philip",
+      "Andrew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 20,
+      "verse": "25"
+    },
+    "explanation": "So the other disciples told him, 'We have seen the Lord!' But he said, 'Unless I see the nail marks... I will not believe.'"
+  },
+  {
+    "id": "APO-E-0025",
+    "theme": "Apostles",
+    "question": "Which apostle cut off the servant's ear in Gethsemane?",
+    "choices": [
+      "Peter",
+      "John",
+      "James",
+      "Judas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 18,
+      "verse": "10"
+    },
+    "explanation": "Then Simon Peter, who had a sword, drew it and struck the high priest's servant, cutting off his right ear."
+  },
+  {
+    "id": "APO-E-0026",
+    "theme": "Apostles",
+    "question": "Which apostle was fishing when Jesus called him to be a fisher of men?",
+    "choices": [
+      "Peter",
+      "Matthew",
+      "Philip",
+      "Bartholomew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 4,
+      "verse": "18-19"
+    },
+    "explanation": "As Jesus was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the lake, for they were fishermen. 'Come, follow me,' Jesus said, 'and I will send you out to fish for people.'"
+  },
+  {
+    "id": "APO-E-0027",
+    "theme": "Apostles",
+    "question": "Who was Peter's brother?",
+    "choices": [
+      "Andrew",
+      "James",
+      "John",
+      "Philip"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 4,
+      "verse": "18"
+    },
+    "explanation": "As Jesus was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew."
+  },
+  {
+    "id": "APO-E-0028",
+    "theme": "Apostles",
+    "question": "Which apostle did Jesus love?",
+    "choices": [
+      "All of them",
+      "John",
+      "Peter",
+      "James"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 13,
+      "verse": "1"
+    },
+    "explanation": "Having loved his own who were in the world, he loved them to the end. Jesus loved all His disciples."
+  },
+  {
+    "id": "APO-E-0029",
+    "theme": "Apostles",
+    "question": "Which apostle wrote the most epistles?",
+    "choices": [
+      "Paul",
+      "Peter",
+      "John",
+      "James"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Romans",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "Paul wrote 13 or 14 epistles, more than any other New Testament writer."
+  },
+  {
+    "id": "APO-E-0030",
+    "theme": "Apostles",
+    "question": "Where was Paul when he was blinded by a great light?",
+    "choices": [
+      "On the road to Damascus",
+      "In Jerusalem",
+      "In Tarsus",
+      "In Antioch"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Acts",
+      "chapter": 9,
+      "verse": "3"
+    },
+    "explanation": "As he neared Damascus on his journey, suddenly a light from heaven flashed around him."
+  }
+]

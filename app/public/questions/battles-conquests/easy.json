@@ -1,0 +1,458 @@
+[
+  {
+    "id": "BAT-E-0001",
+    "theme": "Battles & Conquests",
+    "question": "What caused the walls of Jericho to fall?",
+    "choices": [
+      "The Israelites marched around it and shouted",
+      "A great earthquake",
+      "Battering rams",
+      "Fire from heaven"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 6,
+      "verse": "20"
+    },
+    "explanation": "After marching around Jericho for seven days, the walls fell when the people shouted and the trumpets sounded."
+  },
+  {
+    "id": "BAT-E-0002",
+    "theme": "Battles & Conquests",
+    "question": "Who killed Goliath with a sling and a stone?",
+    "choices": [
+      "David",
+      "Saul",
+      "Jonathan",
+      "Samuel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "49"
+    },
+    "explanation": "Young David defeated the giant Goliath with a single stone from his sling, striking him in the forehead."
+  },
+  {
+    "id": "BAT-E-0003",
+    "theme": "Battles & Conquests",
+    "question": "Who defeated the Philistines with a donkey's jawbone?",
+    "choices": [
+      "Samson",
+      "David",
+      "Jonathan",
+      "Gideon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Judges",
+      "chapter": 15,
+      "verse": "15"
+    },
+    "explanation": "Samson found a fresh jawbone of a donkey and struck down a thousand Philistines with it."
+  },
+  {
+    "id": "BAT-E-0004",
+    "theme": "Battles & Conquests",
+    "question": "Which city's conquest was Israel's first victory in the Promised Land?",
+    "choices": [
+      "Jericho",
+      "Ai",
+      "Gibeon",
+      "Hebron"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 6,
+      "verse": "20"
+    },
+    "explanation": "Jericho was the first city conquered by Israel when they entered the Promised Land."
+  },
+  {
+    "id": "BAT-E-0005",
+    "theme": "Battles & Conquests",
+    "question": "What happened to the army of the Egyptians pursuing Israel through the Red Sea?",
+    "choices": [
+      "They were drowned",
+      "They turned back",
+      "They were struck with plague",
+      "They surrendered"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 14,
+      "verse": "28"
+    },
+    "explanation": "The waters returned and covered the chariots and horsemen of Pharaoh's army; not one of them survived."
+  },
+  {
+    "id": "BAT-E-0006",
+    "theme": "Battles & Conquests",
+    "question": "Who led a successful night raid against the Midianites with only 300 men?",
+    "choices": [
+      "Gideon",
+      "Joshua",
+      "Samson",
+      "Barak"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Judges",
+      "chapter": 7,
+      "verse": "16-22"
+    },
+    "explanation": "Gideon divided his 300 men and attacked at night with torches and trumpets, routing the Midianites."
+  },
+  {
+    "id": "BAT-E-0007",
+    "theme": "Battles & Conquests",
+    "question": "What did Joshua command to stand still during battle?",
+    "choices": [
+      "The sun and moon",
+      "The wind",
+      "The Jordan River",
+      "The enemy army"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 10,
+      "verse": "12-13"
+    },
+    "explanation": "Joshua commanded the sun to stand still over Gibeon and the moon over the Valley of Aijalon."
+  },
+  {
+    "id": "BAT-E-0008",
+    "theme": "Battles & Conquests",
+    "question": "Who conquered Jerusalem and made it the capital of Israel?",
+    "choices": [
+      "David",
+      "Joshua",
+      "Solomon",
+      "Saul"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verse": "7"
+    },
+    "explanation": "David captured the fortress of Zion (Jerusalem) from the Jebusites and made it his capital."
+  },
+  {
+    "id": "BAT-E-0009",
+    "theme": "Battles & Conquests",
+    "question": "What brought down the walls of Jericho?",
+    "choices": [
+      "Marching, trumpets, and shouting",
+      "An earthquake",
+      "Battering rams",
+      "Fire"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 6,
+      "verse": "20"
+    },
+    "explanation": "When the trumpets sounded and the people shouted, the wall collapsed and Israel took the city."
+  },
+  {
+    "id": "BAT-E-0010",
+    "theme": "Battles & Conquests",
+    "question": "What happened to the army chasing the Israelites at the Red Sea?",
+    "choices": [
+      "They drowned",
+      "They turned back",
+      "They surrendered",
+      "They were struck by lightning"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 14,
+      "verse": "28"
+    },
+    "explanation": "The water flowed back and covered the chariots and horsemen. Not one of them survived."
+  },
+  {
+    "id": "BAT-E-0011",
+    "theme": "Battles & Conquests",
+    "question": "Who killed Goliath?",
+    "choices": [
+      "David",
+      "Saul",
+      "Jonathan",
+      "Abner"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "50"
+    },
+    "explanation": "So David triumphed over the Philistine with a sling and a stone."
+  },
+  {
+    "id": "BAT-E-0012",
+    "theme": "Battles & Conquests",
+    "question": "How many times did the Israelites march around Jericho on the seventh day?",
+    "choices": [
+      "Seven times",
+      "Six times",
+      "Twelve times",
+      "Three times"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 6,
+      "verse": "15"
+    },
+    "explanation": "On the seventh day, they marched around the city seven times, then shouted and the walls fell down."
+  },
+  {
+    "id": "BAT-E-0013",
+    "theme": "Battles & Conquests",
+    "question": "Which judge defeated the Midianites with only 300 men?",
+    "choices": [
+      "Gideon",
+      "Samson",
+      "Jephthah",
+      "Ehud"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Judges",
+      "chapter": 7,
+      "verse": "7"
+    },
+    "explanation": "God reduced Gideon's army to 300 men who defeated the Midianites with trumpets, torches, and jars."
+  },
+  {
+    "id": "BAT-E-0014",
+    "theme": "Battles & Conquests",
+    "question": "Who killed 1,000 men with the jawbone of a donkey?",
+    "choices": [
+      "Samson",
+      "David",
+      "Gideon",
+      "Jonathan"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Judges",
+      "chapter": 15,
+      "verse": "15"
+    },
+    "explanation": "Samson found a fresh jawbone of a donkey and struck down a thousand men with it."
+  },
+  {
+    "id": "BAT-E-0015",
+    "theme": "Battles & Conquests",
+    "question": "What did Samson use to kill 1,000 Philistines?",
+    "choices": [
+      "A donkey's jawbone",
+      "A sword",
+      "His bare hands",
+      "A spear"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Judges",
+      "chapter": 15,
+      "verse": "15"
+    },
+    "explanation": "Finding a fresh jawbone of a donkey, he grabbed it and struck down a thousand men."
+  },
+  {
+    "id": "BAT-E-0016",
+    "theme": "Battles & Conquests",
+    "question": "Who defeated the Midianites with only 300 men?",
+    "choices": [
+      "Gideon",
+      "Joshua",
+      "Samson",
+      "David"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Judges",
+      "chapter": 7,
+      "verse": "7"
+    },
+    "explanation": "The Lord said to Gideon, 'With the three hundred men that lapped I will save you and give the Midianites into your hands.'"
+  },
+  {
+    "id": "BAT-E-0017",
+    "theme": "Battles & Conquests",
+    "question": "Which city's walls fell after the Israelites marched around it?",
+    "choices": [
+      "Jericho",
+      "Ai",
+      "Jerusalem",
+      "Gibeon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 6,
+      "verse": "20"
+    },
+    "explanation": "When the trumpets sounded, the army shouted, and at the sound of the trumpet, the wall collapsed."
+  },
+  {
+    "id": "BAT-E-0018",
+    "theme": "Battles & Conquests",
+    "question": "Who led the Israelites into the Promised Land?",
+    "choices": [
+      "Joshua",
+      "Moses",
+      "Caleb",
+      "Aaron"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 1,
+      "verse": "1-2"
+    },
+    "explanation": "After the death of Moses the servant of the Lord, the Lord said to Joshua son of Nun, Moses' aide: 'Now then, you and all these people, get ready to cross the Jordan River into the land I am about to give to them.'"
+  },
+  {
+    "id": "BAT-E-0019",
+    "theme": "Battles & Conquests",
+    "question": "How did David kill Goliath?",
+    "choices": [
+      "With a sling and stone",
+      "With a sword",
+      "With a spear",
+      "With an arrow"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "49"
+    },
+    "explanation": "Reaching into his bag and taking out a stone, he slung it and struck the Philistine on the forehead."
+  },
+  {
+    "id": "BAT-E-0020",
+    "theme": "Battles & Conquests",
+    "question": "How many Philistines did Samson kill with the jawbone of a donkey?",
+    "choices": [
+      "1,000",
+      "500",
+      "100",
+      "10,000"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Judges",
+      "chapter": 15,
+      "verse": "15"
+    },
+    "explanation": "Finding a fresh jawbone of a donkey, he grabbed it and struck down a thousand men."
+  },
+  {
+    "id": "BAT-E-0021",
+    "theme": "Battles & Conquests",
+    "question": "Who betrayed Samson?",
+    "choices": [
+      "Delilah",
+      "Rahab",
+      "Jezebel",
+      "Bathsheba"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Judges",
+      "chapter": 16,
+      "verse": "18"
+    },
+    "explanation": "When Delilah saw that he had told her everything, she sent word to the rulers of the Philistines."
+  },
+  {
+    "id": "BAT-E-0022",
+    "theme": "Battles & Conquests",
+    "question": "What was the source of Samson's strength?",
+    "choices": [
+      "His hair",
+      "His faith",
+      "His muscles",
+      "A divine gift"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Judges",
+      "chapter": 16,
+      "verse": "17"
+    },
+    "explanation": "'No razor has ever been used on my head,' he said, 'because I have been a Nazirite dedicated to God from my mother's womb. If my head were shaved, my strength would leave me.'"
+  },
+  {
+    "id": "BAT-E-0023",
+    "theme": "Battles & Conquests",
+    "question": "How did Samson die?",
+    "choices": [
+      "He pushed down the pillars of a temple",
+      "He was killed in battle",
+      "He was executed",
+      "He died of old age"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Judges",
+      "chapter": 16,
+      "verse": "30"
+    },
+    "explanation": "Samson said, 'Let me die with the Philistines!' Then he pushed with all his might, and down came the temple on the rulers and all the people in it."
+  },
+  {
+    "id": "BAT-E-0024",
+    "theme": "Battles & Conquests",
+    "question": "What did Joshua command to stand still?",
+    "choices": [
+      "The sun and moon",
+      "The wind",
+      "The sea",
+      "The enemy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 10,
+      "verse": "12"
+    },
+    "explanation": "On the day the Lord gave the Amorites over to Israel, Joshua said, 'Sun, stand still over Gibeon, and you, moon, over the Valley of Aijalon.'"
+  }
+]

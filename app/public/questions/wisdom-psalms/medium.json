@@ -1,0 +1,534 @@
+[
+  {
+    "id": "WIS-M-0001",
+    "theme": "Wisdom & Psalms",
+    "question": "What phrase is repeated throughout Ecclesiastes to describe worldly pursuits?",
+    "choices": [
+      "Vanity of vanities",
+      "Dust to dust",
+      "All is well",
+      "Fear the Lord"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "The Teacher declares 'Vanity of vanities, all is vanity' to emphasize the fleeting nature of earthly pursuits."
+  },
+  {
+    "id": "WIS-M-0002",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what begins with the fear of the Lord?",
+    "choices": [
+      "Knowledge",
+      "Understanding",
+      "Love",
+      "Righteousness"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verse": "7"
+    },
+    "explanation": "The fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction."
+  },
+  {
+    "id": "WIS-M-0003",
+    "theme": "Wisdom & Psalms",
+    "question": "How many psalms are in the book of Psalms?",
+    "choices": [
+      "150",
+      "100",
+      "200",
+      "120"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 150,
+      "verse": "1"
+    },
+    "explanation": "The book of Psalms contains 150 individual psalms, the last being Psalm 150."
+  },
+  {
+    "id": "WIS-M-0004",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say about a person who is slow to anger?",
+    "choices": [
+      "Better than the mighty",
+      "Is wise",
+      "Will be blessed",
+      "Finds favor"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 16,
+      "verse": "32"
+    },
+    "explanation": "Better a patient person than a warrior, one with self-control than one who takes a city."
+  },
+  {
+    "id": "WIS-M-0005",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what is more valuable than rubies?",
+    "choices": [
+      "Wisdom",
+      "Gold",
+      "Silver",
+      "Knowledge"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 3,
+      "verse": "15"
+    },
+    "explanation": "Wisdom is more precious than rubies, and nothing you desire can compare with her."
+  },
+  {
+    "id": "WIS-M-0006",
+    "theme": "Wisdom & Psalms",
+    "question": "What is the longest chapter in the Bible?",
+    "choices": [
+      "Psalm 119",
+      "Psalm 23",
+      "Genesis 1",
+      "Isaiah 53"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 119,
+      "verse": "1"
+    },
+    "explanation": "Psalm 119 has 176 verses, making it the longest chapter in the Bible."
+  },
+  {
+    "id": "WIS-M-0007",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say about answering a fool?",
+    "choices": [
+      "Don't answer a fool according to his folly",
+      "Always answer with wisdom",
+      "Speak kindly to fools",
+      "Rebuke them sternly"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 26,
+      "verse": "4"
+    },
+    "explanation": "Do not answer a fool according to his folly, or you yourself will be just like him."
+  },
+  {
+    "id": "WIS-M-0008",
+    "theme": "Wisdom & Psalms",
+    "question": "What did Job say about his Redeemer?",
+    "choices": [
+      "I know that my redeemer lives",
+      "He will save me",
+      "He is my strength",
+      "He will vindicate me"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Job",
+      "chapter": 19,
+      "verse": "25"
+    },
+    "explanation": "I know that my redeemer lives, and that in the end he will stand on the earth."
+  },
+  {
+    "id": "WIS-M-0009",
+    "theme": "Wisdom & Psalms",
+    "question": "What should you do when you pass through the waters, according to Isaiah?",
+    "choices": [
+      "I will be with you",
+      "Fear not",
+      "Trust me",
+      "Be strong"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 43,
+      "verse": "2"
+    },
+    "explanation": "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you."
+  },
+  {
+    "id": "WIS-M-0010",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 46:10 tell us to do?",
+    "choices": [
+      "Be still and know that I am God",
+      "Praise the Lord",
+      "Trust in Him",
+      "Fear not"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 46,
+      "verse": "10"
+    },
+    "explanation": "Be still, and know that I am God; I will be exalted among the nations."
+  },
+  {
+    "id": "WIS-M-0011",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say guards your heart?",
+    "choices": [
+      "Above all else",
+      "With all diligence",
+      "More than anything",
+      "Carefully"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 4,
+      "verse": "23"
+    },
+    "explanation": "Above all else, guard your heart, for everything you do flows from it."
+  },
+  {
+    "id": "WIS-M-0012",
+    "theme": "Wisdom & Psalms",
+    "question": "What does the Lord require of us according to Micah?",
+    "choices": [
+      "To act justly, love mercy, and walk humbly",
+      "To worship daily",
+      "To fast and pray",
+      "To give offerings"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Micah",
+      "chapter": 6,
+      "verse": "8"
+    },
+    "explanation": "He has shown you what is good: To act justly and to love mercy and to walk humbly with your God."
+  },
+  {
+    "id": "WIS-M-0013",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 24:1 say belongs to the Lord?",
+    "choices": [
+      "The earth and everything in it",
+      "The heavens",
+      "All nations",
+      "The sea"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 24,
+      "verse": "1"
+    },
+    "explanation": "The earth is the Lord's, and everything in it, the world, and all who live in it."
+  },
+  {
+    "id": "WIS-M-0014",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say a soft answer turns away?",
+    "choices": [
+      "Wrath",
+      "Evil",
+      "Enemies",
+      "Trouble"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verse": "1"
+    },
+    "explanation": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+  },
+  {
+    "id": "WIS-M-0015",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 100 tell us to enter God's gates with?",
+    "choices": [
+      "Thanksgiving",
+      "Praise",
+      "Singing",
+      "Joy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 100,
+      "verse": "4"
+    },
+    "explanation": "Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name."
+  },
+  {
+    "id": "WIS-M-0016",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what keeps you from evil?",
+    "choices": [
+      "Wisdom",
+      "Fear",
+      "Law",
+      "Prayer"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 2,
+      "verse": "11-12"
+    },
+    "explanation": "Discretion will protect you, and understanding will guard you. Wisdom will save you from the ways of wicked men."
+  },
+  {
+    "id": "WIS-M-0017",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 51 ask God to create?",
+    "choices": [
+      "A clean heart",
+      "A new spirit",
+      "Right thoughts",
+      "Pure hands"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 51,
+      "verse": "10"
+    },
+    "explanation": "Create in me a pure heart, O God, and renew a steadfast spirit within me."
+  },
+  {
+    "id": "WIS-M-0018",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say about those who trust in riches?",
+    "choices": [
+      "They will fall",
+      "They are fools",
+      "They will perish",
+      "They are blessed"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verse": "28"
+    },
+    "explanation": "Those who trust in their riches will fall, but the righteous will thrive like a green leaf."
+  },
+  {
+    "id": "WIS-M-0019",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 119 primarily focus on?",
+    "choices": [
+      "God's Word and law",
+      "God's mercy",
+      "Praise and worship",
+      "Creation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 119,
+      "verse": "105"
+    },
+    "explanation": "Your word is a lamp for my feet, a light on my path. Psalm 119 is dedicated to praising God's Word."
+  },
+  {
+    "id": "WIS-M-0020",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Ecclesiastes say about enjoying your work?",
+    "choices": [
+      "It is a gift from God",
+      "It is vanity",
+      "It is temporary",
+      "It is foolish"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "verse": "13"
+    },
+    "explanation": "That each of them may eat and drink, and find satisfaction in all their toil—this is the gift of God."
+  },
+  {
+    "id": "WIS-M-0021",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say about a cheerful heart?",
+    "choices": [
+      "It is good medicine",
+      "It pleases God",
+      "It brings joy",
+      "It heals the soul"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 17,
+      "verse": "22"
+    },
+    "explanation": "A cheerful heart is good medicine, but a crushed spirit dries up the bones."
+  },
+  {
+    "id": "WIS-M-0022",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what guards the mouth?",
+    "choices": [
+      "Watching your words",
+      "Wisdom",
+      "Understanding",
+      "The fear of God"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 21,
+      "verse": "23"
+    },
+    "explanation": "Those who guard their mouths and their tongues keep themselves from calamity."
+  },
+  {
+    "id": "WIS-M-0023",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say a good name is better than?",
+    "choices": [
+      "Great riches",
+      "Gold",
+      "Silver",
+      "Wisdom"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verse": "1"
+    },
+    "explanation": "A good name is more desirable than great riches; to be esteemed is better than silver or gold."
+  },
+  {
+    "id": "WIS-M-0024",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what does a person who loves sleep become?",
+    "choices": [
+      "Poor",
+      "Lazy",
+      "Foolish",
+      "Weak"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verse": "13"
+    },
+    "explanation": "Do not love sleep or you will grow poor; stay awake and you will have food to spare."
+  },
+  {
+    "id": "WIS-M-0025",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what comes before honor?",
+    "choices": [
+      "Humility",
+      "Wisdom",
+      "Righteousness",
+      "Fear of God"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verse": "33"
+    },
+    "explanation": "Wisdom's instruction is to fear the Lord, and humility comes before honor."
+  },
+  {
+    "id": "WIS-M-0026",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say about a quarrelsome wife?",
+    "choices": [
+      "Better to live on a corner of the roof",
+      "Better to live alone",
+      "Better to be single",
+      "Avoid her"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 21,
+      "verse": "9"
+    },
+    "explanation": "Better to live on a corner of the roof than share a house with a quarrelsome wife."
+  },
+  {
+    "id": "WIS-M-0027",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say the righteous care about?",
+    "choices": [
+      "Justice for the poor",
+      "Their own needs",
+      "Wealth",
+      "Power"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 29,
+      "verse": "7"
+    },
+    "explanation": "The righteous care about justice for the poor, but the wicked have no such concern."
+  },
+  {
+    "id": "WIS-M-0028",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 37 say about the meek?",
+    "choices": [
+      "They will inherit the land",
+      "They will be blessed",
+      "They will see God",
+      "They will be exalted"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 37,
+      "verse": "11"
+    },
+    "explanation": "But the meek will inherit the land and enjoy peace and prosperity."
+  }
+]

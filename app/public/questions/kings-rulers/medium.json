@@ -1,0 +1,515 @@
+[
+  {
+    "id": "KNG-M-0001",
+    "theme": "Kings & Rulers",
+    "question": "Who was king when Daniel was thrown into the lions' den?",
+    "choices": [
+      "Darius",
+      "Nebuchadnezzar",
+      "Cyrus",
+      "Belshazzar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 6,
+      "verse": "16"
+    },
+    "explanation": "King Darius was tricked into signing a decree that led to Daniel being thrown to the lions."
+  },
+  {
+    "id": "KNG-M-0002",
+    "theme": "Kings & Rulers",
+    "question": "Which king had a dream about a statue made of different metals?",
+    "choices": [
+      "Nebuchadnezzar",
+      "Darius",
+      "Cyrus",
+      "Belshazzar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 2,
+      "verse": "31"
+    },
+    "explanation": "Nebuchadnezzar dreamed of a large statue with a head of gold, which Daniel interpreted."
+  },
+  {
+    "id": "KNG-M-0003",
+    "theme": "Kings & Rulers",
+    "question": "Which king ordered the execution of John the Baptist?",
+    "choices": [
+      "Herod Antipas",
+      "Pontius Pilate",
+      "Herod the Great",
+      "Caesar Augustus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 14,
+      "verse": "9-10"
+    },
+    "explanation": "Herod Antipas reluctantly ordered John's beheading after his stepdaughter asked for it at her mother's urging."
+  },
+  {
+    "id": "KNG-M-0004",
+    "theme": "Kings & Rulers",
+    "question": "Which king saw handwriting on the wall during a feast?",
+    "choices": [
+      "Belshazzar",
+      "Nebuchadnezzar",
+      "Darius",
+      "Cyrus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 5,
+      "verse": "5"
+    },
+    "explanation": "During Belshazzar's feast, a hand appeared and wrote on the wall, which Daniel interpreted as a message of judgment."
+  },
+  {
+    "id": "KNG-M-0005",
+    "theme": "Kings & Rulers",
+    "question": "Which king had 700 wives and 300 concubines?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Rehoboam",
+      "Ahab"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verse": "3"
+    },
+    "explanation": "Solomon had 700 wives of royal birth and 300 concubines, and they led his heart astray."
+  },
+  {
+    "id": "KNG-M-0006",
+    "theme": "Kings & Rulers",
+    "question": "Which young king found the Book of the Law in the temple and led a great reformation?",
+    "choices": [
+      "Josiah",
+      "Hezekiah",
+      "Asa",
+      "Jehoshaphat"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 22,
+      "verse": "8"
+    },
+    "explanation": "During Josiah's reign, the Book of the Law was found, leading him to institute major religious reforms."
+  },
+  {
+    "id": "KNG-M-0007",
+    "theme": "Kings & Rulers",
+    "question": "Who was king of Israel when Elijah prophesied?",
+    "choices": [
+      "Ahab",
+      "Jeroboam",
+      "Jehu",
+      "Omri"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 16,
+      "verse": "29"
+    },
+    "explanation": "Ahab son of Omri reigned over Israel, and Elijah confronted him about worshiping Baal."
+  },
+  {
+    "id": "KNG-M-0008",
+    "theme": "Kings & Rulers",
+    "question": "Which Persian king allowed the Jews to return and rebuild Jerusalem?",
+    "choices": [
+      "Cyrus",
+      "Darius",
+      "Xerxes",
+      "Artaxerxes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Ezra",
+      "chapter": 1,
+      "verse": "1-2"
+    },
+    "explanation": "Cyrus king of Persia issued a decree allowing the Jews to return and rebuild the temple in Jerusalem."
+  },
+  {
+    "id": "KNG-M-0009",
+    "theme": "Kings & Rulers",
+    "question": "How many years did King David reign over Israel?",
+    "choices": [
+      "40 years",
+      "30 years",
+      "50 years",
+      "20 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verse": "4"
+    },
+    "explanation": "David was thirty when he became king, and he reigned forty years total."
+  },
+  {
+    "id": "KNG-M-0010",
+    "theme": "Kings & Rulers",
+    "question": "Which king tore his robe when he heard the words of the Law?",
+    "choices": [
+      "Josiah",
+      "Hezekiah",
+      "David",
+      "Solomon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 22,
+      "verse": "11"
+    },
+    "explanation": "When the king heard the words of the Book of the Law, he tore his robes in repentance."
+  },
+  {
+    "id": "KNG-M-0011",
+    "theme": "Kings & Rulers",
+    "question": "Which king was restored to sanity after seven years of madness?",
+    "choices": [
+      "Nebuchadnezzar",
+      "Belshazzar",
+      "Saul",
+      "Herod"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 4,
+      "verse": "34"
+    },
+    "explanation": "At the end of seven years, Nebuchadnezzar's sanity was restored and he praised the Most High."
+  },
+  {
+    "id": "KNG-M-0012",
+    "theme": "Kings & Rulers",
+    "question": "Which king ordered a census that angered God?",
+    "choices": [
+      "David",
+      "Solomon",
+      "Saul",
+      "Hezekiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "verse": "1"
+    },
+    "explanation": "The anger of the Lord burned against Israel, and he incited David to take a census."
+  },
+  {
+    "id": "KNG-M-0013",
+    "theme": "Kings & Rulers",
+    "question": "Who was the mother of King Solomon?",
+    "choices": [
+      "Bathsheba",
+      "Abigail",
+      "Ahinoam",
+      "Michal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "verse": "24"
+    },
+    "explanation": "David comforted Bathsheba his wife, and she gave birth to a son, and they named him Solomon."
+  },
+  {
+    "id": "KNG-M-0014",
+    "theme": "Kings & Rulers",
+    "question": "Who was king when Jesus was born?",
+    "choices": [
+      "Herod the Great",
+      "Caesar Augustus",
+      "Pontius Pilate",
+      "Herod Antipas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 2,
+      "verse": "1"
+    },
+    "explanation": "After Jesus was born in Bethlehem in Judea, during the time of King Herod."
+  },
+  {
+    "id": "KNG-M-0015",
+    "theme": "Kings & Rulers",
+    "question": "Who was the last king of united Israel before the kingdom split?",
+    "choices": [
+      "Solomon",
+      "Rehoboam",
+      "Jeroboam",
+      "David"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verse": "43"
+    },
+    "explanation": "Solomon died and his son Rehoboam succeeded him, but the kingdom divided during Rehoboam's reign."
+  },
+  {
+    "id": "KNG-M-0016",
+    "theme": "Kings & Rulers",
+    "question": "Who was king when the walls of Jerusalem were rebuilt by Nehemiah?",
+    "choices": [
+      "Artaxerxes",
+      "Cyrus",
+      "Darius",
+      "Xerxes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Nehemiah",
+      "chapter": 2,
+      "verse": "1"
+    },
+    "explanation": "Nehemiah served as cupbearer to King Artaxerxes and received permission to rebuild Jerusalem's walls."
+  },
+  {
+    "id": "KNG-M-0017",
+    "theme": "Kings & Rulers",
+    "question": "Which king sought wisdom from the witch of Endor?",
+    "choices": [
+      "Saul",
+      "David",
+      "Solomon",
+      "Ahab"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "verse": "7"
+    },
+    "explanation": "King Saul disguised himself and consulted a medium at Endor to bring up the spirit of Samuel."
+  },
+  {
+    "id": "KNG-M-0018",
+    "theme": "Kings & Rulers",
+    "question": "Which king's pride caused him to lose his sanity?",
+    "choices": [
+      "Nebuchadnezzar",
+      "Belshazzar",
+      "Saul",
+      "Herod"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 4,
+      "verse": "33"
+    },
+    "explanation": "Nebuchadnezzar was driven away from people and ate grass like the ox until he acknowledged God."
+  },
+  {
+    "id": "KNG-M-0019",
+    "theme": "Kings & Rulers",
+    "question": "Which king tore down the high places and idols in Judah?",
+    "choices": [
+      "Josiah",
+      "Hezekiah",
+      "Asa",
+      "Jehoshaphat"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 23,
+      "verse": "4-5"
+    },
+    "explanation": "King Josiah ordered the high priest to remove articles made for Baal and Asherah from the temple."
+  },
+  {
+    "id": "KNG-M-0020",
+    "theme": "Kings & Rulers",
+    "question": "Which king saw the handwriting on the wall?",
+    "choices": [
+      "Belshazzar",
+      "Nebuchadnezzar",
+      "Darius",
+      "Cyrus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 5,
+      "verse": "5"
+    },
+    "explanation": "Suddenly the fingers of a human hand appeared and wrote on the wall during Belshazzar's feast."
+  },
+  {
+    "id": "KNG-M-0021",
+    "theme": "Kings & Rulers",
+    "question": "How many years did Solomon reign in Jerusalem?",
+    "choices": [
+      "Forty years",
+      "Thirty years",
+      "Twenty years",
+      "Fifty years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verse": "42"
+    },
+    "explanation": "Solomon reigned in Jerusalem over all Israel forty years."
+  },
+  {
+    "id": "KNG-M-0022",
+    "theme": "Kings & Rulers",
+    "question": "How tall was King Saul?",
+    "choices": [
+      "A head taller than anyone else",
+      "Six feet",
+      "Seven feet",
+      "Average height"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 9,
+      "verse": "2"
+    },
+    "explanation": "He had a son named Saul, as handsome a young man as could be found, and he was a head taller than anyone else."
+  },
+  {
+    "id": "KNG-M-0023",
+    "theme": "Kings & Rulers",
+    "question": "Which king had a dream about a statue made of different materials?",
+    "choices": [
+      "Nebuchadnezzar",
+      "Belshazzar",
+      "Darius",
+      "Cyrus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 2,
+      "verse": "31"
+    },
+    "explanation": "Your Majesty looked, and there before you stood a large statue—an enormous, dazzling statue, awesome in appearance."
+  },
+  {
+    "id": "KNG-M-0024",
+    "theme": "Kings & Rulers",
+    "question": "Which king consulted a medium at Endor?",
+    "choices": [
+      "Saul",
+      "David",
+      "Solomon",
+      "Ahab"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "verse": "7"
+    },
+    "explanation": "Saul then said to his attendants, 'Find me a woman who is a medium, so I may go and inquire of her.'"
+  },
+  {
+    "id": "KNG-M-0025",
+    "theme": "Kings & Rulers",
+    "question": "Which king was told by Nathan the prophet, 'You are the man!'?",
+    "choices": [
+      "David",
+      "Solomon",
+      "Saul",
+      "Ahab"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "verse": "7"
+    },
+    "explanation": "Then Nathan said to David, 'You are the man!' This is what the Lord, the God of Israel, says."
+  },
+  {
+    "id": "KNG-M-0026",
+    "theme": "Kings & Rulers",
+    "question": "What happened to Absalom during the battle?",
+    "choices": [
+      "His hair got caught in a tree",
+      "He was struck by a sword",
+      "He fell from his horse",
+      "He drowned"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "verse": "9"
+    },
+    "explanation": "Absalom's hair got caught in the tree. He was left hanging in midair, while the mule he was riding kept on going."
+  },
+  {
+    "id": "KNG-M-0027",
+    "theme": "Kings & Rulers",
+    "question": "What did God offer Solomon before he asked for wisdom?",
+    "choices": [
+      "Anything he wanted",
+      "Riches",
+      "Long life",
+      "Victory"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verse": "5"
+    },
+    "explanation": "At Gibeon the Lord appeared to Solomon during the night in a dream, and God said, 'Ask for whatever you want me to give you.'"
+  }
+]

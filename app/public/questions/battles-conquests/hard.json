@@ -1,0 +1,458 @@
+[
+  {
+    "id": "BAT-H-0001",
+    "theme": "Battles & Conquests",
+    "question": "Which nation's army was defeated when God caused confusion in their camp with a loud noise?",
+    "choices": [
+      "Philistines",
+      "Ammonites",
+      "Moabites",
+      "Edomites"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "verse": "10"
+    },
+    "explanation": "The Lord thundered with a mighty sound against the Philistines and threw them into confusion."
+  },
+  {
+    "id": "BAT-H-0002",
+    "theme": "Battles & Conquests",
+    "question": "Which judge killed King Eglon of Moab?",
+    "choices": [
+      "Ehud",
+      "Othniel",
+      "Shamgar",
+      "Gideon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Judges",
+      "chapter": 3,
+      "verse": "21"
+    },
+    "explanation": "Ehud, a left-handed man, assassinated the obese King Eglon with a sword hidden on his right thigh."
+  },
+  {
+    "id": "BAT-H-0003",
+    "theme": "Battles & Conquests",
+    "question": "How many brothers of Goliath are mentioned in the Bible?",
+    "choices": [
+      "At least two",
+      "One",
+      "Three",
+      "None"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "1 Chronicles",
+      "chapter": 20,
+      "verse": "5"
+    },
+    "explanation": "Lahmi, brother of Goliath, and another unnamed brother are mentioned as giants killed by David's men."
+  },
+  {
+    "id": "BAT-H-0004",
+    "theme": "Battles & Conquests",
+    "question": "What happened to Achan after the defeat at Ai?",
+    "choices": [
+      "He was stoned for taking devoted things",
+      "He was exiled",
+      "He was forgiven",
+      "He became a servant"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 7,
+      "verse": "25"
+    },
+    "explanation": "Joshua said, 'Why have you brought trouble on us?' Then all Israel stoned Achan and his family."
+  },
+  {
+    "id": "BAT-H-0005",
+    "theme": "Battles & Conquests",
+    "question": "What weapon did Shamgar use to strike down 600 Philistines?",
+    "choices": [
+      "An oxgoad",
+      "A sword",
+      "A spear",
+      "A sling"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Judges",
+      "chapter": 3,
+      "verse": "31"
+    },
+    "explanation": "After Ehud came Shamgar, who struck down six hundred Philistines with an oxgoad."
+  },
+  {
+    "id": "BAT-H-0006",
+    "theme": "Battles & Conquests",
+    "question": "How many men did Abimelech kill in one day?",
+    "choices": [
+      "His 70 brothers",
+      "100 soldiers",
+      "1000 Philistines",
+      "50 rebels"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Judges",
+      "chapter": 9,
+      "verse": "5"
+    },
+    "explanation": "Abimelech killed his seventy brothers on one stone to make himself king."
+  },
+  {
+    "id": "BAT-H-0007",
+    "theme": "Battles & Conquests",
+    "question": "How many Philistines did Jonathan and his armor-bearer kill in their first attack?",
+    "choices": [
+      "Twenty",
+      "Thirty",
+      "Fifty",
+      "One hundred"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verse": "14"
+    },
+    "explanation": "In that first attack Jonathan and his armor-bearer killed some twenty men."
+  },
+  {
+    "id": "BAT-H-0008",
+    "theme": "Battles & Conquests",
+    "question": "How many men did King David lose in the battle where Uriah died?",
+    "choices": [
+      "Several of his best warriors",
+      "None",
+      "One thousand",
+      "Fifty"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "verse": "17"
+    },
+    "explanation": "When the men of the city came out and fought against Joab, some of David's men fell, including Uriah."
+  },
+  {
+    "id": "BAT-H-0009",
+    "theme": "Battles & Conquests",
+    "question": "Who was the commander of Saul's army?",
+    "choices": [
+      "Abner",
+      "Joab",
+      "Abishai",
+      "Benaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verse": "50"
+    },
+    "explanation": "The name of the commander of Saul's army was Abner son of Ner, Saul's uncle."
+  },
+  {
+    "id": "BAT-H-0010",
+    "theme": "Battles & Conquests",
+    "question": "What did Jonathan and his armor-bearer climb to attack the Philistines?",
+    "choices": [
+      "A cliff",
+      "A wall",
+      "A tower",
+      "A mountain"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verse": "13"
+    },
+    "explanation": "Jonathan climbed up, using his hands and feet, with his armor-bearer right behind him."
+  },
+  {
+    "id": "BAT-H-0011",
+    "theme": "Battles & Conquests",
+    "question": "What weapon did Ehud use to kill King Eglon?",
+    "choices": [
+      "A double-edged sword",
+      "A spear",
+      "A sling",
+      "An axe"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Judges",
+      "chapter": 3,
+      "verse": "16"
+    },
+    "explanation": "Ehud had made a double-edged sword about a cubit long, which he strapped to his right thigh."
+  },
+  {
+    "id": "BAT-H-0012",
+    "theme": "Battles & Conquests",
+    "question": "Who defeated Sisera with the help of Deborah?",
+    "choices": [
+      "Barak",
+      "Gideon",
+      "Samson",
+      "Jephthah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "6"
+    },
+    "explanation": "She sent for Barak and said to him, 'The Lord commands you to take ten thousand men and lead them to Mount Tabor.'"
+  },
+  {
+    "id": "BAT-H-0013",
+    "theme": "Battles & Conquests",
+    "question": "What weapon did Shamgar use to kill 600 Philistines?",
+    "choices": [
+      "An oxgoad",
+      "A donkey's jawbone",
+      "A sling",
+      "A sword"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Judges",
+      "chapter": 3,
+      "verse": "31"
+    },
+    "explanation": "Shamgar struck down six hundred Philistines with an oxgoad and saved Israel."
+  },
+  {
+    "id": "BAT-H-0014",
+    "theme": "Battles & Conquests",
+    "question": "How many men did Abraham take to rescue Lot?",
+    "choices": [
+      "318",
+      "300",
+      "500",
+      "1000"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 14,
+      "verse": "14"
+    },
+    "explanation": "Abram called out the 318 trained men born in his household and went in pursuit."
+  },
+  {
+    "id": "BAT-H-0015",
+    "theme": "Battles & Conquests",
+    "question": "Who was Israel's enemy that had 900 iron chariots?",
+    "choices": [
+      "Sisera",
+      "Goliath",
+      "Pharaoh",
+      "Nebuchadnezzar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "3"
+    },
+    "explanation": "Sisera had nine hundred chariots fitted with iron and cruelly oppressed the Israelites."
+  },
+  {
+    "id": "BAT-H-0016",
+    "theme": "Battles & Conquests",
+    "question": "Who killed Goliath's brother Lahmi?",
+    "choices": [
+      "Elhanan",
+      "David",
+      "Joab",
+      "Abishai"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "1 Chronicles",
+      "chapter": 20,
+      "verse": "5"
+    },
+    "explanation": "In another battle with the Philistines, Elhanan son of Jair killed Lahmi the brother of Goliath the Gittite."
+  },
+  {
+    "id": "BAT-H-0017",
+    "theme": "Battles & Conquests",
+    "question": "Which king defeated the Arameans with only a small force?",
+    "choices": [
+      "Ahab",
+      "David",
+      "Jehoshaphat",
+      "Hezekiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 20,
+      "verse": "29"
+    },
+    "explanation": "The Israelites inflicted a hundred thousand casualties on the Aramean foot soldiers in one day."
+  },
+  {
+    "id": "BAT-H-0018",
+    "theme": "Battles & Conquests",
+    "question": "Who killed King Eglon by stabbing him?",
+    "choices": [
+      "Ehud",
+      "Gideon",
+      "Samson",
+      "Joshua"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Judges",
+      "chapter": 3,
+      "verse": "21"
+    },
+    "explanation": "Ehud reached with his left hand, drew the sword from his right thigh and plunged it into the king's belly."
+  },
+  {
+    "id": "BAT-H-0019",
+    "theme": "Battles & Conquests",
+    "question": "Who defeated 185,000 Assyrians in one night?",
+    "choices": [
+      "An angel of the Lord",
+      "Hezekiah's army",
+      "Elijah",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verse": "35"
+    },
+    "explanation": "That night the angel of the Lord went out and put to death a hundred and eighty-five thousand in the Assyrian camp."
+  },
+  {
+    "id": "BAT-H-0020",
+    "theme": "Battles & Conquests",
+    "question": "Who fought against Israel at Mount Tabor?",
+    "choices": [
+      "Sisera",
+      "Goliath",
+      "The Philistines",
+      "The Amalekites"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "12"
+    },
+    "explanation": "When they told Sisera that Barak son of Abinoam had gone up to Mount Tabor."
+  },
+  {
+    "id": "BAT-H-0021",
+    "theme": "Battles & Conquests",
+    "question": "What happened to the stars during the battle with Sisera?",
+    "choices": [
+      "They fought from heaven",
+      "They fell",
+      "They grew dark",
+      "Nothing"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Judges",
+      "chapter": 5,
+      "verse": "20"
+    },
+    "explanation": "From the heavens the stars fought, from their courses they fought against Sisera."
+  },
+  {
+    "id": "BAT-H-0022",
+    "theme": "Battles & Conquests",
+    "question": "Who killed Abner?",
+    "choices": [
+      "Joab",
+      "David",
+      "Saul",
+      "Absalom"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "verse": "27"
+    },
+    "explanation": "Now when Abner returned to Hebron, Joab took him aside into an inner chamber, as if to speak with him privately. And there, to avenge the blood of his brother Asahel, Joab stabbed him in the stomach, and he died."
+  },
+  {
+    "id": "BAT-H-0023",
+    "theme": "Battles & Conquests",
+    "question": "What did Gideon's army shout?",
+    "choices": [
+      "A sword for the Lord and for Gideon!",
+      "The Lord is with us!",
+      "Victory is ours!",
+      "God saves!"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Judges",
+      "chapter": 7,
+      "verse": "20"
+    },
+    "explanation": "The three companies blew the trumpets and smashed the jars. They shouted, 'A sword for the Lord and for Gideon!'"
+  },
+  {
+    "id": "BAT-H-0024",
+    "theme": "Battles & Conquests",
+    "question": "In whose name did David say he came against Goliath?",
+    "choices": [
+      "The Lord Almighty, the God of the armies of Israel",
+      "The God of Abraham",
+      "The God of his fathers",
+      "Jehovah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "45"
+    },
+    "explanation": "David said to the Philistine, 'You come against me with sword and spear and javelin, but I come against you in the name of the Lord Almighty, the God of the armies of Israel.'"
+  }
+]

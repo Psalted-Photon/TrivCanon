@@ -1,0 +1,705 @@
+[
+  {
+    "id": "PAR-E-0001",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the Good Samaritan, who helped the wounded man?",
+    "choices": [
+      "A Samaritan",
+      "A priest",
+      "A Levite",
+      "A Roman soldier"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 10,
+      "verse": "33"
+    },
+    "explanation": "The Samaritan showed compassion and cared for the man, unlike the priest and Levite who passed by."
+  },
+  {
+    "id": "PAR-E-0002",
+    "theme": "Parables & Teachings",
+    "question": "What did the prodigal son ask his father for before leaving home?",
+    "choices": [
+      "His inheritance",
+      "His blessing",
+      "Permission to travel",
+      "Money for supplies"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 15,
+      "verse": "12"
+    },
+    "explanation": "The younger son asked for his share of the inheritance, which he then squandered in wild living."
+  },
+  {
+    "id": "PAR-E-0003",
+    "theme": "Parables & Teachings",
+    "question": "What did the wise man build his house upon in Jesus' parable?",
+    "choices": [
+      "Rock",
+      "Sand",
+      "Wood",
+      "Clay"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 7,
+      "verse": "24"
+    },
+    "explanation": "The wise man built his house on the rock, representing those who hear and obey Jesus' words."
+  },
+  {
+    "id": "PAR-E-0004",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the lost sheep, how many sheep did the shepherd leave to find the one that was lost?",
+    "choices": [
+      "99",
+      "100",
+      "50",
+      "10"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 15,
+      "verse": "4"
+    },
+    "explanation": "The shepherd left the 99 sheep to search for the one that was lost, showing God's care for each individual."
+  },
+  {
+    "id": "PAR-E-0005",
+    "theme": "Parables & Teachings",
+    "question": "What did the servant who received one talent do with it?",
+    "choices": [
+      "Buried it in the ground",
+      "Invested it and doubled it",
+      "Gave it to the poor",
+      "Lost it"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 25,
+      "verse": "18"
+    },
+    "explanation": "The servant who received one talent went off, dug a hole, and hid his master's money."
+  },
+  {
+    "id": "PAR-E-0006",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the rich fool, what did he decide to do with his crops?",
+    "choices": [
+      "Build bigger barns",
+      "Give to the poor",
+      "Sell them",
+      "Store them in the city"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 12,
+      "verse": "18"
+    },
+    "explanation": "The rich man decided to tear down his barns and build bigger ones to store all his grain and goods."
+  },
+  {
+    "id": "PAR-E-0007",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say we should do to our enemies?",
+    "choices": [
+      "Love them and pray for them",
+      "Avoid them",
+      "Rebuke them",
+      "Ignore them"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 5,
+      "verse": "44"
+    },
+    "explanation": "Love your enemies and pray for those who persecute you."
+  },
+  {
+    "id": "PAR-E-0008",
+    "theme": "Parables & Teachings",
+    "question": "In the Sermon on the Mount, who did Jesus say are blessed?",
+    "choices": [
+      "The poor in spirit",
+      "The wealthy",
+      "The powerful",
+      "The educated"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 5,
+      "verse": "3"
+    },
+    "explanation": "Blessed are the poor in spirit, for theirs is the kingdom of heaven."
+  },
+  {
+    "id": "PAR-E-0009",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say is easier than a rich person entering heaven?",
+    "choices": [
+      "A camel going through the eye of a needle",
+      "Moving a mountain",
+      "Parting the sea",
+      "Walking on water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 19,
+      "verse": "24"
+    },
+    "explanation": "It is easier for a camel to go through the eye of a needle than for someone who is rich to enter heaven."
+  },
+  {
+    "id": "PAR-E-0010",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say about building on sand?",
+    "choices": [
+      "The house will fall when storms come",
+      "It's impossible",
+      "It requires wisdom",
+      "It brings destruction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 7,
+      "verse": "26-27"
+    },
+    "explanation": "Everyone who hears these words and does not put them into practice is like a foolish man who built on sand."
+  },
+  {
+    "id": "PAR-E-0011",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say about those who mourn?",
+    "choices": [
+      "They will be comforted",
+      "They will laugh",
+      "They will be blessed",
+      "They will receive joy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 5,
+      "verse": "4"
+    },
+    "explanation": "Blessed are those who mourn, for they will be comforted."
+  },
+  {
+    "id": "PAR-E-0012",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say about worry?",
+    "choices": [
+      "Don't worry about tomorrow",
+      "Worry shows faith",
+      "Worry is wisdom",
+      "Worry brings blessing"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "34"
+    },
+    "explanation": "Do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
+  },
+  {
+    "id": "PAR-E-0013",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say is the greatest commandment?",
+    "choices": [
+      "Love the Lord your God with all your heart",
+      "Love your neighbor",
+      "Keep the Sabbath",
+      "Honor your parents"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 22,
+      "verse": "37-38"
+    },
+    "explanation": "Love the Lord your God with all your heart, soul, and mind. This is the first and greatest commandment."
+  },
+  {
+    "id": "PAR-E-0014",
+    "theme": "Parables & Teachings",
+    "question": "Where did Jesus say to store up treasures?",
+    "choices": [
+      "In heaven",
+      "In your heart",
+      "In good deeds",
+      "In the church"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "20"
+    },
+    "explanation": "Store up for yourselves treasures in heaven, where moths and rust do not destroy."
+  },
+  {
+    "id": "PAR-E-0015",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say about those who hunger and thirst for righteousness?",
+    "choices": [
+      "They will be filled",
+      "They will be blessed",
+      "They will see God",
+      "They will inherit the earth"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 5,
+      "verse": "6"
+    },
+    "explanation": "Blessed are those who hunger and thirst for righteousness, for they will be filled."
+  },
+  {
+    "id": "PAR-E-0016",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say about judging others?",
+    "choices": [
+      "Do not judge, or you too will be judged",
+      "Judge righteously",
+      "Judge with mercy",
+      "Judge not the appearance"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 7,
+      "verse": "1"
+    },
+    "explanation": "Do not judge, or you too will be judged. For in the same way you judge others, you will be judged."
+  },
+  {
+    "id": "PAR-E-0017",
+    "theme": "Parables & Teachings",
+    "question": "According to Jesus, what should you do if someone strikes you on the right cheek?",
+    "choices": [
+      "Turn to them the other cheek also",
+      "Walk away",
+      "Defend yourself",
+      "Call for help"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 5,
+      "verse": "39"
+    },
+    "explanation": "If anyone slaps you on the right cheek, turn to them the other cheek also."
+  },
+  {
+    "id": "PAR-E-0018",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say about loving your enemies?",
+    "choices": [
+      "Pray for those who persecute you",
+      "Avoid them",
+      "Rebuke them",
+      "Ignore them"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 5,
+      "verse": "44"
+    },
+    "explanation": "Love your enemies and pray for those who persecute you."
+  },
+  {
+    "id": "PAR-E-0019",
+    "theme": "Parables & Teachings",
+    "question": "What does Jesus say is easier than a rich man entering heaven?",
+    "choices": [
+      "A camel going through the eye of a needle",
+      "Moving a mountain",
+      "Parting the sea",
+      "Raising the dead"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 19,
+      "verse": "24"
+    },
+    "explanation": "It is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God."
+  },
+  {
+    "id": "PAR-E-0020",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say we cannot serve along with God?",
+    "choices": [
+      "Money",
+      "Family",
+      "Work",
+      "Self"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "24"
+    },
+    "explanation": "No one can serve two masters. You cannot serve both God and money."
+  },
+  {
+    "id": "PAR-E-0021",
+    "theme": "Parables & Teachings",
+    "question": "What should we seek first according to Jesus?",
+    "choices": [
+      "The kingdom of God",
+      "Wisdom",
+      "Wealth",
+      "Peace"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "33"
+    },
+    "explanation": "But seek first his kingdom and his righteousness, and all these things will be given to you as well."
+  },
+  {
+    "id": "PAR-E-0022",
+    "theme": "Parables & Teachings",
+    "question": "What did the Prodigal Son ask his father for before leaving home?",
+    "choices": [
+      "His inheritance",
+      "A blessing",
+      "Permission to travel",
+      "Forgiveness"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 15,
+      "verse": "12"
+    },
+    "explanation": "The younger son said to his father, 'Give me my share of the estate.'"
+  },
+  {
+    "id": "PAR-E-0023",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the ten virgins, how many were wise?",
+    "choices": [
+      "Five",
+      "Three",
+      "Seven",
+      "Two"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 25,
+      "verse": "2"
+    },
+    "explanation": "Five of the virgins were wise and five were foolish in preparing for the bridegroom's arrival."
+  },
+  {
+    "id": "PAR-E-0024",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say about those who show mercy?",
+    "choices": [
+      "They will be shown mercy",
+      "They will be blessed",
+      "They will see God",
+      "They are children of God"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 5,
+      "verse": "7"
+    },
+    "explanation": "Blessed are the merciful, for they will be shown mercy."
+  },
+  {
+    "id": "PAR-E-0025",
+    "theme": "Parables & Teachings",
+    "question": "According to Jesus, where your treasure is, what else is there?",
+    "choices": [
+      "Your heart",
+      "Your mind",
+      "Your soul",
+      "Your life"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "21"
+    },
+    "explanation": "For where your treasure is, there your heart will be also."
+  },
+  {
+    "id": "PAR-E-0026",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say about those who are pure in heart?",
+    "choices": [
+      "They will see God",
+      "They will be blessed",
+      "They are children of God",
+      "They will inherit the earth"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 5,
+      "verse": "8"
+    },
+    "explanation": "Blessed are the pure in heart, for they will see God."
+  },
+  {
+    "id": "PAR-E-0027",
+    "theme": "Parables & Teachings",
+    "question": "What fruit shows a good tree according to Jesus?",
+    "choices": [
+      "Good fruit",
+      "Much fruit",
+      "Sweet fruit",
+      "Lasting fruit"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 7,
+      "verse": "17"
+    },
+    "explanation": "Every good tree bears good fruit, but a bad tree bears bad fruit."
+  },
+  {
+    "id": "PAR-E-0028",
+    "theme": "Parables & Teachings",
+    "question": "What must we do to enter the kingdom of heaven according to Jesus?",
+    "choices": [
+      "Be born again",
+      "Believe only",
+      "Do good works",
+      "Follow the law"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 3,
+      "verse": "3"
+    },
+    "explanation": "Jesus replied, 'Very truly I tell you, no one can see the kingdom of God unless they are born again.'"
+  },
+  {
+    "id": "PAR-E-0029",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the sower, what happened to the seed on the path?",
+    "choices": [
+      "Birds ate it",
+      "It withered",
+      "It was trampled",
+      "It was choked by thorns"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 13,
+      "verse": "4"
+    },
+    "explanation": "As he was scattering the seed, some fell along the path, and the birds came and ate it up."
+  },
+  {
+    "id": "PAR-E-0030",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say is the second greatest commandment?",
+    "choices": [
+      "Love your neighbor as yourself",
+      "Keep the Sabbath holy",
+      "Honor your father and mother",
+      "Do not steal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 22,
+      "verse": "39"
+    },
+    "explanation": "And the second is like it: 'Love your neighbor as yourself.'"
+  },
+  {
+    "id": "PAR-E-0031",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the prodigal son, what job did the son take?",
+    "choices": [
+      "Feeding pigs",
+      "Building houses",
+      "Farming",
+      "Fishing"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 15,
+      "verse": "15"
+    },
+    "explanation": "So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs."
+  },
+  {
+    "id": "PAR-E-0032",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the Pharisee and the tax collector, what did the tax collector say?",
+    "choices": [
+      "God, have mercy on me, a sinner",
+      "God, I thank you",
+      "God, bless me",
+      "God, forgive me"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 18,
+      "verse": "13"
+    },
+    "explanation": "But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, 'God, have mercy on me, a sinner.'"
+  },
+  {
+    "id": "PAR-E-0033",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say about humbling yourself?",
+    "choices": [
+      "You will be exalted",
+      "You will be blessed",
+      "You will see God",
+      "You will be first"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 18,
+      "verse": "14"
+    },
+    "explanation": "For all those who exalt themselves will be humbled, and those who humble themselves will be exalted."
+  },
+  {
+    "id": "PAR-E-0034",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the wise and foolish builders, what did the wise man build on?",
+    "choices": [
+      "Rock",
+      "Sand",
+      "Stone",
+      "Foundation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 7,
+      "verse": "24"
+    },
+    "explanation": "Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock."
+  },
+  {
+    "id": "PAR-E-0035",
+    "theme": "Parables & Teachings",
+    "question": "What happened to the house built on sand?",
+    "choices": [
+      "It fell with a great crash",
+      "It stood firm",
+      "It was washed away",
+      "It collapsed slowly"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 7,
+      "verse": "27"
+    },
+    "explanation": "The rain came down, the streams rose, and the winds blew and beat against that house, and it fell with a great crash."
+  },
+  {
+    "id": "PAR-E-0036",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say about the Sabbath?",
+    "choices": [
+      "The Sabbath was made for man, not man for the Sabbath",
+      "Keep the Sabbath holy",
+      "Rest on the Sabbath",
+      "The Sabbath is sacred"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Mark",
+      "chapter": 2,
+      "verse": "27"
+    },
+    "explanation": "Then he said to them, 'The Sabbath was made for man, not man for the Sabbath.'"
+  },
+  {
+    "id": "PAR-E-0037",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say about giving to Caesar?",
+    "choices": [
+      "Give back to Caesar what is Caesar's",
+      "Don't pay taxes",
+      "Caesar deserves nothing",
+      "Pay only to God"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 22,
+      "verse": "21"
+    },
+    "explanation": "Then he said to them, 'So give back to Caesar what is Caesar's, and to God what is God's.'"
+  }
+]
