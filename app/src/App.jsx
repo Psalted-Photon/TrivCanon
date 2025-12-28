@@ -75,7 +75,6 @@ export default function App() {
     setQuestionNumber(1);
     setScore(0);
     setResults([]);
-    reset();
     
     // Load filtered questions based on selected themes and difficulty
     const difficulties = difficulty === 'all' ? null : [difficulty];
@@ -85,14 +84,21 @@ export default function App() {
     });
     
     console.log(`Loaded ${filteredQuestions.length} questions for selected filters`);
+    
+    // Update questions state
     setQuestions(filteredQuestions);
     
-    // Get first question and shuffle choices
-    const firstQuestion = getNextQuestion();
-    if (firstQuestion) {
-      setCurrentQuestion(shuffleChoices(firstQuestion));
-      setScreen('question');
-    }
+    // We need to wait for the next render cycle, so use a small timeout
+    // or better yet, let's trigger the first question in a useEffect
+    // For now, let's use setTimeout to ensure questions are updated
+    setTimeout(() => {
+      reset();
+      const firstQuestion = getNextQuestion();
+      if (firstQuestion) {
+        setCurrentQuestion(shuffleChoices(firstQuestion));
+        setScreen('question');
+      }
+    }, 0);
   };
 
   const handleAnswer = (answerIndex) => {
