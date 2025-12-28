@@ -154,6 +154,7 @@
   font-weight: 600;
   font-size: 1.4rem;
   margin-bottom: 1rem;
+  font-family: 'Cinzel', serif;
 }
 
 .verse-text {
@@ -165,6 +166,7 @@
   background: #64748b;
   border-radius: 8px;
   border-left: 4px solid #d4af37;
+  font-family: 'Cinzel', serif;
 }
 
 .verse-text em {
