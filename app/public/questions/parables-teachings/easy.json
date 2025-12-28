@@ -701,5 +701,100 @@
       "verse": "21"
     },
     "explanation": "Then he said to them, 'So give back to Caesar what is Caesar's, and to God what is God's.'"
+  },
+  {
+    "id": "PAR-E-0023",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the lost sheep, how many sheep did the shepherd have?",
+    "choices": [
+      "100",
+      "50",
+      "75",
+      "99"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 15,
+      "verse": "4"
+    },
+    "explanation": "Suppose one of you has a hundred sheep and loses one of them. Doesn't he leave the ninety-nine in the open country and go after the lost sheep until he finds it?"
+  },
+  {
+    "id": "PAR-E-0024",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say we cannot serve along with God?",
+    "choices": [
+      "Money",
+      "Family",
+      "Work",
+      "Friends"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "24"
+    },
+    "explanation": "No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money."
+  },
+  {
+    "id": "PAR-E-0025",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say is the greatest commandment?",
+    "choices": [
+      "Love the Lord your God",
+      "Do not steal",
+      "Honor your parents",
+      "Keep the Sabbath"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 22,
+      "verse": "37-38"
+    },
+    "explanation": "Jesus replied: 'Love the Lord your God with all your heart and with all your soul and with all your mind. This is the first and greatest commandment.'"
+  },
+  {
+    "id": "PAR-E-0026",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say about those who mourn?",
+    "choices": [
+      "They will be comforted",
+      "They will be blessed",
+      "They will find peace",
+      "They will be saved"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 5,
+      "verse": "4"
+    },
+    "explanation": "Blessed are those who mourn, for they will be comforted."
+  },
+  {
+    "id": "PAR-E-0027",
+    "theme": "Parables & Teachings",
+    "question": "Where did Jesus say to store up treasures?",
+    "choices": [
+      "In heaven",
+      "In the temple",
+      "In your heart",
+      "In good deeds"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "20"
+    },
+    "explanation": "But store up for yourselves treasures in heaven, where moths and vermin do not destroy, and where thieves do not break in and steal."
   }
 ]

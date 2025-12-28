@@ -226,5 +226,43 @@
       "verse": "24"
     },
     "explanation": "He turned away from them and began to weep, but then came back and spoke to them again. He had Simeon taken from them and bound before their eyes."
+  },
+  {
+    "id": "JRN-H-0025",
+    "theme": "Journeys & Exile",
+    "question": "Which Persian king allowed the Jews to return from exile?",
+    "choices": [
+      "Cyrus",
+      "Darius",
+      "Xerxes",
+      "Artaxerxes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Ezra",
+      "chapter": 1,
+      "verse": "1-2"
+    },
+    "explanation": "In the first year of Cyrus king of Persia, he issued a decree: The Lord has appointed me to build a temple for him at Jerusalem in Judah."
+  },
+  {
+    "id": "JRN-H-0026",
+    "theme": "Journeys & Exile",
+    "question": "Who was the cupbearer to King Artaxerxes who rebuilt Jerusalem's walls?",
+    "choices": [
+      "Nehemiah",
+      "Ezra",
+      "Zerubbabel",
+      "Haggai"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Nehemiah",
+      "chapter": 1,
+      "verse": "11"
+    },
+    "explanation": "I was cupbearer to the king, and God granted him favor in the presence of the king to rebuild Jerusalem's walls."
   }
 ]

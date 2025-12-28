@@ -530,5 +530,24 @@
       "verse": "11"
     },
     "explanation": "As they fled before Israel, the Lord hurled large hailstones down on them, and more of them died from the hail than were killed by the swords of the Israelites."
+  },
+  {
+    "id": "BAT-M-0027",
+    "theme": "Battles & Conquests",
+    "question": "Which judge defeated the Midianites with only 300 men?",
+    "choices": [
+      "Gideon",
+      "Samson",
+      "Deborah",
+      "Jephthah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Judges",
+      "chapter": 7,
+      "verse": "7"
+    },
+    "explanation": "The Lord said to Gideon, 'With the three hundred men that lapped I will save you and give the Midianites into your hands.'"
   }
 ]

@@ -454,5 +454,43 @@
       "verse": "12"
     },
     "explanation": "On the day the Lord gave the Amorites over to Israel, Joshua said, 'Sun, stand still over Gibeon, and you, moon, over the Valley of Aijalon.'"
+  },
+  {
+    "id": "BAT-E-0026",
+    "theme": "Battles & Conquests",
+    "question": "What weapon did David use to defeat Goliath?",
+    "choices": [
+      "A sling and stone",
+      "A sword",
+      "A spear",
+      "A bow and arrow"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "49-50"
+    },
+    "explanation": "David took a stone, slung it, and struck the Philistine on his forehead. The stone sank into his forehead, and he fell on his face to the ground."
+  },
+  {
+    "id": "BAT-E-0027",
+    "theme": "Battles & Conquests",
+    "question": "Which city's walls fell down after the Israelites marched around it?",
+    "choices": [
+      "Jericho",
+      "Ai",
+      "Jerusalem",
+      "Bethel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 6,
+      "verse": "20"
+    },
+    "explanation": "When the trumpets sounded, the army shouted, and at the sound of the trumpet, when the men gave a loud shout, the wall collapsed."
   }
 ]

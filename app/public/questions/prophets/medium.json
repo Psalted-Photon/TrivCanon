@@ -511,5 +511,24 @@
       "verse": "3"
     },
     "explanation": "So he married Gomer daughter of Diblaim, and she conceived and bore him a son."
+  },
+  {
+    "id": "PRO-M-0028",
+    "theme": "Prophets",
+    "question": "Which prophet was told to marry a prostitute as a sign to Israel?",
+    "choices": [
+      "Hosea",
+      "Ezekiel",
+      "Jeremiah",
+      "Amos"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Hosea",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "The Lord said to Hosea, 'Go, marry a promiscuous woman' to illustrate Israel's unfaithfulness to God."
   }
 ]

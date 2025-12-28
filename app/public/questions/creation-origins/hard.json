@@ -226,5 +226,62 @@
       "verse": "10"
     },
     "explanation": "A river watering the garden flowed from Eden; from there it was separated into four headwaters."
+  },
+  {
+    "id": "CRE-H-0024",
+    "theme": "Creation & Origins",
+    "question": "Who was Enoch's son?",
+    "choices": [
+      "Methuselah",
+      "Lamech",
+      "Noah",
+      "Jared"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "21"
+    },
+    "explanation": "When Enoch had lived 65 years, he became the father of Methuselah."
+  },
+  {
+    "id": "CRE-H-0025",
+    "theme": "Creation & Origins",
+    "question": "How long did Enoch walk with God before he was taken up?",
+    "choices": [
+      "300 years",
+      "365 years",
+      "200 years",
+      "500 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "22"
+    },
+    "explanation": "After he became the father of Methuselah, Enoch walked faithfully with God 300 years."
+  },
+  {
+    "id": "CRE-H-0026",
+    "theme": "Creation & Origins",
+    "question": "What was the name of Cain's son?",
+    "choices": [
+      "Enoch",
+      "Seth",
+      "Lamech",
+      "Irad"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "17"
+    },
+    "explanation": "Cain made love to his wife, and she became pregnant and gave birth to Enoch. Cain was then building a city, and he named it after his son Enoch."
   }
 ]

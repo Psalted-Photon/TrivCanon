@@ -473,5 +473,100 @@
       "verse": "9"
     },
     "explanation": "So go to the street corners and invite to the banquet anyone you find."
+  },
+  {
+    "id": "PAR-M-0023",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the ten virgins, how many were wise?",
+    "choices": [
+      "5",
+      "3",
+      "7",
+      "2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 25,
+      "verse": "2"
+    },
+    "explanation": "Five of them were foolish and five were wise."
+  },
+  {
+    "id": "PAR-M-0024",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the talents, how many talents did the first servant receive?",
+    "choices": [
+      "5",
+      "2",
+      "1",
+      "10"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 25,
+      "verse": "15"
+    },
+    "explanation": "To one he gave five bags of gold, to another two bags, and to another one bag, each according to his ability."
+  },
+  {
+    "id": "PAR-M-0025",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say the Kingdom of Heaven is like in terms of a seed?",
+    "choices": [
+      "A mustard seed",
+      "A wheat seed",
+      "A barley seed",
+      "A fig seed"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 13,
+      "verse": "31"
+    },
+    "explanation": "The kingdom of heaven is like a mustard seed, which a man took and planted in his field. Though it is the smallest of all seeds, yet when it grows, it is the largest of garden plants."
+  },
+  {
+    "id": "PAR-M-0026",
+    "theme": "Parables & Teachings",
+    "question": "In the parable of the wedding banquet, what happened to the guest without wedding clothes?",
+    "choices": [
+      "He was thrown out",
+      "He was given clothes",
+      "He was forgiven",
+      "He was seated last"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 22,
+      "verse": "13"
+    },
+    "explanation": "Then the king told the attendants, 'Tie him hand and foot, and throw him outside, into the darkness, where there will be weeping and gnashing of teeth.'"
+  },
+  {
+    "id": "PAR-M-0027",
+    "theme": "Parables & Teachings",
+    "question": "What did Jesus say about those who exalt themselves?",
+    "choices": [
+      "They will be humbled",
+      "They will be punished",
+      "They will be judged",
+      "They will be rejected"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 14,
+      "verse": "11"
+    },
+    "explanation": "For all those who exalt themselves will be humbled, and those who humble themselves will be exalted."
   }
 ]

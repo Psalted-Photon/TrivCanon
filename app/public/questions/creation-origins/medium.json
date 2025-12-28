@@ -397,5 +397,62 @@
       "verse": "11-13"
     },
     "explanation": "Then God said, 'Let the land produce vegetation.' And there was evening, and there was morning—the third day."
+  },
+  {
+    "id": "CRE-M-0025",
+    "theme": "Creation & Origins",
+    "question": "What was the name of the land where Cain went after killing Abel?",
+    "choices": [
+      "Nod",
+      "Uz",
+      "Havilah",
+      "Shinar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "16"
+    },
+    "explanation": "So Cain went out from the Lord's presence and lived in the land of Nod, east of Eden."
+  },
+  {
+    "id": "CRE-M-0026",
+    "theme": "Creation & Origins",
+    "question": "Who was the father of all who play stringed instruments and pipes?",
+    "choices": [
+      "Jubal",
+      "Tubal-Cain",
+      "Jabal",
+      "Lamech"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "21"
+    },
+    "explanation": "His brother's name was Jubal; he was the father of all who play stringed instruments and pipes."
+  },
+  {
+    "id": "CRE-M-0027",
+    "theme": "Creation & Origins",
+    "question": "How old was Adam when Seth was born?",
+    "choices": [
+      "130 years",
+      "100 years",
+      "150 years",
+      "120 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "3"
+    },
+    "explanation": "When Adam had lived 130 years, he had a son in his own likeness, in his own image; and he named him Seth."
   }
 ]

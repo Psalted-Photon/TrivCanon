@@ -5,16 +5,18 @@ import { openDB } from 'idb';
 
 const DB_NAME = 'bible-trivia-db';
 const STORE_NAME = 'questions';
-const DB_VERSION = 3; // Incremented for new structure
+const DB_VERSION = 5; // Force complete cache clear and fresh load
 
 let cachedIndex = null; // Cache the index in memory
 
 export async function initDB() {
   return openDB(DB_NAME, DB_VERSION, {
-    upgrade(db) {
-      if (!db.objectStoreNames.contains(STORE_NAME)) {
-        db.createObjectStore(STORE_NAME);
+    upgrade(db, oldVersion, newVersion, transaction) {
+      // If upgrading, clear the old store to force fresh data
+      if (db.objectStoreNames.contains(STORE_NAME)) {
+        db.deleteObjectStore(STORE_NAME);
       }
+      db.createObjectStore(STORE_NAME);
     },
   });
 }
@@ -37,7 +39,8 @@ async function loadIndex() {
     return cachedIndex;
   }
   
-  const response = await fetch('/questions/index.json');
+  // Add cache-busting parameter to force fresh load
+  const response = await fetch(`/questions/index.json?v=${DB_VERSION}`);
   cachedIndex = await response.json();
   return cachedIndex;
 }
@@ -75,7 +78,8 @@ export async function loadQuestionsWithCache(options = {}) {
     
     // If not in cache or we want fresh data, fetch from network
     if (!questions) {
-      const response = await fetch(`/${item.filePath}`);
+      // Add cache-busting parameter to force fresh load
+      const response = await fetch(`/${item.filePath}?v=${DB_VERSION}`);
       questions = await response.json();
       // Cache for offline use
       await saveQuestions(cacheKey, questions);

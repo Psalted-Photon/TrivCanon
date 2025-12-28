@@ -511,5 +511,24 @@
       "verse": "5"
     },
     "explanation": "At Gibeon the Lord appeared to Solomon during the night in a dream, and God said, 'Ask for whatever you want me to give you.'"
+  },
+  {
+    "id": "KNG-M-0027",
+    "theme": "Kings & Rulers",
+    "question": "Which king tore his robes when he heard the Book of the Law?",
+    "choices": [
+      "Josiah",
+      "Hezekiah",
+      "Jehoshaphat",
+      "Asa"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 22,
+      "verse": "11"
+    },
+    "explanation": "When King Josiah heard the words of the Book of the Law, he tore his robes in repentance."
   }
 ]

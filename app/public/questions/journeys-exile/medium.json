@@ -511,5 +511,43 @@
       "verse": "2"
     },
     "explanation": "Then put my cup, the silver one, in the mouth of the youngest one's sack, along with the silver for his grain."
+  },
+  {
+    "id": "JRN-M-0026",
+    "theme": "Journeys & Exile",
+    "question": "Which king took the Israelites into Babylonian exile?",
+    "choices": [
+      "Nebuchadnezzar",
+      "Cyrus",
+      "Sennacherib",
+      "Xerxes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 24,
+      "verse": "14"
+    },
+    "explanation": "Nebuchadnezzar carried into exile all Jerusalem: all the officers and fighting men, and all the skilled workers and artisans."
+  },
+  {
+    "id": "JRN-M-0027",
+    "theme": "Journeys & Exile",
+    "question": "How long did the Babylonian exile last?",
+    "choices": [
+      "70 years",
+      "40 years",
+      "50 years",
+      "100 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 29,
+      "verse": "10"
+    },
+    "explanation": "When seventy years are completed for Babylon, I will come to you and fulfill my good promise to bring you back to this place."
   }
 ]

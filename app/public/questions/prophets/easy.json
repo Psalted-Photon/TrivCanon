@@ -416,5 +416,43 @@
       "verse": "1-2"
     },
     "explanation": "The hand of the Lord was on me, and he brought me out by the Spirit of the Lord and set me in the middle of a valley; it was full of bones."
+  },
+  {
+    "id": "PRO-E-0026",
+    "theme": "Prophets",
+    "question": "Which prophet confronted King Ahab about Naboth's vineyard?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 21,
+      "verse": "17-19"
+    },
+    "explanation": "Elijah confronted Ahab for murdering Naboth and seizing his vineyard, prophesying judgment against him."
+  },
+  {
+    "id": "PRO-E-0027",
+    "theme": "Prophets",
+    "question": "Which prophet anointed Saul as the first king of Israel?",
+    "choices": [
+      "Samuel",
+      "Nathan",
+      "Elijah",
+      "Elisha"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "verse": "1"
+    },
+    "explanation": "Samuel took a flask of oil and poured it on Saul's head and kissed him, saying the Lord has anointed you leader over his inheritance."
   }
 ]

@@ -416,5 +416,24 @@
       "verse": "11"
     },
     "explanation": "Aaron shall bring the bull for his own sin offering to make atonement for himself and his household, and he is to slaughter the bull for his own sin offering."
+  },
+  {
+    "id": "FES-H-0026",
+    "theme": "Festivals & Customs",
+    "question": "What was the name of the scapegoat on the Day of Atonement?",
+    "choices": [
+      "Azazel",
+      "Baal",
+      "Molech",
+      "Dagon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verse": "10"
+    },
+    "explanation": "But the goat chosen by lot as the scapegoat shall be presented alive before the Lord to be used for making atonement by sending it into the wilderness as a scapegoat to Azazel."
   }
 ]

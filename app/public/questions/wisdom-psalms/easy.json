@@ -777,5 +777,62 @@
       "verse": "5"
     },
     "explanation": "Trust in the Lord with all your heart and lean not on your own understanding."
+  },
+  {
+    "id": "WIS-E-0025",
+    "theme": "Wisdom & Psalms",
+    "question": "Complete the verse: 'The Lord is my shepherd, I shall not...'",
+    "choices": [
+      "Want",
+      "Fear",
+      "Worry",
+      "Stumble"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalm",
+      "chapter": 23,
+      "verse": "1"
+    },
+    "explanation": "The Lord is my shepherd, I shall not want. This is one of the most famous verses in the Bible."
+  },
+  {
+    "id": "WIS-E-0026",
+    "theme": "Wisdom & Psalms",
+    "question": "What is the beginning of wisdom according to Proverbs?",
+    "choices": [
+      "The fear of the Lord",
+      "Understanding",
+      "Knowledge",
+      "Righteousness"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 9,
+      "verse": "10"
+    },
+    "explanation": "The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding."
+  },
+  {
+    "id": "WIS-E-0027",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Psalm 1, what is the blessed man NOT like?",
+    "choices": [
+      "Chaff",
+      "A tree",
+      "A rock",
+      "A lion"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalm",
+      "chapter": 1,
+      "verse": "4"
+    },
+    "explanation": "Not so the wicked! They are like chaff that the wind blows away."
   }
 ]

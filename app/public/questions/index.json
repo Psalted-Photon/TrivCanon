@@ -32,7 +32,7 @@
     "themePath": "prophets",
     "difficulty": "easy",
     "difficultyCode": "E",
-    "count": 22,
+    "count": 24,
     "filePath": "questions/prophets/easy.json"
   },
   {
@@ -41,7 +41,7 @@
     "themePath": "prophets",
     "difficulty": "medium",
     "difficultyCode": "M",
-    "count": 27,
+    "count": 28,
     "filePath": "questions/prophets/medium.json"
   },
   {
@@ -50,7 +50,7 @@
     "themePath": "prophets",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 27,
+    "count": 28,
     "filePath": "questions/prophets/hard.json"
   },
   {
@@ -59,7 +59,7 @@
     "themePath": "apostles",
     "difficulty": "easy",
     "difficultyCode": "E",
-    "count": 30,
+    "count": 32,
     "filePath": "questions/apostles/easy.json"
   },
   {
@@ -68,7 +68,7 @@
     "themePath": "apostles",
     "difficulty": "medium",
     "difficultyCode": "M",
-    "count": 27,
+    "count": 29,
     "filePath": "questions/apostles/medium.json"
   },
   {
@@ -77,7 +77,7 @@
     "themePath": "apostles",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 17,
+    "count": 19,
     "filePath": "questions/apostles/hard.json"
   },
   {
@@ -86,7 +86,7 @@
     "themePath": "kings-rulers",
     "difficulty": "easy",
     "difficultyCode": "E",
-    "count": 25,
+    "count": 27,
     "filePath": "questions/kings-rulers/easy.json"
   },
   {
@@ -95,7 +95,7 @@
     "themePath": "kings-rulers",
     "difficulty": "medium",
     "difficultyCode": "M",
-    "count": 27,
+    "count": 28,
     "filePath": "questions/kings-rulers/medium.json"
   },
   {
@@ -104,7 +104,7 @@
     "themePath": "kings-rulers",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 24,
+    "count": 25,
     "filePath": "questions/kings-rulers/hard.json"
   },
   {
@@ -140,7 +140,7 @@
     "themePath": "battles-conquests",
     "difficulty": "easy",
     "difficultyCode": "E",
-    "count": 24,
+    "count": 26,
     "filePath": "questions/battles-conquests/easy.json"
   },
   {
@@ -149,7 +149,7 @@
     "themePath": "battles-conquests",
     "difficulty": "medium",
     "difficultyCode": "M",
-    "count": 28,
+    "count": 29,
     "filePath": "questions/battles-conquests/medium.json"
   },
   {
@@ -158,7 +158,7 @@
     "themePath": "battles-conquests",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 24,
+    "count": 25,
     "filePath": "questions/battles-conquests/hard.json"
   },
   {
@@ -167,7 +167,7 @@
     "themePath": "parables-teachings",
     "difficulty": "easy",
     "difficultyCode": "E",
-    "count": 37,
+    "count": 42,
     "filePath": "questions/parables-teachings/easy.json"
   },
   {
@@ -176,7 +176,7 @@
     "themePath": "parables-teachings",
     "difficulty": "medium",
     "difficultyCode": "M",
-    "count": 25,
+    "count": 30,
     "filePath": "questions/parables-teachings/medium.json"
   },
   {
@@ -185,7 +185,7 @@
     "themePath": "parables-teachings",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 3,
+    "count": 8,
     "filePath": "questions/parables-teachings/hard.json"
   },
   {
@@ -194,7 +194,7 @@
     "themePath": "creation-origins",
     "difficulty": "easy",
     "difficultyCode": "E",
-    "count": 38,
+    "count": 41,
     "filePath": "questions/creation-origins/easy.json"
   },
   {
@@ -203,7 +203,7 @@
     "themePath": "creation-origins",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 12,
+    "count": 15,
     "filePath": "questions/creation-origins/hard.json"
   },
   {
@@ -212,7 +212,7 @@
     "themePath": "creation-origins",
     "difficulty": "medium",
     "difficultyCode": "M",
-    "count": 21,
+    "count": 24,
     "filePath": "questions/creation-origins/medium.json"
   },
   {
@@ -221,7 +221,7 @@
     "themePath": "prophecy-end-times",
     "difficulty": "medium",
     "difficultyCode": "M",
-    "count": 37,
+    "count": 39,
     "filePath": "questions/prophecy-end-times/medium.json"
   },
   {
@@ -230,7 +230,7 @@
     "themePath": "prophecy-end-times",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 16,
+    "count": 18,
     "filePath": "questions/prophecy-end-times/hard.json"
   },
   {
@@ -239,7 +239,7 @@
     "themePath": "prophecy-end-times",
     "difficulty": "easy",
     "difficultyCode": "E",
-    "count": 20,
+    "count": 23,
     "filePath": "questions/prophecy-end-times/easy.json"
   },
   {
@@ -248,7 +248,7 @@
     "themePath": "journeys-exile",
     "difficulty": "easy",
     "difficultyCode": "E",
-    "count": 34,
+    "count": 37,
     "filePath": "questions/journeys-exile/easy.json"
   },
   {
@@ -257,7 +257,7 @@
     "themePath": "journeys-exile",
     "difficulty": "medium",
     "difficultyCode": "M",
-    "count": 27,
+    "count": 29,
     "filePath": "questions/journeys-exile/medium.json"
   },
   {
@@ -266,7 +266,7 @@
     "themePath": "journeys-exile",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 12,
+    "count": 14,
     "filePath": "questions/journeys-exile/hard.json"
   },
   {
@@ -275,7 +275,7 @@
     "themePath": "festivals-customs",
     "difficulty": "easy",
     "difficultyCode": "E",
-    "count": 21,
+    "count": 23,
     "filePath": "questions/festivals-customs/easy.json"
   },
   {
@@ -284,7 +284,7 @@
     "themePath": "festivals-customs",
     "difficulty": "medium",
     "difficultyCode": "M",
-    "count": 32,
+    "count": 34,
     "filePath": "questions/festivals-customs/medium.json"
   },
   {
@@ -293,7 +293,7 @@
     "themePath": "festivals-customs",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 22,
+    "count": 23,
     "filePath": "questions/festivals-customs/hard.json"
   },
   {
@@ -302,7 +302,7 @@
     "themePath": "wisdom-psalms",
     "difficulty": "easy",
     "difficultyCode": "E",
-    "count": 41,
+    "count": 44,
     "filePath": "questions/wisdom-psalms/easy.json"
   },
   {
@@ -311,7 +311,7 @@
     "themePath": "wisdom-psalms",
     "difficulty": "medium",
     "difficultyCode": "M",
-    "count": 28,
+    "count": 31,
     "filePath": "questions/wisdom-psalms/medium.json"
   },
   {
@@ -320,7 +320,7 @@
     "themePath": "wisdom-psalms",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 2,
+    "count": 42,
     "filePath": "questions/wisdom-psalms/hard.json"
   }
 ]

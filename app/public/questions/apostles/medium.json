@@ -511,5 +511,43 @@
       "verse": "2"
     },
     "explanation": "He had James, the brother of John, put to death with the sword."
+  },
+  {
+    "id": "APO-M-0026",
+    "theme": "Apostles",
+    "question": "Which two apostles were sent by Jesus to prepare the Passover meal?",
+    "choices": [
+      "Peter and John",
+      "James and John",
+      "Peter and Andrew",
+      "Philip and Bartholomew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Luke",
+      "chapter": 22,
+      "verse": "8"
+    },
+    "explanation": "Jesus sent Peter and John, saying, 'Go and make preparations for us to eat the Passover.'"
+  },
+  {
+    "id": "APO-M-0027",
+    "theme": "Apostles",
+    "question": "Which apostle brought his brother to Jesus?",
+    "choices": [
+      "Andrew",
+      "James",
+      "Philip",
+      "John"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 1,
+      "verse": "40-42"
+    },
+    "explanation": "Andrew, Simon Peter's brother, was one of the two who heard John and followed Jesus. He first found his own brother Simon."
   }
 ]

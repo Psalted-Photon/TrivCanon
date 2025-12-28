@@ -321,5 +321,43 @@
       "verse": "8"
     },
     "explanation": "Philip said, 'Lord, show us the Father and that will be enough for us.'"
+  },
+  {
+    "id": "APO-H-0025",
+    "theme": "Apostles",
+    "question": "Which apostle was also called Didymus?",
+    "choices": [
+      "Thomas",
+      "Bartholomew",
+      "James the Less",
+      "Thaddaeus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 20,
+      "verse": "24"
+    },
+    "explanation": "Now Thomas (also known as Didymus), one of the Twelve, was not with the disciples when Jesus came."
+  },
+  {
+    "id": "APO-H-0026",
+    "theme": "Apostles",
+    "question": "Which apostle was from Bethsaida, the same town as Peter and Andrew?",
+    "choices": [
+      "Philip",
+      "Nathanael",
+      "Matthew",
+      "Simon the Zealot"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 1,
+      "verse": "44"
+    },
+    "explanation": "Philip, like Andrew and Peter, was from the town of Bethsaida."
   }
 ]

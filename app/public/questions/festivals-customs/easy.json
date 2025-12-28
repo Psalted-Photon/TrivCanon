@@ -397,5 +397,43 @@
       "verse": "42"
     },
     "explanation": "Live in temporary shelters for seven days: All native-born Israelites are to live in such shelters."
+  },
+  {
+    "id": "FES-E-0026",
+    "theme": "Festivals & Customs",
+    "question": "What feast celebrates the harvest of first fruits?",
+    "choices": [
+      "Pentecost",
+      "Passover",
+      "Tabernacles",
+      "Purim"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "15-16"
+    },
+    "explanation": "Count off fifty days up to the day after the seventh Sabbath, and then present an offering of new grain to the Lord."
+  },
+  {
+    "id": "FES-E-0027",
+    "theme": "Festivals & Customs",
+    "question": "On which day were the Israelites to do no work?",
+    "choices": [
+      "Sabbath",
+      "Passover",
+      "Day of Atonement",
+      "All feast days"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 20,
+      "verse": "10"
+    },
+    "explanation": "But the seventh day is a sabbath to the Lord your God. On it you shall not do any work."
   }
 ]

@@ -28,7 +28,7 @@ export function useQuizRotation(selectedThemes, questions, rotationMode = 'shuff
   
   // For ordered mode: simple indices
   const [themeIndexInRound, setThemeIndexInRound] = useState(0);
-  const [questionIndexInTheme, setQuestionIndexInTheme] = useState(0);
+  const questionIndicesByTheme = useRef(new Map()); // Track question index per theme
   
   // Difficulty order when "all" is selected
   const difficultyOrder = ['easy', 'medium', 'hard'];
@@ -192,21 +192,26 @@ export function useQuizRotation(selectedThemes, questions, rotationMode = 'shuff
       return getNextQuestionOrdered();
     }
     
-    // Get question sequentially
-    const questionIndex = questionIndexInTheme % themeQuestions.length;
+    // Get or initialize the question index for this specific theme
+    if (!questionIndicesByTheme.current.has(currentTheme)) {
+      questionIndicesByTheme.current.set(currentTheme, 0);
+    }
+    
+    const questionIndex = questionIndicesByTheme.current.get(currentTheme);
     const selectedQuestion = themeQuestions[questionIndex];
-    setQuestionIndexInTheme(questionIndex + 1);
+    
+    // Increment this theme's question index
+    questionIndicesByTheme.current.set(currentTheme, questionIndex + 1);
     
     // Move to next theme
     const nextIndex = (themeIndexInRound + 1) % selectedThemes.length;
     setThemeIndexInRound(nextIndex);
     if (nextIndex === 0) {
       setCurrentRound(r => r + 1);
-      setQuestionIndexInTheme(0);
     }
     
     return selectedQuestion;
-  }, [selectedThemes, themeIndexInRound, questionIndexInTheme, questionsByTheme]);
+  }, [selectedThemes, themeIndexInRound, questionsByTheme]);
   
   // Main getNextQuestion function
   const getNextQuestion = useCallback(() => {
@@ -220,7 +225,7 @@ export function useQuizRotation(selectedThemes, questions, rotationMode = 'shuff
   const reset = useCallback(() => {
     setCurrentRound(0);
     setThemeIndexInRound(0);
-    setQuestionIndexInTheme(0);
+    questionIndicesByTheme.current.clear();
     
     // Clear shuffled mode tracking
     usedThemesInCycle.current.clear();

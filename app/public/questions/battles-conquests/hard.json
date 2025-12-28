@@ -454,5 +454,24 @@
       "verse": "45"
     },
     "explanation": "David said to the Philistine, 'You come against me with sword and spear and javelin, but I come against you in the name of the Lord Almighty, the God of the armies of Israel.'"
+  },
+  {
+    "id": "BAT-H-0026",
+    "theme": "Battles & Conquests",
+    "question": "In which valley did the sun stand still during Joshua's battle?",
+    "choices": [
+      "Aijalon",
+      "Jezreel",
+      "Elah",
+      "Kidron"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 10,
+      "verse": "12"
+    },
+    "explanation": "Joshua said to the Lord, 'Sun, stand still over Gibeon, and you, moon, over the Valley of Aijalon.'"
   }
 ]

@@ -454,5 +454,24 @@
       "verse": "15"
     },
     "explanation": "In the twenty-seventh year of Asa king of Judah, Zimri reigned in Tirzah seven days."
+  },
+  {
+    "id": "KNG-H-0026",
+    "theme": "Kings & Rulers",
+    "question": "Which king of Israel reigned for only seven days before committing suicide?",
+    "choices": [
+      "Zimri",
+      "Tibni",
+      "Omri",
+      "Elah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 16,
+      "verse": "15"
+    },
+    "explanation": "Zimri reigned in Tirzah seven days. When the army heard that Zimri had plotted against the king and murdered him, Zimri went into the citadel and set the palace on fire around him and died."
   }
 ]

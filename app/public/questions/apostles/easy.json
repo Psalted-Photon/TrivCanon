@@ -568,5 +568,43 @@
       "verse": "3"
     },
     "explanation": "As he neared Damascus on his journey, suddenly a light from heaven flashed around him."
+  },
+  {
+    "id": "APO-E-0026",
+    "theme": "Apostles",
+    "question": "Which apostle was called 'the disciple whom Jesus loved'?",
+    "choices": [
+      "John",
+      "Peter",
+      "James",
+      "Andrew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 13,
+      "verse": "23"
+    },
+    "explanation": "One of them, the disciple whom Jesus loved, was reclining next to him."
+  },
+  {
+    "id": "APO-E-0027",
+    "theme": "Apostles",
+    "question": "Which apostle walked on water with Jesus?",
+    "choices": [
+      "Peter",
+      "John",
+      "Andrew",
+      "James"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 14,
+      "verse": "29"
+    },
+    "explanation": "Peter got down out of the boat, walked on the water and came toward Jesus."
   }
 ]

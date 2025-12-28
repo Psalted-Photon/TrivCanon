@@ -644,5 +644,62 @@
       "verse": "6"
     },
     "explanation": "Now Joseph was the governor of the land; he was the one who sold grain to all its people. So when Joseph's brothers arrived, they bowed down to him with their faces to the ground."
+  },
+  {
+    "id": "JRN-E-0025",
+    "theme": "Journeys & Exile",
+    "question": "Where did Moses lead the Israelites from?",
+    "choices": [
+      "Egypt",
+      "Babylon",
+      "Canaan",
+      "Assyria"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "41"
+    },
+    "explanation": "At the end of the 430 years, to the very day, all the Lord's divisions left Egypt."
+  },
+  {
+    "id": "JRN-E-0026",
+    "theme": "Journeys & Exile",
+    "question": "How many years did the Israelites wander in the wilderness?",
+    "choices": [
+      "40 years",
+      "70 years",
+      "400 years",
+      "12 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Numbers",
+      "chapter": 14,
+      "verse": "33"
+    },
+    "explanation": "Your children will be shepherds here for forty years, suffering for your unfaithfulness, until the last of your bodies lies in the wilderness."
+  },
+  {
+    "id": "JRN-E-0027",
+    "theme": "Journeys & Exile",
+    "question": "Which sea did the Israelites cross when leaving Egypt?",
+    "choices": [
+      "Red Sea",
+      "Dead Sea",
+      "Mediterranean Sea",
+      "Sea of Galilee"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 14,
+      "verse": "21-22"
+    },
+    "explanation": "Then Moses stretched out his hand over the sea, and the Lord drove the sea back and the Israelites went through the sea on dry ground."
   }
 ]

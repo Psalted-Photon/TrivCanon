@@ -473,5 +473,43 @@
       "verse": "9"
     },
     "explanation": "So give your servant a discerning heart to govern your people and to distinguish between right and wrong."
+  },
+  {
+    "id": "KNG-E-0026",
+    "theme": "Kings & Rulers",
+    "question": "Which king asked God for wisdom instead of riches?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Hezekiah",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verse": "9"
+    },
+    "explanation": "Solomon asked for a discerning heart to govern God's people and to distinguish between right and wrong."
+  },
+  {
+    "id": "KNG-E-0027",
+    "theme": "Kings & Rulers",
+    "question": "Which king defeated Goliath before becoming king?",
+    "choices": [
+      "David",
+      "Saul",
+      "Solomon",
+      "Asa"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "50"
+    },
+    "explanation": "David triumphed over the Philistine with a sling and a stone; without a sword in his hand he struck down the Philistine and killed him."
   }
 ]

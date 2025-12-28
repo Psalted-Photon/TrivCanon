@@ -701,5 +701,43 @@
       "verse": "5-6"
     },
     "explanation": "Its rider was holding a pair of scales. Then I heard a voice say, 'Two pounds of wheat for a day's wages,' indicating famine."
+  },
+  {
+    "id": "END-M-0026",
+    "theme": "Prophecy & End Times",
+    "question": "How many elders are around the throne in Revelation?",
+    "choices": [
+      "24",
+      "12",
+      "7",
+      "70"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 4,
+      "verse": "4"
+    },
+    "explanation": "Surrounding the throne were twenty-four other thrones, and seated on them were twenty-four elders dressed in white."
+  },
+  {
+    "id": "END-M-0027",
+    "theme": "Prophecy & End Times",
+    "question": "What are the names of the two witnesses in Revelation often associated with?",
+    "choices": [
+      "Two olive trees and two lampstands",
+      "Two angels and two stars",
+      "Two prophets and two kings",
+      "Two mountains and two rivers"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 11,
+      "verse": "4"
+    },
+    "explanation": "They are the two olive trees and the two lampstands, and they stand before the Lord of the earth."
   }
 ]

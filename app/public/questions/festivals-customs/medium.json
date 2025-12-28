@@ -606,5 +606,43 @@
       "verse": "22"
     },
     "explanation": "The goat will carry on itself all their sins to a remote place; and the man shall release it in the wilderness."
+  },
+  {
+    "id": "FES-M-0026",
+    "theme": "Festivals & Customs",
+    "question": "What was offered on the Day of Atonement?",
+    "choices": [
+      "Two goats",
+      "A lamb",
+      "A bull",
+      "Seven rams"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verse": "7-8"
+    },
+    "explanation": "He is to take two goats and present them before the Lord. Aaron shall cast lots for the two goats—one lot for the Lord and the other for the scapegoat."
+  },
+  {
+    "id": "FES-M-0027",
+    "theme": "Festivals & Customs",
+    "question": "How many days did the Feast of Unleavened Bread last?",
+    "choices": [
+      "7 days",
+      "8 days",
+      "3 days",
+      "40 days"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "15"
+    },
+    "explanation": "For seven days you are to eat bread made without yeast. On the first day remove the yeast from your houses."
   }
 ]

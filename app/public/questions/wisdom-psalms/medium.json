@@ -530,5 +530,62 @@
       "verse": "11"
     },
     "explanation": "But the meek will inherit the land and enjoy peace and prosperity."
+  },
+  {
+    "id": "WIS-M-0025",
+    "theme": "Wisdom & Psalms",
+    "question": "In Proverbs, what is more valuable than rubies?",
+    "choices": [
+      "Wisdom",
+      "Gold",
+      "Love",
+      "Peace"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 8,
+      "verse": "11"
+    },
+    "explanation": "For wisdom is more precious than rubies, and nothing you desire can compare with her."
+  },
+  {
+    "id": "WIS-M-0026",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Psalm 119:105 say God's word is?",
+    "choices": [
+      "A lamp to my feet",
+      "A shield",
+      "A sword",
+      "A rock"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Psalm",
+      "chapter": 119,
+      "verse": "105"
+    },
+    "explanation": "Your word is a lamp for my feet, a light on my path."
+  },
+  {
+    "id": "WIS-M-0027",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Proverbs say a gentle answer does?",
+    "choices": [
+      "Turns away wrath",
+      "Brings wisdom",
+      "Heals wounds",
+      "Builds trust"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verse": "1"
+    },
+    "explanation": "A gentle answer turns away wrath, but a harsh word stirs up anger."
   }
 ]
