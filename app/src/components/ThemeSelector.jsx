@@ -2,18 +2,18 @@ import { useState } from 'react';
 import './ThemeSelector.css';
 
 const THEMES = [
-  { name: "Miracles", icon: "✨🍷", color: "#9F7AEA" },
-  { name: "Prophets", icon: "🗣️📜", color: "#4299E1" },
-  { name: "Apostles", icon: "🙋‍♂️🙋‍♀️", color: "#48BB78" },
-  { name: "Kings & Rulers", icon: "👑🏰", color: "#ED8936" },
-  { name: "Women of Faith", icon: "👸🧕", color: "#F56565" },
-  { name: "Battles & Conquests", icon: "⚔️🏆", color: "#805AD5" },
-  { name: "Parables & Teachings", icon: "💬👨‍🏫", color: "#38B2AC" },
-  { name: "Creation & Origins", icon: "🌍🧬", color: "#68D391" },
-  { name: "Prophecy & End Times", icon: "📯⚖️", color: "#FC8181" },
-  { name: "Journeys & Exile", icon: "🚶🏜️", color: "#F6AD55" },
-  { name: "Festivals & Customs", icon: "🎉🕎", color: "#B794F4" },
-  { name: "Wisdom & Psalms", icon: "📖🎼", color: "#63B3ED" }
+  { name: "Miracles", logo: "miracles.png", color: "#9F7AEA" },
+  { name: "Prophets", logo: "prophets.png", color: "#4299E1" },
+  { name: "Apostles", logo: "apostles.png", color: "#48BB78" },
+  { name: "Kings & Rulers", logo: "kings-rulers.png", color: "#ED8936" },
+  { name: "Women of Faith", logo: "women-of-faith.png", color: "#F56565" },
+  { name: "Battles & Conquests", logo: "battles-conquests.png", color: "#805AD5" },
+  { name: "Parables & Teachings", logo: "parables-teachings.png", color: "#38B2AC" },
+  { name: "Creation & Origins", logo: "creation-origins.png", color: "#68D391" },
+  { name: "Prophecy & End Times", logo: "prophecy-end-times.png", color: "#FC8181" },
+  { name: "Journeys & Exile", logo: "journeys-exile.png", color: "#F6AD55" },
+  { name: "Festivals & Customs", logo: "festivals-customs.png", color: "#B794F4" },
+  { name: "Wisdom & Psalms", logo: "wisdom-psalms.png", color: "#63B3ED" }
 ];
 
 export default function ThemeSelector({ onStart, totalQuestions }) {
@@ -58,10 +58,17 @@ export default function ThemeSelector({ onStart, totalQuestions }) {
             onClick={() => toggleTheme(theme.name)}
             style={{ '--theme-color': theme.color }}
           >
-            <div className="theme-icon">{theme.icon}</div>
-            <div className="theme-name">{theme.name}</div>
-            <div className="checkbox">
-              {selectedThemes.includes(theme.name) && '✓'}
+            <img 
+              src={`/images/Logos/${theme.logo}`} 
+              alt={theme.name}
+              className="theme-logo"
+              onError={(e) => {
+                e.target.style.display = 'none';
+                e.target.nextElementSibling.style.display = 'flex';
+              }}
+            />
+            <div className="theme-name-fallback" style={{ display: 'none' }}>
+              {theme.name}
             </div>
           </div>
         ))}

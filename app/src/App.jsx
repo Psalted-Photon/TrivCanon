@@ -7,6 +7,35 @@ import QuestionFeedback from './components/QuestionFeedback';
 import QuizScore from './components/QuizScore';
 import './App.css';
 
+// Preload logo images for smooth transitions
+const preloadLogos = () => {
+  const logoFiles = [
+    'miracles.png', 'prophets.png', 'apostles.png', 'kings-rulers.png',
+    'women-of-faith.png', 'battles-conquests.png', 'parables-teachings.png',
+    'creation-origins.png', 'prophecy-end-times.png', 'journeys-exile.png',
+    'festivals-customs.png', 'wisdom-psalms.png'
+  ];
+  
+  const logoNoTextFiles = [
+    'miraclesnotext.png', 'prophetsnotext.png', 'apostlesnotext.png', 'kings-rulersnotext.png',
+    'women-of-faithnotext.png', 'battles-conquestsnotext.png', 'parables-teachingsnotext.png',
+    'creation-originsnotext.png', 'prophecy-end-timesnotext.png', 'journeys-exilenotext.png',
+    'festivals-customsnotext.png', 'wisdom-psalmsnotext.png'
+  ];
+  
+  // Preload Logos
+  logoFiles.forEach(file => {
+    const img = new Image();
+    img.src = `/images/Logos/${file}`;
+  });
+  
+  // Preload LogosNoText
+  logoNoTextFiles.forEach(file => {
+    const img = new Image();
+    img.src = `/images/LogosNoText/${file}`;
+  });
+};
+
 // Shuffle answer choices and update correctIndex
 function shuffleChoices(question) {
   const shuffled = { ...question };
@@ -44,6 +73,9 @@ export default function App() {
   const { getNextQuestion, reset } = useQuizRotation(selectedThemes, questions, rotationMode, selectedDifficulty);
 
   useEffect(() => {
+    // Preload logo images
+    preloadLogos();
+    
     // Load all questions initially to populate theme selector
     loadQuestionsWithCache()
       .then(data => {
