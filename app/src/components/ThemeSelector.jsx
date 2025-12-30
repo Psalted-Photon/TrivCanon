@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, memo } from 'react';
 import './ThemeSelector.css';
 
 const THEMES = [
@@ -15,6 +15,31 @@ const THEMES = [
   { name: "Festivals & Customs", logo: "festivals-customs.png", color: "#B794F4" },
   { name: "Wisdom & Psalms", logo: "wisdom-psalms.png", color: "#63B3ED" }
 ];
+
+const ThemeCard = memo(({ theme, isSelected, onToggle }) => (
+  <div
+    className={`theme-card ${isSelected ? 'selected' : ''}`}
+    onClick={onToggle}
+    style={{ '--theme-color': theme.color }}
+  >
+    <div className="theme-logo-wrapper">
+      <img 
+        src={`/images/Logos/${theme.logo}`} 
+        alt={theme.name}
+        className="theme-logo"
+        draggable="false"
+        onError={(e) => {
+          e.target.style.display = 'none';
+          e.target.nextElementSibling.style.display = 'flex';
+        }}
+      />
+      <div className="theme-glow"></div>
+    </div>
+    <div className="theme-name-fallback" style={{ display: 'none' }}>
+      {theme.name}
+    </div>
+  </div>
+));
 
 export default function ThemeSelector({ onStart, totalQuestions }) {
   const [selectedThemes, setSelectedThemes] = useState(THEMES.map(t => t.name));
@@ -43,28 +68,12 @@ export default function ThemeSelector({ onStart, totalQuestions }) {
     <div className="theme-selector">
       <div className="themes-grid">
         {THEMES.map(theme => (
-          <div
+          <ThemeCard
             key={theme.name}
-            className={`theme-card ${selectedThemes.includes(theme.name) ? 'selected' : ''}`}
-            onClick={() => toggleTheme(theme.name)}
-            style={{ '--theme-color': theme.color }}
-          >
-            <div className="theme-logo-wrapper">
-              <img 
-                src={`/images/Logos/${theme.logo}`} 
-                alt={theme.name}
-                className="theme-logo"
-                onError={(e) => {
-                  e.target.style.display = 'none';
-                  e.target.nextElementSibling.style.display = 'flex';
-                }}
-              />
-              <div className="theme-glow"></div>
-            </div>
-            <div className="theme-name-fallback" style={{ display: 'none' }}>
-              {theme.name}
-            </div>
-          </div>
+            theme={theme}
+            isSelected={selectedThemes.includes(theme.name)}
+            onToggle={() => toggleTheme(theme.name)}
+          />
         ))}
       </div>
 

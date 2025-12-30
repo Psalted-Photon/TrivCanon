@@ -62,10 +62,67 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
 
 .theme-card:hover {
   transform: scale(1.05);
+}
+
+/* Disable hover effects on touch devices */
+@media (hover: none) {
+  .theme-card:hover {
+    transform: none;
+  }
+  
+  .theme-card:hover .theme-logo {
+    opacity: 0.25;
+    filter: blur(1px);
+  }
+  
+  .theme-card.selected:hover .theme-logo {
+    opacity: 1;
+    filter: blur(0px);
+  }
+  
+  .theme-card:hover .theme-glow {
+    opacity: 0;
+  }
+  
+  .theme-card.selected:hover .theme-glow {
+    opacity: 1;
+    box-shadow: 0 0 15px rgba(212, 175, 55, 0.6), 0 0 30px rgba(212, 175, 55, 0.3);
+  }
+  
+  /* Disable active and focus effects on touch devices */
+  .theme-card:active,
+  .theme-card:focus {
+    outline: none;
+  }
+  
+  .theme-card:active .theme-logo,
+  .theme-card:focus .theme-logo {
+    opacity: 0.25;
+    filter: blur(1px);
+  }
+  
+  .theme-card.selected:active .theme-logo,
+  .theme-card.selected:focus .theme-logo {
+    opacity: 1;
+    filter: blur(0px);
+  }
+  
+  .theme-card:active .theme-glow,
+  .theme-card:focus .theme-glow {
+    opacity: 0;
+  }
+  
+  .theme-card.selected:active .theme-glow,
+  .theme-card.selected:focus .theme-glow {
+    opacity: 1;
+    box-shadow: 0 0 15px rgba(212, 175, 55, 0.6), 0 0 30px rgba(212, 175, 55, 0.3);
+  }
 }
 
 .theme-card.selected {
@@ -85,8 +142,12 @@
   position: relative;
   z-index: 2;
   transition: opacity 0.55s ease, filter 0.55s ease !important;
+  will-change: opacity, filter;
   opacity: 0.25;
   filter: blur(1px);
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 .theme-card.selected .theme-logo {
@@ -116,6 +177,7 @@
   z-index: 1;
   opacity: 0;
   transition: opacity 0.55s ease, box-shadow 0.55s ease;
+  will-change: opacity, box-shadow;
   box-shadow: 0 0 15px rgba(212, 175, 55, 0), 0 0 30px rgba(212, 175, 55, 0);
 }
 
@@ -290,7 +352,13 @@
     height: 160px;
   }
   
+  .theme-logo-wrapper {
+    width: 160px;
+    height: 160px;
+  }
+  
   .theme-logo,
+  .theme-glow,
   .theme-name-fallback {
     width: 160px;
     height: 160px;
@@ -307,7 +375,13 @@
     height: 140px;
   }
   
+  .theme-logo-wrapper {
+    width: 140px;
+    height: 140px;
+  }
+  
   .theme-logo,
+  .theme-glow,
   .theme-name-fallback {
     width: 140px;
     height: 140px;
@@ -325,7 +399,13 @@
     height: 120px;
   }
 
+  .theme-logo-wrapper {
+    width: 120px;
+    height: 120px;
+  }
+
   .theme-logo,
+  .theme-glow,
   .theme-name-fallback {
     width: 120px;
     height: 120px;
