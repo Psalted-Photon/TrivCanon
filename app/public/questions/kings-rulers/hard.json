@@ -16,7 +16,10 @@
       "chapter": 18,
       "verse": "4"
     },
-    "explanation": "King Hezekiah broke into pieces the bronze serpent Moses had made, which had become an object of worship."
+    "explanation": "King Hezekiah broke into pieces the bronze serpent Moses had made, which had become an object of worship.",
+    "verses": {
+      "kjv": "He removed the high places, and brake the images, and cut down the groves, and brake in pieces the brasen serpent that Moses had made: for unto those days the children of Israel did burn incense to it: and he called it Nehushtan."
+    }
   },
   {
     "id": "KNG-H-0002",
@@ -35,7 +38,10 @@
       "chapter": 26,
       "verse": "19"
     },
-    "explanation": "King Uzziah became angry with the priests and leprosy broke out on his forehead in the temple."
+    "explanation": "King Uzziah became angry with the priests and leprosy broke out on his forehead in the temple.",
+    "verses": {
+      "kjv": "Then Uzziah was wroth, and\nhad a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the LORD, from beside the incense altar."
+    }
   },
   {
     "id": "KNG-H-0003",
@@ -54,7 +60,10 @@
       "chapter": 33,
       "verse": "1"
     },
-    "explanation": "Manasseh reigned 55 years in Jerusalem, the longest reign of any king of Judah."
+    "explanation": "Manasseh reigned 55 years in Jerusalem, the longest reign of any king of Judah.",
+    "verses": {
+      "kjv": "Manasseh\nwas twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:"
+    }
   },
   {
     "id": "KNG-H-0004",
@@ -73,7 +82,10 @@
       "chapter": 11,
       "verse": "30-31"
     },
-    "explanation": "Jephthah vowed to sacrifice whatever came out of his house first, which was his only daughter."
+    "explanation": "Jephthah vowed to sacrifice whatever came out of his house first, which was his only daughter.",
+    "verses": {
+      "kjv": "And Jephthah vowed a vow unto the LORD, and said, If thou shalt without fail deliver the children of Ammon into mine hands,\nThen it shall be, that whatsoever cometh forth of the doors of my house to meet me, when I return in peace from the children of Ammon, shall surely be the LORD’S, and I will offer it up for a burnt offering."
+    }
   },
   {
     "id": "KNG-H-0005",
@@ -92,7 +104,10 @@
       "chapter": 4,
       "verse": "33"
     },
-    "explanation": "Nebuchadnezzar was driven from people and ate grass like cattle until he acknowledged God's sovereignty."
+    "explanation": "Nebuchadnezzar was driven from people and ate grass like cattle until he acknowledged God's sovereignty.",
+    "verses": {
+      "kjv": "The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hairs were grown like eagles\nfeathers, and his nails like birds’\nclaws."
+    }
   },
   {
     "id": "KNG-H-0006",
@@ -111,7 +126,10 @@
       "chapter": 36,
       "verse": "23"
     },
-    "explanation": "King Jehoiakim cut off the scroll with a scribe's knife and threw it into the fire."
+    "explanation": "King Jehoiakim cut off the scroll with a scribe's knife and threw it into the fire.",
+    "verses": {
+      "kjv": "And it came to pass,\nthat when Jehudi had read three or four leaves, he cut it with the penknife, and cast\nit into the fire that\nwas on the hearth, until all the roll was consumed in the fire that\nwas on the hearth."
+    }
   },
   {
     "id": "KNG-H-0007",
@@ -130,7 +148,10 @@
       "chapter": 25,
       "verse": "1-7"
     },
-    "explanation": "Zedekiah was the last king of Judah before Jerusalem fell to Babylon."
+    "explanation": "Zedekiah was the last king of Judah before Jerusalem fell to Babylon.",
+    "verses": {
+      "kjv": "And it came to pass in the ninth year of his reign, in the tenth month, in the tenth\nday of the month,\nthat Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about.\nAnd the city was besieged unto the eleventh year of king Zedekiah.\nAnd on the ninth\nday of the\nfourth month the famine prevailed in the city, and there was no bread for the people of the land.\nAnd the city was broken up, and all the men of war\nfled by night by the way of the gate between two walls, which\nis by the king’s garden: (now the Chaldees\nwere against the city round about:) and\nthe king went the way toward the plain.\nAnd the army of the Chaldees pursued after the king, and overtook him in the plains of Jericho: and all his army were scattered from him.\nSo they took the king, and brought him up to the king of Babylon to Riblah; and they gave judgment upon him.\nAnd they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him with fetters of brass, and carried him to Babylon."
+    }
   },
   {
     "id": "KNG-H-0008",
@@ -149,7 +170,10 @@
       "chapter": 9,
       "verse": "5"
     },
-    "explanation": "Abimelech went to his father's house and murdered his seventy brothers on one stone."
+    "explanation": "Abimelech went to his father's house and murdered his seventy brothers on one stone.",
+    "verses": {
+      "kjv": "And he went unto his father’s house at Ophrah, and slew his brethren the sons of Jerubbaal,\nbeing threescore and ten persons, upon one stone: notwithstanding yet Jotham the youngest son of Jerubbaal was left; for he hid himself."
+    }
   },
   {
     "id": "KNG-H-0009",
@@ -168,7 +192,10 @@
       "chapter": 25,
       "verse": "1"
     },
-    "explanation": "In the ninth year of Zedekiah's reign, Nebuchadnezzar king of Babylon marched against Jerusalem."
+    "explanation": "In the ninth year of Zedekiah's reign, Nebuchadnezzar king of Babylon marched against Jerusalem.",
+    "verses": {
+      "kjv": "And it came to pass in the ninth year of his reign, in the tenth month, in the tenth\nday of the month,\nthat Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about."
+    }
   },
   {
     "id": "KNG-H-0010",
@@ -187,7 +214,10 @@
       "chapter": 33,
       "verse": "1"
     },
-    "explanation": "Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years."
+    "explanation": "Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years.",
+    "verses": {
+      "kjv": "Manasseh\nwas twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:"
+    }
   },
   {
     "id": "KNG-H-0011",
@@ -206,7 +236,10 @@
       "chapter": 26,
       "verse": "19"
     },
-    "explanation": "King Uzziah became angry when priests confronted him, and leprosy broke out on his forehead."
+    "explanation": "King Uzziah became angry when priests confronted him, and leprosy broke out on his forehead.",
+    "verses": {
+      "kjv": "Then Uzziah was wroth, and\nhad a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the LORD, from beside the incense altar."
+    }
   },
   {
     "id": "KNG-H-0012",
@@ -225,7 +258,10 @@
       "chapter": 25,
       "verse": "7"
     },
-    "explanation": "King Zedekiah witnessed his sons being killed, then had his eyes put out before being taken to Babylon."
+    "explanation": "King Zedekiah witnessed his sons being killed, then had his eyes put out before being taken to Babylon.",
+    "verses": {
+      "kjv": "And they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him with fetters of brass, and carried him to Babylon."
+    }
   },
   {
     "id": "KNG-H-0013",
@@ -244,7 +280,10 @@
       "chapter": 29,
       "verse": "3"
     },
-    "explanation": "In the first month of his reign, Hezekiah opened the doors of the temple and repaired them."
+    "explanation": "In the first month of his reign, Hezekiah opened the doors of the temple and repaired them.",
+    "verses": {
+      "kjv": "He in the first year of his reign, in the first month, opened the doors of the house of the LORD, and repaired them."
+    }
   },
   {
     "id": "KNG-H-0014",
@@ -263,7 +302,10 @@
       "chapter": 12,
       "verse": "23"
     },
-    "explanation": "Immediately an angel struck Herod down because he did not give praise to God, and he was eaten by worms."
+    "explanation": "Immediately an angel struck Herod down because he did not give praise to God, and he was eaten by worms.",
+    "verses": {
+      "kjv": "And immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost."
+    }
   },
   {
     "id": "KNG-H-0015",
@@ -282,7 +324,10 @@
       "chapter": 10,
       "verse": "22"
     },
-    "explanation": "The king had a fleet of trading ships that brought gold, silver, ivory, apes and baboons."
+    "explanation": "The king had a fleet of trading ships that brought gold, silver, ivory, apes and baboons.",
+    "verses": {
+      "kjv": "For the king had at sea a navy of Tharshish with the navy of Hiram: once in three years came the navy of Tharshish, bringing gold, and silver, ivory, and apes, and peacocks."
+    }
   },
   {
     "id": "KNG-H-0016",
@@ -301,7 +346,10 @@
       "chapter": 20,
       "verse": "11"
     },
-    "explanation": "Then the prophet Isaiah called on the Lord, and the Lord made the shadow go back the ten steps it had gone down on the stairway of Ahaz."
+    "explanation": "Then the prophet Isaiah called on the Lord, and the Lord made the shadow go back the ten steps it had gone down on the stairway of Ahaz.",
+    "verses": {
+      "kjv": "And Isaiah the prophet cried unto the LORD: and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz."
+    }
   },
   {
     "id": "KNG-H-0017",
@@ -320,7 +368,10 @@
       "chapter": 22,
       "verse": "1"
     },
-    "explanation": "Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years."
+    "explanation": "Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years.",
+    "verses": {
+      "kjv": "Josiah\nwas eight years old when he began to reign, and he reigned thirty and one years in Jerusalem. And his mother’s name\nwas\n Jedidah, the daughter of Adaiah of Boscath."
+    }
   },
   {
     "id": "KNG-H-0018",
@@ -339,7 +390,10 @@
       "chapter": 9,
       "verse": "24"
     },
-    "explanation": "Then Jehu drew his bow and shot Joram between the shoulders. The arrow pierced his heart and he slumped down in his chariot."
+    "explanation": "Then Jehu drew his bow and shot Joram between the shoulders. The arrow pierced his heart and he slumped down in his chariot.",
+    "verses": {
+      "kjv": "And Jehu drew a bow with his full strength, and smote Jehoram between his arms, and the arrow went out at his heart, and he sunk down in his chariot."
+    }
   },
   {
     "id": "KNG-H-0019",
@@ -358,7 +412,10 @@
       "chapter": 20,
       "verse": "3"
     },
-    "explanation": "The Lord said, 'Just as my servant Isaiah has gone stripped and barefoot for three years, as a sign against Egypt and Cush.'"
+    "explanation": "The Lord said, 'Just as my servant Isaiah has gone stripped and barefoot for three years, as a sign against Egypt and Cush.'",
+    "verses": {
+      "kjv": "And the LORD said, Like as my servant Isaiah hath walked naked and barefoot three years\nfor a sign and wonder upon Egypt and upon Ethiopia;"
+    }
   },
   {
     "id": "KNG-H-0020",
@@ -377,7 +434,10 @@
       "chapter": 26,
       "verse": "19"
     },
-    "explanation": "Uzziah became angry. While he was raging at the priests, leprosy broke out on his forehead."
+    "explanation": "Uzziah became angry. While he was raging at the priests, leprosy broke out on his forehead.",
+    "verses": {
+      "kjv": "Then Uzziah was wroth, and\nhad a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the LORD, from beside the incense altar."
+    }
   },
   {
     "id": "KNG-H-0021",
@@ -396,7 +456,10 @@
       "chapter": 11,
       "verse": "30-31"
     },
-    "explanation": "And Jephthah made a vow to the Lord: 'If you give the Ammonites into my hands, whatever comes out of the door of my house to meet me will be the Lord's.'"
+    "explanation": "And Jephthah made a vow to the Lord: 'If you give the Ammonites into my hands, whatever comes out of the door of my house to meet me will be the Lord's.'",
+    "verses": {
+      "kjv": "And Jephthah vowed a vow unto the LORD, and said, If thou shalt without fail deliver the children of Ammon into mine hands,\nThen it shall be, that whatsoever cometh forth of the doors of my house to meet me, when I return in peace from the children of Ammon, shall surely be the LORD’S, and I will offer it up for a burnt offering."
+    }
   },
   {
     "id": "KNG-H-0022",
@@ -415,7 +478,10 @@
       "chapter": 25,
       "verse": "7"
     },
-    "explanation": "They killed the sons of Zedekiah before his eyes. Then they put out his eyes, bound him with bronze shackles and took him to Babylon."
+    "explanation": "They killed the sons of Zedekiah before his eyes. Then they put out his eyes, bound him with bronze shackles and took him to Babylon.",
+    "verses": {
+      "kjv": "And they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him with fetters of brass, and carried him to Babylon."
+    }
   },
   {
     "id": "KNG-H-0023",
@@ -434,7 +500,10 @@
       "chapter": 11,
       "verse": "21"
     },
-    "explanation": "Joash was seven years old when he began to reign."
+    "explanation": "Joash was seven years old when he began to reign.",
+    "verses": {
+      "kjv": "Seven years old\nwas Jehoash when he began to reign."
+    }
   },
   {
     "id": "KNG-H-0024",
@@ -453,7 +522,10 @@
       "chapter": 16,
       "verse": "15"
     },
-    "explanation": "In the twenty-seventh year of Asa king of Judah, Zimri reigned in Tirzah seven days."
+    "explanation": "In the twenty-seventh year of Asa king of Judah, Zimri reigned in Tirzah seven days.",
+    "verses": {
+      "kjv": "In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people\nwere encamped against Gibbethon, which\nbelonged to the Philistines."
+    }
   },
   {
     "id": "KNG-H-0026",
@@ -472,6 +544,9 @@
       "chapter": 16,
       "verse": "15"
     },
-    "explanation": "Zimri reigned in Tirzah seven days. When the army heard that Zimri had plotted against the king and murdered him, Zimri went into the citadel and set the palace on fire around him and died."
+    "explanation": "Zimri reigned in Tirzah seven days. When the army heard that Zimri had plotted against the king and murdered him, Zimri went into the citadel and set the palace on fire around him and died.",
+    "verses": {
+      "kjv": "In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people\nwere encamped against Gibbethon, which\nbelonged to the Philistines."
+    }
   }
 ]

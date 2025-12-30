@@ -16,7 +16,10 @@
       "chapter": 3,
       "verse": "17"
     },
-    "explanation": "Jesus gave James and John, the sons of Zebedee, the name Boanerges, which means Sons of Thunder."
+    "explanation": "Jesus gave James and John, the sons of Zebedee, the name Boanerges, which means Sons of Thunder.",
+    "verses": {
+      "kjv": "And James the\nson of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:"
+    }
   },
   {
     "id": "APO-M-0002",
@@ -35,7 +38,10 @@
       "chapter": 1,
       "verse": "26"
     },
-    "explanation": "The apostles cast lots between Matthias and Barsabbas, and Matthias was chosen to replace Judas."
+    "explanation": "The apostles cast lots between Matthias and Barsabbas, and Matthias was chosen to replace Judas.",
+    "verses": {
+      "kjv": "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles."
+    }
   },
   {
     "id": "APO-M-0003",
@@ -54,7 +60,10 @@
       "chapter": 21,
       "verse": "24"
     },
-    "explanation": "John wrote the Gospel of John, 1 John, 2 John, 3 John, and Revelation."
+    "explanation": "John wrote the Gospel of John, 1 John, 2 John, 3 John, and Revelation.",
+    "verses": {
+      "kjv": "This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true."
+    }
   },
   {
     "id": "APO-M-0004",
@@ -73,7 +82,10 @@
       "chapter": 6,
       "verse": "15"
     },
-    "explanation": "Simon the Zealot was one of the twelve apostles, distinguished from Simon Peter by this title."
+    "explanation": "Simon the Zealot was one of the twelve apostles, distinguished from Simon Peter by this title.",
+    "verses": {
+      "kjv": "Matthew and Thomas, James the\nson of Alphaeus, and Simon called Zelotes,"
+    }
   },
   {
     "id": "APO-M-0005",
@@ -92,7 +104,10 @@
       "chapter": 18,
       "verse": "3"
     },
-    "explanation": "Paul worked as a tentmaker and practiced this trade even during his missionary journeys."
+    "explanation": "Paul worked as a tentmaker and practiced this trade even during his missionary journeys.",
+    "verses": {
+      "kjv": "And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers."
+    }
   },
   {
     "id": "APO-M-0006",
@@ -111,7 +126,10 @@
       "chapter": 4,
       "verse": "14"
     },
-    "explanation": "Paul refers to Luke as 'our dear friend Luke, the doctor' in his letter to the Colossians."
+    "explanation": "Paul refers to Luke as 'our dear friend Luke, the doctor' in his letter to the Colossians.",
+    "verses": {
+      "kjv": "Luke, the beloved physician, and Demas, greet you."
+    }
   },
   {
     "id": "APO-M-0007",
@@ -130,7 +148,10 @@
       "chapter": 1,
       "verse": "45"
     },
-    "explanation": "Philip found Nathanael and told him 'We have found the one Moses wrote about in the Law.'"
+    "explanation": "Philip found Nathanael and told him 'We have found the one Moses wrote about in the Law.'",
+    "verses": {
+      "kjv": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph."
+    }
   },
   {
     "id": "APO-M-0008",
@@ -149,7 +170,10 @@
       "chapter": 17,
       "verse": "1"
     },
-    "explanation": "Jesus took Peter, James, and John up a high mountain where He was transfigured before them."
+    "explanation": "Jesus took Peter, James, and John up a high mountain where He was transfigured before them.",
+    "verses": {
+      "kjv": "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,"
+    }
   },
   {
     "id": "APO-M-0009",
@@ -168,7 +192,10 @@
       "chapter": 2,
       "verse": "14"
     },
-    "explanation": "Jesus saw Levi son of Alphaeus sitting at the tax collector's booth and called him to follow."
+    "explanation": "Jesus saw Levi son of Alphaeus sitting at the tax collector's booth and called him to follow.",
+    "verses": {
+      "kjv": "And as he passed by, he saw Levi the\nson of Alphaeus sitting at the receipt of custom, and said unto him,\nFollow me. And he arose and followed him."
+    }
   },
   {
     "id": "APO-M-0010",
@@ -187,7 +214,10 @@
       "chapter": 15,
       "verse": "40"
     },
-    "explanation": "Paul chose Silas and left, commended by the believers to the grace of the Lord."
+    "explanation": "Paul chose Silas and left, commended by the believers to the grace of the Lord.",
+    "verses": {
+      "kjv": "And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God."
+    }
   },
   {
     "id": "APO-M-0011",
@@ -206,7 +236,10 @@
       "chapter": 1,
       "verse": "48"
     },
-    "explanation": "Jesus said to Nathanael, 'I saw you while you were still under the fig tree.'"
+    "explanation": "Jesus said to Nathanael, 'I saw you while you were still under the fig tree.'",
+    "verses": {
+      "kjv": "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him,\nBefore that Philip called thee, when thou wast under the fig tree, I saw thee."
+    }
   },
   {
     "id": "APO-M-0012",
@@ -225,7 +258,10 @@
       "chapter": 5,
       "verse": "5-10"
     },
-    "explanation": "When they heard this, they fell down and died for lying to the Holy Spirit."
+    "explanation": "When they heard this, they fell down and died for lying to the Holy Spirit.",
+    "verses": {
+      "kjv": "And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things.\nAnd the young men arose, wound him up, and carried\nhim out, and buried\nhim.\nAnd it was about the space of three hours after, when his wife, not knowing what was done, came in.\nAnd Peter answered unto her, Tell me whether ye sold the land for so much? And she said, Yea, for so much.\nThen Peter said unto her, How is it that ye have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried thy husband\nare at the door, and shall carry thee out.\nThen fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying\nher\n forth, buried\nher by her husband."
+    }
   },
   {
     "id": "APO-M-0013",
@@ -244,7 +280,10 @@
       "chapter": 13,
       "verse": "2"
     },
-    "explanation": "The Holy Spirit said, 'Set apart for me Barnabas and Saul for the work to which I have called them.'"
+    "explanation": "The Holy Spirit said, 'Set apart for me Barnabas and Saul for the work to which I have called them.'",
+    "verses": {
+      "kjv": "As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them."
+    }
   },
   {
     "id": "APO-M-0014",
@@ -263,7 +302,10 @@
       "chapter": 3,
       "verse": "17"
     },
-    "explanation": "James son of Zebedee and his brother John (to them he gave the name Boanerges, which means 'sons of thunder')."
+    "explanation": "James son of Zebedee and his brother John (to them he gave the name Boanerges, which means 'sons of thunder').",
+    "verses": {
+      "kjv": "And James the\nson of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:"
+    }
   },
   {
     "id": "APO-M-0015",
@@ -282,7 +324,10 @@
       "chapter": 3,
       "verse": "1"
     },
-    "explanation": "One day Peter and John were going up to the temple at the time of prayer."
+    "explanation": "One day Peter and John were going up to the temple at the time of prayer.",
+    "verses": {
+      "kjv": "Now Peter and John went up together into the temple at the hour of prayer,\nbeing the ninth\nhour."
+    }
   },
   {
     "id": "APO-M-0016",
@@ -301,7 +346,10 @@
       "chapter": 1,
       "verse": "41"
     },
-    "explanation": "Andrew found his brother Simon and brought him to Jesus, saying 'We have found the Messiah.'"
+    "explanation": "Andrew found his brother Simon and brought him to Jesus, saying 'We have found the Messiah.'",
+    "verses": {
+      "kjv": "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ."
+    }
   },
   {
     "id": "APO-M-0017",
@@ -320,7 +368,10 @@
       "chapter": 3,
       "verse": "17"
     },
-    "explanation": "Jesus gave James and John, the sons of Zebedee, the name Boanerges, which means Sons of Thunder."
+    "explanation": "Jesus gave James and John, the sons of Zebedee, the name Boanerges, which means Sons of Thunder.",
+    "verses": {
+      "kjv": "And James the\nson of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:"
+    }
   },
   {
     "id": "APO-M-0018",
@@ -339,7 +390,10 @@
       "chapter": 1,
       "verse": "15"
     },
-    "explanation": "Peter stood up among the believers and proposed they choose someone to replace Judas."
+    "explanation": "Peter stood up among the believers and proposed they choose someone to replace Judas.",
+    "verses": {
+      "kjv": "And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,)"
+    }
   },
   {
     "id": "APO-M-0019",
@@ -358,7 +412,10 @@
       "chapter": 20,
       "verse": "3-4"
     },
-    "explanation": "Peter and the other disciple (John) started for the tomb. Both were running."
+    "explanation": "Peter and the other disciple (John) started for the tomb. Both were running.",
+    "verses": {
+      "kjv": "Peter therefore went forth, and that other disciple, and came to the sepulchre.\nSo they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre."
+    }
   },
   {
     "id": "APO-M-0020",
@@ -377,7 +434,10 @@
       "chapter": 3,
       "verse": "1"
     },
-    "explanation": "One day Peter and John were going up to the temple at the time of prayer—at three in the afternoon."
+    "explanation": "One day Peter and John were going up to the temple at the time of prayer—at three in the afternoon.",
+    "verses": {
+      "kjv": "Now Peter and John went up together into the temple at the hour of prayer,\nbeing the ninth\nhour."
+    }
   },
   {
     "id": "APO-M-0021",
@@ -396,7 +456,10 @@
       "chapter": 8,
       "verse": "51"
     },
-    "explanation": "He did not let anyone go in with him except Peter, John and James, and the child's father and mother."
+    "explanation": "He did not let anyone go in with him except Peter, John and James, and the child's father and mother.",
+    "verses": {
+      "kjv": "And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden."
+    }
   },
   {
     "id": "APO-M-0022",
@@ -415,7 +478,10 @@
       "chapter": 1,
       "verse": "26"
     },
-    "explanation": "Then they cast lots, and the lot fell to Matthias; so he was added to the eleven apostles."
+    "explanation": "Then they cast lots, and the lot fell to Matthias; so he was added to the eleven apostles.",
+    "verses": {
+      "kjv": "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles."
+    }
   },
   {
     "id": "APO-M-0023",
@@ -434,7 +500,10 @@
       "chapter": 12,
       "verse": "2"
     },
-    "explanation": "He had James, the brother of John, put to death with the sword."
+    "explanation": "He had James, the brother of John, put to death with the sword.",
+    "verses": {
+      "kjv": "And he killed James the brother of John with the sword."
+    }
   },
   {
     "id": "APO-M-0024",
@@ -453,7 +522,10 @@
       "chapter": 1,
       "verse": "3"
     },
-    "explanation": "After his suffering, he presented himself to them and gave many convincing proofs that he was alive. He appeared to them over a period of forty days."
+    "explanation": "After his suffering, he presented himself to them and gave many convincing proofs that he was alive. He appeared to them over a period of forty days.",
+    "verses": {
+      "kjv": "To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:"
+    }
   },
   {
     "id": "APO-M-0025",
@@ -472,7 +544,10 @@
       "chapter": 6,
       "verse": "68"
     },
-    "explanation": "Simon Peter answered him, 'Lord, to whom shall we go? You have the words of eternal life.'"
+    "explanation": "Simon Peter answered him, 'Lord, to whom shall we go? You have the words of eternal life.'",
+    "verses": {
+      "kjv": "Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life."
+    }
   },
   {
     "id": "APO-M-0026",
@@ -491,7 +566,10 @@
       "chapter": 13,
       "verse": "23"
     },
-    "explanation": "One of them, the disciple whom Jesus loved, was reclining next to him."
+    "explanation": "One of them, the disciple whom Jesus loved, was reclining next to him.",
+    "verses": {
+      "kjv": "Now there was leaning on Jesus’ bosom one of his disciples, whom Jesus loved."
+    }
   },
   {
     "id": "APO-M-0027",
@@ -510,7 +588,10 @@
       "chapter": 12,
       "verse": "2"
     },
-    "explanation": "He had James, the brother of John, put to death with the sword."
+    "explanation": "He had James, the brother of John, put to death with the sword.",
+    "verses": {
+      "kjv": "And he killed James the brother of John with the sword."
+    }
   },
   {
     "id": "APO-M-0026",
@@ -529,7 +610,10 @@
       "chapter": 22,
       "verse": "8"
     },
-    "explanation": "Jesus sent Peter and John, saying, 'Go and make preparations for us to eat the Passover.'"
+    "explanation": "Jesus sent Peter and John, saying, 'Go and make preparations for us to eat the Passover.'",
+    "verses": {
+      "kjv": "And he sent Peter and John, saying,\nGo and prepare us the passover, that we may eat."
+    }
   },
   {
     "id": "APO-M-0027",
@@ -548,6 +632,9 @@
       "chapter": 1,
       "verse": "40-42"
     },
-    "explanation": "Andrew, Simon Peter's brother, was one of the two who heard John and followed Jesus. He first found his own brother Simon."
+    "explanation": "Andrew, Simon Peter's brother, was one of the two who heard John and followed Jesus. He first found his own brother Simon.",
+    "verses": {
+      "kjv": "One of the two which heard John\nspeak, and followed him, was Andrew, Simon Peter’s brother.\nHe first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.\nAnd he brought him to Jesus. And when Jesus beheld him, he said,\nThou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone."
+    }
   }
 ]

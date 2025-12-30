@@ -16,7 +16,10 @@
       "chapter": 12,
       "verse": "14"
     },
-    "explanation": "Passover celebrates when God passed over the houses marked with lamb's blood in Egypt."
+    "explanation": "Passover celebrates when God passed over the houses marked with lamb's blood in Egypt.",
+    "verses": {
+      "kjv": "And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever."
+    }
   },
   {
     "id": "FES-E-0002",
@@ -35,7 +38,10 @@
       "chapter": 20,
       "verse": "8-10"
     },
-    "explanation": "The Sabbath is the seventh day of the week, a day of rest commanded by God."
+    "explanation": "The Sabbath is the seventh day of the week, a day of rest commanded by God.",
+    "verses": {
+      "kjv": "Remember the sabbath day, to keep it holy.\nSix days shalt thou labour, and do all thy work:\nBut the seventh day\nis the sabbath of the LORD thy God:\nin it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that\nis within thy gates:"
+    }
   },
   {
     "id": "FES-E-0003",
@@ -54,7 +60,10 @@
       "chapter": 22,
       "verse": "15"
     },
-    "explanation": "Jesus celebrated the Passover meal with His disciples, which became the Last Supper."
+    "explanation": "Jesus celebrated the Passover meal with His disciples, which became the Last Supper.",
+    "verses": {
+      "kjv": "And he said unto them,\nWith desire I have desired to eat this passover with you before I suffer:"
+    }
   },
   {
     "id": "FES-E-0004",
@@ -73,7 +82,10 @@
       "chapter": 12,
       "verse": "8"
     },
-    "explanation": "They were to eat the lamb, roasted over fire, with bitter herbs and unleavened bread."
+    "explanation": "They were to eat the lamb, roasted over fire, with bitter herbs and unleavened bread.",
+    "verses": {
+      "kjv": "And they shall eat the flesh in that night, roast with fire, and unleavened bread;\nand with bitter\nherbs they shall eat it."
+    }
   },
   {
     "id": "FES-E-0005",
@@ -92,7 +104,10 @@
       "chapter": 12,
       "verse": "7"
     },
-    "explanation": "They were to take some of the blood and put it on the sides and tops of the doorframes."
+    "explanation": "They were to take some of the blood and put it on the sides and tops of the doorframes.",
+    "verses": {
+      "kjv": "And they shall take of the blood, and strike\nit on the two side posts and on the upper door post of the houses, wherein they shall eat it."
+    }
   },
   {
     "id": "FES-E-0006",
@@ -111,7 +126,10 @@
       "chapter": 12,
       "verse": "15"
     },
-    "explanation": "For seven days they were to eat bread made without yeast and remove all yeast from their houses."
+    "explanation": "For seven days they were to eat bread made without yeast and remove all yeast from their houses.",
+    "verses": {
+      "kjv": "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel."
+    }
   },
   {
     "id": "FES-E-0007",
@@ -130,7 +148,10 @@
       "chapter": 17,
       "verse": "11"
     },
-    "explanation": "For the life of a creature is in the blood, and I have given it to you to make atonement for your sins."
+    "explanation": "For the life of a creature is in the blood, and I have given it to you to make atonement for your sins.",
+    "verses": {
+      "kjv": "For the life of the flesh\nis in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it\nis\n the blood\nthat maketh an atonement for the soul."
+    }
   },
   {
     "id": "FES-E-0008",
@@ -149,7 +170,10 @@
       "chapter": 12,
       "verse": "27"
     },
-    "explanation": "It is the Passover sacrifice to the Lord, who passed over the houses of the Israelites in Egypt."
+    "explanation": "It is the Passover sacrifice to the Lord, who passed over the houses of the Israelites in Egypt.",
+    "verses": {
+      "kjv": "That ye shall say, It\nis the sacrifice of the LORD’S passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped."
+    }
   },
   {
     "id": "FES-E-0009",
@@ -168,7 +192,10 @@
       "chapter": 12,
       "verse": "7"
     },
-    "explanation": "Then they are to take some of the blood and put it on the sides and tops of the doorframes."
+    "explanation": "Then they are to take some of the blood and put it on the sides and tops of the doorframes.",
+    "verses": {
+      "kjv": "And they shall take of the blood, and strike\nit on the two side posts and on the upper door post of the houses, wherein they shall eat it."
+    }
   },
   {
     "id": "FES-E-0010",
@@ -187,7 +214,10 @@
       "chapter": 20,
       "verse": "8"
     },
-    "explanation": "Remember the Sabbath day by keeping it holy."
+    "explanation": "Remember the Sabbath day by keeping it holy.",
+    "verses": {
+      "kjv": "Remember the sabbath day, to keep it holy."
+    }
   },
   {
     "id": "FES-E-0011",
@@ -206,7 +236,10 @@
       "chapter": 12,
       "verse": "14"
     },
-    "explanation": "This is a day you are to commemorate; for the generations to come you shall celebrate it as a festival to the Lord."
+    "explanation": "This is a day you are to commemorate; for the generations to come you shall celebrate it as a festival to the Lord.",
+    "verses": {
+      "kjv": "And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever."
+    }
   },
   {
     "id": "FES-E-0012",
@@ -225,7 +258,10 @@
       "chapter": 20,
       "verse": "10"
     },
-    "explanation": "But the seventh day is a sabbath to the Lord your God. On it you shall not do any work."
+    "explanation": "But the seventh day is a sabbath to the Lord your God. On it you shall not do any work.",
+    "verses": {
+      "kjv": "But the seventh day\nis the sabbath of the LORD thy God:\nin it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that\nis within thy gates:"
+    }
   },
   {
     "id": "FES-E-0013",
@@ -244,7 +280,10 @@
       "chapter": 12,
       "verse": "5"
     },
-    "explanation": "The animals you choose must be year-old males without defect, and you may take them from the sheep or the goats."
+    "explanation": "The animals you choose must be year-old males without defect, and you may take them from the sheep or the goats.",
+    "verses": {
+      "kjv": "Your lamb shall be without blemish, a male of the first year: ye shall take\nit out from the sheep, or from the goats:"
+    }
   },
   {
     "id": "FES-E-0014",
@@ -263,7 +302,10 @@
       "chapter": 23,
       "verse": "42"
     },
-    "explanation": "Live in temporary shelters for seven days: All native-born Israelites are to live in such shelters."
+    "explanation": "Live in temporary shelters for seven days: All native-born Israelites are to live in such shelters.",
+    "verses": {
+      "kjv": "Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths:"
+    }
   },
   {
     "id": "FES-E-0015",
@@ -282,7 +324,10 @@
       "chapter": 12,
       "verse": "14"
     },
-    "explanation": "This is a day you are to commemorate; for the generations to come you shall celebrate it as a festival to the Lord."
+    "explanation": "This is a day you are to commemorate; for the generations to come you shall celebrate it as a festival to the Lord.",
+    "verses": {
+      "kjv": "And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever."
+    }
   },
   {
     "id": "FES-E-0016",
@@ -301,7 +346,10 @@
       "chapter": 12,
       "verse": "7"
     },
-    "explanation": "Then they are to take some of the blood and put it on the sides and tops of the doorframes of the houses."
+    "explanation": "Then they are to take some of the blood and put it on the sides and tops of the doorframes of the houses.",
+    "verses": {
+      "kjv": "And they shall take of the blood, and strike\nit on the two side posts and on the upper door post of the houses, wherein they shall eat it."
+    }
   },
   {
     "id": "FES-E-0017",
@@ -320,7 +368,10 @@
       "chapter": 2,
       "verse": "4"
     },
-    "explanation": "All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them."
+    "explanation": "All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.",
+    "verses": {
+      "kjv": "And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance."
+    }
   },
   {
     "id": "FES-E-0018",
@@ -339,7 +390,10 @@
       "chapter": 12,
       "verse": "17"
     },
-    "explanation": "Celebrate the Festival of Unleavened Bread, because it was on this very day that I brought your divisions out of Egypt."
+    "explanation": "Celebrate the Festival of Unleavened Bread, because it was on this very day that I brought your divisions out of Egypt.",
+    "verses": {
+      "kjv": "And ye shall observe\nthe feast of unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance for ever."
+    }
   },
   {
     "id": "FES-E-0019",
@@ -358,7 +412,10 @@
       "chapter": 12,
       "verse": "7"
     },
-    "explanation": "Then they are to take some of the blood and put it on the sides and tops of the doorframes of the houses where they eat the lambs."
+    "explanation": "Then they are to take some of the blood and put it on the sides and tops of the doorframes of the houses where they eat the lambs.",
+    "verses": {
+      "kjv": "And they shall take of the blood, and strike\nit on the two side posts and on the upper door post of the houses, wherein they shall eat it."
+    }
   },
   {
     "id": "FES-E-0020",
@@ -377,7 +434,10 @@
       "chapter": 23,
       "verse": "34"
     },
-    "explanation": "Say to the Israelites: 'On the fifteenth day of the seventh month the Lord's Festival of Tabernacles begins, and it lasts for seven days.'"
+    "explanation": "Say to the Israelites: 'On the fifteenth day of the seventh month the Lord's Festival of Tabernacles begins, and it lasts for seven days.'",
+    "verses": {
+      "kjv": "Speak unto the children of Israel, saying, The fifteenth day of this seventh month\nshall be the feast of tabernacles\nfor seven days unto the LORD."
+    }
   },
   {
     "id": "FES-E-0021",
@@ -396,7 +456,10 @@
       "chapter": 23,
       "verse": "42"
     },
-    "explanation": "Live in temporary shelters for seven days: All native-born Israelites are to live in such shelters."
+    "explanation": "Live in temporary shelters for seven days: All native-born Israelites are to live in such shelters.",
+    "verses": {
+      "kjv": "Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths:"
+    }
   },
   {
     "id": "FES-E-0026",
@@ -415,7 +478,10 @@
       "chapter": 23,
       "verse": "15-16"
     },
-    "explanation": "Count off fifty days up to the day after the seventh Sabbath, and then present an offering of new grain to the Lord."
+    "explanation": "Count off fifty days up to the day after the seventh Sabbath, and then present an offering of new grain to the Lord.",
+    "verses": {
+      "kjv": "And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete:\nEven unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meat offering unto the LORD."
+    }
   },
   {
     "id": "FES-E-0027",
@@ -434,6 +500,9 @@
       "chapter": 20,
       "verse": "10"
     },
-    "explanation": "But the seventh day is a sabbath to the Lord your God. On it you shall not do any work."
+    "explanation": "But the seventh day is a sabbath to the Lord your God. On it you shall not do any work.",
+    "verses": {
+      "kjv": "But the seventh day\nis the sabbath of the LORD thy God:\nin it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that\nis within thy gates:"
+    }
   }
 ]

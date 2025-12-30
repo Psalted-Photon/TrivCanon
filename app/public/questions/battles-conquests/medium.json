@@ -16,7 +16,10 @@
       "chapter": 7,
       "verse": "7"
     },
-    "explanation": "God reduced Gideon's army to just 300 men to show that victory came from the Lord, not human strength."
+    "explanation": "God reduced Gideon's army to just 300 men to show that victory came from the Lord, not human strength.",
+    "verses": {
+      "kjv": "And the LORD said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the\nother people go every man unto his place."
+    }
   },
   {
     "id": "BAT-M-0002",
@@ -35,7 +38,10 @@
       "chapter": 10,
       "verse": "13"
     },
-    "explanation": "Joshua commanded the sun to stand still over Gibeon so Israel could defeat their enemies."
+    "explanation": "Joshua commanded the sun to stand still over Gibeon so Israel could defeat their enemies.",
+    "verses": {
+      "kjv": "And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies.\nIs not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day."
+    }
   },
   {
     "id": "BAT-M-0003",
@@ -54,7 +60,10 @@
       "chapter": 4,
       "verse": "21"
     },
-    "explanation": "Jael gave Sisera shelter but killed him while he slept by driving a tent peg through his temple."
+    "explanation": "Jael gave Sisera shelter but killed him while he slept by driving a tent peg through his temple.",
+    "verses": {
+      "kjv": "Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died."
+    }
   },
   {
     "id": "BAT-M-0004",
@@ -73,7 +82,10 @@
       "chapter": 7,
       "verse": "20"
     },
-    "explanation": "Gideon's 300 men broke jars hiding torches and blew trumpets, causing the Midianites to flee in confusion."
+    "explanation": "Gideon's 300 men broke jars hiding torches and blew trumpets, causing the Midianites to flee in confusion.",
+    "verses": {
+      "kjv": "And the three companies blew the trumpets, and brake the pitchers, and held the lamps in their left hands, and the trumpets in their right hands to blow\nwithal: and they cried, The sword of the LORD, and of Gideon."
+    }
   },
   {
     "id": "BAT-M-0005",
@@ -92,7 +104,10 @@
       "chapter": 15,
       "verse": "3"
     },
-    "explanation": "Saul was commanded to destroy the Amalekites completely but spared King Agag and the best livestock."
+    "explanation": "Saul was commanded to destroy the Amalekites completely but spared King Agag and the best livestock.",
+    "verses": {
+      "kjv": "Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass."
+    }
   },
   {
     "id": "BAT-M-0006",
@@ -111,7 +126,10 @@
       "chapter": 16,
       "verse": "29-30"
     },
-    "explanation": "Samson pushed down the two central pillars of the temple, killing more Philistines in his death than in his life."
+    "explanation": "Samson pushed down the two central pillars of the temple, killing more Philistines in his death than in his life.",
+    "verses": {
+      "kjv": "And Samson took hold of the two middle pillars upon which the house stood, and on which it was borne up, of the one with his right hand, and of the other with his left.\nAnd Samson said, Let me die with the Philistines. And he bowed himself with\nall his might; and the house fell upon the lords, and upon all the people that\nwere therein. So the dead which he slew at his death were more than\nthey which he slew in his life."
+    }
   },
   {
     "id": "BAT-M-0007",
@@ -130,7 +148,10 @@
       "chapter": 17,
       "verse": "40"
     },
-    "explanation": "David chose five smooth stones from the stream and put them in his shepherd's bag."
+    "explanation": "David chose five smooth stones from the stream and put them in his shepherd's bag.",
+    "verses": {
+      "kjv": "And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in a shepherd’s bag which he had, even in a scrip; and his sling\nwas in his hand: and he drew near to the Philistine."
+    }
   },
   {
     "id": "BAT-M-0008",
@@ -149,7 +170,10 @@
       "chapter": 4,
       "verse": "6"
     },
-    "explanation": "Deborah summoned Barak and told him the Lord commanded him to lead the attack against Sisera."
+    "explanation": "Deborah summoned Barak and told him the Lord commanded him to lead the attack against Sisera.",
+    "verses": {
+      "kjv": "And she sent and called Barak the son of Abinoam out of Kedesh-naphtali, and said unto him, Hath not the LORD God of Israel commanded,\nsaying,\n Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?"
+    }
   },
   {
     "id": "BAT-M-0009",
@@ -168,7 +192,10 @@
       "chapter": 6,
       "verse": "37-40"
     },
-    "explanation": "God made the fleece wet and the ground dry, then reversed it to confirm His will."
+    "explanation": "God made the fleece wet and the ground dry, then reversed it to confirm His will.",
+    "verses": {
+      "kjv": "Behold, I will put a fleece of wool in the floor;\nand if the dew be on the fleece only, and\nit be dry upon all the earth\nbeside, then shall I know that thou wilt save Israel by mine hand, as thou hast said.\nAnd it was so: for he rose up early on the morrow, and thrust the fleece together, and wringed the dew out of the fleece, a bowl full of water.\nAnd Gideon said unto God, Let not thine anger be hot against me, and I will speak but this once: let me prove, I pray thee, but this once with the fleece; let it now be dry only upon the fleece, and upon all the ground let there be dew.\nAnd God did so that night: for it was dry upon the fleece only, and there was dew on all the ground."
+    }
   },
   {
     "id": "BAT-M-0010",
@@ -187,7 +214,10 @@
       "chapter": 14,
       "verse": "16"
     },
-    "explanation": "Abraham recovered all the goods and brought back his relative Lot and his possessions."
+    "explanation": "Abraham recovered all the goods and brought back his relative Lot and his possessions.",
+    "verses": {
+      "kjv": "And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people."
+    }
   },
   {
     "id": "BAT-M-0011",
@@ -206,7 +236,10 @@
       "chapter": 17,
       "verse": "8"
     },
-    "explanation": "The Amalekites came and attacked the Israelites at Rephidim."
+    "explanation": "The Amalekites came and attacked the Israelites at Rephidim.",
+    "verses": {
+      "kjv": "Then came Amalek, and fought with Israel in Rephidim."
+    }
   },
   {
     "id": "BAT-M-0012",
@@ -225,7 +258,10 @@
       "chapter": 6,
       "verse": "6"
     },
-    "explanation": "Seven priests carrying seven trumpets went forward, marching before the ark of the Lord."
+    "explanation": "Seven priests carrying seven trumpets went forward, marching before the ark of the Lord.",
+    "verses": {
+      "kjv": "And Joshua the son of Nun called the priests, and said unto them, Take up the ark of the covenant, and let seven priests bear seven trumpets of rams’ horns before the ark of the LORD."
+    }
   },
   {
     "id": "BAT-M-0013",
@@ -244,7 +280,10 @@
       "chapter": 18,
       "verse": "14"
     },
-    "explanation": "Joab took three javelins and plunged them into Absalom's heart while he was still alive in the oak tree."
+    "explanation": "Joab took three javelins and plunged them into Absalom's heart while he was still alive in the oak tree.",
+    "verses": {
+      "kjv": "Then said Joab, I may not tarry thus with thee. And he took three darts in his hand, and thrust them through the heart of Absalom, while he\nwas yet alive in the midst of the oak."
+    }
   },
   {
     "id": "BAT-M-0014",
@@ -263,7 +302,10 @@
       "chapter": 7,
       "verse": "7"
     },
-    "explanation": "The Lord said to Gideon, 'With the three hundred men that lapped I will save you.'"
+    "explanation": "The Lord said to Gideon, 'With the three hundred men that lapped I will save you.'",
+    "verses": {
+      "kjv": "And the LORD said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the\nother people go every man unto his place."
+    }
   },
   {
     "id": "BAT-M-0015",
@@ -282,7 +324,10 @@
       "chapter": 6,
       "verse": "20"
     },
-    "explanation": "When the trumpets sounded, the army shouted, and at the sound of the trumpet, when the men gave a loud shout, the wall collapsed."
+    "explanation": "When the trumpets sounded, the army shouted, and at the sound of the trumpet, when the men gave a loud shout, the wall collapsed.",
+    "verses": {
+      "kjv": "So the people shouted when\nthe priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city."
+    }
   },
   {
     "id": "BAT-M-0016",
@@ -301,7 +346,10 @@
       "chapter": 10,
       "verse": "12"
     },
-    "explanation": "Joshua commanded the sun to stand still over Gibeon so Israel could defeat their enemies."
+    "explanation": "Joshua commanded the sun to stand still over Gibeon so Israel could defeat their enemies.",
+    "verses": {
+      "kjv": "Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon."
+    }
   },
   {
     "id": "BAT-M-0017",
@@ -320,7 +368,10 @@
       "chapter": 17,
       "verse": "40"
     },
-    "explanation": "David chose five smooth stones from the stream and put them in his shepherd's bag."
+    "explanation": "David chose five smooth stones from the stream and put them in his shepherd's bag.",
+    "verses": {
+      "kjv": "And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in a shepherd’s bag which he had, even in a scrip; and his sling\nwas in his hand: and he drew near to the Philistine."
+    }
   },
   {
     "id": "BAT-M-0018",
@@ -339,7 +390,10 @@
       "chapter": 7,
       "verse": "1"
     },
-    "explanation": "Israel was defeated at Ai because Achan had taken devoted things from Jericho."
+    "explanation": "Israel was defeated at Ai because Achan had taken devoted things from Jericho.",
+    "verses": {
+      "kjv": "But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the LORD was kindled against the children of Israel."
+    }
   },
   {
     "id": "BAT-M-0019",
@@ -358,7 +412,10 @@
       "chapter": 6,
       "verse": "20"
     },
-    "explanation": "When the trumpets sounded, the army shouted, and at the sound the wall collapsed."
+    "explanation": "When the trumpets sounded, the army shouted, and at the sound the wall collapsed.",
+    "verses": {
+      "kjv": "So the people shouted when\nthe priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city."
+    }
   },
   {
     "id": "BAT-M-0020",
@@ -377,7 +434,10 @@
       "chapter": 25,
       "verse": "18"
     },
-    "explanation": "The Amalekites met you on your journey and attacked all who were lagging behind."
+    "explanation": "The Amalekites met you on your journey and attacked all who were lagging behind.",
+    "verses": {
+      "kjv": "How he met thee by the way, and smote the hindmost of thee,\neven\n all\nthat were feeble behind thee, when thou\nwast\n faint and weary; and he feared not God."
+    }
   },
   {
     "id": "BAT-M-0021",
@@ -396,7 +456,10 @@
       "chapter": 17,
       "verse": "4"
     },
-    "explanation": "A champion named Goliath came out from the Philistine camp. His height was six cubits and a span (over 9 feet)."
+    "explanation": "A champion named Goliath came out from the Philistine camp. His height was six cubits and a span (over 9 feet).",
+    "verses": {
+      "kjv": "And there went out a champion out of the camp of the Philistines, named Goliath, of Gath, whose height\nwas six cubits and a span."
+    }
   },
   {
     "id": "BAT-M-0022",
@@ -415,7 +478,10 @@
       "chapter": 7,
       "verse": "1"
     },
-    "explanation": "The Israelites were unfaithful regarding the devoted things; Achan took some of them."
+    "explanation": "The Israelites were unfaithful regarding the devoted things; Achan took some of them.",
+    "verses": {
+      "kjv": "But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the LORD was kindled against the children of Israel."
+    }
   },
   {
     "id": "BAT-M-0023",
@@ -434,7 +500,10 @@
       "chapter": 4,
       "verse": "21"
     },
-    "explanation": "But Jael, Heber's wife, picked up a tent peg and a hammer and went quietly to him. She drove the peg through his temple."
+    "explanation": "But Jael, Heber's wife, picked up a tent peg and a hammer and went quietly to him. She drove the peg through his temple.",
+    "verses": {
+      "kjv": "Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died."
+    }
   },
   {
     "id": "BAT-M-0024",
@@ -453,7 +522,10 @@
       "chapter": 10,
       "verse": "13"
     },
-    "explanation": "The sun stopped in the middle of the sky and delayed going down about a full day."
+    "explanation": "The sun stopped in the middle of the sky and delayed going down about a full day.",
+    "verses": {
+      "kjv": "And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies.\nIs not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day."
+    }
   },
   {
     "id": "BAT-M-0025",
@@ -472,7 +544,10 @@
       "chapter": 6,
       "verse": "27"
     },
-    "explanation": "So Gideon took ten of his servants and did as the Lord told him. But because he was afraid, he did it at night."
+    "explanation": "So Gideon took ten of his servants and did as the Lord told him. But because he was afraid, he did it at night.",
+    "verses": {
+      "kjv": "Then Gideon took ten men of his servants, and did as the LORD had said unto him: and\nso it was, because he feared his father’s household, and the men of the city, that he could not do\nit by day, that he did\nit by night."
+    }
   },
   {
     "id": "BAT-M-0026",
@@ -491,7 +566,10 @@
       "chapter": 17,
       "verse": "51"
     },
-    "explanation": "David ran and stood over him. He took hold of the Philistine's sword and drew it from the sheath. After he killed him, he cut off his head with the sword."
+    "explanation": "David ran and stood over him. He took hold of the Philistine's sword and drew it from the sheath. After he killed him, he cut off his head with the sword.",
+    "verses": {
+      "kjv": "Therefore David ran, and stood upon the Philistine, and took his sword, and drew it out of the sheath thereof, and slew him, and cut off his head therewith. And when the Philistines saw their champion was dead, they fled."
+    }
   },
   {
     "id": "BAT-M-0027",
@@ -510,7 +588,10 @@
       "chapter": 7,
       "verse": "16"
     },
-    "explanation": "He gave them trumpets and empty jars, with torches inside."
+    "explanation": "He gave them trumpets and empty jars, with torches inside.",
+    "verses": {
+      "kjv": "And he divided the three hundred men\ninto three companies, and he put a trumpet in every man’s hand, with empty pitchers, and lamps within the pitchers."
+    }
   },
   {
     "id": "BAT-M-0028",
@@ -529,7 +610,10 @@
       "chapter": 10,
       "verse": "11"
     },
-    "explanation": "As they fled before Israel, the Lord hurled large hailstones down on them, and more of them died from the hail than were killed by the swords of the Israelites."
+    "explanation": "As they fled before Israel, the Lord hurled large hailstones down on them, and more of them died from the hail than were killed by the swords of the Israelites.",
+    "verses": {
+      "kjv": "And it came to pass, as they fled from before Israel,\nand\n were in the going down to Beth-horon, that the LORD cast down great stones from heaven upon them unto Azekah, and they died:\nthey were\n more which died with hailstones than they whom the children of Israel slew with the sword."
+    }
   },
   {
     "id": "BAT-M-0027",
@@ -548,6 +632,9 @@
       "chapter": 7,
       "verse": "7"
     },
-    "explanation": "The Lord said to Gideon, 'With the three hundred men that lapped I will save you and give the Midianites into your hands.'"
+    "explanation": "The Lord said to Gideon, 'With the three hundred men that lapped I will save you and give the Midianites into your hands.'",
+    "verses": {
+      "kjv": "And the LORD said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the\nother people go every man unto his place."
+    }
   }
 ]

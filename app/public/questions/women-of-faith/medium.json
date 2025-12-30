@@ -16,7 +16,10 @@
       "chapter": 2,
       "verse": "1-21"
     },
-    "explanation": "Rahab hid the spies and marked her house with a scarlet cord, saving her family when Jericho was conquered."
+    "explanation": "Rahab hid the spies and marked her house with a scarlet cord, saving her family when Jericho was conquered.",
+    "verses": {
+      "kjv": "And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot’s house, named Rahab, and lodged there.\nAnd it was told the king of Jericho, saying, Behold, there came men in hither to night of the children of Israel to search out the country.\nAnd the king of Jericho sent unto Rahab, saying, Bring forth the men that are come to thee, which are entered into thine house: for they be come to search out all the country.\nAnd the woman took the two men, and hid them, and said thus, There came men unto me, but I wist not whence they\nwere:\nAnd it came to pass\nabout the time of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them.\nBut she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof.\nAnd the men pursued after them the way to Jordan unto the fords: and as soon as they which pursued after them were gone out, they shut the gate.\nAnd before they were laid down, she came up unto them upon the roof;\nAnd she said unto the men, I know that the LORD hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.\nFor we have heard how the LORD dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that\nwere on the other side Jordan, Sihon and Og, whom ye utterly destroyed.\nAnd as soon as we had heard\nthese things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the LORD your God, he\nis God in heaven above, and in earth beneath.\nNow therefore, I pray you, swear unto me by the LORD, since I have shewed you kindness, that ye will also shew kindness unto my father’s house, and give me a true token:\nAnd\nthat ye will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death.\nAnd the men answered her, Our life for yours, if ye utter not this our business. And it shall be, when the LORD hath given us the land, that we will deal kindly and truly with thee.\nThen she let them down by a cord through the window: for her house\nwas upon the town wall, and she dwelt upon the wall.\nAnd she said unto them, Get you to the mountain, lest the pursuers meet you; and hide yourselves there three days, until the pursuers be returned: and afterward may ye go your way.\nAnd the men said unto her, We\nwill be blameless of this thine oath which thou hast made us swear.\nBehold,\nwhen we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father’s household, home unto thee.\nAnd it shall be,\nthat whosoever shall go out of the doors of thy house into the street, his blood\nshall be upon his head, and we\nwill be guiltless: and whosoever shall be with thee in the house, his blood\nshall be on our head, if\nany hand be upon him.\nAnd if thou utter this our business, then we will be quit of thine oath which thou hast made us to swear.\nAnd she said, According unto your words, so\nbe it. And she sent them away, and they departed: and she bound the scarlet line in the window."
+    }
   },
   {
     "id": "WOF-M-0002",
@@ -35,7 +38,10 @@
       "chapter": 1,
       "verse": "20"
     },
-    "explanation": "Hannah prayed earnestly for a son and dedicated Samuel to the Lord's service when he was born."
+    "explanation": "Hannah prayed earnestly for a son and dedicated Samuel to the Lord's service when he was born.",
+    "verses": {
+      "kjv": "Wherefore it came to pass, when the time was come about after Hannah had conceived, that she bare a son, and called his name Samuel,\nsaying,\n Because I have asked him of the LORD."
+    }
   },
   {
     "id": "WOF-M-0003",
@@ -54,7 +60,10 @@
       "chapter": 4,
       "verse": "4"
     },
-    "explanation": "Deborah was a prophetess and judge who summoned Barak to lead Israel's army against Sisera."
+    "explanation": "Deborah was a prophetess and judge who summoned Barak to lead Israel's army against Sisera.",
+    "verses": {
+      "kjv": "And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time."
+    }
   },
   {
     "id": "WOF-M-0004",
@@ -73,7 +82,10 @@
       "chapter": 20,
       "verse": "16"
     },
-    "explanation": "Mary Magdalene was the first to see the risen Christ when he appeared to her at the tomb."
+    "explanation": "Mary Magdalene was the first to see the risen Christ when he appeared to her at the tomb.",
+    "verses": {
+      "kjv": "Jesus saith unto her,\nMary. She turned herself, and saith unto him, Rabboni; which is to say, Master."
+    }
   },
   {
     "id": "WOF-M-0005",
@@ -92,7 +104,10 @@
       "chapter": 12,
       "verse": "3"
     },
-    "explanation": "Mary of Bethany anointed Jesus with expensive nard and wiped his feet with her hair."
+    "explanation": "Mary of Bethany anointed Jesus with expensive nard and wiped his feet with her hair.",
+    "verses": {
+      "kjv": "Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped his feet with her hair: and the house was filled with the odour of the ointment."
+    }
   },
   {
     "id": "WOF-M-0006",
@@ -111,7 +126,10 @@
       "chapter": 2,
       "verse": "36-38"
     },
-    "explanation": "Anna, a prophetess who was 84 years old, gave thanks to God and spoke about Jesus to all who were waiting for redemption."
+    "explanation": "Anna, a prophetess who was 84 years old, gave thanks to God and spoke about Jesus to all who were waiting for redemption.",
+    "verses": {
+      "kjv": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;\nAnd she\nwas a widow of about fourscore and four years, which departed not from the temple, but served\nGod with fastings and prayers night and day.\nAnd she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem."
+    }
   },
   {
     "id": "WOF-M-0007",
@@ -130,7 +148,10 @@
       "chapter": 4,
       "verse": "17"
     },
-    "explanation": "Ruth was the mother of Obed, who was the father of Jesse, who was the father of David."
+    "explanation": "Ruth was the mother of Obed, who was the father of Jesse, who was the father of David.",
+    "verses": {
+      "kjv": "And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he\nis the father of Jesse, the father of David."
+    }
   },
   {
     "id": "WOF-M-0008",
@@ -149,7 +170,10 @@
       "chapter": 18,
       "verse": "2-3"
     },
-    "explanation": "Priscilla and Aquila were tentmakers who worked with Paul and taught Apollos the way of God more adequately."
+    "explanation": "Priscilla and Aquila were tentmakers who worked with Paul and taught Apollos the way of God more adequately.",
+    "verses": {
+      "kjv": "And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.\nAnd because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers."
+    }
   },
   {
     "id": "WOF-M-0009",
@@ -168,7 +192,10 @@
       "chapter": 6,
       "verse": "20"
     },
-    "explanation": "Amram married his aunt Jochebed, who bore him Aaron and Moses."
+    "explanation": "Amram married his aunt Jochebed, who bore him Aaron and Moses.",
+    "verses": {
+      "kjv": "And Amram took him Jochebed his father’s sister to wife; and she bare him Aaron and Moses: and the years of the life of Amram\nwere an hundred and thirty and seven years."
+    }
   },
   {
     "id": "WOF-M-0010",
@@ -187,7 +214,10 @@
       "chapter": 20,
       "verse": "20-21"
     },
-    "explanation": "The mother of Zebedee's sons came to Jesus with her sons and made this request."
+    "explanation": "The mother of Zebedee's sons came to Jesus with her sons and made this request.",
+    "verses": {
+      "kjv": "Then came to him the mother of Zebedee’s children with her sons, worshipping\nhim, and desiring a certain thing of him.\nAnd he said unto her,\nWhat wilt thou? She saith unto him, Grant that these my two sons may sit, the one on thy right hand, and the other on the left, in thy kingdom."
+    }
   },
   {
     "id": "WOF-M-0011",
@@ -206,7 +236,10 @@
       "chapter": 7,
       "verse": "38"
     },
-    "explanation": "A woman who had lived a sinful life wept at Jesus' feet, wiped them with her hair, and anointed them."
+    "explanation": "A woman who had lived a sinful life wept at Jesus' feet, wiped them with her hair, and anointed them.",
+    "verses": {
+      "kjv": "And stood at his feet behind\nhim weeping, and began to wash his feet with tears, and did wipe\nthem with the hairs of her head, and kissed his feet, and anointed\nthem with the ointment."
+    }
   },
   {
     "id": "WOF-M-0012",
@@ -225,7 +258,10 @@
       "chapter": 4,
       "verse": "21"
     },
-    "explanation": "Jael picked up a tent peg and a hammer and drove the peg through Sisera's temple into the ground."
+    "explanation": "Jael picked up a tent peg and a hammer and drove the peg through Sisera's temple into the ground.",
+    "verses": {
+      "kjv": "Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died."
+    }
   },
   {
     "id": "WOF-M-0013",
@@ -244,7 +280,10 @@
       "chapter": 4,
       "verse": "8"
     },
-    "explanation": "One day Elisha went to Shunem, and a well-to-do woman urged him to stay for a meal."
+    "explanation": "One day Elisha went to Shunem, and a well-to-do woman urged him to stay for a meal.",
+    "verses": {
+      "kjv": "And it fell on a day, that Elisha passed to Shunem, where\nwas\n a great woman; and she constrained him to eat bread. And so it was,\nthat as oft as he passed by, he turned in thither to eat bread."
+    }
   },
   {
     "id": "WOF-M-0014",
@@ -263,7 +302,10 @@
       "chapter": 4,
       "verse": "4"
     },
-    "explanation": "Now Deborah, a prophet, the wife of Lappidoth, was leading Israel at that time."
+    "explanation": "Now Deborah, a prophet, the wife of Lappidoth, was leading Israel at that time.",
+    "verses": {
+      "kjv": "And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time."
+    }
   },
   {
     "id": "WOF-M-0015",
@@ -282,7 +324,10 @@
       "chapter": 12,
       "verse": "3"
     },
-    "explanation": "Mary took about a pint of pure nard, an expensive perfume; she poured it on Jesus' feet."
+    "explanation": "Mary took about a pint of pure nard, an expensive perfume; she poured it on Jesus' feet.",
+    "verses": {
+      "kjv": "Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped his feet with her hair: and the house was filled with the odour of the ointment."
+    }
   },
   {
     "id": "WOF-M-0016",
@@ -301,7 +346,10 @@
       "chapter": 4,
       "verse": "21"
     },
-    "explanation": "Jael killed the Canaanite commander Sisera by driving a tent peg through his temple while he slept."
+    "explanation": "Jael killed the Canaanite commander Sisera by driving a tent peg through his temple while he slept.",
+    "verses": {
+      "kjv": "Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died."
+    }
   },
   {
     "id": "WOF-M-0017",
@@ -320,7 +368,10 @@
       "chapter": 2,
       "verse": "38"
     },
-    "explanation": "Anna, a prophetess of great age, gave thanks to God and spoke about Jesus to all who were waiting for redemption."
+    "explanation": "Anna, a prophetess of great age, gave thanks to God and spoke about Jesus to all who were waiting for redemption.",
+    "verses": {
+      "kjv": "And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem."
+    }
   },
   {
     "id": "WOF-M-0018",
@@ -339,7 +390,10 @@
       "chapter": 9,
       "verse": "36"
     },
-    "explanation": "In Joppa there was a disciple named Tabitha who was always doing good and helping the poor."
+    "explanation": "In Joppa there was a disciple named Tabitha who was always doing good and helping the poor.",
+    "verses": {
+      "kjv": "Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did."
+    }
   },
   {
     "id": "WOF-M-0019",
@@ -358,7 +412,10 @@
       "chapter": 18,
       "verse": "26"
     },
-    "explanation": "Priscilla and Aquila invited Apollos to their home and explained to him the way of God more adequately."
+    "explanation": "Priscilla and Aquila invited Apollos to their home and explained to him the way of God more adequately.",
+    "verses": {
+      "kjv": "And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him unto\nthem, and expounded unto him the way of God more perfectly."
+    }
   },
   {
     "id": "WOF-M-0020",
@@ -377,7 +434,10 @@
       "chapter": 2,
       "verse": "36"
     },
-    "explanation": "There was also a prophet, Anna, the daughter of Penuel, of the tribe of Asher. She was very old."
+    "explanation": "There was also a prophet, Anna, the daughter of Penuel, of the tribe of Asher. She was very old.",
+    "verses": {
+      "kjv": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;"
+    }
   },
   {
     "id": "WOF-M-0021",
@@ -396,7 +456,10 @@
       "chapter": 4,
       "verse": "8"
     },
-    "explanation": "One day Elisha went to Shunem. And a well-to-do woman was there, who urged him to stay for a meal."
+    "explanation": "One day Elisha went to Shunem. And a well-to-do woman was there, who urged him to stay for a meal.",
+    "verses": {
+      "kjv": "And it fell on a day, that Elisha passed to Shunem, where\nwas\n a great woman; and she constrained him to eat bread. And so it was,\nthat as oft as he passed by, he turned in thither to eat bread."
+    }
   },
   {
     "id": "WOF-M-0022",
@@ -415,7 +478,10 @@
       "chapter": 6,
       "verse": "16"
     },
-    "explanation": "As the ark of the Lord was entering the City of David, Michal daughter of Saul watched from a window and saw King David leaping and dancing before the Lord, and she despised him in her heart."
+    "explanation": "As the ark of the Lord was entering the City of David, Michal daughter of Saul watched from a window and saw King David leaping and dancing before the Lord, and she despised him in her heart.",
+    "verses": {
+      "kjv": "And as the ark of the LORD came into the city of David, Michal Saul’s daughter looked through a window, and saw king David leaping and dancing before the LORD; and she despised him in her heart."
+    }
   },
   {
     "id": "WOF-M-0023",
@@ -434,7 +500,10 @@
       "chapter": 16,
       "verse": "14-15"
     },
-    "explanation": "One of those listening was a woman from the city of Thyatira named Lydia, a dealer in purple cloth. The Lord opened her heart to respond to Paul's message. When she and the members of her household were baptized, she invited us to her home."
+    "explanation": "One of those listening was a woman from the city of Thyatira named Lydia, a dealer in purple cloth. The Lord opened her heart to respond to Paul's message. When she and the members of her household were baptized, she invited us to her home.",
+    "verses": {
+      "kjv": "And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard\nus: whose heart the Lord opened, that she attended unto the things which were spoken of Paul.\nAnd when she was baptized, and her household, she besought\nus,\n saying, If ye have judged me to be faithful to the Lord, come into my house, and abide\nthere. And she constrained us."
+    }
   },
   {
     "id": "WOF-M-0024",
@@ -453,6 +522,9 @@
       "chapter": 9,
       "verse": "36-41"
     },
-    "explanation": "In Joppa there was a disciple named Tabitha (in Greek her name is Dorcas); she was always doing good and helping the poor. All the widows stood around Peter, showing him the robes and other clothing that Dorcas had made. Peter sent them all out of the room; then he got down on his knees and prayed. Turning toward the dead woman, he said, 'Tabitha, get up.' She opened her eyes, and seeing Peter she sat up."
+    "explanation": "In Joppa there was a disciple named Tabitha (in Greek her name is Dorcas); she was always doing good and helping the poor. All the widows stood around Peter, showing him the robes and other clothing that Dorcas had made. Peter sent them all out of the room; then he got down on his knees and prayed. Turning toward the dead woman, he said, 'Tabitha, get up.' She opened her eyes, and seeing Peter she sat up.",
+    "verses": {
+      "kjv": "Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.\nAnd it came to pass in those days, that she was sick, and died: whom when they had washed, they laid\nher in an upper chamber.\nAnd forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring\nhim\n that he would not delay to come to them.\nThen Peter arose and went with them. When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and shewing the coats and garments which Dorcas made, while she was with them.\nBut Peter put them all forth, and kneeled down, and prayed; and turning\nhim to the body said, Tabitha, arise. And she opened her eyes: and when she saw Peter, she sat up.\nAnd he gave her\nhis hand, and lifted her up, and when he had called the saints and widows, presented her alive."
+    }
   }
 ]

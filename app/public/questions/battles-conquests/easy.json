@@ -16,7 +16,10 @@
       "chapter": 6,
       "verse": "20"
     },
-    "explanation": "After marching around Jericho for seven days, the walls fell when the people shouted and the trumpets sounded."
+    "explanation": "After marching around Jericho for seven days, the walls fell when the people shouted and the trumpets sounded.",
+    "verses": {
+      "kjv": "So the people shouted when\nthe priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city."
+    }
   },
   {
     "id": "BAT-E-0002",
@@ -35,7 +38,10 @@
       "chapter": 17,
       "verse": "49"
     },
-    "explanation": "Young David defeated the giant Goliath with a single stone from his sling, striking him in the forehead."
+    "explanation": "Young David defeated the giant Goliath with a single stone from his sling, striking him in the forehead.",
+    "verses": {
+      "kjv": "And David put his hand in his bag, and took thence a stone, and slang\nit, and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth."
+    }
   },
   {
     "id": "BAT-E-0003",
@@ -54,7 +60,10 @@
       "chapter": 15,
       "verse": "15"
     },
-    "explanation": "Samson found a fresh jawbone of a donkey and struck down a thousand Philistines with it."
+    "explanation": "Samson found a fresh jawbone of a donkey and struck down a thousand Philistines with it.",
+    "verses": {
+      "kjv": "And he found a new jawbone of an ass, and put forth his hand, and took it, and slew a thousand men therewith."
+    }
   },
   {
     "id": "BAT-E-0004",
@@ -73,7 +82,10 @@
       "chapter": 6,
       "verse": "20"
     },
-    "explanation": "Jericho was the first city conquered by Israel when they entered the Promised Land."
+    "explanation": "Jericho was the first city conquered by Israel when they entered the Promised Land.",
+    "verses": {
+      "kjv": "So the people shouted when\nthe priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city."
+    }
   },
   {
     "id": "BAT-E-0005",
@@ -92,7 +104,10 @@
       "chapter": 14,
       "verse": "28"
     },
-    "explanation": "The waters returned and covered the chariots and horsemen of Pharaoh's army; not one of them survived."
+    "explanation": "The waters returned and covered the chariots and horsemen of Pharaoh's army; not one of them survived.",
+    "verses": {
+      "kjv": "And the waters returned, and covered the chariots, and the horsemen,\nand all the host of Pharaoh that came into the sea after them; there remained not so much as one of them."
+    }
   },
   {
     "id": "BAT-E-0006",
@@ -111,7 +126,10 @@
       "chapter": 7,
       "verse": "16-22"
     },
-    "explanation": "Gideon divided his 300 men and attacked at night with torches and trumpets, routing the Midianites."
+    "explanation": "Gideon divided his 300 men and attacked at night with torches and trumpets, routing the Midianites.",
+    "verses": {
+      "kjv": "And he divided the three hundred men\ninto three companies, and he put a trumpet in every man’s hand, with empty pitchers, and lamps within the pitchers.\nAnd he said unto them, Look on me, and do likewise: and, behold, when I come to the outside of the camp, it shall be\nthat, as I do, so shall ye do.\nWhen I blow with a trumpet, I and all that\nare with me, then blow ye the trumpets also on every side of all the camp, and say,\nThe sword of the LORD, and of Gideon.\nSo Gideon, and the hundred men that\nwere with him, came unto the outside of the camp in the beginning of the middle watch; and they had but newly set the watch: and they blew the trumpets, and brake the pitchers that\nwere in their hands.\nAnd the three companies blew the trumpets, and brake the pitchers, and held the lamps in their left hands, and the trumpets in their right hands to blow\nwithal: and they cried, The sword of the LORD, and of Gideon.\nAnd they stood every man in his place round about the camp: and all the host ran, and cried, and fled.\nAnd the three hundred blew the trumpets, and the LORD set every man’s sword against his fellow, even throughout all the host: and the host fled to Beth-shittah in Zererath,\nand to the border of Abel-meholah, unto Tabbath."
+    }
   },
   {
     "id": "BAT-E-0007",
@@ -130,7 +148,10 @@
       "chapter": 10,
       "verse": "12-13"
     },
-    "explanation": "Joshua commanded the sun to stand still over Gibeon and the moon over the Valley of Aijalon."
+    "explanation": "Joshua commanded the sun to stand still over Gibeon and the moon over the Valley of Aijalon.",
+    "verses": {
+      "kjv": "Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon.\nAnd the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies.\nIs not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day."
+    }
   },
   {
     "id": "BAT-E-0008",
@@ -149,7 +170,10 @@
       "chapter": 5,
       "verse": "7"
     },
-    "explanation": "David captured the fortress of Zion (Jerusalem) from the Jebusites and made it his capital."
+    "explanation": "David captured the fortress of Zion (Jerusalem) from the Jebusites and made it his capital.",
+    "verses": {
+      "kjv": "Nevertheless David took the strong hold of Zion: the same\nis\n the city of David."
+    }
   },
   {
     "id": "BAT-E-0009",
@@ -168,7 +192,10 @@
       "chapter": 6,
       "verse": "20"
     },
-    "explanation": "When the trumpets sounded and the people shouted, the wall collapsed and Israel took the city."
+    "explanation": "When the trumpets sounded and the people shouted, the wall collapsed and Israel took the city.",
+    "verses": {
+      "kjv": "So the people shouted when\nthe priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city."
+    }
   },
   {
     "id": "BAT-E-0010",
@@ -187,7 +214,10 @@
       "chapter": 14,
       "verse": "28"
     },
-    "explanation": "The water flowed back and covered the chariots and horsemen. Not one of them survived."
+    "explanation": "The water flowed back and covered the chariots and horsemen. Not one of them survived.",
+    "verses": {
+      "kjv": "And the waters returned, and covered the chariots, and the horsemen,\nand all the host of Pharaoh that came into the sea after them; there remained not so much as one of them."
+    }
   },
   {
     "id": "BAT-E-0011",
@@ -206,7 +236,10 @@
       "chapter": 17,
       "verse": "50"
     },
-    "explanation": "So David triumphed over the Philistine with a sling and a stone."
+    "explanation": "So David triumphed over the Philistine with a sling and a stone.",
+    "verses": {
+      "kjv": "So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but\nthere was no sword in the hand of David."
+    }
   },
   {
     "id": "BAT-E-0012",
@@ -225,7 +258,10 @@
       "chapter": 6,
       "verse": "15"
     },
-    "explanation": "On the seventh day, they marched around the city seven times, then shouted and the walls fell down."
+    "explanation": "On the seventh day, they marched around the city seven times, then shouted and the walls fell down.",
+    "verses": {
+      "kjv": "And it came to pass on the seventh day, that they rose early about the dawning of the day, and compassed the city after the same manner seven times: only on that day they compassed the city seven times."
+    }
   },
   {
     "id": "BAT-E-0013",
@@ -244,7 +280,10 @@
       "chapter": 7,
       "verse": "7"
     },
-    "explanation": "God reduced Gideon's army to 300 men who defeated the Midianites with trumpets, torches, and jars."
+    "explanation": "God reduced Gideon's army to 300 men who defeated the Midianites with trumpets, torches, and jars.",
+    "verses": {
+      "kjv": "And the LORD said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the\nother people go every man unto his place."
+    }
   },
   {
     "id": "BAT-E-0014",
@@ -263,7 +302,10 @@
       "chapter": 15,
       "verse": "15"
     },
-    "explanation": "Samson found a fresh jawbone of a donkey and struck down a thousand men with it."
+    "explanation": "Samson found a fresh jawbone of a donkey and struck down a thousand men with it.",
+    "verses": {
+      "kjv": "And he found a new jawbone of an ass, and put forth his hand, and took it, and slew a thousand men therewith."
+    }
   },
   {
     "id": "BAT-E-0015",
@@ -282,7 +324,10 @@
       "chapter": 15,
       "verse": "15"
     },
-    "explanation": "Finding a fresh jawbone of a donkey, he grabbed it and struck down a thousand men."
+    "explanation": "Finding a fresh jawbone of a donkey, he grabbed it and struck down a thousand men.",
+    "verses": {
+      "kjv": "And he found a new jawbone of an ass, and put forth his hand, and took it, and slew a thousand men therewith."
+    }
   },
   {
     "id": "BAT-E-0016",
@@ -301,7 +346,10 @@
       "chapter": 7,
       "verse": "7"
     },
-    "explanation": "The Lord said to Gideon, 'With the three hundred men that lapped I will save you and give the Midianites into your hands.'"
+    "explanation": "The Lord said to Gideon, 'With the three hundred men that lapped I will save you and give the Midianites into your hands.'",
+    "verses": {
+      "kjv": "And the LORD said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the\nother people go every man unto his place."
+    }
   },
   {
     "id": "BAT-E-0017",
@@ -320,7 +368,10 @@
       "chapter": 6,
       "verse": "20"
     },
-    "explanation": "When the trumpets sounded, the army shouted, and at the sound of the trumpet, the wall collapsed."
+    "explanation": "When the trumpets sounded, the army shouted, and at the sound of the trumpet, the wall collapsed.",
+    "verses": {
+      "kjv": "So the people shouted when\nthe priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city."
+    }
   },
   {
     "id": "BAT-E-0018",
@@ -339,7 +390,10 @@
       "chapter": 1,
       "verse": "1-2"
     },
-    "explanation": "After the death of Moses the servant of the Lord, the Lord said to Joshua son of Nun, Moses' aide: 'Now then, you and all these people, get ready to cross the Jordan River into the land I am about to give to them.'"
+    "explanation": "After the death of Moses the servant of the Lord, the Lord said to Joshua son of Nun, Moses' aide: 'Now then, you and all these people, get ready to cross the Jordan River into the land I am about to give to them.'",
+    "verses": {
+      "kjv": "Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses’ minister, saying,\nMoses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them,\neven\n to the children of Israel."
+    }
   },
   {
     "id": "BAT-E-0019",
@@ -358,7 +412,10 @@
       "chapter": 17,
       "verse": "49"
     },
-    "explanation": "Reaching into his bag and taking out a stone, he slung it and struck the Philistine on the forehead."
+    "explanation": "Reaching into his bag and taking out a stone, he slung it and struck the Philistine on the forehead.",
+    "verses": {
+      "kjv": "And David put his hand in his bag, and took thence a stone, and slang\nit, and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth."
+    }
   },
   {
     "id": "BAT-E-0020",
@@ -377,7 +434,10 @@
       "chapter": 15,
       "verse": "15"
     },
-    "explanation": "Finding a fresh jawbone of a donkey, he grabbed it and struck down a thousand men."
+    "explanation": "Finding a fresh jawbone of a donkey, he grabbed it and struck down a thousand men.",
+    "verses": {
+      "kjv": "And he found a new jawbone of an ass, and put forth his hand, and took it, and slew a thousand men therewith."
+    }
   },
   {
     "id": "BAT-E-0021",
@@ -396,7 +456,10 @@
       "chapter": 16,
       "verse": "18"
     },
-    "explanation": "When Delilah saw that he had told her everything, she sent word to the rulers of the Philistines."
+    "explanation": "When Delilah saw that he had told her everything, she sent word to the rulers of the Philistines.",
+    "verses": {
+      "kjv": "And when Delilah saw that he had told her all his heart, she sent and called for the lords of the Philistines, saying, Come up this once, for he hath shewed me all his heart. Then the lords of the Philistines came up unto her, and brought money in their hand."
+    }
   },
   {
     "id": "BAT-E-0022",
@@ -415,7 +478,10 @@
       "chapter": 16,
       "verse": "17"
     },
-    "explanation": "'No razor has ever been used on my head,' he said, 'because I have been a Nazirite dedicated to God from my mother's womb. If my head were shaved, my strength would leave me.'"
+    "explanation": "'No razor has ever been used on my head,' he said, 'because I have been a Nazirite dedicated to God from my mother's womb. If my head were shaved, my strength would leave me.'",
+    "verses": {
+      "kjv": "That he told her all his heart, and said unto her. There hath not come a razor upon mine head; for I\nhave been a Nazarite unto God from my mother’s womb: if I be shaven, then my strength will go from me, and I shall become weak, and be like any\nother man."
+    }
   },
   {
     "id": "BAT-E-0023",
@@ -434,7 +500,10 @@
       "chapter": 16,
       "verse": "30"
     },
-    "explanation": "Samson said, 'Let me die with the Philistines!' Then he pushed with all his might, and down came the temple on the rulers and all the people in it."
+    "explanation": "Samson said, 'Let me die with the Philistines!' Then he pushed with all his might, and down came the temple on the rulers and all the people in it.",
+    "verses": {
+      "kjv": "And Samson said, Let me die with the Philistines. And he bowed himself with\nall his might; and the house fell upon the lords, and upon all the people that\nwere therein. So the dead which he slew at his death were more than\nthey which he slew in his life."
+    }
   },
   {
     "id": "BAT-E-0024",
@@ -453,7 +522,10 @@
       "chapter": 10,
       "verse": "12"
     },
-    "explanation": "On the day the Lord gave the Amorites over to Israel, Joshua said, 'Sun, stand still over Gibeon, and you, moon, over the Valley of Aijalon.'"
+    "explanation": "On the day the Lord gave the Amorites over to Israel, Joshua said, 'Sun, stand still over Gibeon, and you, moon, over the Valley of Aijalon.'",
+    "verses": {
+      "kjv": "Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon."
+    }
   },
   {
     "id": "BAT-E-0026",
@@ -472,7 +544,10 @@
       "chapter": 17,
       "verse": "49-50"
     },
-    "explanation": "David took a stone, slung it, and struck the Philistine on his forehead. The stone sank into his forehead, and he fell on his face to the ground."
+    "explanation": "David took a stone, slung it, and struck the Philistine on his forehead. The stone sank into his forehead, and he fell on his face to the ground.",
+    "verses": {
+      "kjv": "And David put his hand in his bag, and took thence a stone, and slang\nit, and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth.\nSo David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but\nthere was no sword in the hand of David."
+    }
   },
   {
     "id": "BAT-E-0027",
@@ -491,6 +566,9 @@
       "chapter": 6,
       "verse": "20"
     },
-    "explanation": "When the trumpets sounded, the army shouted, and at the sound of the trumpet, when the men gave a loud shout, the wall collapsed."
+    "explanation": "When the trumpets sounded, the army shouted, and at the sound of the trumpet, when the men gave a loud shout, the wall collapsed.",
+    "verses": {
+      "kjv": "So the people shouted when\nthe priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city."
+    }
   }
 ]

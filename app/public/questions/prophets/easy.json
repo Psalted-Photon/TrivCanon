@@ -16,7 +16,10 @@
       "chapter": 1,
       "verse": "17"
     },
-    "explanation": "Jonah was swallowed by a great fish for three days after fleeing from God's command to go to Nineveh."
+    "explanation": "Jonah was swallowed by a great fish for three days after fleeing from God's command to go to Nineveh.",
+    "verses": {
+      "kjv": "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights."
+    }
   },
   {
     "id": "PRO-E-0002",
@@ -35,7 +38,10 @@
       "chapter": 2,
       "verse": "11"
     },
-    "explanation": "Elijah went up to heaven in a whirlwind, with chariots and horses of fire separating him from Elisha."
+    "explanation": "Elijah went up to heaven in a whirlwind, with chariots and horses of fire separating him from Elisha.",
+    "verses": {
+      "kjv": "And it came to pass, as they still went on, and talked, that, behold,\nthere appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven."
+    }
   },
   {
     "id": "PRO-E-0003",
@@ -54,7 +60,10 @@
       "chapter": 18,
       "verse": "38"
     },
-    "explanation": "Elijah called on God, and fire fell from heaven, consuming the sacrifice and proving God's power over Baal."
+    "explanation": "Elijah called on God, and fire fell from heaven, consuming the sacrifice and proving God's power over Baal.",
+    "verses": {
+      "kjv": "Then the fire of the LORD fell, and consumed the burnt sacrifice, and the wood, and the stones, and the dust, and licked up the water that\nwas in the trench."
+    }
   },
   {
     "id": "PRO-E-0004",
@@ -73,7 +82,10 @@
       "chapter": 2,
       "verse": "19"
     },
-    "explanation": "God revealed the dream and its interpretation to Daniel, who then told the king."
+    "explanation": "God revealed the dream and its interpretation to Daniel, who then told the king.",
+    "verses": {
+      "kjv": "Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven."
+    }
   },
   {
     "id": "PRO-E-0005",
@@ -92,7 +104,10 @@
       "chapter": 6,
       "verse": "8"
     },
-    "explanation": "After being cleansed by a seraphim with a burning coal, Isaiah eagerly volunteered to be God's messenger."
+    "explanation": "After being cleansed by a seraphim with a burning coal, Isaiah eagerly volunteered to be God's messenger.",
+    "verses": {
+      "kjv": "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here\nam I; send me."
+    }
   },
   {
     "id": "PRO-E-0006",
@@ -111,7 +126,10 @@
       "chapter": 37,
       "verse": "1-2"
     },
-    "explanation": "God led Ezekiel to a valley full of dry bones and asked if they could live again."
+    "explanation": "God led Ezekiel to a valley full of dry bones and asked if they could live again.",
+    "verses": {
+      "kjv": "The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which\nwas full of bones,\nAnd caused me to pass by them round about: and, behold,\nthere were\n very many in the open valley; and, lo,\nthey were very dry."
+    }
   },
   {
     "id": "PRO-E-0007",
@@ -130,7 +148,10 @@
       "chapter": 17,
       "verse": "6"
     },
-    "explanation": "The ravens brought Elijah bread and meat in the morning and evening, and he drank from the brook."
+    "explanation": "The ravens brought Elijah bread and meat in the morning and evening, and he drank from the brook.",
+    "verses": {
+      "kjv": "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook."
+    }
   },
   {
     "id": "PRO-E-0008",
@@ -149,7 +170,10 @@
       "chapter": 22,
       "verse": "28"
     },
-    "explanation": "The Lord opened the donkey's mouth, and it said to Balaam, 'What have I done to you?'"
+    "explanation": "The Lord opened the donkey's mouth, and it said to Balaam, 'What have I done to you?'",
+    "verses": {
+      "kjv": "And the LORD opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?"
+    }
   },
   {
     "id": "PRO-E-0009",
@@ -168,7 +192,10 @@
       "chapter": 3,
       "verse": "4"
     },
-    "explanation": "Jonah proclaimed: 'Forty more days and Nineveh will be overthrown.'"
+    "explanation": "Jonah proclaimed: 'Forty more days and Nineveh will be overthrown.'",
+    "verses": {
+      "kjv": "And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown."
+    }
   },
   {
     "id": "PRO-E-0010",
@@ -187,7 +214,10 @@
       "chapter": 1,
       "verse": "2"
     },
-    "explanation": "The Lord said to Hosea, 'Go, marry a promiscuous woman' to illustrate Israel's unfaithfulness."
+    "explanation": "The Lord said to Hosea, 'Go, marry a promiscuous woman' to illustrate Israel's unfaithfulness.",
+    "verses": {
+      "kjv": "The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom,\ndeparting from the LORD."
+    }
   },
   {
     "id": "PRO-E-0011",
@@ -206,7 +236,10 @@
       "chapter": 17,
       "verse": "1"
     },
-    "explanation": "Elijah said to Ahab, 'As the Lord lives, there will be neither dew nor rain except at my word.'"
+    "explanation": "Elijah said to Ahab, 'As the Lord lives, there will be neither dew nor rain except at my word.'",
+    "verses": {
+      "kjv": "And Elijah the Tishbite,\nwho was of the inhabitants of Gilead, said unto Ahab,\nAs the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word."
+    }
   },
   {
     "id": "PRO-E-0012",
@@ -225,7 +258,10 @@
       "chapter": 1,
       "verse": "1"
     },
-    "explanation": "Malachi is the last book of the Old Testament and the last of the writing prophets."
+    "explanation": "Malachi is the last book of the Old Testament and the last of the writing prophets.",
+    "verses": {
+      "kjv": "The burden of the word of the LORD to Israel by Malachi."
+    }
   },
   {
     "id": "PRO-E-0013",
@@ -244,7 +280,10 @@
       "chapter": 1,
       "verse": "17"
     },
-    "explanation": "Now the Lord provided a huge fish to swallow Jonah, and Jonah was in the belly of the fish three days and three nights."
+    "explanation": "Now the Lord provided a huge fish to swallow Jonah, and Jonah was in the belly of the fish three days and three nights.",
+    "verses": {
+      "kjv": "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights."
+    }
   },
   {
     "id": "PRO-E-0014",
@@ -263,7 +302,10 @@
       "chapter": 6,
       "verse": "3"
     },
-    "explanation": "Isaiah saw the Lord seated on a throne, high and exalted, with seraphim praising His holiness."
+    "explanation": "Isaiah saw the Lord seated on a throne, high and exalted, with seraphim praising His holiness.",
+    "verses": {
+      "kjv": "And one cried unto another, and said, Holy, holy, holy,\nis\n the LORD of hosts: the whole earth\nis full of his glory."
+    }
   },
   {
     "id": "PRO-E-0015",
@@ -282,7 +324,10 @@
       "chapter": 2,
       "verse": "36"
     },
-    "explanation": "Daniel interpreted the king's dream about a statue with different metals representing successive kingdoms."
+    "explanation": "Daniel interpreted the king's dream about a statue with different metals representing successive kingdoms.",
+    "verses": {
+      "kjv": "This\nis the dream; and we will tell the interpretation thereof before the king."
+    }
   },
   {
     "id": "PRO-E-0016",
@@ -301,7 +346,10 @@
       "chapter": 17,
       "verse": "6"
     },
-    "explanation": "God commanded ravens to bring bread and meat to Elijah at the Brook Cherith during the drought."
+    "explanation": "God commanded ravens to bring bread and meat to Elijah at the Brook Cherith during the drought.",
+    "verses": {
+      "kjv": "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook."
+    }
   },
   {
     "id": "PRO-E-0017",
@@ -320,7 +368,10 @@
       "chapter": 17,
       "verse": "6"
     },
-    "explanation": "The ravens brought him bread and meat in the morning and bread and meat in the evening, and he drank from the brook."
+    "explanation": "The ravens brought him bread and meat in the morning and bread and meat in the evening, and he drank from the brook.",
+    "verses": {
+      "kjv": "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook."
+    }
   },
   {
     "id": "PRO-E-0018",
@@ -339,7 +390,10 @@
       "chapter": 6,
       "verse": "16"
     },
-    "explanation": "So the king gave the order, and they brought Daniel and threw him into the lions' den."
+    "explanation": "So the king gave the order, and they brought Daniel and threw him into the lions' den.",
+    "verses": {
+      "kjv": "Then the king commanded, and they brought Daniel, and cast\nhim\n into the den of lions.\nNow the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee."
+    }
   },
   {
     "id": "PRO-E-0019",
@@ -358,7 +412,10 @@
       "chapter": 6,
       "verse": "8"
     },
-    "explanation": "Then I heard the voice of the Lord saying, 'Whom shall I send?' And I said, 'Here am I. Send me!'"
+    "explanation": "Then I heard the voice of the Lord saying, 'Whom shall I send?' And I said, 'Here am I. Send me!'",
+    "verses": {
+      "kjv": "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here\nam I; send me."
+    }
   },
   {
     "id": "PRO-E-0020",
@@ -377,7 +434,10 @@
       "chapter": 7,
       "verse": "14"
     },
-    "explanation": "Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel."
+    "explanation": "Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel.",
+    "verses": {
+      "kjv": "Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel."
+    }
   },
   {
     "id": "PRO-E-0021",
@@ -396,7 +456,10 @@
       "chapter": 7,
       "verse": "14"
     },
-    "explanation": "The virgin will conceive and give birth to a son, and will call him Immanuel (which means 'God with us')."
+    "explanation": "The virgin will conceive and give birth to a son, and will call him Immanuel (which means 'God with us').",
+    "verses": {
+      "kjv": "Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel."
+    }
   },
   {
     "id": "PRO-E-0022",
@@ -415,7 +478,10 @@
       "chapter": 37,
       "verse": "1-2"
     },
-    "explanation": "The hand of the Lord was on me, and he brought me out by the Spirit of the Lord and set me in the middle of a valley; it was full of bones."
+    "explanation": "The hand of the Lord was on me, and he brought me out by the Spirit of the Lord and set me in the middle of a valley; it was full of bones.",
+    "verses": {
+      "kjv": "The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which\nwas full of bones,\nAnd caused me to pass by them round about: and, behold,\nthere were\n very many in the open valley; and, lo,\nthey were very dry."
+    }
   },
   {
     "id": "PRO-E-0026",
@@ -434,7 +500,10 @@
       "chapter": 21,
       "verse": "17-19"
     },
-    "explanation": "Elijah confronted Ahab for murdering Naboth and seizing his vineyard, prophesying judgment against him."
+    "explanation": "Elijah confronted Ahab for murdering Naboth and seizing his vineyard, prophesying judgment against him.",
+    "verses": {
+      "kjv": "And the word of the LORD came to Elijah the Tishbite, saying,\nArise, go down to meet Ahab king of Israel, which\nis in Samaria: behold,\nhe is in the vineyard of Naboth, whither he is gone down to possess it.\nAnd thou shalt speak unto him, saying, Thus saith the LORD, Hast thou killed, and also taken possession? And thou shalt speak unto him, saying, Thus saith the LORD, In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine."
+    }
   },
   {
     "id": "PRO-E-0027",
@@ -453,6 +522,9 @@
       "chapter": 10,
       "verse": "1"
     },
-    "explanation": "Samuel took a flask of oil and poured it on Saul's head and kissed him, saying the Lord has anointed you leader over his inheritance."
+    "explanation": "Samuel took a flask of oil and poured it on Saul's head and kissed him, saying the Lord has anointed you leader over his inheritance.",
+    "verses": {
+      "kjv": "Then Samuel took a vial of oil, and poured\nit upon his head, and kissed him, and said,\nIs it not because the LORD hath anointed thee\nto be captain over his inheritance?"
+    }
   }
 ]

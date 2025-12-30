@@ -16,7 +16,10 @@
       "chapter": 8,
       "verse": "7"
     },
-    "explanation": "Noah first sent out a raven, which kept flying back and forth until the water dried up."
+    "explanation": "Noah first sent out a raven, which kept flying back and forth until the water dried up.",
+    "verses": {
+      "kjv": "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth."
+    }
   },
   {
     "id": "CRE-M-0002",
@@ -35,7 +38,10 @@
       "chapter": 25,
       "verse": "26"
     },
-    "explanation": "Jacob was born with his hand grasping Esau's heel, which is why he was named Jacob (meaning 'he grasps the heel')."
+    "explanation": "Jacob was born with his hand grasping Esau's heel, which is why he was named Jacob (meaning 'he grasps the heel').",
+    "verses": {
+      "kjv": "And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac\nwas threescore years old when she bare them."
+    }
   },
   {
     "id": "CRE-M-0003",
@@ -54,7 +60,10 @@
       "chapter": 2,
       "verse": "9"
     },
-    "explanation": "In the middle of the garden were the tree of life and the tree of the knowledge of good and evil."
+    "explanation": "In the middle of the garden were the tree of life and the tree of the knowledge of good and evil.",
+    "verses": {
+      "kjv": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil."
+    }
   },
   {
     "id": "CRE-M-0004",
@@ -73,7 +82,10 @@
       "chapter": 1,
       "verse": "2"
     },
-    "explanation": "The earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God hovered."
+    "explanation": "The earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God hovered.",
+    "verses": {
+      "kjv": "And the earth was without form, and void; and darkness\nwas\n upon the face of the deep. And the Spirit of God moved upon the face of the waters."
+    }
   },
   {
     "id": "CRE-M-0005",
@@ -92,7 +104,10 @@
       "chapter": 5,
       "verse": "24"
     },
-    "explanation": "Enoch walked faithfully with God; then he was no more, because God took him away."
+    "explanation": "Enoch walked faithfully with God; then he was no more, because God took him away.",
+    "verses": {
+      "kjv": "And Enoch walked with God: and he\nwas not; for God took him."
+    }
   },
   {
     "id": "CRE-M-0006",
@@ -111,7 +126,10 @@
       "chapter": 3,
       "verse": "5"
     },
-    "explanation": "For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil."
+    "explanation": "For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil.",
+    "verses": {
+      "kjv": "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil."
+    }
   },
   {
     "id": "CRE-M-0007",
@@ -130,7 +148,10 @@
       "chapter": 1,
       "verse": "16-19"
     },
-    "explanation": "God made two great lights and the stars, and set them in the vault of the sky on the fourth day."
+    "explanation": "God made two great lights and the stars, and set them in the vault of the sky on the fourth day.",
+    "verses": {
+      "kjv": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night:\nhe made the stars also.\nAnd God set them in the firmament of the heaven to give light upon the earth,\nAnd to rule over the day and over the night, and to divide the light from the darkness: and God saw that\nit was good.\nAnd the evening and the morning were the fourth day."
+    }
   },
   {
     "id": "CRE-M-0008",
@@ -149,7 +170,10 @@
       "chapter": 1,
       "verse": "7"
     },
-    "explanation": "God made the expanse and separated the water under it from the water above it, calling it 'sky.'"
+    "explanation": "God made the expanse and separated the water under it from the water above it, calling it 'sky.'",
+    "verses": {
+      "kjv": "And God made the firmament, and divided the waters which\nwere\n under the firmament from the waters which\nwere above the firmament: and it was so."
+    }
   },
   {
     "id": "CRE-M-0009",
@@ -168,7 +192,10 @@
       "chapter": 2,
       "verse": "15"
     },
-    "explanation": "God placed Adam in the Garden of Eden to work it and take care of it."
+    "explanation": "God placed Adam in the Garden of Eden to work it and take care of it.",
+    "verses": {
+      "kjv": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it."
+    }
   },
   {
     "id": "CRE-M-0010",
@@ -187,7 +214,10 @@
       "chapter": 2,
       "verse": "9"
     },
-    "explanation": "In the middle of the garden were the tree of life and the tree of the knowledge of good and evil."
+    "explanation": "In the middle of the garden were the tree of life and the tree of the knowledge of good and evil.",
+    "verses": {
+      "kjv": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil."
+    }
   },
   {
     "id": "CRE-M-0011",
@@ -206,7 +236,10 @@
       "chapter": 3,
       "verse": "24"
     },
-    "explanation": "God placed cherubim and a flaming sword flashing back and forth to guard the way to the tree of life."
+    "explanation": "God placed cherubim and a flaming sword flashing back and forth to guard the way to the tree of life.",
+    "verses": {
+      "kjv": "So he drove out the man; and he placed at the east of the garden of Eden Cherubim, and a flaming sword which turned every way, to keep the way of the tree of life."
+    }
   },
   {
     "id": "CRE-M-0012",
@@ -225,7 +258,10 @@
       "chapter": 4,
       "verse": "25"
     },
-    "explanation": "Adam made love to his wife again, and she gave birth to a son and named him Seth."
+    "explanation": "Adam made love to his wife again, and she gave birth to a son and named him Seth.",
+    "verses": {
+      "kjv": "And Adam knew his wife again; and she bare a son, and called his name Seth: For God,\nsaid she, hath appointed me another seed instead of Abel, whom Cain slew."
+    }
   },
   {
     "id": "CRE-M-0013",
@@ -244,7 +280,10 @@
       "chapter": 3,
       "verse": "24"
     },
-    "explanation": "He placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life."
+    "explanation": "He placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life.",
+    "verses": {
+      "kjv": "So he drove out the man; and he placed at the east of the garden of Eden Cherubim, and a flaming sword which turned every way, to keep the way of the tree of life."
+    }
   },
   {
     "id": "CRE-M-0014",
@@ -263,7 +302,10 @@
       "chapter": 3,
       "verse": "5"
     },
-    "explanation": "For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil."
+    "explanation": "For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil.",
+    "verses": {
+      "kjv": "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil."
+    }
   },
   {
     "id": "CRE-M-0015",
@@ -282,7 +324,10 @@
       "chapter": 4,
       "verse": "2"
     },
-    "explanation": "Now Abel kept flocks, and Cain worked the soil."
+    "explanation": "Now Abel kept flocks, and Cain worked the soil.",
+    "verses": {
+      "kjv": "And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground."
+    }
   },
   {
     "id": "CRE-M-0016",
@@ -301,7 +346,10 @@
       "chapter": 2,
       "verse": "9"
     },
-    "explanation": "In the middle of the garden were the tree of life and the tree of the knowledge of good and evil."
+    "explanation": "In the middle of the garden were the tree of life and the tree of the knowledge of good and evil.",
+    "verses": {
+      "kjv": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil."
+    }
   },
   {
     "id": "CRE-M-0017",
@@ -320,7 +368,10 @@
       "chapter": 5,
       "verse": "24"
     },
-    "explanation": "Enoch walked faithfully with God; then he was no more, because God took him away."
+    "explanation": "Enoch walked faithfully with God; then he was no more, because God took him away.",
+    "verses": {
+      "kjv": "And Enoch walked with God: and he\nwas not; for God took him."
+    }
   },
   {
     "id": "CRE-M-0018",
@@ -339,7 +390,10 @@
       "chapter": 6,
       "verse": "5"
     },
-    "explanation": "The Lord saw how great the wickedness of the human race had become on the earth, and that every inclination of the thoughts of the human heart was only evil all the time."
+    "explanation": "The Lord saw how great the wickedness of the human race had become on the earth, and that every inclination of the thoughts of the human heart was only evil all the time.",
+    "verses": {
+      "kjv": "And GOD saw that the wickedness of man\nwas great in the earth, and\nthat every imagination of the thoughts of his heart\nwas\n only evil continually."
+    }
   },
   {
     "id": "CRE-M-0019",
@@ -358,7 +412,10 @@
       "chapter": 1,
       "verse": "6-7"
     },
-    "explanation": "And God said, 'Let there be a vault between the waters to separate water from water.' So God made the vault and separated the water under the vault from the water above it."
+    "explanation": "And God said, 'Let there be a vault between the waters to separate water from water.' So God made the vault and separated the water under the vault from the water above it.",
+    "verses": {
+      "kjv": "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.\nAnd God made the firmament, and divided the waters which\nwere\n under the firmament from the waters which\nwere above the firmament: and it was so."
+    }
   },
   {
     "id": "CRE-M-0020",
@@ -377,7 +434,10 @@
       "chapter": 1,
       "verse": "8"
     },
-    "explanation": "God called the vault 'sky.' And there was evening, and there was morning—the second day."
+    "explanation": "God called the vault 'sky.' And there was evening, and there was morning—the second day.",
+    "verses": {
+      "kjv": "And God called the firmament Heaven. And the evening and the morning were the second day."
+    }
   },
   {
     "id": "CRE-M-0021",
@@ -396,7 +456,10 @@
       "chapter": 1,
       "verse": "11-13"
     },
-    "explanation": "Then God said, 'Let the land produce vegetation.' And there was evening, and there was morning—the third day."
+    "explanation": "Then God said, 'Let the land produce vegetation.' And there was evening, and there was morning—the third day.",
+    "verses": {
+      "kjv": "And God said, Let the earth bring forth grass, the herb yielding seed,\nand the fruit tree yielding fruit after his kind, whose seed\nis in itself, upon the earth: and it was so.\nAnd the earth brought forth grass,\nand herb yielding seed after his kind, and the tree yielding fruit, whose seed\nwas in itself, after his kind: and God saw that\nit was good.\nAnd the evening and the morning were the third day."
+    }
   },
   {
     "id": "CRE-M-0025",
@@ -415,7 +478,10 @@
       "chapter": 4,
       "verse": "16"
     },
-    "explanation": "So Cain went out from the Lord's presence and lived in the land of Nod, east of Eden."
+    "explanation": "So Cain went out from the Lord's presence and lived in the land of Nod, east of Eden.",
+    "verses": {
+      "kjv": "And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden."
+    }
   },
   {
     "id": "CRE-M-0026",
@@ -434,7 +500,10 @@
       "chapter": 4,
       "verse": "21"
     },
-    "explanation": "His brother's name was Jubal; he was the father of all who play stringed instruments and pipes."
+    "explanation": "His brother's name was Jubal; he was the father of all who play stringed instruments and pipes.",
+    "verses": {
+      "kjv": "And his brother’s name\nwas Jubal: he was the father of all such as handle the harp and organ."
+    }
   },
   {
     "id": "CRE-M-0027",
@@ -453,6 +522,9 @@
       "chapter": 5,
       "verse": "3"
     },
-    "explanation": "When Adam had lived 130 years, he had a son in his own likeness, in his own image; and he named him Seth."
+    "explanation": "When Adam had lived 130 years, he had a son in his own likeness, in his own image; and he named him Seth.",
+    "verses": {
+      "kjv": "And Adam lived an hundred and thirty years, and begat\na son\n in his own likeness, after his image; and called his name Seth:"
+    }
   }
 ]

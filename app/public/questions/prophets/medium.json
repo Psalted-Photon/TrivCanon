@@ -16,7 +16,10 @@
       "chapter": 5,
       "verse": "2"
     },
-    "explanation": "Micah prophesied that the Messiah would be born in Bethlehem, the city of David."
+    "explanation": "Micah prophesied that the Messiah would be born in Bethlehem, the city of David.",
+    "verses": {
+      "kjv": "But thou, Bethlehem Ephratah,\nthough thou be little among the thousands of Judah,\nyet out of thee shall he come forth unto me\nthat is to be ruler in Israel; whose goings forth\nhave been\n from of old, from everlasting."
+    }
   },
   {
     "id": "PRO-M-0002",
@@ -35,7 +38,10 @@
       "chapter": 37,
       "verse": "1-14"
     },
-    "explanation": "Ezekiel saw a vision of dry bones coming together and being filled with breath, representing Israel's restoration."
+    "explanation": "Ezekiel saw a vision of dry bones coming together and being filled with breath, representing Israel's restoration.",
+    "verses": {
+      "kjv": "The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which\nwas full of bones,\nAnd caused me to pass by them round about: and, behold,\nthere were\n very many in the open valley; and, lo,\nthey were very dry.\nAnd he said unto me, Son of man, can these bones live? And I answered, O Lord GOD, thou knowest.\nAgain he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the LORD.\nThus saith the Lord GOD unto these bones; Behold, I will cause breath to enter into you, and ye shall live:\nAnd I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live; and ye shall know that I\nam the LORD.\nSo I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone.\nAnd when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but\nthere was\nno breath in them.\nThen said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord GOD; Come from the four winds, O breath, and breathe upon these slain, that they may live.\nSo I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.\nThen he said unto me, Son of man, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts.\nTherefore prophesy and say unto them, Thus saith the Lord GOD; Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel.\nAnd ye shall know that I\nam the LORD, when I have opened your graves, O my people, and brought you up out of your graves,\nAnd shall put my spirit in you, and ye shall live, and I shall place you in your own land: then shall ye know that I the LORD have spoken\nit,\n and performed\nit, saith the LORD."
+    }
   },
   {
     "id": "PRO-M-0003",
@@ -54,7 +60,10 @@
       "chapter": 12,
       "verse": "7"
     },
-    "explanation": "Nathan told David a parable about a rich man and a poor man, then declared 'You are the man!'"
+    "explanation": "Nathan told David a parable about a rich man and a poor man, then declared 'You are the man!'",
+    "verses": {
+      "kjv": "And Nathan said to David, Thou\nart the man. Thus saith the LORD God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul;"
+    }
   },
   {
     "id": "PRO-M-0004",
@@ -73,7 +82,10 @@
       "chapter": 53,
       "verse": "5"
     },
-    "explanation": "Isaiah prophesied about the suffering servant who was pierced for our transgressions and crushed for our iniquities."
+    "explanation": "Isaiah prophesied about the suffering servant who was pierced for our transgressions and crushed for our iniquities.",
+    "verses": {
+      "kjv": "But he\nwas wounded for our transgressions,\nhe was\n bruised for our iniquities: the chastisement of our peace\nwas\n upon him; and with his stripes we are healed."
+    }
   },
   {
     "id": "PRO-M-0005",
@@ -92,7 +104,10 @@
       "chapter": 6,
       "verse": "6"
     },
-    "explanation": "When an axe head fell into the water, Elisha threw a stick in and made the iron float."
+    "explanation": "When an axe head fell into the water, Elisha threw a stick in and made the iron float.",
+    "verses": {
+      "kjv": "And the man of God said, Where fell it? And he shewed him the place. And he cut down a stick, and cast\nit in thither; and the iron did swim."
+    }
   },
   {
     "id": "PRO-M-0006",
@@ -111,7 +126,10 @@
       "chapter": 18,
       "verse": "22"
     },
-    "explanation": "Elijah alone faced 450 prophets of Baal in a contest to prove who was the true God."
+    "explanation": "Elijah alone faced 450 prophets of Baal in a contest to prove who was the true God.",
+    "verses": {
+      "kjv": "Then said Elijah unto the people, I,\neven I only, remain a prophet of the LORD; but Baal’s prophets\nare four hundred and fifty men."
+    }
   },
   {
     "id": "PRO-M-0007",
@@ -130,7 +148,10 @@
       "chapter": 3,
       "verse": "1"
     },
-    "explanation": "God commanded Ezekiel to eat a scroll, which tasted as sweet as honey, symbolizing ingesting God's word."
+    "explanation": "God commanded Ezekiel to eat a scroll, which tasted as sweet as honey, symbolizing ingesting God's word.",
+    "verses": {
+      "kjv": "Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel."
+    }
   },
   {
     "id": "PRO-M-0008",
@@ -149,7 +170,10 @@
       "chapter": 38,
       "verse": "6"
     },
-    "explanation": "Officials threw Jeremiah into a cistern where he sank into the mud because of his prophecies."
+    "explanation": "Officials threw Jeremiah into a cistern where he sank into the mud because of his prophecies.",
+    "verses": {
+      "kjv": "Then took they Jeremiah, and cast him into the dungeon of Malchiah the son of Hammelech, that\nwas in the court of the prison: and they let down Jeremiah with cords. And in the dungeon\nthere was no water, but mire: so Jeremiah sunk in the mire."
+    }
   },
   {
     "id": "PRO-M-0009",
@@ -168,7 +192,10 @@
       "chapter": 1,
       "verse": "5"
     },
-    "explanation": "Before I formed you in the womb I knew you, and set you apart as a prophet to the nations."
+    "explanation": "Before I formed you in the womb I knew you, and set you apart as a prophet to the nations.",
+    "verses": {
+      "kjv": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee,\nand I ordained thee a prophet unto the nations."
+    }
   },
   {
     "id": "PRO-M-0010",
@@ -187,7 +214,10 @@
       "chapter": 6,
       "verse": "5"
     },
-    "explanation": "When Isaiah saw the Lord in the temple, he cried out about his unworthiness."
+    "explanation": "When Isaiah saw the Lord in the temple, he cried out about his unworthiness.",
+    "verses": {
+      "kjv": "Then said I, Woe\nis me! for I am undone; because I\nam\n a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the LORD of hosts."
+    }
   },
   {
     "id": "PRO-M-0011",
@@ -206,7 +236,10 @@
       "chapter": 6,
       "verse": "6-7"
     },
-    "explanation": "A seraphim touched Isaiah's mouth with a live coal from the altar to atone for his sin."
+    "explanation": "A seraphim touched Isaiah's mouth with a live coal from the altar to atone for his sin.",
+    "verses": {
+      "kjv": "Then flew one of the seraphims unto me, having a live coal in his hand,\nwhich he had taken with the tongs from off the altar:\nAnd he laid\nit upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged."
+    }
   },
   {
     "id": "PRO-M-0012",
@@ -225,7 +258,10 @@
       "chapter": 1,
       "verse": "16"
     },
-    "explanation": "Ezekiel saw four wheels, and their appearance was like a wheel intersecting a wheel."
+    "explanation": "Ezekiel saw four wheels, and their appearance was like a wheel intersecting a wheel.",
+    "verses": {
+      "kjv": "The appearance of the wheels and their work\nwas like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel."
+    }
   },
   {
     "id": "PRO-M-0013",
@@ -244,7 +280,10 @@
       "chapter": 37,
       "verse": "1"
     },
-    "explanation": "The hand of the Lord was on Ezekiel, and he brought him out by the Spirit to the middle of a valley full of bones."
+    "explanation": "The hand of the Lord was on Ezekiel, and he brought him out by the Spirit to the middle of a valley full of bones.",
+    "verses": {
+      "kjv": "The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which\nwas full of bones,"
+    }
   },
   {
     "id": "PRO-M-0014",
@@ -263,7 +302,10 @@
       "chapter": 7,
       "verse": "14"
     },
-    "explanation": "Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son."
+    "explanation": "Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son.",
+    "verses": {
+      "kjv": "Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel."
+    }
   },
   {
     "id": "PRO-M-0015",
@@ -282,7 +324,10 @@
       "chapter": 37,
       "verse": "10"
     },
-    "explanation": "Ezekiel prophesied to the dry bones and they came to life, representing God's promise to restore Israel."
+    "explanation": "Ezekiel prophesied to the dry bones and they came to life, representing God's promise to restore Israel.",
+    "verses": {
+      "kjv": "So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army."
+    }
   },
   {
     "id": "PRO-M-0016",
@@ -301,7 +346,10 @@
       "chapter": 1,
       "verse": "2"
     },
-    "explanation": "God commanded Hosea to marry Gomer, a prostitute, to illustrate Israel's spiritual adultery."
+    "explanation": "God commanded Hosea to marry Gomer, a prostitute, to illustrate Israel's spiritual adultery.",
+    "verses": {
+      "kjv": "The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom,\ndeparting from the LORD."
+    }
   },
   {
     "id": "PRO-M-0017",
@@ -320,7 +368,10 @@
       "chapter": 38,
       "verse": "6"
     },
-    "explanation": "Jeremiah was thrown into a muddy cistern for prophesying Jerusalem's fall, but was later rescued."
+    "explanation": "Jeremiah was thrown into a muddy cistern for prophesying Jerusalem's fall, but was later rescued.",
+    "verses": {
+      "kjv": "Then took they Jeremiah, and cast him into the dungeon of Malchiah the son of Hammelech, that\nwas in the court of the prison: and they let down Jeremiah with cords. And in the dungeon\nthere was no water, but mire: so Jeremiah sunk in the mire."
+    }
   },
   {
     "id": "PRO-M-0018",
@@ -339,7 +390,10 @@
       "chapter": 3,
       "verse": "3"
     },
-    "explanation": "So I ate the scroll, and it tasted as sweet as honey in my mouth."
+    "explanation": "So I ate the scroll, and it tasted as sweet as honey in my mouth.",
+    "verses": {
+      "kjv": "And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat\nit; and it was in my mouth as honey for sweetness."
+    }
   },
   {
     "id": "PRO-M-0019",
@@ -358,7 +412,10 @@
       "chapter": 6,
       "verse": "17"
     },
-    "explanation": "Elisha prayed, and the Lord opened the servant's eyes, and he saw horses and chariots of fire."
+    "explanation": "Elisha prayed, and the Lord opened the servant's eyes, and he saw horses and chariots of fire.",
+    "verses": {
+      "kjv": "And Elisha prayed, and said, LORD, I pray thee, open his eyes, that he may see. And the LORD opened the eyes of the young man; and he saw: and, behold, the mountain\nwas full of horses and chariots of fire round about Elisha."
+    }
   },
   {
     "id": "PRO-M-0020",
@@ -377,7 +434,10 @@
       "chapter": 2,
       "verse": "14"
     },
-    "explanation": "Elisha struck the water with Elijah's cloak and the water divided, and he crossed over."
+    "explanation": "Elisha struck the water with Elijah's cloak and the water divided, and he crossed over.",
+    "verses": {
+      "kjv": "And he took the mantle of Elijah that fell from him, and smote the waters, and said, Where\nis the LORD God of Elijah? and when he also had smitten the waters, they parted hither and thither: and Elisha went over."
+    }
   },
   {
     "id": "PRO-M-0021",
@@ -396,7 +456,10 @@
       "chapter": 1,
       "verse": "2"
     },
-    "explanation": "The Lord said to Hosea, 'Go, marry a promiscuous woman and have children with her, for like an adulterous wife this land is guilty of unfaithfulness.'"
+    "explanation": "The Lord said to Hosea, 'Go, marry a promiscuous woman and have children with her, for like an adulterous wife this land is guilty of unfaithfulness.'",
+    "verses": {
+      "kjv": "The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom,\ndeparting from the LORD."
+    }
   },
   {
     "id": "PRO-M-0022",
@@ -415,7 +478,10 @@
       "chapter": 21,
       "verse": "20"
     },
-    "explanation": "Ahab said to Elijah, 'So you have found me, my enemy!' 'I have found you,' he answered, 'because you have sold yourself to do evil.'"
+    "explanation": "Ahab said to Elijah, 'So you have found me, my enemy!' 'I have found you,' he answered, 'because you have sold yourself to do evil.'",
+    "verses": {
+      "kjv": "And Ahab said to Elijah, Hast thou found me, O mine enemy? And he answered, I have found\nthee: because thou hast sold thyself to work evil in the sight of the LORD."
+    }
   },
   {
     "id": "PRO-M-0023",
@@ -434,7 +500,10 @@
       "chapter": 7,
       "verse": "3"
     },
-    "explanation": "Four great beasts, each different from the others, came up out of the sea."
+    "explanation": "Four great beasts, each different from the others, came up out of the sea.",
+    "verses": {
+      "kjv": "And four great beasts came up from the sea, diverse one from another."
+    }
   },
   {
     "id": "PRO-M-0024",
@@ -453,7 +522,10 @@
       "chapter": 6,
       "verse": "1"
     },
-    "explanation": "In the year that King Uzziah died, I saw the Lord, high and exalted, seated on a throne."
+    "explanation": "In the year that King Uzziah died, I saw the Lord, high and exalted, seated on a throne.",
+    "verses": {
+      "kjv": "In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple."
+    }
   },
   {
     "id": "PRO-M-0025",
@@ -472,7 +544,10 @@
       "chapter": 2,
       "verse": "9"
     },
-    "explanation": "When they had crossed, Elijah said to Elisha, 'Tell me, what can I do for you before I am taken from you?' 'Let me inherit a double portion of your spirit,' Elisha replied."
+    "explanation": "When they had crossed, Elijah said to Elisha, 'Tell me, what can I do for you before I am taken from you?' 'Let me inherit a double portion of your spirit,' Elisha replied.",
+    "verses": {
+      "kjv": "And it came to pass, when they were gone over, that Elijah said unto Elisha, Ask what I shall do for thee, before I be taken away from thee. And Elisha said, I pray thee, let a double portion of thy spirit be upon me."
+    }
   },
   {
     "id": "PRO-M-0026",
@@ -491,7 +566,10 @@
       "chapter": 5,
       "verse": "2"
     },
-    "explanation": "But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel."
+    "explanation": "But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel.",
+    "verses": {
+      "kjv": "But thou, Bethlehem Ephratah,\nthough thou be little among the thousands of Judah,\nyet out of thee shall he come forth unto me\nthat is to be ruler in Israel; whose goings forth\nhave been\n from of old, from everlasting."
+    }
   },
   {
     "id": "PRO-M-0027",
@@ -510,7 +588,10 @@
       "chapter": 1,
       "verse": "3"
     },
-    "explanation": "So he married Gomer daughter of Diblaim, and she conceived and bore him a son."
+    "explanation": "So he married Gomer daughter of Diblaim, and she conceived and bore him a son.",
+    "verses": {
+      "kjv": "So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son."
+    }
   },
   {
     "id": "PRO-M-0028",
@@ -529,6 +610,9 @@
       "chapter": 1,
       "verse": "2"
     },
-    "explanation": "The Lord said to Hosea, 'Go, marry a promiscuous woman' to illustrate Israel's unfaithfulness to God."
+    "explanation": "The Lord said to Hosea, 'Go, marry a promiscuous woman' to illustrate Israel's unfaithfulness to God.",
+    "verses": {
+      "kjv": "The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom,\ndeparting from the LORD."
+    }
   }
 ]

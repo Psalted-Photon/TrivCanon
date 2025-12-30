@@ -16,7 +16,10 @@
       "chapter": 16,
       "verse": "22"
     },
-    "explanation": "The scapegoat carried the people's sins into the wilderness, symbolizing their removal."
+    "explanation": "The scapegoat carried the people's sins into the wilderness, symbolizing their removal.",
+    "verses": {
+      "kjv": "And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness."
+    }
   },
   {
     "id": "FES-H-0002",
@@ -35,7 +38,10 @@
       "chapter": 25,
       "verse": "4"
     },
-    "explanation": "Every seventh year was a Sabbath for the land, when fields were not to be sown or reaped."
+    "explanation": "Every seventh year was a Sabbath for the land, when fields were not to be sown or reaped.",
+    "verses": {
+      "kjv": "But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the LORD: thou shalt neither sow thy field, nor prune thy vineyard."
+    }
   },
   {
     "id": "FES-H-0003",
@@ -54,7 +60,10 @@
       "chapter": 19,
       "verse": "1"
     },
-    "explanation": "Pentecost, occurring 50 days after Passover, commemorates when God gave the Law at Sinai."
+    "explanation": "Pentecost, occurring 50 days after Passover, commemorates when God gave the Law at Sinai.",
+    "verses": {
+      "kjv": "In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they\ninto the wilderness of Sinai."
+    }
   },
   {
     "id": "FES-H-0004",
@@ -73,7 +82,10 @@
       "chapter": 25,
       "verse": "10"
     },
-    "explanation": "The 50th year was the Year of Jubilee when liberty was proclaimed, slaves freed, and property returned."
+    "explanation": "The 50th year was the Year of Jubilee when liberty was proclaimed, slaves freed, and property returned.",
+    "verses": {
+      "kjv": "And ye shall hallow the fiftieth year, and proclaim liberty throughout\nall the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family."
+    }
   },
   {
     "id": "FES-H-0005",
@@ -92,7 +104,10 @@
       "chapter": 23,
       "verse": "24"
     },
-    "explanation": "The first day of the seventh month was to be a day of sabbath rest, commemorated with trumpet blasts."
+    "explanation": "The first day of the seventh month was to be a day of sabbath rest, commemorated with trumpet blasts.",
+    "verses": {
+      "kjv": "Speak unto the children of Israel, saying, In the seventh month, in the first\nday of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation."
+    }
   },
   {
     "id": "FES-H-0006",
@@ -111,7 +126,10 @@
       "chapter": 3,
       "verse": "2"
     },
-    "explanation": "Selah appears throughout the Psalms and is thought to indicate a pause for reflection or a musical interlude."
+    "explanation": "Selah appears throughout the Psalms and is thought to indicate a pause for reflection or a musical interlude.",
+    "verses": {
+      "kjv": "Many\nthere be which say of my soul,\nThere is no help for him in God. Selah."
+    }
   },
   {
     "id": "FES-H-0007",
@@ -130,7 +148,10 @@
       "chapter": 28,
       "verse": "17-21"
     },
-    "explanation": "Mount four rows of precious stones on the breastplate, representing the twelve tribes of Israel."
+    "explanation": "Mount four rows of precious stones on the breastplate, representing the twelve tribes of Israel.",
+    "verses": {
+      "kjv": "And thou shalt set in it settings of stones,\neven four rows of stones:\nthe first row\nshall be a sardius, a topaz, and a carbuncle:\nthis shall be the first row.\nAnd the second row\nshall be an emerald, a sapphire, and a diamond.\nAnd the third row a ligure, an agate, and an amethyst.\nAnd the fourth row a beryl, and an onyx, and a jasper: they shall be set in gold in their inclosings.\nAnd the stones shall be with the names of the children of Israel, twelve, according to their names,\nlike the engravings of a signet; every one with his name shall they be according to the twelve tribes."
+    }
   },
   {
     "id": "FES-H-0008",
@@ -149,7 +170,10 @@
       "chapter": 25,
       "verse": "10"
     },
-    "explanation": "Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants."
+    "explanation": "Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants.",
+    "verses": {
+      "kjv": "And ye shall hallow the fiftieth year, and proclaim liberty throughout\nall the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family."
+    }
   },
   {
     "id": "FES-H-0009",
@@ -168,7 +192,10 @@
       "chapter": 16,
       "verse": "10"
     },
-    "explanation": "The goat chosen by lot as the scapegoat shall be sent into the wilderness to take away the sins of the people."
+    "explanation": "The goat chosen by lot as the scapegoat shall be sent into the wilderness to take away the sins of the people.",
+    "verses": {
+      "kjv": "But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him,\nand\n to let him go for a scapegoat into the wilderness."
+    }
   },
   {
     "id": "FES-H-0010",
@@ -187,7 +214,10 @@
       "chapter": 15,
       "verse": "38-39"
     },
-    "explanation": "Make tassels on the corners of your garments to help you remember all the commands of the Lord."
+    "explanation": "Make tassels on the corners of your garments to help you remember all the commands of the Lord.",
+    "verses": {
+      "kjv": "Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue:\nAnd it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of the LORD, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring:"
+    }
   },
   {
     "id": "FES-H-0011",
@@ -206,7 +236,10 @@
       "chapter": 23,
       "verse": "34"
     },
-    "explanation": "Say to the Israelites: 'On the fifteenth day of the seventh month the Lord's Festival of Tabernacles begins.'"
+    "explanation": "Say to the Israelites: 'On the fifteenth day of the seventh month the Lord's Festival of Tabernacles begins.'",
+    "verses": {
+      "kjv": "Speak unto the children of Israel, saying, The fifteenth day of this seventh month\nshall be the feast of tabernacles\nfor seven days unto the LORD."
+    }
   },
   {
     "id": "FES-H-0012",
@@ -225,7 +258,10 @@
       "chapter": 23,
       "verse": "15"
     },
-    "explanation": "Count off seven weeks from the day after the Sabbath until the Feast of Weeks."
+    "explanation": "Count off seven weeks from the day after the Sabbath until the Feast of Weeks.",
+    "verses": {
+      "kjv": "And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete:"
+    }
   },
   {
     "id": "FES-H-0013",
@@ -244,7 +280,10 @@
       "chapter": 25,
       "verse": "10"
     },
-    "explanation": "Consecrate the fiftieth year and proclaim liberty throughout the land."
+    "explanation": "Consecrate the fiftieth year and proclaim liberty throughout the land.",
+    "verses": {
+      "kjv": "And ye shall hallow the fiftieth year, and proclaim liberty throughout\nall the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family."
+    }
   },
   {
     "id": "FES-H-0014",
@@ -263,7 +302,10 @@
       "chapter": 6,
       "verse": "9"
     },
-    "explanation": "Write them on the doorframes of your houses and on your gates."
+    "explanation": "Write them on the doorframes of your houses and on your gates.",
+    "verses": {
+      "kjv": "And thou shalt write them upon the posts of thy house, and on thy gates."
+    }
   },
   {
     "id": "FES-H-0015",
@@ -282,7 +324,10 @@
       "chapter": 1,
       "verse": "12"
     },
-    "explanation": "Then the apostles returned to Jerusalem from the Mount of Olives, a Sabbath day's walk from the city."
+    "explanation": "Then the apostles returned to Jerusalem from the Mount of Olives, a Sabbath day's walk from the city.",
+    "verses": {
+      "kjv": "Then returned they unto Jerusalem from the mount called Olivet, which is from Jerusalem a sabbath day’s journey."
+    }
   },
   {
     "id": "FES-H-0016",
@@ -301,7 +346,10 @@
       "chapter": 15,
       "verse": "1-2"
     },
-    "explanation": "At the end of every seven years you must cancel debts."
+    "explanation": "At the end of every seven years you must cancel debts.",
+    "verses": {
+      "kjv": "At the end of\nevery seven years thou shalt make a release.\nAnd this\nis the manner of the release: Every creditor that lendeth\nought unto his neighbour shall release\nit; he shall not exact\nit of his neighbour, or of his brother; because it is called the LORD’S release."
+    }
   },
   {
     "id": "FES-H-0017",
@@ -320,7 +368,10 @@
       "chapter": 15,
       "verse": "38"
     },
-    "explanation": "Speak to the Israelites and say to them: 'Make tassels on the corners of your garments.'"
+    "explanation": "Speak to the Israelites and say to them: 'Make tassels on the corners of your garments.'",
+    "verses": {
+      "kjv": "Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue:"
+    }
   },
   {
     "id": "FES-H-0018",
@@ -339,7 +390,10 @@
       "chapter": 23,
       "verse": "17"
     },
-    "explanation": "Three times a year all the men are to appear before the Sovereign Lord."
+    "explanation": "Three times a year all the men are to appear before the Sovereign Lord.",
+    "verses": {
+      "kjv": "Three times in the year all thy males shall appear before the Lord GOD."
+    }
   },
   {
     "id": "FES-H-0019",
@@ -358,7 +412,10 @@
       "chapter": 12,
       "verse": "2"
     },
-    "explanation": "This month is to be for you the first month, the first month of your year."
+    "explanation": "This month is to be for you the first month, the first month of your year.",
+    "verses": {
+      "kjv": "This month\nshall be unto you the beginning of months: it\nshall be the first month of the year to you."
+    }
   },
   {
     "id": "FES-H-0020",
@@ -377,7 +434,10 @@
       "chapter": 12,
       "verse": "6"
     },
-    "explanation": "Take care of them until the fourteenth day of the month, when all the members of the community of Israel must slaughter them at twilight."
+    "explanation": "Take care of them until the fourteenth day of the month, when all the members of the community of Israel must slaughter them at twilight.",
+    "verses": {
+      "kjv": "And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening."
+    }
   },
   {
     "id": "FES-H-0021",
@@ -396,7 +456,10 @@
       "chapter": 12,
       "verse": "11"
     },
-    "explanation": "This is how you are to eat it: with your cloak tucked into your belt, your sandals on your feet and your staff in your hand. Eat it in haste; it is the Lord's Passover."
+    "explanation": "This is how you are to eat it: with your cloak tucked into your belt, your sandals on your feet and your staff in your hand. Eat it in haste; it is the Lord's Passover.",
+    "verses": {
+      "kjv": "And thus shall ye eat it;\nwith your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it\nis the LORD’S passover."
+    }
   },
   {
     "id": "FES-H-0022",
@@ -415,7 +478,10 @@
       "chapter": 16,
       "verse": "11"
     },
-    "explanation": "Aaron shall bring the bull for his own sin offering to make atonement for himself and his household, and he is to slaughter the bull for his own sin offering."
+    "explanation": "Aaron shall bring the bull for his own sin offering to make atonement for himself and his household, and he is to slaughter the bull for his own sin offering.",
+    "verses": {
+      "kjv": "And Aaron shall bring the bullock of the sin offering, which\nis\n for himself, and shall make an atonement for himself, and for his house, and shall kill the bullock of the sin offering which\nis for himself:"
+    }
   },
   {
     "id": "FES-H-0026",
@@ -434,6 +500,9 @@
       "chapter": 16,
       "verse": "10"
     },
-    "explanation": "But the goat chosen by lot as the scapegoat shall be presented alive before the Lord to be used for making atonement by sending it into the wilderness as a scapegoat to Azazel."
+    "explanation": "But the goat chosen by lot as the scapegoat shall be presented alive before the Lord to be used for making atonement by sending it into the wilderness as a scapegoat to Azazel.",
+    "verses": {
+      "kjv": "But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him,\nand\n to let him go for a scapegoat into the wilderness."
+    }
   }
 ]

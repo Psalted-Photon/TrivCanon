@@ -16,7 +16,10 @@
       "chapter": 6,
       "verse": "16"
     },
-    "explanation": "King Darius was tricked into signing a decree that led to Daniel being thrown to the lions."
+    "explanation": "King Darius was tricked into signing a decree that led to Daniel being thrown to the lions.",
+    "verses": {
+      "kjv": "Then the king commanded, and they brought Daniel, and cast\nhim\n into the den of lions.\nNow the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee."
+    }
   },
   {
     "id": "KNG-M-0002",
@@ -35,7 +38,10 @@
       "chapter": 2,
       "verse": "31"
     },
-    "explanation": "Nebuchadnezzar dreamed of a large statue with a head of gold, which Daniel interpreted."
+    "explanation": "Nebuchadnezzar dreamed of a large statue with a head of gold, which Daniel interpreted.",
+    "verses": {
+      "kjv": "Thou, O king, sawest, and behold a great image. This great image, whose brightness was excellent, stood before thee; and the form thereof\nwas\n terrible."
+    }
   },
   {
     "id": "KNG-M-0003",
@@ -54,7 +60,10 @@
       "chapter": 14,
       "verse": "9-10"
     },
-    "explanation": "Herod Antipas reluctantly ordered John's beheading after his stepdaughter asked for it at her mother's urging."
+    "explanation": "Herod Antipas reluctantly ordered John's beheading after his stepdaughter asked for it at her mother's urging.",
+    "verses": {
+      "kjv": "And the king was sorry: nevertheless for the oath’s sake, and them which sat with him at meat, he commanded\nit to be given\nher.\nAnd he sent, and beheaded John in the prison."
+    }
   },
   {
     "id": "KNG-M-0004",
@@ -73,7 +82,10 @@
       "chapter": 5,
       "verse": "5"
     },
-    "explanation": "During Belshazzar's feast, a hand appeared and wrote on the wall, which Daniel interpreted as a message of judgment."
+    "explanation": "During Belshazzar's feast, a hand appeared and wrote on the wall, which Daniel interpreted as a message of judgment.",
+    "verses": {
+      "kjv": "In the same hour came forth fingers of a man’s hand, and wrote over against the candlestick upon the plaister of the wall of the king’s palace: and the king saw the part of the hand that wrote."
+    }
   },
   {
     "id": "KNG-M-0005",
@@ -92,7 +104,10 @@
       "chapter": 11,
       "verse": "3"
     },
-    "explanation": "Solomon had 700 wives of royal birth and 300 concubines, and they led his heart astray."
+    "explanation": "Solomon had 700 wives of royal birth and 300 concubines, and they led his heart astray.",
+    "verses": {
+      "kjv": "And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart."
+    }
   },
   {
     "id": "KNG-M-0006",
@@ -111,7 +126,10 @@
       "chapter": 22,
       "verse": "8"
     },
-    "explanation": "During Josiah's reign, the Book of the Law was found, leading him to institute major religious reforms."
+    "explanation": "During Josiah's reign, the Book of the Law was found, leading him to institute major religious reforms.",
+    "verses": {
+      "kjv": "And Hilkiah the high priest said unto Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah gave the book to Shaphan, and he read it."
+    }
   },
   {
     "id": "KNG-M-0007",
@@ -130,7 +148,10 @@
       "chapter": 16,
       "verse": "29"
     },
-    "explanation": "Ahab son of Omri reigned over Israel, and Elijah confronted him about worshiping Baal."
+    "explanation": "Ahab son of Omri reigned over Israel, and Elijah confronted him about worshiping Baal.",
+    "verses": {
+      "kjv": "And in the thirty and eighth year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria twenty and two years."
+    }
   },
   {
     "id": "KNG-M-0008",
@@ -149,7 +170,10 @@
       "chapter": 1,
       "verse": "1-2"
     },
-    "explanation": "Cyrus king of Persia issued a decree allowing the Jews to return and rebuild the temple in Jerusalem."
+    "explanation": "Cyrus king of Persia issued a decree allowing the Jews to return and rebuild the temple in Jerusalem.",
+    "verses": {
+      "kjv": "Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and\nput it also in writing, saying,\nThus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which\nis in Judah."
+    }
   },
   {
     "id": "KNG-M-0009",
@@ -168,7 +192,10 @@
       "chapter": 5,
       "verse": "4"
     },
-    "explanation": "David was thirty when he became king, and he reigned forty years total."
+    "explanation": "David was thirty when he became king, and he reigned forty years total.",
+    "verses": {
+      "kjv": "David\nwas thirty years old when he began to reign,\nand\n he reigned forty years."
+    }
   },
   {
     "id": "KNG-M-0010",
@@ -187,7 +214,10 @@
       "chapter": 22,
       "verse": "11"
     },
-    "explanation": "When the king heard the words of the Book of the Law, he tore his robes in repentance."
+    "explanation": "When the king heard the words of the Book of the Law, he tore his robes in repentance.",
+    "verses": {
+      "kjv": "And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes."
+    }
   },
   {
     "id": "KNG-M-0011",
@@ -206,7 +236,10 @@
       "chapter": 4,
       "verse": "34"
     },
-    "explanation": "At the end of seven years, Nebuchadnezzar's sanity was restored and he praised the Most High."
+    "explanation": "At the end of seven years, Nebuchadnezzar's sanity was restored and he praised the Most High.",
+    "verses": {
+      "kjv": "And at the end of the days I Nebuchadnezzar lifted up mine eyes unto heaven, and mine understanding returned unto me, and I blessed the most High, and I praised and honoured him that liveth for ever, whose dominion\nis an everlasting dominion, and his kingdom\nis from generation to generation:"
+    }
   },
   {
     "id": "KNG-M-0012",
@@ -225,7 +258,10 @@
       "chapter": 24,
       "verse": "1"
     },
-    "explanation": "The anger of the Lord burned against Israel, and he incited David to take a census."
+    "explanation": "The anger of the Lord burned against Israel, and he incited David to take a census.",
+    "verses": {
+      "kjv": "And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah."
+    }
   },
   {
     "id": "KNG-M-0013",
@@ -244,7 +280,10 @@
       "chapter": 12,
       "verse": "24"
     },
-    "explanation": "David comforted Bathsheba his wife, and she gave birth to a son, and they named him Solomon."
+    "explanation": "David comforted Bathsheba his wife, and she gave birth to a son, and they named him Solomon.",
+    "verses": {
+      "kjv": "And David comforted Bath-sheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon: and the LORD loved him."
+    }
   },
   {
     "id": "KNG-M-0014",
@@ -263,7 +302,10 @@
       "chapter": 2,
       "verse": "1"
     },
-    "explanation": "After Jesus was born in Bethlehem in Judea, during the time of King Herod."
+    "explanation": "After Jesus was born in Bethlehem in Judea, during the time of King Herod.",
+    "verses": {
+      "kjv": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,"
+    }
   },
   {
     "id": "KNG-M-0015",
@@ -282,7 +324,10 @@
       "chapter": 11,
       "verse": "43"
     },
-    "explanation": "Solomon died and his son Rehoboam succeeded him, but the kingdom divided during Rehoboam's reign."
+    "explanation": "Solomon died and his son Rehoboam succeeded him, but the kingdom divided during Rehoboam's reign.",
+    "verses": {
+      "kjv": "And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead."
+    }
   },
   {
     "id": "KNG-M-0016",
@@ -301,7 +346,10 @@
       "chapter": 2,
       "verse": "1"
     },
-    "explanation": "Nehemiah served as cupbearer to King Artaxerxes and received permission to rebuild Jerusalem's walls."
+    "explanation": "Nehemiah served as cupbearer to King Artaxerxes and received permission to rebuild Jerusalem's walls.",
+    "verses": {
+      "kjv": "And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king,\nthat wine\nwas before him: and I took up the wine, and gave\nit unto the king. Now I had not been\nbeforetime sad in his presence."
+    }
   },
   {
     "id": "KNG-M-0017",
@@ -320,7 +368,10 @@
       "chapter": 28,
       "verse": "7"
     },
-    "explanation": "King Saul disguised himself and consulted a medium at Endor to bring up the spirit of Samuel."
+    "explanation": "King Saul disguised himself and consulted a medium at Endor to bring up the spirit of Samuel.",
+    "verses": {
+      "kjv": "Then said Saul unto his servants, Seek me a woman that hath a familiar spirit, that I may go to her, and enquire of her. And his servants said to him, Behold,\nthere is a woman that hath a familiar spirit at Endor."
+    }
   },
   {
     "id": "KNG-M-0018",
@@ -339,7 +390,10 @@
       "chapter": 4,
       "verse": "33"
     },
-    "explanation": "Nebuchadnezzar was driven away from people and ate grass like the ox until he acknowledged God."
+    "explanation": "Nebuchadnezzar was driven away from people and ate grass like the ox until he acknowledged God.",
+    "verses": {
+      "kjv": "The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hairs were grown like eagles\nfeathers, and his nails like birds’\nclaws."
+    }
   },
   {
     "id": "KNG-M-0019",
@@ -358,7 +412,10 @@
       "chapter": 23,
       "verse": "4-5"
     },
-    "explanation": "King Josiah ordered the high priest to remove articles made for Baal and Asherah from the temple."
+    "explanation": "King Josiah ordered the high priest to remove articles made for Baal and Asherah from the temple.",
+    "verses": {
+      "kjv": "And the king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the door, to bring forth out of the temple of the LORD all the vessels that were made for Baal, and for the grove, and for all the host of heaven: and he burned them without Jerusalem in the fields of Kidron, and carried the ashes of them unto Bethel.\nAnd he put down the idolatrous priests, whom the kings of Judah had ordained to burn incense in the high places in the cities of Judah, and in the places round about Jerusalem; them also that burned incense unto Baal, to the sun, and to the moon, and to the planets, and to all the host of heaven."
+    }
   },
   {
     "id": "KNG-M-0020",
@@ -377,7 +434,10 @@
       "chapter": 5,
       "verse": "5"
     },
-    "explanation": "Suddenly the fingers of a human hand appeared and wrote on the wall during Belshazzar's feast."
+    "explanation": "Suddenly the fingers of a human hand appeared and wrote on the wall during Belshazzar's feast.",
+    "verses": {
+      "kjv": "In the same hour came forth fingers of a man’s hand, and wrote over against the candlestick upon the plaister of the wall of the king’s palace: and the king saw the part of the hand that wrote."
+    }
   },
   {
     "id": "KNG-M-0021",
@@ -396,7 +456,10 @@
       "chapter": 11,
       "verse": "42"
     },
-    "explanation": "Solomon reigned in Jerusalem over all Israel forty years."
+    "explanation": "Solomon reigned in Jerusalem over all Israel forty years.",
+    "verses": {
+      "kjv": "And the time that Solomon reigned in Jerusalem over all Israel\nwas forty years."
+    }
   },
   {
     "id": "KNG-M-0022",
@@ -415,7 +478,10 @@
       "chapter": 9,
       "verse": "2"
     },
-    "explanation": "He had a son named Saul, as handsome a young man as could be found, and he was a head taller than anyone else."
+    "explanation": "He had a son named Saul, as handsome a young man as could be found, and he was a head taller than anyone else.",
+    "verses": {
+      "kjv": "And he had a son, whose name\nwas Saul, a choice young man, and a goodly: and\nthere was not among the children of Israel a goodlier person than he: from his shoulders and upward\nhe was higher than any of the people."
+    }
   },
   {
     "id": "KNG-M-0023",
@@ -434,7 +500,10 @@
       "chapter": 2,
       "verse": "31"
     },
-    "explanation": "Your Majesty looked, and there before you stood a large statue—an enormous, dazzling statue, awesome in appearance."
+    "explanation": "Your Majesty looked, and there before you stood a large statue—an enormous, dazzling statue, awesome in appearance.",
+    "verses": {
+      "kjv": "Thou, O king, sawest, and behold a great image. This great image, whose brightness was excellent, stood before thee; and the form thereof\nwas\n terrible."
+    }
   },
   {
     "id": "KNG-M-0024",
@@ -453,7 +522,10 @@
       "chapter": 28,
       "verse": "7"
     },
-    "explanation": "Saul then said to his attendants, 'Find me a woman who is a medium, so I may go and inquire of her.'"
+    "explanation": "Saul then said to his attendants, 'Find me a woman who is a medium, so I may go and inquire of her.'",
+    "verses": {
+      "kjv": "Then said Saul unto his servants, Seek me a woman that hath a familiar spirit, that I may go to her, and enquire of her. And his servants said to him, Behold,\nthere is a woman that hath a familiar spirit at Endor."
+    }
   },
   {
     "id": "KNG-M-0025",
@@ -472,7 +544,10 @@
       "chapter": 12,
       "verse": "7"
     },
-    "explanation": "Then Nathan said to David, 'You are the man!' This is what the Lord, the God of Israel, says."
+    "explanation": "Then Nathan said to David, 'You are the man!' This is what the Lord, the God of Israel, says.",
+    "verses": {
+      "kjv": "And Nathan said to David, Thou\nart the man. Thus saith the LORD God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul;"
+    }
   },
   {
     "id": "KNG-M-0026",
@@ -491,7 +566,10 @@
       "chapter": 18,
       "verse": "9"
     },
-    "explanation": "Absalom's hair got caught in the tree. He was left hanging in midair, while the mule he was riding kept on going."
+    "explanation": "Absalom's hair got caught in the tree. He was left hanging in midair, while the mule he was riding kept on going.",
+    "verses": {
+      "kjv": "And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that\nwas under him went away."
+    }
   },
   {
     "id": "KNG-M-0027",
@@ -510,7 +588,10 @@
       "chapter": 3,
       "verse": "5"
     },
-    "explanation": "At Gibeon the Lord appeared to Solomon during the night in a dream, and God said, 'Ask for whatever you want me to give you.'"
+    "explanation": "At Gibeon the Lord appeared to Solomon during the night in a dream, and God said, 'Ask for whatever you want me to give you.'",
+    "verses": {
+      "kjv": "In Gibeon the LORD appeared to Solomon in a dream by night: and God said, Ask what I shall give thee."
+    }
   },
   {
     "id": "KNG-M-0027",
@@ -529,6 +610,9 @@
       "chapter": 22,
       "verse": "11"
     },
-    "explanation": "When King Josiah heard the words of the Book of the Law, he tore his robes in repentance."
+    "explanation": "When King Josiah heard the words of the Book of the Law, he tore his robes in repentance.",
+    "verses": {
+      "kjv": "And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes."
+    }
   }
 ]

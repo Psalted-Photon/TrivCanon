@@ -16,7 +16,10 @@
       "chapter": 2,
       "verse": "2"
     },
-    "explanation": "Zerubbabel led the first return of exiles and oversaw the rebuilding of the temple."
+    "explanation": "Zerubbabel led the first return of exiles and oversaw the rebuilding of the temple.",
+    "verses": {
+      "kjv": "Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mizpar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:"
+    }
   },
   {
     "id": "JRN-H-0002",
@@ -35,7 +38,10 @@
       "chapter": 1,
       "verse": "2"
     },
-    "explanation": "It takes eleven days to go from Horeb to Kadesh Barnea by the Mount Seir road."
+    "explanation": "It takes eleven days to go from Horeb to Kadesh Barnea by the Mount Seir road.",
+    "verses": {
+      "kjv": "(There are eleven days’\njourney from Horeb by the way of mount Seir unto Kadesh-barnea.)"
+    }
   },
   {
     "id": "JRN-H-0003",
@@ -54,7 +60,10 @@
       "chapter": 19,
       "verse": "22-23"
     },
-    "explanation": "Lot fled to the town of Zoar as the sun rose over the land."
+    "explanation": "Lot fled to the town of Zoar as the sun rose over the land.",
+    "verses": {
+      "kjv": "Haste thee, escape thither; for I cannot do any thing till thou be come thither. Therefore the name of the city was called Zoar.\nThe sun was risen upon the earth when Lot entered into Zoar."
+    }
   },
   {
     "id": "JRN-H-0004",
@@ -73,7 +82,10 @@
       "chapter": 28,
       "verse": "19"
     },
-    "explanation": "Jacob called that place Bethel, though the city used to be called Luz."
+    "explanation": "Jacob called that place Bethel, though the city used to be called Luz.",
+    "verses": {
+      "kjv": "And he called the name of that place Bethel: but the name of that city\nwas called Luz at the first."
+    }
   },
   {
     "id": "JRN-H-0005",
@@ -92,7 +104,10 @@
       "chapter": 12,
       "verse": "40"
     },
-    "explanation": "The length of time the Israelite people lived in Egypt was 430 years."
+    "explanation": "The length of time the Israelite people lived in Egypt was 430 years.",
+    "verses": {
+      "kjv": "Now the sojourning of the children of Israel, who dwelt in Egypt,\nwas four hundred and thirty years."
+    }
   },
   {
     "id": "JRN-H-0006",
@@ -111,7 +126,10 @@
       "chapter": 6,
       "verse": "15"
     },
-    "explanation": "The wall was completed in fifty-two days, on the twenty-fifth of Elul."
+    "explanation": "The wall was completed in fifty-two days, on the twenty-fifth of Elul.",
+    "verses": {
+      "kjv": "So the wall was finished in the twenty and fifth\nday of\nthe month Elul, in fifty and two days."
+    }
   },
   {
     "id": "JRN-H-0007",
@@ -130,7 +148,10 @@
       "chapter": 28,
       "verse": "1"
     },
-    "explanation": "Once safely on shore, we found out that the island was called Malta."
+    "explanation": "Once safely on shore, we found out that the island was called Malta.",
+    "verses": {
+      "kjv": "And when they were escaped, then they knew that the island was called Melita."
+    }
   },
   {
     "id": "JRN-H-0008",
@@ -149,7 +170,10 @@
       "chapter": 16,
       "verse": "9"
     },
-    "explanation": "During the night Paul had a vision of a man of Macedonia standing and begging him, 'Come over to Macedonia and help us.'"
+    "explanation": "During the night Paul had a vision of a man of Macedonia standing and begging him, 'Come over to Macedonia and help us.'",
+    "verses": {
+      "kjv": "And a vision appeared to Paul in the night; There stood a man of Macedonia, and prayed him, saying, Come over into Macedonia, and help us."
+    }
   },
   {
     "id": "JRN-H-0009",
@@ -168,7 +192,10 @@
       "chapter": 2,
       "verse": "11"
     },
-    "explanation": "I went to Jerusalem, and after staying there three days, I set out during the night with a few others."
+    "explanation": "I went to Jerusalem, and after staying there three days, I set out during the night with a few others.",
+    "verses": {
+      "kjv": "So I came to Jerusalem, and was there three days."
+    }
   },
   {
     "id": "JRN-H-0010",
@@ -187,7 +214,10 @@
       "chapter": 37,
       "verse": "28"
     },
-    "explanation": "His brothers pulled Joseph up out of the cistern and sold him for twenty shekels of silver to the Ishmaelites."
+    "explanation": "His brothers pulled Joseph up out of the cistern and sold him for twenty shekels of silver to the Ishmaelites.",
+    "verses": {
+      "kjv": "Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty\npieces of silver: and they brought Joseph into Egypt."
+    }
   },
   {
     "id": "JRN-H-0011",
@@ -206,7 +236,10 @@
       "chapter": 41,
       "verse": "46"
     },
-    "explanation": "Joseph was thirty years old when he entered the service of Pharaoh king of Egypt."
+    "explanation": "Joseph was thirty years old when he entered the service of Pharaoh king of Egypt.",
+    "verses": {
+      "kjv": "And Joseph\nwas thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt."
+    }
   },
   {
     "id": "JRN-H-0012",
@@ -225,7 +258,10 @@
       "chapter": 42,
       "verse": "24"
     },
-    "explanation": "He turned away from them and began to weep, but then came back and spoke to them again. He had Simeon taken from them and bound before their eyes."
+    "explanation": "He turned away from them and began to weep, but then came back and spoke to them again. He had Simeon taken from them and bound before their eyes.",
+    "verses": {
+      "kjv": "And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes."
+    }
   },
   {
     "id": "JRN-H-0025",
@@ -244,7 +280,10 @@
       "chapter": 1,
       "verse": "1-2"
     },
-    "explanation": "In the first year of Cyrus king of Persia, he issued a decree: The Lord has appointed me to build a temple for him at Jerusalem in Judah."
+    "explanation": "In the first year of Cyrus king of Persia, he issued a decree: The Lord has appointed me to build a temple for him at Jerusalem in Judah.",
+    "verses": {
+      "kjv": "Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and\nput it also in writing, saying,\nThus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which\nis in Judah."
+    }
   },
   {
     "id": "JRN-H-0026",
@@ -263,6 +302,9 @@
       "chapter": 1,
       "verse": "11"
     },
-    "explanation": "I was cupbearer to the king, and God granted him favor in the presence of the king to rebuild Jerusalem's walls."
+    "explanation": "I was cupbearer to the king, and God granted him favor in the presence of the king to rebuild Jerusalem's walls.",
+    "verses": {
+      "kjv": "O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king’s cupbearer."
+    }
   }
 ]

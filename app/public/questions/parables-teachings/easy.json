@@ -16,7 +16,10 @@
       "chapter": 10,
       "verse": "33"
     },
-    "explanation": "The Samaritan showed compassion and cared for the man, unlike the priest and Levite who passed by."
+    "explanation": "The Samaritan showed compassion and cared for the man, unlike the priest and Levite who passed by.",
+    "verses": {
+      "kjv": "But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion\non him,"
+    }
   },
   {
     "id": "PAR-E-0002",
@@ -35,7 +38,10 @@
       "chapter": 15,
       "verse": "12"
     },
-    "explanation": "The younger son asked for his share of the inheritance, which he then squandered in wild living."
+    "explanation": "The younger son asked for his share of the inheritance, which he then squandered in wild living.",
+    "verses": {
+      "kjv": "And the younger of them said to\nhis father, Father, give me the portion of goods that falleth\nto me. And he divided unto them\nhis living."
+    }
   },
   {
     "id": "PAR-E-0003",
@@ -54,7 +60,10 @@
       "chapter": 7,
       "verse": "24"
     },
-    "explanation": "The wise man built his house on the rock, representing those who hear and obey Jesus' words."
+    "explanation": "The wise man built his house on the rock, representing those who hear and obey Jesus' words.",
+    "verses": {
+      "kjv": "Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:"
+    }
   },
   {
     "id": "PAR-E-0004",
@@ -73,7 +82,10 @@
       "chapter": 15,
       "verse": "4"
     },
-    "explanation": "The shepherd left the 99 sheep to search for the one that was lost, showing God's care for each individual."
+    "explanation": "The shepherd left the 99 sheep to search for the one that was lost, showing God's care for each individual.",
+    "verses": {
+      "kjv": "What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?"
+    }
   },
   {
     "id": "PAR-E-0005",
@@ -92,7 +104,10 @@
       "chapter": 25,
       "verse": "18"
     },
-    "explanation": "The servant who received one talent went off, dug a hole, and hid his master's money."
+    "explanation": "The servant who received one talent went off, dug a hole, and hid his master's money.",
+    "verses": {
+      "kjv": "But he that had received one went and digged in the earth, and hid his lord’s money."
+    }
   },
   {
     "id": "PAR-E-0006",
@@ -111,7 +126,10 @@
       "chapter": 12,
       "verse": "18"
     },
-    "explanation": "The rich man decided to tear down his barns and build bigger ones to store all his grain and goods."
+    "explanation": "The rich man decided to tear down his barns and build bigger ones to store all his grain and goods.",
+    "verses": {
+      "kjv": "And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods."
+    }
   },
   {
     "id": "PAR-E-0007",
@@ -130,7 +148,10 @@
       "chapter": 5,
       "verse": "44"
     },
-    "explanation": "Love your enemies and pray for those who persecute you."
+    "explanation": "Love your enemies and pray for those who persecute you.",
+    "verses": {
+      "kjv": "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;"
+    }
   },
   {
     "id": "PAR-E-0008",
@@ -149,7 +170,10 @@
       "chapter": 5,
       "verse": "3"
     },
-    "explanation": "Blessed are the poor in spirit, for theirs is the kingdom of heaven."
+    "explanation": "Blessed are the poor in spirit, for theirs is the kingdom of heaven.",
+    "verses": {
+      "kjv": "Blessed\nare the poor in spirit: for theirs is the kingdom of heaven."
+    }
   },
   {
     "id": "PAR-E-0009",
@@ -168,7 +192,10 @@
       "chapter": 19,
       "verse": "24"
     },
-    "explanation": "It is easier for a camel to go through the eye of a needle than for someone who is rich to enter heaven."
+    "explanation": "It is easier for a camel to go through the eye of a needle than for someone who is rich to enter heaven.",
+    "verses": {
+      "kjv": "And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God."
+    }
   },
   {
     "id": "PAR-E-0010",
@@ -187,7 +214,10 @@
       "chapter": 7,
       "verse": "26-27"
     },
-    "explanation": "Everyone who hears these words and does not put them into practice is like a foolish man who built on sand."
+    "explanation": "Everyone who hears these words and does not put them into practice is like a foolish man who built on sand.",
+    "verses": {
+      "kjv": "And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:\nAnd the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it."
+    }
   },
   {
     "id": "PAR-E-0011",
@@ -206,7 +236,10 @@
       "chapter": 5,
       "verse": "4"
     },
-    "explanation": "Blessed are those who mourn, for they will be comforted."
+    "explanation": "Blessed are those who mourn, for they will be comforted.",
+    "verses": {
+      "kjv": "Blessed\nare they that mourn: for they shall be comforted."
+    }
   },
   {
     "id": "PAR-E-0012",
@@ -225,7 +258,10 @@
       "chapter": 6,
       "verse": "34"
     },
-    "explanation": "Do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
+    "explanation": "Do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
+    "verses": {
+      "kjv": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day\nis the evil thereof."
+    }
   },
   {
     "id": "PAR-E-0013",
@@ -244,7 +280,10 @@
       "chapter": 22,
       "verse": "37-38"
     },
-    "explanation": "Love the Lord your God with all your heart, soul, and mind. This is the first and greatest commandment."
+    "explanation": "Love the Lord your God with all your heart, soul, and mind. This is the first and greatest commandment.",
+    "verses": {
+      "kjv": "Jesus said unto him,\nThou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.\nThis is the first and great commandment."
+    }
   },
   {
     "id": "PAR-E-0014",
@@ -263,7 +302,10 @@
       "chapter": 6,
       "verse": "20"
     },
-    "explanation": "Store up for yourselves treasures in heaven, where moths and rust do not destroy."
+    "explanation": "Store up for yourselves treasures in heaven, where moths and rust do not destroy.",
+    "verses": {
+      "kjv": "But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:"
+    }
   },
   {
     "id": "PAR-E-0015",
@@ -282,7 +324,10 @@
       "chapter": 5,
       "verse": "6"
     },
-    "explanation": "Blessed are those who hunger and thirst for righteousness, for they will be filled."
+    "explanation": "Blessed are those who hunger and thirst for righteousness, for they will be filled.",
+    "verses": {
+      "kjv": "Blessed\nare they which do hunger and thirst after righteousness: for they shall be filled."
+    }
   },
   {
     "id": "PAR-E-0016",
@@ -301,7 +346,10 @@
       "chapter": 7,
       "verse": "1"
     },
-    "explanation": "Do not judge, or you too will be judged. For in the same way you judge others, you will be judged."
+    "explanation": "Do not judge, or you too will be judged. For in the same way you judge others, you will be judged.",
+    "verses": {
+      "kjv": "Judge not, that ye be not judged."
+    }
   },
   {
     "id": "PAR-E-0017",
@@ -320,7 +368,10 @@
       "chapter": 5,
       "verse": "39"
     },
-    "explanation": "If anyone slaps you on the right cheek, turn to them the other cheek also."
+    "explanation": "If anyone slaps you on the right cheek, turn to them the other cheek also.",
+    "verses": {
+      "kjv": "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also."
+    }
   },
   {
     "id": "PAR-E-0018",
@@ -339,7 +390,10 @@
       "chapter": 5,
       "verse": "44"
     },
-    "explanation": "Love your enemies and pray for those who persecute you."
+    "explanation": "Love your enemies and pray for those who persecute you.",
+    "verses": {
+      "kjv": "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;"
+    }
   },
   {
     "id": "PAR-E-0019",
@@ -358,7 +412,10 @@
       "chapter": 19,
       "verse": "24"
     },
-    "explanation": "It is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God."
+    "explanation": "It is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God.",
+    "verses": {
+      "kjv": "And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God."
+    }
   },
   {
     "id": "PAR-E-0020",
@@ -377,7 +434,10 @@
       "chapter": 6,
       "verse": "24"
     },
-    "explanation": "No one can serve two masters. You cannot serve both God and money."
+    "explanation": "No one can serve two masters. You cannot serve both God and money.",
+    "verses": {
+      "kjv": "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
+    }
   },
   {
     "id": "PAR-E-0021",
@@ -396,7 +456,10 @@
       "chapter": 6,
       "verse": "33"
     },
-    "explanation": "But seek first his kingdom and his righteousness, and all these things will be given to you as well."
+    "explanation": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
+    "verses": {
+      "kjv": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you."
+    }
   },
   {
     "id": "PAR-E-0022",
@@ -415,7 +478,10 @@
       "chapter": 15,
       "verse": "12"
     },
-    "explanation": "The younger son said to his father, 'Give me my share of the estate.'"
+    "explanation": "The younger son said to his father, 'Give me my share of the estate.'",
+    "verses": {
+      "kjv": "And the younger of them said to\nhis father, Father, give me the portion of goods that falleth\nto me. And he divided unto them\nhis living."
+    }
   },
   {
     "id": "PAR-E-0023",
@@ -434,7 +500,10 @@
       "chapter": 25,
       "verse": "2"
     },
-    "explanation": "Five of the virgins were wise and five were foolish in preparing for the bridegroom's arrival."
+    "explanation": "Five of the virgins were wise and five were foolish in preparing for the bridegroom's arrival.",
+    "verses": {
+      "kjv": "And five of them were wise, and five\nwere foolish."
+    }
   },
   {
     "id": "PAR-E-0024",
@@ -453,7 +522,10 @@
       "chapter": 5,
       "verse": "7"
     },
-    "explanation": "Blessed are the merciful, for they will be shown mercy."
+    "explanation": "Blessed are the merciful, for they will be shown mercy.",
+    "verses": {
+      "kjv": "Blessed\nare the merciful: for they shall obtain mercy."
+    }
   },
   {
     "id": "PAR-E-0025",
@@ -472,7 +544,10 @@
       "chapter": 6,
       "verse": "21"
     },
-    "explanation": "For where your treasure is, there your heart will be also."
+    "explanation": "For where your treasure is, there your heart will be also.",
+    "verses": {
+      "kjv": "For where your treasure is, there will your heart be also."
+    }
   },
   {
     "id": "PAR-E-0026",
@@ -491,7 +566,10 @@
       "chapter": 5,
       "verse": "8"
     },
-    "explanation": "Blessed are the pure in heart, for they will see God."
+    "explanation": "Blessed are the pure in heart, for they will see God.",
+    "verses": {
+      "kjv": "Blessed\nare the pure in heart: for they shall see God."
+    }
   },
   {
     "id": "PAR-E-0027",
@@ -510,7 +588,10 @@
       "chapter": 7,
       "verse": "17"
     },
-    "explanation": "Every good tree bears good fruit, but a bad tree bears bad fruit."
+    "explanation": "Every good tree bears good fruit, but a bad tree bears bad fruit.",
+    "verses": {
+      "kjv": "Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit."
+    }
   },
   {
     "id": "PAR-E-0028",
@@ -529,7 +610,10 @@
       "chapter": 3,
       "verse": "3"
     },
-    "explanation": "Jesus replied, 'Very truly I tell you, no one can see the kingdom of God unless they are born again.'"
+    "explanation": "Jesus replied, 'Very truly I tell you, no one can see the kingdom of God unless they are born again.'",
+    "verses": {
+      "kjv": "Jesus answered and said unto him,\nVerily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God."
+    }
   },
   {
     "id": "PAR-E-0029",
@@ -548,7 +632,10 @@
       "chapter": 13,
       "verse": "4"
     },
-    "explanation": "As he was scattering the seed, some fell along the path, and the birds came and ate it up."
+    "explanation": "As he was scattering the seed, some fell along the path, and the birds came and ate it up.",
+    "verses": {
+      "kjv": "And when he sowed, some\nseeds fell by the way side, and the fowls came and devoured them up:"
+    }
   },
   {
     "id": "PAR-E-0030",
@@ -567,7 +654,10 @@
       "chapter": 22,
       "verse": "39"
     },
-    "explanation": "And the second is like it: 'Love your neighbor as yourself.'"
+    "explanation": "And the second is like it: 'Love your neighbor as yourself.'",
+    "verses": {
+      "kjv": "And the second\nis like unto it, Thou shalt love thy neighbour as thyself."
+    }
   },
   {
     "id": "PAR-E-0031",
@@ -586,7 +676,10 @@
       "chapter": 15,
       "verse": "15"
     },
-    "explanation": "So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs."
+    "explanation": "So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs.",
+    "verses": {
+      "kjv": "And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine."
+    }
   },
   {
     "id": "PAR-E-0032",
@@ -605,7 +698,10 @@
       "chapter": 18,
       "verse": "13"
     },
-    "explanation": "But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, 'God, have mercy on me, a sinner.'"
+    "explanation": "But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, 'God, have mercy on me, a sinner.'",
+    "verses": {
+      "kjv": "And the publican, standing afar off, would not lift up so much as\nhis eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner."
+    }
   },
   {
     "id": "PAR-E-0033",
@@ -624,7 +720,10 @@
       "chapter": 18,
       "verse": "14"
     },
-    "explanation": "For all those who exalt themselves will be humbled, and those who humble themselves will be exalted."
+    "explanation": "For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.",
+    "verses": {
+      "kjv": "I tell you, this man went down to his house justified\nrather\n than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted."
+    }
   },
   {
     "id": "PAR-E-0034",
@@ -643,7 +742,10 @@
       "chapter": 7,
       "verse": "24"
     },
-    "explanation": "Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock."
+    "explanation": "Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock.",
+    "verses": {
+      "kjv": "Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:"
+    }
   },
   {
     "id": "PAR-E-0035",
@@ -662,7 +764,10 @@
       "chapter": 7,
       "verse": "27"
     },
-    "explanation": "The rain came down, the streams rose, and the winds blew and beat against that house, and it fell with a great crash."
+    "explanation": "The rain came down, the streams rose, and the winds blew and beat against that house, and it fell with a great crash.",
+    "verses": {
+      "kjv": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it."
+    }
   },
   {
     "id": "PAR-E-0036",
@@ -681,7 +786,10 @@
       "chapter": 2,
       "verse": "27"
     },
-    "explanation": "Then he said to them, 'The Sabbath was made for man, not man for the Sabbath.'"
+    "explanation": "Then he said to them, 'The Sabbath was made for man, not man for the Sabbath.'",
+    "verses": {
+      "kjv": "And he said unto them,\nThe sabbath was made for man, and not man for the sabbath:"
+    }
   },
   {
     "id": "PAR-E-0037",
@@ -700,7 +808,10 @@
       "chapter": 22,
       "verse": "21"
     },
-    "explanation": "Then he said to them, 'So give back to Caesar what is Caesar's, and to God what is God's.'"
+    "explanation": "Then he said to them, 'So give back to Caesar what is Caesar's, and to God what is God's.'",
+    "verses": {
+      "kjv": "They say unto him, Caesar’s. Then saith he unto them,\nRender therefore unto Caesar the things which are Caesar’s; and unto God the things that are God’s."
+    }
   },
   {
     "id": "PAR-E-0023",
@@ -719,7 +830,10 @@
       "chapter": 15,
       "verse": "4"
     },
-    "explanation": "Suppose one of you has a hundred sheep and loses one of them. Doesn't he leave the ninety-nine in the open country and go after the lost sheep until he finds it?"
+    "explanation": "Suppose one of you has a hundred sheep and loses one of them. Doesn't he leave the ninety-nine in the open country and go after the lost sheep until he finds it?",
+    "verses": {
+      "kjv": "What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?"
+    }
   },
   {
     "id": "PAR-E-0024",
@@ -738,7 +852,10 @@
       "chapter": 6,
       "verse": "24"
     },
-    "explanation": "No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money."
+    "explanation": "No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.",
+    "verses": {
+      "kjv": "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
+    }
   },
   {
     "id": "PAR-E-0025",
@@ -757,7 +874,10 @@
       "chapter": 22,
       "verse": "37-38"
     },
-    "explanation": "Jesus replied: 'Love the Lord your God with all your heart and with all your soul and with all your mind. This is the first and greatest commandment.'"
+    "explanation": "Jesus replied: 'Love the Lord your God with all your heart and with all your soul and with all your mind. This is the first and greatest commandment.'",
+    "verses": {
+      "kjv": "Jesus said unto him,\nThou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.\nThis is the first and great commandment."
+    }
   },
   {
     "id": "PAR-E-0026",
@@ -776,7 +896,10 @@
       "chapter": 5,
       "verse": "4"
     },
-    "explanation": "Blessed are those who mourn, for they will be comforted."
+    "explanation": "Blessed are those who mourn, for they will be comforted.",
+    "verses": {
+      "kjv": "Blessed\nare they that mourn: for they shall be comforted."
+    }
   },
   {
     "id": "PAR-E-0027",
@@ -795,6 +918,9 @@
       "chapter": 6,
       "verse": "20"
     },
-    "explanation": "But store up for yourselves treasures in heaven, where moths and vermin do not destroy, and where thieves do not break in and steal."
+    "explanation": "But store up for yourselves treasures in heaven, where moths and vermin do not destroy, and where thieves do not break in and steal.",
+    "verses": {
+      "kjv": "But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:"
+    }
   }
 ]

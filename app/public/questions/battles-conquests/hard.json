@@ -16,7 +16,10 @@
       "chapter": 7,
       "verse": "10"
     },
-    "explanation": "The Lord thundered with a mighty sound against the Philistines and threw them into confusion."
+    "explanation": "The Lord thundered with a mighty sound against the Philistines and threw them into confusion.",
+    "verses": {
+      "kjv": "And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the LORD thundered with a great thunder on that day upon the Philistines, and discomfited them; and they were smitten before Israel."
+    }
   },
   {
     "id": "BAT-H-0002",
@@ -35,7 +38,10 @@
       "chapter": 3,
       "verse": "21"
     },
-    "explanation": "Ehud, a left-handed man, assassinated the obese King Eglon with a sword hidden on his right thigh."
+    "explanation": "Ehud, a left-handed man, assassinated the obese King Eglon with a sword hidden on his right thigh.",
+    "verses": {
+      "kjv": "And Ehud put forth his left hand, and took the dagger from his right thigh, and thrust it into his belly:"
+    }
   },
   {
     "id": "BAT-H-0003",
@@ -54,7 +60,10 @@
       "chapter": 20,
       "verse": "5"
     },
-    "explanation": "Lahmi, brother of Goliath, and another unnamed brother are mentioned as giants killed by David's men."
+    "explanation": "Lahmi, brother of Goliath, and another unnamed brother are mentioned as giants killed by David's men.",
+    "verses": {
+      "kjv": "And there was war again with the Philistines; and Elhanan the son of Jair slew Lahmi the brother of Goliath the Gittite, whose spear staff\nwas\n like a weaver’s beam."
+    }
   },
   {
     "id": "BAT-H-0004",
@@ -73,7 +82,10 @@
       "chapter": 7,
       "verse": "25"
     },
-    "explanation": "Joshua said, 'Why have you brought trouble on us?' Then all Israel stoned Achan and his family."
+    "explanation": "Joshua said, 'Why have you brought trouble on us?' Then all Israel stoned Achan and his family.",
+    "verses": {
+      "kjv": "And Joshua said, Why hast thou troubled us? the LORD shall trouble thee this day. And all Israel stoned him with stones, and burned them with fire, after they had stoned them with stones."
+    }
   },
   {
     "id": "BAT-H-0005",
@@ -92,7 +104,10 @@
       "chapter": 3,
       "verse": "31"
     },
-    "explanation": "After Ehud came Shamgar, who struck down six hundred Philistines with an oxgoad."
+    "explanation": "After Ehud came Shamgar, who struck down six hundred Philistines with an oxgoad.",
+    "verses": {
+      "kjv": "And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel."
+    }
   },
   {
     "id": "BAT-H-0006",
@@ -111,7 +126,10 @@
       "chapter": 9,
       "verse": "5"
     },
-    "explanation": "Abimelech killed his seventy brothers on one stone to make himself king."
+    "explanation": "Abimelech killed his seventy brothers on one stone to make himself king.",
+    "verses": {
+      "kjv": "And he went unto his father’s house at Ophrah, and slew his brethren the sons of Jerubbaal,\nbeing threescore and ten persons, upon one stone: notwithstanding yet Jotham the youngest son of Jerubbaal was left; for he hid himself."
+    }
   },
   {
     "id": "BAT-H-0007",
@@ -130,7 +148,10 @@
       "chapter": 14,
       "verse": "14"
     },
-    "explanation": "In that first attack Jonathan and his armor-bearer killed some twenty men."
+    "explanation": "In that first attack Jonathan and his armor-bearer killed some twenty men.",
+    "verses": {
+      "kjv": "And that first slaughter, which Jonathan and his armourbearer made, was about twenty men, within as it were an half acre of land,\nwhich\n a yoke\nof oxen might plow."
+    }
   },
   {
     "id": "BAT-H-0008",
@@ -149,7 +170,10 @@
       "chapter": 11,
       "verse": "17"
     },
-    "explanation": "When the men of the city came out and fought against Joab, some of David's men fell, including Uriah."
+    "explanation": "When the men of the city came out and fought against Joab, some of David's men fell, including Uriah.",
+    "verses": {
+      "kjv": "And the men of the city went out, and fought with Joab: and there fell\nsome of the people of the servants of David; and Uriah the Hittite died also."
+    }
   },
   {
     "id": "BAT-H-0009",
@@ -168,7 +192,10 @@
       "chapter": 14,
       "verse": "50"
     },
-    "explanation": "The name of the commander of Saul's army was Abner son of Ner, Saul's uncle."
+    "explanation": "The name of the commander of Saul's army was Abner son of Ner, Saul's uncle.",
+    "verses": {
+      "kjv": "And the name of Saul’s wife\nwas Ahinoam, the daughter of Ahimaaz: and the name of the captain of his host\nwas Abner, the son of Ner, Saul’s uncle."
+    }
   },
   {
     "id": "BAT-H-0010",
@@ -187,7 +214,10 @@
       "chapter": 14,
       "verse": "13"
     },
-    "explanation": "Jonathan climbed up, using his hands and feet, with his armor-bearer right behind him."
+    "explanation": "Jonathan climbed up, using his hands and feet, with his armor-bearer right behind him.",
+    "verses": {
+      "kjv": "And Jonathan climbed up upon his hands and upon his feet, and his armourbearer after him: and they fell before Jonathan; and his armourbearer slew after him."
+    }
   },
   {
     "id": "BAT-H-0011",
@@ -206,7 +236,10 @@
       "chapter": 3,
       "verse": "16"
     },
-    "explanation": "Ehud had made a double-edged sword about a cubit long, which he strapped to his right thigh."
+    "explanation": "Ehud had made a double-edged sword about a cubit long, which he strapped to his right thigh.",
+    "verses": {
+      "kjv": "But Ehud made him a dagger which had two edges, of a cubit length; and he did gird it under his raiment upon his right thigh."
+    }
   },
   {
     "id": "BAT-H-0012",
@@ -225,7 +258,10 @@
       "chapter": 4,
       "verse": "6"
     },
-    "explanation": "She sent for Barak and said to him, 'The Lord commands you to take ten thousand men and lead them to Mount Tabor.'"
+    "explanation": "She sent for Barak and said to him, 'The Lord commands you to take ten thousand men and lead them to Mount Tabor.'",
+    "verses": {
+      "kjv": "And she sent and called Barak the son of Abinoam out of Kedesh-naphtali, and said unto him, Hath not the LORD God of Israel commanded,\nsaying,\n Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?"
+    }
   },
   {
     "id": "BAT-H-0013",
@@ -244,7 +280,10 @@
       "chapter": 3,
       "verse": "31"
     },
-    "explanation": "Shamgar struck down six hundred Philistines with an oxgoad and saved Israel."
+    "explanation": "Shamgar struck down six hundred Philistines with an oxgoad and saved Israel.",
+    "verses": {
+      "kjv": "And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel."
+    }
   },
   {
     "id": "BAT-H-0014",
@@ -263,7 +302,10 @@
       "chapter": 14,
       "verse": "14"
     },
-    "explanation": "Abram called out the 318 trained men born in his household and went in pursuit."
+    "explanation": "Abram called out the 318 trained men born in his household and went in pursuit.",
+    "verses": {
+      "kjv": "And when Abram heard that his brother was taken captive, he armed his trained\nservants, born in his own house, three hundred and eighteen, and pursued\nthem unto Dan."
+    }
   },
   {
     "id": "BAT-H-0015",
@@ -282,7 +324,10 @@
       "chapter": 4,
       "verse": "3"
     },
-    "explanation": "Sisera had nine hundred chariots fitted with iron and cruelly oppressed the Israelites."
+    "explanation": "Sisera had nine hundred chariots fitted with iron and cruelly oppressed the Israelites.",
+    "verses": {
+      "kjv": "And the children of Israel cried unto the LORD: for he had nine hundred chariots of iron; and twenty years he mightily oppressed the children of Israel."
+    }
   },
   {
     "id": "BAT-H-0016",
@@ -301,7 +346,10 @@
       "chapter": 20,
       "verse": "5"
     },
-    "explanation": "In another battle with the Philistines, Elhanan son of Jair killed Lahmi the brother of Goliath the Gittite."
+    "explanation": "In another battle with the Philistines, Elhanan son of Jair killed Lahmi the brother of Goliath the Gittite.",
+    "verses": {
+      "kjv": "And there was war again with the Philistines; and Elhanan the son of Jair slew Lahmi the brother of Goliath the Gittite, whose spear staff\nwas\n like a weaver’s beam."
+    }
   },
   {
     "id": "BAT-H-0017",
@@ -320,7 +368,10 @@
       "chapter": 20,
       "verse": "29"
     },
-    "explanation": "The Israelites inflicted a hundred thousand casualties on the Aramean foot soldiers in one day."
+    "explanation": "The Israelites inflicted a hundred thousand casualties on the Aramean foot soldiers in one day.",
+    "verses": {
+      "kjv": "And they pitched one over against the other seven days. And so it was, that in the seventh day the battle was joined: and the children of Israel slew of the Syrians an hundred thousand footmen in one day."
+    }
   },
   {
     "id": "BAT-H-0018",
@@ -339,7 +390,10 @@
       "chapter": 3,
       "verse": "21"
     },
-    "explanation": "Ehud reached with his left hand, drew the sword from his right thigh and plunged it into the king's belly."
+    "explanation": "Ehud reached with his left hand, drew the sword from his right thigh and plunged it into the king's belly.",
+    "verses": {
+      "kjv": "And Ehud put forth his left hand, and took the dagger from his right thigh, and thrust it into his belly:"
+    }
   },
   {
     "id": "BAT-H-0019",
@@ -358,7 +412,10 @@
       "chapter": 19,
       "verse": "35"
     },
-    "explanation": "That night the angel of the Lord went out and put to death a hundred and eighty-five thousand in the Assyrian camp."
+    "explanation": "That night the angel of the Lord went out and put to death a hundred and eighty-five thousand in the Assyrian camp.",
+    "verses": {
+      "kjv": "And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they\nwere all dead corpses."
+    }
   },
   {
     "id": "BAT-H-0020",
@@ -377,7 +434,10 @@
       "chapter": 4,
       "verse": "12"
     },
-    "explanation": "When they told Sisera that Barak son of Abinoam had gone up to Mount Tabor."
+    "explanation": "When they told Sisera that Barak son of Abinoam had gone up to Mount Tabor.",
+    "verses": {
+      "kjv": "And they shewed Sisera that Barak the son of Abinoam was gone up to mount Tabor."
+    }
   },
   {
     "id": "BAT-H-0021",
@@ -396,7 +456,10 @@
       "chapter": 5,
       "verse": "20"
     },
-    "explanation": "From the heavens the stars fought, from their courses they fought against Sisera."
+    "explanation": "From the heavens the stars fought, from their courses they fought against Sisera.",
+    "verses": {
+      "kjv": "They fought from heaven; the stars in their courses fought against Sisera."
+    }
   },
   {
     "id": "BAT-H-0022",
@@ -415,7 +478,10 @@
       "chapter": 3,
       "verse": "27"
     },
-    "explanation": "Now when Abner returned to Hebron, Joab took him aside into an inner chamber, as if to speak with him privately. And there, to avenge the blood of his brother Asahel, Joab stabbed him in the stomach, and he died."
+    "explanation": "Now when Abner returned to Hebron, Joab took him aside into an inner chamber, as if to speak with him privately. And there, to avenge the blood of his brother Asahel, Joab stabbed him in the stomach, and he died.",
+    "verses": {
+      "kjv": "And when Abner was returned to Hebron, Joab took him aside in the gate to speak with him quietly, and smote him there under the fifth\nrib,\n that he died, for the blood of Asahel his brother."
+    }
   },
   {
     "id": "BAT-H-0023",
@@ -434,7 +500,10 @@
       "chapter": 7,
       "verse": "20"
     },
-    "explanation": "The three companies blew the trumpets and smashed the jars. They shouted, 'A sword for the Lord and for Gideon!'"
+    "explanation": "The three companies blew the trumpets and smashed the jars. They shouted, 'A sword for the Lord and for Gideon!'",
+    "verses": {
+      "kjv": "And the three companies blew the trumpets, and brake the pitchers, and held the lamps in their left hands, and the trumpets in their right hands to blow\nwithal: and they cried, The sword of the LORD, and of Gideon."
+    }
   },
   {
     "id": "BAT-H-0024",
@@ -453,7 +522,10 @@
       "chapter": 17,
       "verse": "45"
     },
-    "explanation": "David said to the Philistine, 'You come against me with sword and spear and javelin, but I come against you in the name of the Lord Almighty, the God of the armies of Israel.'"
+    "explanation": "David said to the Philistine, 'You come against me with sword and spear and javelin, but I come against you in the name of the Lord Almighty, the God of the armies of Israel.'",
+    "verses": {
+      "kjv": "Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the LORD of hosts, the God of the armies of Israel, whom thou hast defied."
+    }
   },
   {
     "id": "BAT-H-0026",
@@ -472,6 +544,9 @@
       "chapter": 10,
       "verse": "12"
     },
-    "explanation": "Joshua said to the Lord, 'Sun, stand still over Gibeon, and you, moon, over the Valley of Aijalon.'"
+    "explanation": "Joshua said to the Lord, 'Sun, stand still over Gibeon, and you, moon, over the Valley of Aijalon.'",
+    "verses": {
+      "kjv": "Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon."
+    }
   }
 ]

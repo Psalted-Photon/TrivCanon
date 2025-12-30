@@ -16,7 +16,10 @@
       "chapter": 14,
       "verse": "17"
     },
-    "explanation": "A boy brought 5 loaves and 2 fish, which Jesus multiplied to feed over 5,000 people."
+    "explanation": "A boy brought 5 loaves and 2 fish, which Jesus multiplied to feed over 5,000 people.",
+    "verses": {
+      "kjv": "And they say unto him, We have here but five loaves, and two fishes."
+    }
   },
   {
     "id": "MIR-M-0002",
@@ -35,7 +38,10 @@
       "chapter": 9,
       "verse": "6-7"
     },
-    "explanation": "Jesus made mud from saliva and dirt, anointed the blind man's eyes, and told him to wash in the Pool of Siloam."
+    "explanation": "Jesus made mud from saliva and dirt, anointed the blind man's eyes, and told him to wash in the Pool of Siloam.",
+    "verses": {
+      "kjv": "When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,\nAnd said unto him,\nGo, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing."
+    }
   },
   {
     "id": "MIR-M-0003",
@@ -54,7 +60,10 @@
       "chapter": 17,
       "verse": "12-19"
     },
-    "explanation": "Jesus healed ten lepers, but only one, a Samaritan, returned to give thanks."
+    "explanation": "Jesus healed ten lepers, but only one, a Samaritan, returned to give thanks.",
+    "verses": {
+      "kjv": "And as he entered into a certain village, there met him ten men that were lepers, which stood afar off:\nAnd they lifted up\ntheir voices, and said, Jesus, Master, have mercy on us.\nAnd when he saw\nthem, he said unto them,\nGo shew yourselves unto the priests. And it came to pass, that, as they went, they were cleansed.\nAnd one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,\nAnd fell down on\nhis face at his feet, giving him thanks: and he was a Samaritan.\nAnd Jesus answering said,\nWere there not ten cleansed? but where\nare the nine?\nThere are not found that returned to give glory to God, save this stranger.\nAnd he said unto him,\nArise, go thy way: thy faith hath made thee whole."
+    }
   },
   {
     "id": "MIR-M-0004",
@@ -73,7 +82,10 @@
       "chapter": 11,
       "verse": "20"
     },
-    "explanation": "The disciples saw that the fig tree Jesus cursed had withered from the roots up."
+    "explanation": "The disciples saw that the fig tree Jesus cursed had withered from the roots up.",
+    "verses": {
+      "kjv": "And in the morning, as they passed by, they saw the fig tree dried up from the roots."
+    }
   },
   {
     "id": "MIR-M-0005",
@@ -92,7 +104,10 @@
       "chapter": 8,
       "verse": "13"
     },
-    "explanation": "Jesus healed the centurion's servant from a distance, commending the centurion's great faith."
+    "explanation": "Jesus healed the centurion's servant from a distance, commending the centurion's great faith.",
+    "verses": {
+      "kjv": "And Jesus said unto the centurion,\nGo thy way; and as thou hast believed, so be it done unto thee. And his servant was healed in the selfsame hour."
+    }
   },
   {
     "id": "MIR-M-0006",
@@ -111,7 +126,10 @@
       "chapter": 15,
       "verse": "34"
     },
-    "explanation": "Jesus fed 4,000 men plus women and children with seven loaves and a few small fish."
+    "explanation": "Jesus fed 4,000 men plus women and children with seven loaves and a few small fish.",
+    "verses": {
+      "kjv": "And Jesus saith unto them,\nHow many loaves have ye? And they said, Seven, and a few little fishes."
+    }
   },
   {
     "id": "MIR-M-0007",
@@ -130,7 +148,10 @@
       "chapter": 17,
       "verse": "27"
     },
-    "explanation": "Jesus told Peter to catch a fish, and in its mouth he would find a coin to pay the temple tax for both of them."
+    "explanation": "Jesus told Peter to catch a fish, and in its mouth he would find a coin to pay the temple tax for both of them.",
+    "verses": {
+      "kjv": "Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee."
+    }
   },
   {
     "id": "MIR-M-0008",
@@ -149,7 +170,10 @@
       "chapter": 5,
       "verse": "10"
     },
-    "explanation": "Elisha told Naaman to wash seven times in the Jordan River to be cleansed of his leprosy."
+    "explanation": "Elisha told Naaman to wash seven times in the Jordan River to be cleansed of his leprosy.",
+    "verses": {
+      "kjv": "And Elisha sent a messenger unto him, saying, Go and wash in the Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean."
+    }
   },
   {
     "id": "MIR-M-0009",
@@ -168,7 +192,10 @@
       "chapter": 5,
       "verse": "15"
     },
-    "explanation": "People brought the sick into the streets hoping that Peter's shadow might fall on them and heal them."
+    "explanation": "People brought the sick into the streets hoping that Peter's shadow might fall on them and heal them.",
+    "verses": {
+      "kjv": "Insomuch that they brought forth the sick into the streets, and laid\nthem on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them."
+    }
   },
   {
     "id": "MIR-M-0010",
@@ -187,7 +214,10 @@
       "chapter": 17,
       "verse": "8"
     },
-    "explanation": "Aaron's staff had budded, blossomed and produced almonds as a sign of God's choice."
+    "explanation": "Aaron's staff had budded, blossomed and produced almonds as a sign of God's choice.",
+    "verses": {
+      "kjv": "And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds."
+    }
   },
   {
     "id": "MIR-M-0011",
@@ -206,7 +236,10 @@
       "chapter": 4,
       "verse": "5-6"
     },
-    "explanation": "The oil kept flowing until all the jars were full, enough to pay her debts and live on."
+    "explanation": "The oil kept flowing until all the jars were full, enough to pay her debts and live on.",
+    "verses": {
+      "kjv": "So she went from him, and shut the door upon her and upon her sons, who brought\nthe vessels to her; and she poured out.\nAnd it came to pass, when the vessels were full, that she said unto her son, Bring me yet a vessel. And he said unto her,\nThere is not a vessel more. And the oil stayed."
+    }
   },
   {
     "id": "MIR-M-0012",
@@ -225,7 +258,10 @@
       "chapter": 15,
       "verse": "38"
     },
-    "explanation": "The number of those who ate was four thousand men, besides women and children."
+    "explanation": "The number of those who ate was four thousand men, besides women and children.",
+    "verses": {
+      "kjv": "And they that did eat were four thousand men, beside women and children."
+    }
   },
   {
     "id": "MIR-M-0013",
@@ -244,7 +280,10 @@
       "chapter": 28,
       "verse": "5"
     },
-    "explanation": "Paul shook the snake off into the fire and suffered no ill effects, amazing the islanders."
+    "explanation": "Paul shook the snake off into the fire and suffered no ill effects, amazing the islanders.",
+    "verses": {
+      "kjv": "And he shook off the beast into the fire, and felt no harm."
+    }
   },
   {
     "id": "MIR-M-0014",
@@ -263,7 +302,10 @@
       "chapter": 9,
       "verse": "6"
     },
-    "explanation": "He spit on the ground, made some mud with the saliva, and put it on the man's eyes."
+    "explanation": "He spit on the ground, made some mud with the saliva, and put it on the man's eyes.",
+    "verses": {
+      "kjv": "When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,"
+    }
   },
   {
     "id": "MIR-M-0015",
@@ -282,7 +324,10 @@
       "chapter": 5,
       "verse": "17"
     },
-    "explanation": "Elijah prayed earnestly that it would not rain, and it did not rain for three and a half years."
+    "explanation": "Elijah prayed earnestly that it would not rain, and it did not rain for three and a half years.",
+    "verses": {
+      "kjv": "Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months."
+    }
   },
   {
     "id": "MIR-M-0016",
@@ -301,7 +346,10 @@
       "chapter": 4,
       "verse": "39"
     },
-    "explanation": "He got up, rebuked the wind and said to the waves, 'Quiet! Be still!'"
+    "explanation": "He got up, rebuked the wind and said to the waves, 'Quiet! Be still!'",
+    "verses": {
+      "kjv": "And he arose, and rebuked the wind, and said unto the sea,\nPeace, be still. And the wind ceased, and there was a great calm."
+    }
   },
   {
     "id": "MIR-M-0017",
@@ -320,7 +368,10 @@
       "chapter": 2,
       "verse": "10-11"
     },
-    "explanation": "To prove the Son of Man has authority to forgive sins, Jesus told the paralytic to get up and walk."
+    "explanation": "To prove the Son of Man has authority to forgive sins, Jesus told the paralytic to get up and walk.",
+    "verses": {
+      "kjv": "But that ye may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,)\nI say unto thee, Arise, and take up thy bed, and go thy way into thine house."
+    }
   },
   {
     "id": "MIR-M-0018",
@@ -339,7 +390,10 @@
       "chapter": 5,
       "verse": "25"
     },
-    "explanation": "And a woman was there who had been subject to bleeding for twelve years."
+    "explanation": "And a woman was there who had been subject to bleeding for twelve years.",
+    "verses": {
+      "kjv": "And a certain woman, which had an issue of blood twelve years,"
+    }
   },
   {
     "id": "MIR-M-0019",
@@ -358,7 +412,10 @@
       "chapter": 5,
       "verse": "14"
     },
-    "explanation": "Naaman, a Syrian commander, was healed of leprosy when he obeyed Elisha's instruction to wash in the Jordan River seven times."
+    "explanation": "Naaman, a Syrian commander, was healed of leprosy when he obeyed Elisha's instruction to wash in the Jordan River seven times.",
+    "verses": {
+      "kjv": "Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean."
+    }
   },
   {
     "id": "MIR-M-0020",
@@ -377,7 +434,10 @@
       "chapter": 2,
       "verse": "5"
     },
-    "explanation": "Jesus first told the paralytic that his sins were forgiven, demonstrating his authority to forgive sins before healing him."
+    "explanation": "Jesus first told the paralytic that his sins were forgiven, demonstrating his authority to forgive sins before healing him.",
+    "verses": {
+      "kjv": "When Jesus saw their faith, he said unto the sick of the palsy,\nSon, thy sins be forgiven thee."
+    }
   },
   {
     "id": "MIR-M-0021",
@@ -396,7 +456,10 @@
       "chapter": 9,
       "verse": "7"
     },
-    "explanation": "Jesus put mud on the blind man's eyes and told him to wash in the Pool of Siloam, and he came back seeing."
+    "explanation": "Jesus put mud on the blind man's eyes and told him to wash in the Pool of Siloam, and he came back seeing.",
+    "verses": {
+      "kjv": "And said unto him,\nGo, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing."
+    }
   },
   {
     "id": "MIR-M-0022",
@@ -415,7 +478,10 @@
       "chapter": 14,
       "verse": "20"
     },
-    "explanation": "The disciples picked up twelve basketfuls of broken pieces that were left over."
+    "explanation": "The disciples picked up twelve basketfuls of broken pieces that were left over.",
+    "verses": {
+      "kjv": "And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full."
+    }
   },
   {
     "id": "MIR-M-0023",
@@ -434,7 +500,10 @@
       "chapter": 10,
       "verse": "1"
     },
-    "explanation": "Jesus gave His twelve disciples authority to drive out impure spirits and to heal every disease."
+    "explanation": "Jesus gave His twelve disciples authority to drive out impure spirits and to heal every disease.",
+    "verses": {
+      "kjv": "And when he had called unto\nhim his twelve disciples, he gave them power\nagainst unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease."
+    }
   },
   {
     "id": "MIR-M-0024",
@@ -453,7 +522,10 @@
       "chapter": 20,
       "verse": "22"
     },
-    "explanation": "Jesus breathed on them and said, 'Receive the Holy Spirit.'"
+    "explanation": "Jesus breathed on them and said, 'Receive the Holy Spirit.'",
+    "verses": {
+      "kjv": "And when he had said this, he breathed on\nthem, and saith unto them,\nReceive ye the Holy Ghost:"
+    }
   },
   {
     "id": "MIR-M-0025",
@@ -472,7 +544,10 @@
       "chapter": 6,
       "verse": "7"
     },
-    "explanation": "The Lord's anger burned against Uzzah, and God struck him down because he had put his hand on the ark."
+    "explanation": "The Lord's anger burned against Uzzah, and God struck him down because he had put his hand on the ark.",
+    "verses": {
+      "kjv": "And the anger of the LORD was kindled against Uzzah; and God smote him there for\nhis error; and there he died by the ark of God."
+    }
   },
   {
     "id": "MIR-M-0026",
@@ -491,7 +566,10 @@
       "chapter": 14,
       "verse": "19"
     },
-    "explanation": "Taking the five loaves and the two fish and looking up to heaven, he gave thanks and broke the loaves."
+    "explanation": "Taking the five loaves and the two fish and looking up to heaven, he gave thanks and broke the loaves.",
+    "verses": {
+      "kjv": "And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to\nhis disciples, and the disciples to the multitude."
+    }
   },
   {
     "id": "MIR-M-0027",
@@ -510,7 +588,10 @@
       "chapter": 8,
       "verse": "13"
     },
-    "explanation": "Jesus said to the centurion, 'Go! Let it be done just as you believed it would.' And his servant was healed at that moment."
+    "explanation": "Jesus said to the centurion, 'Go! Let it be done just as you believed it would.' And his servant was healed at that moment.",
+    "verses": {
+      "kjv": "And Jesus said unto the centurion,\nGo thy way; and as thou hast believed, so be it done unto thee. And his servant was healed in the selfsame hour."
+    }
   },
   {
     "id": "MIR-M-0028",
@@ -529,7 +610,10 @@
       "chapter": 11,
       "verse": "17"
     },
-    "explanation": "On his arrival, Jesus found that Lazarus had already been in the tomb for four days."
+    "explanation": "On his arrival, Jesus found that Lazarus had already been in the tomb for four days.",
+    "verses": {
+      "kjv": "Then when Jesus came, he found that he had\nlain in the grave four days already."
+    }
   },
   {
     "id": "MIR-M-0029",
@@ -548,7 +632,10 @@
       "chapter": 11,
       "verse": "20"
     },
-    "explanation": "In the morning, as they went along, they saw the fig tree withered from the roots."
+    "explanation": "In the morning, as they went along, they saw the fig tree withered from the roots.",
+    "verses": {
+      "kjv": "And in the morning, as they passed by, they saw the fig tree dried up from the roots."
+    }
   },
   {
     "id": "MIR-M-0030",
@@ -567,7 +654,10 @@
       "chapter": 5,
       "verse": "25"
     },
-    "explanation": "And a woman was there who had been subject to bleeding for twelve years."
+    "explanation": "And a woman was there who had been subject to bleeding for twelve years.",
+    "verses": {
+      "kjv": "And a certain woman, which had an issue of blood twelve years,"
+    }
   },
   {
     "id": "MIR-M-0031",
@@ -586,7 +676,10 @@
       "chapter": 17,
       "verse": "27"
     },
-    "explanation": "Take the first fish you catch; open its mouth and you will find a four-drachma coin."
+    "explanation": "Take the first fish you catch; open its mouth and you will find a four-drachma coin.",
+    "verses": {
+      "kjv": "Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee."
+    }
   },
   {
     "id": "MIR-M-0032",
@@ -605,7 +698,10 @@
       "chapter": 7,
       "verse": "12"
     },
-    "explanation": "Each one threw down his staff and it became a snake. But Aaron's staff swallowed up their staffs."
+    "explanation": "Each one threw down his staff and it became a snake. But Aaron's staff swallowed up their staffs.",
+    "verses": {
+      "kjv": "For they cast down every man his rod, and they became serpents: but Aaron’s rod swallowed up their rods."
+    }
   },
   {
     "id": "MIR-M-0033",
@@ -624,7 +720,10 @@
       "chapter": 17,
       "verse": "12"
     },
-    "explanation": "'I don't have any bread—only a handful of flour in a jar and a little olive oil in a jug.'"
+    "explanation": "'I don't have any bread—only a handful of flour in a jar and a little olive oil in a jug.'",
+    "verses": {
+      "kjv": "And she said,\nAs the LORD thy God liveth, I have not a cake, but an handful of meal in a barrel, and a little oil in a cruse: and, behold, I\nam gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die."
+    }
   },
   {
     "id": "MIR-M-0034",
@@ -643,7 +742,10 @@
       "chapter": 4,
       "verse": "41"
     },
-    "explanation": "They were terrified and asked each other, 'Who is this? Even the wind and the waves obey him!'"
+    "explanation": "They were terrified and asked each other, 'Who is this? Even the wind and the waves obey him!'",
+    "verses": {
+      "kjv": "And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?"
+    }
   },
   {
     "id": "MIR-M-0035",
@@ -662,6 +764,9 @@
       "chapter": 2,
       "verse": "5"
     },
-    "explanation": "When Jesus saw their faith, he said to the paralyzed man, 'Son, your sins are forgiven.'"
+    "explanation": "When Jesus saw their faith, he said to the paralyzed man, 'Son, your sins are forgiven.'",
+    "verses": {
+      "kjv": "When Jesus saw their faith, he said unto the sick of the palsy,\nSon, thy sins be forgiven thee."
+    }
   }
 ]

@@ -16,7 +16,10 @@
       "chapter": 13,
       "verse": "5-6"
     },
-    "explanation": "The seed on rocky ground sprouted quickly but had no root, so it withered when the sun came up."
+    "explanation": "The seed on rocky ground sprouted quickly but had no root, so it withered when the sun came up.",
+    "verses": {
+      "kjv": "Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth:\nAnd when the sun was up, they were scorched; and because they had no root, they withered away."
+    }
   },
   {
     "id": "PAR-M-0002",
@@ -35,7 +38,10 @@
       "chapter": 25,
       "verse": "15"
     },
-    "explanation": "The master gave five talents to the first servant, two to the second, and one to the third."
+    "explanation": "The master gave five talents to the first servant, two to the second, and one to the third.",
+    "verses": {
+      "kjv": "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey."
+    }
   },
   {
     "id": "PAR-M-0003",
@@ -54,7 +60,10 @@
       "chapter": 25,
       "verse": "3"
     },
-    "explanation": "The foolish virgins took their lamps but didn't bring extra oil, so they weren't prepared when the bridegroom arrived."
+    "explanation": "The foolish virgins took their lamps but didn't bring extra oil, so they weren't prepared when the bridegroom arrived.",
+    "verses": {
+      "kjv": "They that\nwere foolish took their lamps, and took no oil with them:"
+    }
   },
   {
     "id": "PAR-M-0004",
@@ -73,7 +82,10 @@
       "chapter": 15,
       "verse": "22"
     },
-    "explanation": "The father gave his returning son the best robe, a ring for his finger, and sandals for his feet."
+    "explanation": "The father gave his returning son the best robe, a ring for his finger, and sandals for his feet.",
+    "verses": {
+      "kjv": "But the father said to his servants, Bring forth the best robe, and put\nit on him; and put a ring on his hand, and shoes on\nhis feet:"
+    }
   },
   {
     "id": "PAR-M-0005",
@@ -92,7 +104,10 @@
       "chapter": 18,
       "verse": "10"
     },
-    "explanation": "Both went to pray, but the humble tax collector's prayer was heard while the proud Pharisee's was not."
+    "explanation": "Both went to pray, but the humble tax collector's prayer was heard while the proud Pharisee's was not.",
+    "verses": {
+      "kjv": "Two men went up into the temple to pray; the one a Pharisee, and the other a publican."
+    }
   },
   {
     "id": "PAR-M-0006",
@@ -111,7 +126,10 @@
       "chapter": 13,
       "verse": "31"
     },
-    "explanation": "Jesus compared the kingdom of heaven to a mustard seed, the smallest seed that grows into a large tree."
+    "explanation": "Jesus compared the kingdom of heaven to a mustard seed, the smallest seed that grows into a large tree.",
+    "verses": {
+      "kjv": "Another parable put he forth unto them, saying,\nThe kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:"
+    }
   },
   {
     "id": "PAR-M-0007",
@@ -130,7 +148,10 @@
       "chapter": 22,
       "verse": "11-13"
     },
-    "explanation": "The king found a man without wedding clothes and had him thrown into outer darkness."
+    "explanation": "The king found a man without wedding clothes and had him thrown into outer darkness.",
+    "verses": {
+      "kjv": "And when the king came in to see the guests, he saw there a man which had not on a wedding garment:\nAnd he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless.\nThen said the king to the servants, Bind him hand and foot, and take him away, and cast\nhim into outer darkness; there shall be weeping and gnashing of teeth."
+    }
   },
   {
     "id": "PAR-M-0008",
@@ -149,7 +170,10 @@
       "chapter": 25,
       "verse": "35-40"
     },
-    "explanation": "The sheep helped those in need (hungry, thirsty, stranger, naked, sick, imprisoned), while the goats did not."
+    "explanation": "The sheep helped those in need (hungry, thirsty, stranger, naked, sick, imprisoned), while the goats did not.",
+    "verses": {
+      "kjv": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:\nNaked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.\nThen shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed\nthee? or thirsty, and gave\nthee\n drink?\nWhen saw we thee a stranger, and took\nthee in? or naked, and clothed\nthee?\nOr when saw we thee sick, or in prison, and came unto thee?\nAnd the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done\nit unto one of the least of these my brethren, ye have done\nit unto me."
+    }
   },
   {
     "id": "PAR-M-0009",
@@ -168,7 +192,10 @@
       "chapter": 20,
       "verse": "6"
     },
-    "explanation": "The landowner went out at the eleventh hour and found still others standing around doing nothing."
+    "explanation": "The landowner went out at the eleventh hour and found still others standing around doing nothing.",
+    "verses": {
+      "kjv": "And about the eleventh hour he went out, and found others standing idle, and saith unto them, Why stand ye here all the day idle?"
+    }
   },
   {
     "id": "PAR-M-0010",
@@ -187,7 +214,10 @@
       "chapter": 18,
       "verse": "11"
     },
-    "explanation": "The Pharisee stood by himself and prayed, 'God, I thank you that I am not like other people.'"
+    "explanation": "The Pharisee stood by himself and prayed, 'God, I thank you that I am not like other people.'",
+    "verses": {
+      "kjv": "The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men\nare, extortioners, unjust, adulterers, or even as this publican."
+    }
   },
   {
     "id": "PAR-M-0011",
@@ -206,7 +236,10 @@
       "chapter": 15,
       "verse": "11"
     },
-    "explanation": "What goes into someone's mouth does not defile them, but what comes out of their mouth defiles them."
+    "explanation": "What goes into someone's mouth does not defile them, but what comes out of their mouth defiles them.",
+    "verses": {
+      "kjv": "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man."
+    }
   },
   {
     "id": "PAR-M-0012",
@@ -225,7 +258,10 @@
       "chapter": 10,
       "verse": "31"
     },
-    "explanation": "A priest happened to be going down the same road, and when he saw the man, he passed by on the other side."
+    "explanation": "A priest happened to be going down the same road, and when he saw the man, he passed by on the other side.",
+    "verses": {
+      "kjv": "And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side."
+    }
   },
   {
     "id": "PAR-M-0013",
@@ -244,7 +280,10 @@
       "chapter": 13,
       "verse": "6"
     },
-    "explanation": "But when the sun came up, the plants were scorched, and they withered because they had no root."
+    "explanation": "But when the sun came up, the plants were scorched, and they withered because they had no root.",
+    "verses": {
+      "kjv": "And when the sun was up, they were scorched; and because they had no root, they withered away."
+    }
   },
   {
     "id": "PAR-M-0014",
@@ -263,7 +302,10 @@
       "chapter": 25,
       "verse": "15"
     },
-    "explanation": "To one he gave five talents, to another two talents, and to another one talent."
+    "explanation": "To one he gave five talents, to another two talents, and to another one talent.",
+    "verses": {
+      "kjv": "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey."
+    }
   },
   {
     "id": "PAR-M-0015",
@@ -282,7 +324,10 @@
       "chapter": 5,
       "verse": "5"
     },
-    "explanation": "Blessed are the meek, for they will inherit the earth."
+    "explanation": "Blessed are the meek, for they will inherit the earth.",
+    "verses": {
+      "kjv": "Blessed\nare the meek: for they shall inherit the earth."
+    }
   },
   {
     "id": "PAR-M-0016",
@@ -301,7 +346,10 @@
       "chapter": 5,
       "verse": "10"
     },
-    "explanation": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven."
+    "explanation": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
+    "verses": {
+      "kjv": "Blessed\nare they which are persecuted for righteousness sake: for theirs is the kingdom of heaven."
+    }
   },
   {
     "id": "PAR-M-0017",
@@ -320,7 +368,10 @@
       "chapter": 10,
       "verse": "16"
     },
-    "explanation": "I am sending you out like sheep among wolves. Therefore be as shrewd as snakes and as innocent as doves."
+    "explanation": "I am sending you out like sheep among wolves. Therefore be as shrewd as snakes and as innocent as doves.",
+    "verses": {
+      "kjv": "Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves."
+    }
   },
   {
     "id": "PAR-M-0018",
@@ -339,7 +390,10 @@
       "chapter": 18,
       "verse": "3"
     },
-    "explanation": "And there was a widow in that town who kept coming to him with the plea, 'Grant me justice against my adversary.'"
+    "explanation": "And there was a widow in that town who kept coming to him with the plea, 'Grant me justice against my adversary.'",
+    "verses": {
+      "kjv": "And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary."
+    }
   },
   {
     "id": "PAR-M-0019",
@@ -358,7 +412,10 @@
       "chapter": 20,
       "verse": "6"
     },
-    "explanation": "About five in the afternoon he went out and found still others standing around."
+    "explanation": "About five in the afternoon he went out and found still others standing around.",
+    "verses": {
+      "kjv": "And about the eleventh hour he went out, and found others standing idle, and saith unto them, Why stand ye here all the day idle?"
+    }
   },
   {
     "id": "PAR-M-0020",
@@ -377,7 +434,10 @@
       "chapter": 6,
       "verse": "6"
     },
-    "explanation": "But when you pray, go into your room, close the door and pray to your Father, who is unseen."
+    "explanation": "But when you pray, go into your room, close the door and pray to your Father, who is unseen.",
+    "verses": {
+      "kjv": "But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly."
+    }
   },
   {
     "id": "PAR-M-0021",
@@ -396,7 +456,10 @@
       "chapter": 17,
       "verse": "20"
     },
-    "explanation": "If you have faith as small as a mustard seed, you can say to this mountain, 'Move from here to there,' and it will move."
+    "explanation": "If you have faith as small as a mustard seed, you can say to this mountain, 'Move from here to there,' and it will move.",
+    "verses": {
+      "kjv": "And Jesus said unto them,\nBecause of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you."
+    }
   },
   {
     "id": "PAR-M-0022",
@@ -415,7 +478,10 @@
       "chapter": 15,
       "verse": "22"
     },
-    "explanation": "But the father said to his servants, 'Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet.'"
+    "explanation": "But the father said to his servants, 'Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet.'",
+    "verses": {
+      "kjv": "But the father said to his servants, Bring forth the best robe, and put\nit on him; and put a ring on his hand, and shoes on\nhis feet:"
+    }
   },
   {
     "id": "PAR-M-0023",
@@ -434,7 +500,10 @@
       "chapter": 16,
       "verse": "22"
     },
-    "explanation": "The time came when the beggar died and the angels carried him to Abraham's side."
+    "explanation": "The time came when the beggar died and the angels carried him to Abraham's side.",
+    "verses": {
+      "kjv": "And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried;"
+    }
   },
   {
     "id": "PAR-M-0024",
@@ -453,7 +522,10 @@
       "chapter": 22,
       "verse": "5"
     },
-    "explanation": "But they paid no attention and went off—one to his field, another to his business."
+    "explanation": "But they paid no attention and went off—one to his field, another to his business.",
+    "verses": {
+      "kjv": "But they made light of\nit, and went their ways, one to his farm, another to his merchandise:"
+    }
   },
   {
     "id": "PAR-M-0025",
@@ -472,7 +544,10 @@
       "chapter": 22,
       "verse": "9"
     },
-    "explanation": "So go to the street corners and invite to the banquet anyone you find."
+    "explanation": "So go to the street corners and invite to the banquet anyone you find.",
+    "verses": {
+      "kjv": "Go ye therefore into the highways, and as many as ye shall find, bid to the marriage."
+    }
   },
   {
     "id": "PAR-M-0023",
@@ -491,7 +566,10 @@
       "chapter": 25,
       "verse": "2"
     },
-    "explanation": "Five of them were foolish and five were wise."
+    "explanation": "Five of them were foolish and five were wise.",
+    "verses": {
+      "kjv": "And five of them were wise, and five\nwere foolish."
+    }
   },
   {
     "id": "PAR-M-0024",
@@ -510,7 +588,10 @@
       "chapter": 25,
       "verse": "15"
     },
-    "explanation": "To one he gave five bags of gold, to another two bags, and to another one bag, each according to his ability."
+    "explanation": "To one he gave five bags of gold, to another two bags, and to another one bag, each according to his ability.",
+    "verses": {
+      "kjv": "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey."
+    }
   },
   {
     "id": "PAR-M-0025",
@@ -529,7 +610,10 @@
       "chapter": 13,
       "verse": "31"
     },
-    "explanation": "The kingdom of heaven is like a mustard seed, which a man took and planted in his field. Though it is the smallest of all seeds, yet when it grows, it is the largest of garden plants."
+    "explanation": "The kingdom of heaven is like a mustard seed, which a man took and planted in his field. Though it is the smallest of all seeds, yet when it grows, it is the largest of garden plants.",
+    "verses": {
+      "kjv": "Another parable put he forth unto them, saying,\nThe kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:"
+    }
   },
   {
     "id": "PAR-M-0026",
@@ -548,7 +632,10 @@
       "chapter": 22,
       "verse": "13"
     },
-    "explanation": "Then the king told the attendants, 'Tie him hand and foot, and throw him outside, into the darkness, where there will be weeping and gnashing of teeth.'"
+    "explanation": "Then the king told the attendants, 'Tie him hand and foot, and throw him outside, into the darkness, where there will be weeping and gnashing of teeth.'",
+    "verses": {
+      "kjv": "Then said the king to the servants, Bind him hand and foot, and take him away, and cast\nhim into outer darkness; there shall be weeping and gnashing of teeth."
+    }
   },
   {
     "id": "PAR-M-0027",
@@ -567,6 +654,9 @@
       "chapter": 14,
       "verse": "11"
     },
-    "explanation": "For all those who exalt themselves will be humbled, and those who humble themselves will be exalted."
+    "explanation": "For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.",
+    "verses": {
+      "kjv": "For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted."
+    }
   }
 ]

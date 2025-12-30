@@ -16,7 +16,10 @@
       "chapter": 9,
       "verse": "40"
     },
-    "explanation": "Peter raised Tabitha (also called Dorcas) from the dead in Joppa, and many believed because of this miracle."
+    "explanation": "Peter raised Tabitha (also called Dorcas) from the dead in Joppa, and many believed because of this miracle.",
+    "verses": {
+      "kjv": "But Peter put them all forth, and kneeled down, and prayed; and turning\nhim to the body said, Tabitha, arise. And she opened her eyes: and when she saw Peter, she sat up."
+    }
   },
   {
     "id": "WOF-H-0002",
@@ -35,7 +38,10 @@
       "chapter": 12,
       "verse": "12"
     },
-    "explanation": "Peter went to the house of Mary, the mother of John Mark, where many had gathered to pray for him."
+    "explanation": "Peter went to the house of Mary, the mother of John Mark, where many had gathered to pray for him.",
+    "verses": {
+      "kjv": "And when he had considered\nthe thing, he came to the house of Mary the mother of John, whose surname was Mark; where many were gathered together praying."
+    }
   },
   {
     "id": "WOF-H-0003",
@@ -54,7 +60,10 @@
       "chapter": 4,
       "verse": "20-37"
     },
-    "explanation": "The Shunammite woman's son died, but she sought Elisha who raised him back to life."
+    "explanation": "The Shunammite woman's son died, but she sought Elisha who raised him back to life.",
+    "verses": {
+      "kjv": "And when he had taken him, and brought him to his mother, he sat on her knees till noon, and\nthen died.\nAnd she went up, and laid him on the bed of the man of God, and shut\nthe door upon him, and went out.\nAnd she called unto her husband, and said, Send me, I pray thee, one of the young men, and one of the asses, that I may run to the man of God, and come again.\nAnd he said, Wherefore wilt thou go to him to day?\nit is\n neither new moon, nor sabbath. And she said,\nIt shall be\n well.\nThen she saddled an ass, and said to her servant, Drive, and go forward; slack not\nthy riding for me, except I bid thee.\nSo she went and came unto the man of God to mount Carmel. And it came to pass, when the man of God saw her afar off, that he said to Gehazi his servant, Behold,\nyonder is that Shunammite:\nRun now, I pray thee, to meet her, and say unto her,\nIs it\n well with thee?\nis it well with thy husband?\nis it\n well with the child? And she answered,\nIt is well.\nAnd when she came to the man of God to the hill, she caught him by the feet: but Gehazi came near to thrust her away. And the man of God said, Let her alone; for her soul\nis vexed within her: and the LORD hath hid\nit from me, and hath not told me.\nThen she said, Did I desire a son of my lord? did I not say, Do not deceive me?\nThen he said to Gehazi, Gird up thy loins, and take my staff in thine hand, and go thy way: if thou meet any man, salute him not; and if any salute thee, answer him not again: and lay my staff upon the face of the child.\nAnd the mother of the child said,\nAs the LORD liveth, and\nas thy soul liveth, I will not leave thee. And he arose, and followed her.\nAnd Gehazi passed on before them, and laid the staff upon the face of the child; but\nthere was neither voice, nor hearing. Wherefore he went again to meet him, and told him, saying, The child is not awaked.\nAnd when Elisha was come into the house, behold, the child was dead,\nand laid upon his bed.\nHe went in therefore, and shut the door upon them twain, and prayed unto the LORD.\nAnd he went up, and lay upon the child, and put his mouth upon his mouth, and his eyes upon his eyes, and his hands upon his hands: and he stretched himself upon the child; and the flesh of the child waxed warm.\nThen he returned, and walked in the house to and fro; and went up, and stretched himself upon him: and the child sneezed seven times, and the child opened his eyes.\nAnd he called Gehazi, and said, Call this Shunammite. So he called her. And when she was come in unto him, he said, Take up thy son.\nThen she went in, and fell at his feet, and bowed herself to the ground, and took up her son, and went out."
+    }
   },
   {
     "id": "WOF-H-0004",
@@ -73,7 +82,10 @@
       "chapter": 16,
       "verse": "15"
     },
-    "explanation": "When Lydia and her household were baptized, she invited Paul to stay at her house."
+    "explanation": "When Lydia and her household were baptized, she invited Paul to stay at her house.",
+    "verses": {
+      "kjv": "And when she was baptized, and her household, she besought\nus,\n saying, If ye have judged me to be faithful to the Lord, come into my house, and abide\nthere. And she constrained us."
+    }
   },
   {
     "id": "WOF-H-0005",
@@ -92,7 +104,10 @@
       "chapter": 1,
       "verse": "5"
     },
-    "explanation": "I am reminded of your sincere faith, which first lived in your grandmother Lois and in your mother Eunice."
+    "explanation": "I am reminded of your sincere faith, which first lived in your grandmother Lois and in your mother Eunice.",
+    "verses": {
+      "kjv": "When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also."
+    }
   },
   {
     "id": "WOF-H-0006",
@@ -111,7 +126,10 @@
       "chapter": 2,
       "verse": "35"
     },
-    "explanation": "Then Simeon blessed them and said to Mary, his mother: 'A sword will pierce your own soul too.'"
+    "explanation": "Then Simeon blessed them and said to Mary, his mother: 'A sword will pierce your own soul too.'",
+    "verses": {
+      "kjv": "(Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed."
+    }
   },
   {
     "id": "WOF-H-0007",
@@ -130,7 +148,10 @@
       "chapter": 17,
       "verse": "17"
     },
-    "explanation": "Abraham fell facedown; he laughed and said to himself, 'Will a son be born to a man a hundred years old? Will Sarah bear a child at the age of ninety?'"
+    "explanation": "Abraham fell facedown; he laughed and said to himself, 'Will a son be born to a man a hundred years old? Will Sarah bear a child at the age of ninety?'",
+    "verses": {
+      "kjv": "Then Abraham fell upon his face, and laughed, and said in his heart, Shall\na child be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?"
+    }
   },
   {
     "id": "WOF-H-0008",
@@ -149,7 +170,10 @@
       "chapter": 31,
       "verse": "1"
     },
-    "explanation": "The sayings of King Lemuel—an inspired utterance his mother taught him."
+    "explanation": "The sayings of King Lemuel—an inspired utterance his mother taught him.",
+    "verses": {
+      "kjv": "The words of king Lemuel, the prophecy that his mother taught him."
+    }
   },
   {
     "id": "WOF-H-0009",
@@ -168,7 +192,10 @@
       "chapter": 16,
       "verse": "1-2"
     },
-    "explanation": "I commend to you our sister Phoebe, a deacon of the church in Cenchreae. She has been the benefactor of many people, including me."
+    "explanation": "I commend to you our sister Phoebe, a deacon of the church in Cenchreae. She has been the benefactor of many people, including me.",
+    "verses": {
+      "kjv": "I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:\nThat ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also."
+    }
   },
   {
     "id": "WOF-H-0010",
@@ -187,7 +214,10 @@
       "chapter": 1,
       "verse": "5"
     },
-    "explanation": "I am reminded of your sincere faith, which first lived in your grandmother Lois and in your mother Eunice and, I am persuaded, now lives in you also."
+    "explanation": "I am reminded of your sincere faith, which first lived in your grandmother Lois and in your mother Eunice and, I am persuaded, now lives in you also.",
+    "verses": {
+      "kjv": "When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also."
+    }
   },
   {
     "id": "WOF-H-0011",
@@ -206,6 +236,9 @@
       "chapter": 21,
       "verse": "9"
     },
-    "explanation": "He had four unmarried daughters who prophesied."
+    "explanation": "He had four unmarried daughters who prophesied.",
+    "verses": {
+      "kjv": "And the same man had four daughters, virgins, which did prophesy."
+    }
   }
 ]

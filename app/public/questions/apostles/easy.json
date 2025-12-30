@@ -16,7 +16,10 @@
       "chapter": 9,
       "verse": "9"
     },
-    "explanation": "Matthew (also called Levi) was a tax collector when Jesus called him to be a disciple."
+    "explanation": "Matthew (also called Levi) was a tax collector when Jesus called him to be a disciple.",
+    "verses": {
+      "kjv": "And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him,\nFollow me.\n And he arose, and followed him."
+    }
   },
   {
     "id": "APO-E-0002",
@@ -35,7 +38,10 @@
       "chapter": 4,
       "verse": "18"
     },
-    "explanation": "Peter and Andrew were fishermen casting their nets when Jesus called them to become fishers of men."
+    "explanation": "Peter and Andrew were fishermen casting their nets when Jesus called them to become fishers of men.",
+    "verses": {
+      "kjv": "And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers."
+    }
   },
   {
     "id": "APO-E-0003",
@@ -54,7 +60,10 @@
       "chapter": 20,
       "verse": "24-29"
     },
-    "explanation": "Thomas doubted the resurrection until he saw and touched Jesus' wounds, leading to his famous declaration of faith."
+    "explanation": "Thomas doubted the resurrection until he saw and touched Jesus' wounds, leading to his famous declaration of faith.",
+    "verses": {
+      "kjv": "But Thomas, one of the twelve, called Didymus, was not with them when Jesus came.\nThe other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe.\nAnd after eight days again his disciples were within, and Thomas with them:\nthen came Jesus, the doors being shut, and stood in the midst, and said,\nPeace\nbe unto you.\nThen saith he to Thomas,\nreach hither thy finger, and behold my hands; and reach hither thy hand, and thrust\nit into my side: and be not faithless, but believing.\nAnd Thomas answered and said unto him, My Lord and my God.\nJesus saith unto him,\nThomas, because thou hast seen me, thou hast believed: blessed\nare they that have not seen, and\nyet have believed."
+    }
   },
   {
     "id": "APO-E-0004",
@@ -73,7 +82,10 @@
       "chapter": 1,
       "verse": "42"
     },
-    "explanation": "Jesus renamed Simon to Cephas (Peter), which means rock."
+    "explanation": "Jesus renamed Simon to Cephas (Peter), which means rock.",
+    "verses": {
+      "kjv": "And he brought him to Jesus. And when Jesus beheld him, he said,\nThou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone."
+    }
   },
   {
     "id": "APO-E-0005",
@@ -92,7 +104,10 @@
       "chapter": 9,
       "verse": "3"
     },
-    "explanation": "Saul (Paul) was on his way to Damascus to persecute Christians when Jesus appeared to him in a blinding light."
+    "explanation": "Saul (Paul) was on his way to Damascus to persecute Christians when Jesus appeared to him in a blinding light.",
+    "verses": {
+      "kjv": "And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:"
+    }
   },
   {
     "id": "APO-E-0006",
@@ -111,7 +126,10 @@
       "chapter": 12,
       "verse": "6"
     },
-    "explanation": "Judas kept the money bag and was a thief who used to help himself to what was put into it."
+    "explanation": "Judas kept the money bag and was a thief who used to help himself to what was put into it.",
+    "verses": {
+      "kjv": "This he said, not that he cared for the poor; but because he was a thief, and had the bag, and bare what was put therein."
+    }
   },
   {
     "id": "APO-E-0007",
@@ -130,7 +148,10 @@
       "chapter": 26,
       "verse": "48-49"
     },
-    "explanation": "Judas had arranged a signal: 'The one I kiss is the man; arrest him.'"
+    "explanation": "Judas had arranged a signal: 'The one I kiss is the man; arrest him.'",
+    "verses": {
+      "kjv": "Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that same is he: hold him fast.\nAnd forthwith he came to Jesus, and said, Hail, master; and kissed him."
+    }
   },
   {
     "id": "APO-E-0008",
@@ -149,7 +170,10 @@
       "chapter": 16,
       "verse": "18"
     },
-    "explanation": "Jesus said to Peter, 'You are Peter (rock), and on this rock I will build my church.'"
+    "explanation": "Jesus said to Peter, 'You are Peter (rock), and on this rock I will build my church.'",
+    "verses": {
+      "kjv": "And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it."
+    }
   },
   {
     "id": "APO-E-0009",
@@ -168,7 +192,10 @@
       "chapter": 5,
       "verse": "4-5"
     },
-    "explanation": "Jesus told Peter to put out into deep water and let down the nets for a catch."
+    "explanation": "Jesus told Peter to put out into deep water and let down the nets for a catch.",
+    "verses": {
+      "kjv": "Now when he had left speaking, he said unto Simon,\nLaunch out into the deep, and let down your nets for a draught.\nAnd Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net."
+    }
   },
   {
     "id": "APO-E-0010",
@@ -187,7 +214,10 @@
       "chapter": 20,
       "verse": "25"
     },
-    "explanation": "Thomas said, 'Unless I see the nail marks in his hands and put my finger where the nails were, I will not believe.'"
+    "explanation": "Thomas said, 'Unless I see the nail marks in his hands and put my finger where the nails were, I will not believe.'",
+    "verses": {
+      "kjv": "The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe."
+    }
   },
   {
     "id": "APO-E-0011",
@@ -206,7 +236,10 @@
       "chapter": 10,
       "verse": "1"
     },
-    "explanation": "Jesus called his twelve disciples to him and gave them authority to drive out impure spirits."
+    "explanation": "Jesus called his twelve disciples to him and gave them authority to drive out impure spirits.",
+    "verses": {
+      "kjv": "And when he had called unto\nhim his twelve disciples, he gave them power\nagainst unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease."
+    }
   },
   {
     "id": "APO-E-0012",
@@ -225,7 +258,10 @@
       "chapter": 7,
       "verse": "59"
     },
-    "explanation": "While they were stoning him, Stephen prayed, 'Lord Jesus, receive my spirit.'"
+    "explanation": "While they were stoning him, Stephen prayed, 'Lord Jesus, receive my spirit.'",
+    "verses": {
+      "kjv": "And they stoned Stephen, calling upon\nGod, and saying, Lord Jesus, receive my spirit."
+    }
   },
   {
     "id": "APO-E-0013",
@@ -244,7 +280,10 @@
       "chapter": 18,
       "verse": "10"
     },
-    "explanation": "Simon Peter had a sword and drew it, striking the high priest's servant and cutting off his right ear."
+    "explanation": "Simon Peter had a sword and drew it, striking the high priest's servant and cutting off his right ear.",
+    "verses": {
+      "kjv": "Then Simon Peter having a sword drew it, and smote the high priest’s servant, and cut off his right ear. The servant’s name was Malchus."
+    }
   },
   {
     "id": "APO-E-0014",
@@ -263,7 +302,10 @@
       "chapter": 26,
       "verse": "75"
     },
-    "explanation": "Peter remembered what Jesus had said: 'Before the rooster crows, you will disown me three times.'"
+    "explanation": "Peter remembered what Jesus had said: 'Before the rooster crows, you will disown me three times.'",
+    "verses": {
+      "kjv": "And Peter remembered the word of Jesus, which said unto him,\nBefore the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly."
+    }
   },
   {
     "id": "APO-E-0015",
@@ -282,7 +324,10 @@
       "chapter": 18,
       "verse": "3"
     },
-    "explanation": "Because he was a tentmaker as they were, he stayed and worked with them."
+    "explanation": "Because he was a tentmaker as they were, he stayed and worked with them.",
+    "verses": {
+      "kjv": "And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers."
+    }
   },
   {
     "id": "APO-E-0016",
@@ -301,7 +346,10 @@
       "chapter": 13,
       "verse": "23"
     },
-    "explanation": "One of them, the disciple whom Jesus loved, was reclining next to him."
+    "explanation": "One of them, the disciple whom Jesus loved, was reclining next to him.",
+    "verses": {
+      "kjv": "Now there was leaning on Jesus’ bosom one of his disciples, whom Jesus loved."
+    }
   },
   {
     "id": "APO-E-0017",
@@ -320,7 +368,10 @@
       "chapter": 9,
       "verse": "9"
     },
-    "explanation": "As Jesus went on from there, he saw a man named Matthew sitting at the tax collector's booth."
+    "explanation": "As Jesus went on from there, he saw a man named Matthew sitting at the tax collector's booth.",
+    "verses": {
+      "kjv": "And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him,\nFollow me.\n And he arose, and followed him."
+    }
   },
   {
     "id": "APO-E-0018",
@@ -339,7 +390,10 @@
       "chapter": 14,
       "verse": "29"
     },
-    "explanation": "Then Peter got down out of the boat, walked on the water and came toward Jesus."
+    "explanation": "Then Peter got down out of the boat, walked on the water and came toward Jesus.",
+    "verses": {
+      "kjv": "And he said,\nCome. And when Peter was come down out of the ship, he walked on the water, to go to Jesus."
+    }
   },
   {
     "id": "APO-E-0019",
@@ -358,7 +412,10 @@
       "chapter": 20,
       "verse": "27"
     },
-    "explanation": "Thomas said he would not believe unless he could put his finger in the nail marks and his hand in Jesus' side."
+    "explanation": "Thomas said he would not believe unless he could put his finger in the nail marks and his hand in Jesus' side.",
+    "verses": {
+      "kjv": "Then saith he to Thomas,\nreach hither thy finger, and behold my hands; and reach hither thy hand, and thrust\nit into my side: and be not faithless, but believing."
+    }
   },
   {
     "id": "APO-E-0020",
@@ -377,7 +434,10 @@
       "chapter": 1,
       "verse": "1"
     },
-    "explanation": "Paul wrote 13 or 14 epistles (if Hebrews is included), the most of any New Testament author."
+    "explanation": "Paul wrote 13 or 14 epistles (if Hebrews is included), the most of any New Testament author.",
+    "verses": {
+      "kjv": "Paul, a servant of Jesus Christ, called\nto be an apostle, separated unto the gospel of God,"
+    }
   },
   {
     "id": "APO-E-0021",
@@ -396,7 +456,10 @@
       "chapter": 17,
       "verse": "1"
     },
-    "explanation": "Jesus took Peter, James and John up a high mountain where He was transfigured."
+    "explanation": "Jesus took Peter, James and John up a high mountain where He was transfigured.",
+    "verses": {
+      "kjv": "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,"
+    }
   },
   {
     "id": "APO-E-0022",
@@ -415,7 +478,10 @@
       "chapter": 11,
       "verse": "13"
     },
-    "explanation": "I am talking to you Gentiles. Inasmuch as I am the apostle to the Gentiles, I take pride in my ministry."
+    "explanation": "I am talking to you Gentiles. Inasmuch as I am the apostle to the Gentiles, I take pride in my ministry.",
+    "verses": {
+      "kjv": "For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:"
+    }
   },
   {
     "id": "APO-E-0023",
@@ -434,7 +500,10 @@
       "chapter": 1,
       "verse": "41-42"
     },
-    "explanation": "The first thing Andrew did was to find his brother Simon and tell him, 'We have found the Messiah.'"
+    "explanation": "The first thing Andrew did was to find his brother Simon and tell him, 'We have found the Messiah.'",
+    "verses": {
+      "kjv": "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.\nAnd he brought him to Jesus. And when Jesus beheld him, he said,\nThou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone."
+    }
   },
   {
     "id": "APO-E-0024",
@@ -453,7 +522,10 @@
       "chapter": 20,
       "verse": "25"
     },
-    "explanation": "So the other disciples told him, 'We have seen the Lord!' But he said, 'Unless I see the nail marks... I will not believe.'"
+    "explanation": "So the other disciples told him, 'We have seen the Lord!' But he said, 'Unless I see the nail marks... I will not believe.'",
+    "verses": {
+      "kjv": "The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe."
+    }
   },
   {
     "id": "APO-E-0025",
@@ -472,7 +544,10 @@
       "chapter": 18,
       "verse": "10"
     },
-    "explanation": "Then Simon Peter, who had a sword, drew it and struck the high priest's servant, cutting off his right ear."
+    "explanation": "Then Simon Peter, who had a sword, drew it and struck the high priest's servant, cutting off his right ear.",
+    "verses": {
+      "kjv": "Then Simon Peter having a sword drew it, and smote the high priest’s servant, and cut off his right ear. The servant’s name was Malchus."
+    }
   },
   {
     "id": "APO-E-0026",
@@ -491,7 +566,10 @@
       "chapter": 4,
       "verse": "18-19"
     },
-    "explanation": "As Jesus was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the lake, for they were fishermen. 'Come, follow me,' Jesus said, 'and I will send you out to fish for people.'"
+    "explanation": "As Jesus was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the lake, for they were fishermen. 'Come, follow me,' Jesus said, 'and I will send you out to fish for people.'",
+    "verses": {
+      "kjv": "And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.\nAnd he saith unto them,\nFollow me, and I will make you fishers of men."
+    }
   },
   {
     "id": "APO-E-0027",
@@ -510,7 +588,10 @@
       "chapter": 4,
       "verse": "18"
     },
-    "explanation": "As Jesus was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew."
+    "explanation": "As Jesus was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew.",
+    "verses": {
+      "kjv": "And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers."
+    }
   },
   {
     "id": "APO-E-0028",
@@ -529,7 +610,10 @@
       "chapter": 13,
       "verse": "1"
     },
-    "explanation": "Having loved his own who were in the world, he loved them to the end. Jesus loved all His disciples."
+    "explanation": "Having loved his own who were in the world, he loved them to the end. Jesus loved all His disciples.",
+    "verses": {
+      "kjv": "Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end."
+    }
   },
   {
     "id": "APO-E-0029",
@@ -548,7 +632,10 @@
       "chapter": 1,
       "verse": "1"
     },
-    "explanation": "Paul wrote 13 or 14 epistles, more than any other New Testament writer."
+    "explanation": "Paul wrote 13 or 14 epistles, more than any other New Testament writer.",
+    "verses": {
+      "kjv": "Paul, a servant of Jesus Christ, called\nto be an apostle, separated unto the gospel of God,"
+    }
   },
   {
     "id": "APO-E-0030",
@@ -567,7 +654,10 @@
       "chapter": 9,
       "verse": "3"
     },
-    "explanation": "As he neared Damascus on his journey, suddenly a light from heaven flashed around him."
+    "explanation": "As he neared Damascus on his journey, suddenly a light from heaven flashed around him.",
+    "verses": {
+      "kjv": "And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:"
+    }
   },
   {
     "id": "APO-E-0026",
@@ -586,7 +676,10 @@
       "chapter": 13,
       "verse": "23"
     },
-    "explanation": "One of them, the disciple whom Jesus loved, was reclining next to him."
+    "explanation": "One of them, the disciple whom Jesus loved, was reclining next to him.",
+    "verses": {
+      "kjv": "Now there was leaning on Jesus’ bosom one of his disciples, whom Jesus loved."
+    }
   },
   {
     "id": "APO-E-0027",
@@ -605,6 +698,9 @@
       "chapter": 14,
       "verse": "29"
     },
-    "explanation": "Peter got down out of the boat, walked on the water and came toward Jesus."
+    "explanation": "Peter got down out of the boat, walked on the water and came toward Jesus.",
+    "verses": {
+      "kjv": "And he said,\nCome. And when Peter was come down out of the ship, he walked on the water, to go to Jesus."
+    }
   }
 ]

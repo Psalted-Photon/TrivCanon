@@ -16,7 +16,10 @@
       "chapter": 1,
       "verse": "6"
     },
-    "explanation": "Daniel was among the young nobles taken to Babylon where he served in the king's court."
+    "explanation": "Daniel was among the young nobles taken to Babylon where he served in the king's court.",
+    "verses": {
+      "kjv": "Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah:"
+    }
   },
   {
     "id": "JRN-M-0002",
@@ -35,7 +38,10 @@
       "chapter": 29,
       "verse": "10"
     },
-    "explanation": "Jeremiah prophesied that the exile would last 70 years before God would bring His people back."
+    "explanation": "Jeremiah prophesied that the exile would last 70 years before God would bring His people back.",
+    "verses": {
+      "kjv": "For thus saith the LORD, That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place."
+    }
   },
   {
     "id": "JRN-M-0003",
@@ -54,7 +60,10 @@
       "chapter": 34,
       "verse": "1"
     },
-    "explanation": "Moses went up from the plains of Moab to Mount Nebo where God showed him the Promised Land."
+    "explanation": "Moses went up from the plains of Moab to Mount Nebo where God showed him the Promised Land.",
+    "verses": {
+      "kjv": "And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that\nis over against Jericho. And the LORD shewed him all the land of Gilead, unto Dan,"
+    }
   },
   {
     "id": "JRN-M-0004",
@@ -73,7 +82,10 @@
       "chapter": 7,
       "verse": "6"
     },
-    "explanation": "Ezra, a teacher well versed in the Law of Moses, came from Babylon to Jerusalem."
+    "explanation": "Ezra, a teacher well versed in the Law of Moses, came from Babylon to Jerusalem.",
+    "verses": {
+      "kjv": "This Ezra went up from Babylon; and he\nwas a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him."
+    }
   },
   {
     "id": "JRN-M-0005",
@@ -92,7 +104,10 @@
       "chapter": 28,
       "verse": "19"
     },
-    "explanation": "Jacob had the dream at a place he named Bethel, meaning 'house of God.'"
+    "explanation": "Jacob had the dream at a place he named Bethel, meaning 'house of God.'",
+    "verses": {
+      "kjv": "And he called the name of that place Bethel: but the name of that city\nwas called Luz at the first."
+    }
   },
   {
     "id": "JRN-M-0006",
@@ -111,7 +126,10 @@
       "chapter": 11,
       "verse": "31"
     },
-    "explanation": "Terah took his son Abram and left Ur of the Chaldeans to go to Canaan."
+    "explanation": "Terah took his son Abram and left Ur of the Chaldeans to go to Canaan.",
+    "verses": {
+      "kjv": "And Terah took Abram his son, and Lot the son of Haran his son’s son, and Sarai his daughter in law, his son Abram’s wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there."
+    }
   },
   {
     "id": "JRN-M-0007",
@@ -130,7 +148,10 @@
       "chapter": 29,
       "verse": "27-28"
     },
-    "explanation": "Jacob worked seven years for Rachel, then was tricked into marrying Leah, then worked another seven years."
+    "explanation": "Jacob worked seven years for Rachel, then was tricked into marrying Leah, then worked another seven years.",
+    "verses": {
+      "kjv": "Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years.\nAnd Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also."
+    }
   },
   {
     "id": "JRN-M-0008",
@@ -149,7 +170,10 @@
       "chapter": 2,
       "verse": "15"
     },
-    "explanation": "When Pharaoh heard of this, he tried to kill Moses, but Moses fled to Midian."
+    "explanation": "When Pharaoh heard of this, he tried to kill Moses, but Moses fled to Midian.",
+    "verses": {
+      "kjv": "Now when Pharaoh heard this thing, he sought to slay Moses. But Moses fled from the face of Pharaoh, and dwelt in the land of Midian: and he sat down by a well."
+    }
   },
   {
     "id": "JRN-M-0009",
@@ -168,7 +192,10 @@
       "chapter": 6,
       "verse": "38"
     },
-    "explanation": "He had spent seven years building it."
+    "explanation": "He had spent seven years building it.",
+    "verses": {
+      "kjv": "And in the eleventh year, in the month Bul, which\nis the eighth month, was the house finished throughout all the parts thereof, and according to all the fashion of it. So was he seven years in building it."
+    }
   },
   {
     "id": "JRN-M-0010",
@@ -187,7 +214,10 @@
       "chapter": 3,
       "verse": "1"
     },
-    "explanation": "Moses led the flock to the far side of the wilderness and came to Horeb, the mountain of God."
+    "explanation": "Moses led the flock to the far side of the wilderness and came to Horeb, the mountain of God.",
+    "verses": {
+      "kjv": "Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God,\neven to Horeb."
+    }
   },
   {
     "id": "JRN-M-0011",
@@ -206,7 +236,10 @@
       "chapter": 11,
       "verse": "31"
     },
-    "explanation": "Terah took his son Abram and together they set out from Ur of the Chaldeans to go to Canaan."
+    "explanation": "Terah took his son Abram and together they set out from Ur of the Chaldeans to go to Canaan.",
+    "verses": {
+      "kjv": "And Terah took Abram his son, and Lot the son of Haran his son’s son, and Sarai his daughter in law, his son Abram’s wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there."
+    }
   },
   {
     "id": "JRN-M-0012",
@@ -225,7 +258,10 @@
       "chapter": 1,
       "verse": "4"
     },
-    "explanation": "They married Moabite women, one named Orpah and the other Ruth."
+    "explanation": "They married Moabite women, one named Orpah and the other Ruth.",
+    "verses": {
+      "kjv": "And they took them wives of the women of Moab; the name of the one\nwas Orpah, and the name of the other Ruth: and they dwelled there about ten years."
+    }
   },
   {
     "id": "JRN-M-0013",
@@ -244,7 +280,10 @@
       "chapter": 1,
       "verse": "3"
     },
-    "explanation": "Jonah ran away from the Lord and headed for Tarshish, boarding a ship at Joppa."
+    "explanation": "Jonah ran away from the Lord and headed for Tarshish, boarding a ship at Joppa.",
+    "verses": {
+      "kjv": "But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD."
+    }
   },
   {
     "id": "JRN-M-0014",
@@ -263,7 +302,10 @@
       "chapter": 25,
       "verse": "11"
     },
-    "explanation": "This whole country will become a desolate wasteland, and these nations will serve the king of Babylon seventy years."
+    "explanation": "This whole country will become a desolate wasteland, and these nations will serve the king of Babylon seventy years.",
+    "verses": {
+      "kjv": "And this whole land shall be a desolation,\nand an astonishment; and these nations shall serve the king of Babylon seventy years."
+    }
   },
   {
     "id": "JRN-M-0015",
@@ -282,7 +324,10 @@
       "chapter": 11,
       "verse": "31"
     },
-    "explanation": "Terah took Abram and set out from Ur of the Chaldeans to go to Canaan."
+    "explanation": "Terah took Abram and set out from Ur of the Chaldeans to go to Canaan.",
+    "verses": {
+      "kjv": "And Terah took Abram his son, and Lot the son of Haran his son’s son, and Sarai his daughter in law, his son Abram’s wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there."
+    }
   },
   {
     "id": "JRN-M-0016",
@@ -301,7 +346,10 @@
       "chapter": 2,
       "verse": "16-21"
     },
-    "explanation": "Moses sat down by a well in Midian where he met the priest's seven daughters, and married Zipporah."
+    "explanation": "Moses sat down by a well in Midian where he met the priest's seven daughters, and married Zipporah.",
+    "verses": {
+      "kjv": "Now the priest of Midian had seven daughters: and they came and drew\nwater, and filled the troughs to water their father’s flock.\nAnd the shepherds came and drove them away: but Moses stood up and helped them, and watered their flock.\nAnd when they came to Reuel their father, he said, How\nis it that\n ye are come so soon to day?\nAnd they said, An Egyptian delivered us out of the hand of the shepherds, and also drew\nwater enough for us, and watered the flock.\nAnd he said unto his daughters, And where\nis he? why\nis it\nthat ye have left the man? call him, that he may eat bread.\nAnd Moses was content to dwell with the man: and he gave Moses Zipporah his daughter."
+    }
   },
   {
     "id": "JRN-M-0017",
@@ -320,7 +368,10 @@
       "chapter": 28,
       "verse": "19"
     },
-    "explanation": "He called that place Bethel, though the city used to be called Luz."
+    "explanation": "He called that place Bethel, though the city used to be called Luz.",
+    "verses": {
+      "kjv": "And he called the name of that place Bethel: but the name of that city\nwas called Luz at the first."
+    }
   },
   {
     "id": "JRN-M-0018",
@@ -339,7 +390,10 @@
       "chapter": 29,
       "verse": "27-30"
     },
-    "explanation": "Jacob worked seven years for Rachel, then was tricked into marrying Leah, and worked another seven years for Rachel."
+    "explanation": "Jacob worked seven years for Rachel, then was tricked into marrying Leah, and worked another seven years for Rachel.",
+    "verses": {
+      "kjv": "Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years.\nAnd Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also.\nAnd Laban gave to Rachel his daughter Bilhah his handmaid to be her maid.\nAnd he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years."
+    }
   },
   {
     "id": "JRN-M-0019",
@@ -358,7 +412,10 @@
       "chapter": 16,
       "verse": "35"
     },
-    "explanation": "The Israelites ate manna forty years, until they came to a land that was settled."
+    "explanation": "The Israelites ate manna forty years, until they came to a land that was settled.",
+    "verses": {
+      "kjv": "And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan."
+    }
   },
   {
     "id": "JRN-M-0020",
@@ -377,7 +434,10 @@
       "chapter": 8,
       "verse": "26"
     },
-    "explanation": "Now an angel of the Lord said to Philip, 'Go south to the road—the desert road—that goes down from Jerusalem to Gaza.'"
+    "explanation": "Now an angel of the Lord said to Philip, 'Go south to the road—the desert road—that goes down from Jerusalem to Gaza.'",
+    "verses": {
+      "kjv": "And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert."
+    }
   },
   {
     "id": "JRN-M-0021",
@@ -396,7 +456,10 @@
       "chapter": 24,
       "verse": "18"
     },
-    "explanation": "Then Moses entered the cloud as he went on up the mountain. And he stayed on the mountain forty days and forty nights."
+    "explanation": "Then Moses entered the cloud as he went on up the mountain. And he stayed on the mountain forty days and forty nights.",
+    "verses": {
+      "kjv": "And Moses went into the midst of the cloud, and gat him up into the mount: and Moses was in the mount forty days and forty nights."
+    }
   },
   {
     "id": "JRN-M-0022",
@@ -415,7 +478,10 @@
       "chapter": 7,
       "verse": "6"
     },
-    "explanation": "Ezra came up from Babylon. He was a teacher well versed in the Law of Moses, which the Lord, the God of Israel, had given."
+    "explanation": "Ezra came up from Babylon. He was a teacher well versed in the Law of Moses, which the Lord, the God of Israel, had given.",
+    "verses": {
+      "kjv": "This Ezra went up from Babylon; and he\nwas a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him."
+    }
   },
   {
     "id": "JRN-M-0023",
@@ -434,7 +500,10 @@
       "chapter": 37,
       "verse": "24"
     },
-    "explanation": "And they took him and threw him into the cistern. The cistern was empty; there was no water in it."
+    "explanation": "And they took him and threw him into the cistern. The cistern was empty; there was no water in it.",
+    "verses": {
+      "kjv": "And they took him, and cast him into a pit: and the pit\nwas\n empty,\nthere was no water in it."
+    }
   },
   {
     "id": "JRN-M-0024",
@@ -453,7 +522,10 @@
       "chapter": 37,
       "verse": "28"
     },
-    "explanation": "So when the Midianite merchants came by, his brothers pulled Joseph up out of the cistern and sold him for twenty shekels of silver to the Ishmaelites, who took him to Egypt."
+    "explanation": "So when the Midianite merchants came by, his brothers pulled Joseph up out of the cistern and sold him for twenty shekels of silver to the Ishmaelites, who took him to Egypt.",
+    "verses": {
+      "kjv": "Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty\npieces of silver: and they brought Joseph into Egypt."
+    }
   },
   {
     "id": "JRN-M-0025",
@@ -472,7 +544,10 @@
       "chapter": 42,
       "verse": "13"
     },
-    "explanation": "They replied, 'Your servants were twelve brothers, the sons of one man, who lives in the land of Canaan.'"
+    "explanation": "They replied, 'Your servants were twelve brothers, the sons of one man, who lives in the land of Canaan.'",
+    "verses": {
+      "kjv": "And they said, Thy servants\nare twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest\nis this day with our father, and one\nis not."
+    }
   },
   {
     "id": "JRN-M-0026",
@@ -491,7 +566,10 @@
       "chapter": 37,
       "verse": "31"
     },
-    "explanation": "Then they got Joseph's robe, slaughtered a goat and dipped the robe in the blood."
+    "explanation": "Then they got Joseph's robe, slaughtered a goat and dipped the robe in the blood.",
+    "verses": {
+      "kjv": "And they took Joseph’s coat, and killed a kid of the goats, and dipped the coat in the blood;"
+    }
   },
   {
     "id": "JRN-M-0027",
@@ -510,7 +588,10 @@
       "chapter": 44,
       "verse": "2"
     },
-    "explanation": "Then put my cup, the silver one, in the mouth of the youngest one's sack, along with the silver for his grain."
+    "explanation": "Then put my cup, the silver one, in the mouth of the youngest one's sack, along with the silver for his grain.",
+    "verses": {
+      "kjv": "And put my cup, the silver cup, in the sack’s mouth of the youngest, and his corn money. And he did according to the word that Joseph had spoken."
+    }
   },
   {
     "id": "JRN-M-0026",
@@ -529,7 +610,10 @@
       "chapter": 24,
       "verse": "14"
     },
-    "explanation": "Nebuchadnezzar carried into exile all Jerusalem: all the officers and fighting men, and all the skilled workers and artisans."
+    "explanation": "Nebuchadnezzar carried into exile all Jerusalem: all the officers and fighting men, and all the skilled workers and artisans.",
+    "verses": {
+      "kjv": "And he carried away all Jerusalem, and all the princes, and all the mighty men of valour,\neven ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land."
+    }
   },
   {
     "id": "JRN-M-0027",
@@ -548,6 +632,9 @@
       "chapter": 29,
       "verse": "10"
     },
-    "explanation": "When seventy years are completed for Babylon, I will come to you and fulfill my good promise to bring you back to this place."
+    "explanation": "When seventy years are completed for Babylon, I will come to you and fulfill my good promise to bring you back to this place.",
+    "verses": {
+      "kjv": "For thus saith the LORD, That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place."
+    }
   }
 ]

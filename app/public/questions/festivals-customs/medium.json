@@ -16,7 +16,10 @@
       "chapter": 23,
       "verse": "15-16"
     },
-    "explanation": "Pentecost, or the Feast of Weeks, occurs 50 days after Passover and celebrates the harvest."
+    "explanation": "Pentecost, or the Feast of Weeks, occurs 50 days after Passover and celebrates the harvest.",
+    "verses": {
+      "kjv": "And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete:\nEven unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meat offering unto the LORD."
+    }
   },
   {
     "id": "FES-M-0002",
@@ -35,7 +38,10 @@
       "chapter": 23,
       "verse": "43"
     },
-    "explanation": "The Festival of Tabernacles commemorates when God made Israel live in temporary shelters during the Exodus."
+    "explanation": "The Festival of Tabernacles commemorates when God made Israel live in temporary shelters during the Exodus.",
+    "verses": {
+      "kjv": "That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I\nam\n the LORD your God."
+    }
   },
   {
     "id": "FES-M-0003",
@@ -54,7 +60,10 @@
       "chapter": 9,
       "verse": "26"
     },
-    "explanation": "Purim celebrates how Esther and Mordecai saved the Jewish people from destruction."
+    "explanation": "Purim celebrates how Esther and Mordecai saved the Jewish people from destruction.",
+    "verses": {
+      "kjv": "Wherefore they called these days Purim after the name of Pur. Therefore for all the words of this letter, and\nof that which they had seen concerning this matter, and which had come unto them,"
+    }
   },
   {
     "id": "FES-M-0004",
@@ -73,7 +82,10 @@
       "chapter": 10,
       "verse": "22"
     },
-    "explanation": "The Feast of Dedication (Hanukkah) celebrates when the temple was cleansed and rededicated."
+    "explanation": "The Feast of Dedication (Hanukkah) celebrates when the temple was cleansed and rededicated.",
+    "verses": {
+      "kjv": "And it was at Jerusalem the feast of the dedication, and it was winter."
+    }
   },
   {
     "id": "FES-M-0005",
@@ -92,7 +104,10 @@
       "chapter": 23,
       "verse": "27-28"
     },
-    "explanation": "The Day of Atonement was a day to deny themselves, not work, and make atonement for sins."
+    "explanation": "The Day of Atonement was a day to deny themselves, not work, and make atonement for sins.",
+    "verses": {
+      "kjv": "Also on the tenth\nday of this seventh month\nthere shall be a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the LORD.\nAnd ye shall do no work in that same day: for it\nis a day of atonement, to make an atonement for you before the LORD your God."
+    }
   },
   {
     "id": "FES-M-0006",
@@ -111,7 +126,10 @@
       "chapter": 16,
       "verse": "16"
     },
-    "explanation": "Three times a year all men were to appear before the Lord at the place He chose: Passover, Pentecost, and Tabernacles."
+    "explanation": "Three times a year all men were to appear before the Lord at the place He chose: Passover, Pentecost, and Tabernacles.",
+    "verses": {
+      "kjv": "Three times in a year shall all thy males appear before the LORD thy God in the place which he shall choose; in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: and they shall not appear before the LORD empty:"
+    }
   },
   {
     "id": "FES-M-0007",
@@ -130,7 +148,10 @@
       "chapter": 12,
       "verse": "3"
     },
-    "explanation": "On the eighth day, the boy was to be circumcised as a sign of the covenant with God."
+    "explanation": "On the eighth day, the boy was to be circumcised as a sign of the covenant with God.",
+    "verses": {
+      "kjv": "And in the eighth day the flesh of his foreskin shall be circumcised."
+    }
   },
   {
     "id": "FES-M-0008",
@@ -149,7 +170,10 @@
       "chapter": 23,
       "verse": "42"
     },
-    "explanation": "Live in temporary shelters for seven days to remember how I had the Israelites live in shelters."
+    "explanation": "Live in temporary shelters for seven days to remember how I had the Israelites live in shelters.",
+    "verses": {
+      "kjv": "Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths:"
+    }
   },
   {
     "id": "FES-M-0009",
@@ -168,7 +192,10 @@
       "chapter": 6,
       "verse": "4"
     },
-    "explanation": "Have seven priests carry trumpets of rams' horns in front of the ark."
+    "explanation": "Have seven priests carry trumpets of rams' horns in front of the ark.",
+    "verses": {
+      "kjv": "And seven priests shall bear before the ark seven trumpets of rams horns: and the seventh day ye shall compass the city seven times, and the priests shall blow with the trumpets."
+    }
   },
   {
     "id": "FES-M-0010",
@@ -187,7 +214,10 @@
       "chapter": 23,
       "verse": "19"
     },
-    "explanation": "Bring the best of the firstfruits of your soil to the house of the Lord your God."
+    "explanation": "Bring the best of the firstfruits of your soil to the house of the Lord your God.",
+    "verses": {
+      "kjv": "The first of the firstfruits of thy land thou shalt bring into the house of the LORD thy God. Thou shalt not seethe a kid in his mother’s milk."
+    }
   },
   {
     "id": "FES-M-0011",
@@ -206,7 +236,10 @@
       "chapter": 12,
       "verse": "15"
     },
-    "explanation": "For seven days you are to eat bread made without yeast as part of the Passover celebration."
+    "explanation": "For seven days you are to eat bread made without yeast as part of the Passover celebration.",
+    "verses": {
+      "kjv": "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel."
+    }
   },
   {
     "id": "FES-M-0012",
@@ -225,7 +258,10 @@
       "chapter": 27,
       "verse": "30"
     },
-    "explanation": "A tithe of everything from the land, whether grain or fruit, belongs to the Lord; it is holy."
+    "explanation": "A tithe of everything from the land, whether grain or fruit, belongs to the Lord; it is holy.",
+    "verses": {
+      "kjv": "And all the tithe of the land,\nwhether of the seed of the land,\nor of the fruit of the tree,\nis the LORD’S:\nit is holy unto the LORD."
+    }
   },
   {
     "id": "FES-M-0013",
@@ -244,7 +280,10 @@
       "chapter": 12,
       "verse": "15"
     },
-    "explanation": "For seven days you are to eat bread made without yeast."
+    "explanation": "For seven days you are to eat bread made without yeast.",
+    "verses": {
+      "kjv": "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel."
+    }
   },
   {
     "id": "FES-M-0014",
@@ -263,7 +302,10 @@
       "chapter": 23,
       "verse": "42"
     },
-    "explanation": "Live in temporary shelters for seven days during the Feast of Tabernacles."
+    "explanation": "Live in temporary shelters for seven days during the Feast of Tabernacles.",
+    "verses": {
+      "kjv": "Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths:"
+    }
   },
   {
     "id": "FES-M-0015",
@@ -282,7 +324,10 @@
       "chapter": 16,
       "verse": "29"
     },
-    "explanation": "On the tenth day of the seventh month you must deny yourselves and not do any work."
+    "explanation": "On the tenth day of the seventh month you must deny yourselves and not do any work.",
+    "verses": {
+      "kjv": "And\nthis shall be a statute for ever unto you:\nthat\n in the seventh month, on the tenth\nday of the month, ye shall afflict your souls, and do no work at all,\nwhether it be one of your own country, or a stranger that sojourneth among you:"
+    }
   },
   {
     "id": "FES-M-0016",
@@ -301,7 +346,10 @@
       "chapter": 23,
       "verse": "34"
     },
-    "explanation": "The Feast of Tabernacles (Sukkot) commemorates the Israelites dwelling in temporary shelters in the wilderness."
+    "explanation": "The Feast of Tabernacles (Sukkot) commemorates the Israelites dwelling in temporary shelters in the wilderness.",
+    "verses": {
+      "kjv": "Speak unto the children of Israel, saying, The fifteenth day of this seventh month\nshall be the feast of tabernacles\nfor seven days unto the LORD."
+    }
   },
   {
     "id": "FES-M-0017",
@@ -320,7 +368,10 @@
       "chapter": 12,
       "verse": "15"
     },
-    "explanation": "For seven days you are to eat bread made without yeast."
+    "explanation": "For seven days you are to eat bread made without yeast.",
+    "verses": {
+      "kjv": "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel."
+    }
   },
   {
     "id": "FES-M-0018",
@@ -339,7 +390,10 @@
       "chapter": 16,
       "verse": "30"
     },
-    "explanation": "On this day atonement will be made for you, to cleanse you. Then, before the Lord, you will be clean from all your sins."
+    "explanation": "On this day atonement will be made for you, to cleanse you. Then, before the Lord, you will be clean from all your sins.",
+    "verses": {
+      "kjv": "For on that day shall\nthe priest make an atonement for you, to cleanse you,\nthat ye may be clean from all your sins before the LORD."
+    }
   },
   {
     "id": "FES-M-0019",
@@ -358,7 +412,10 @@
       "chapter": 23,
       "verse": "24"
     },
-    "explanation": "On the first day of the seventh month you are to have a day of sabbath rest, a sacred assembly commemorated with trumpet blasts."
+    "explanation": "On the first day of the seventh month you are to have a day of sabbath rest, a sacred assembly commemorated with trumpet blasts.",
+    "verses": {
+      "kjv": "Speak unto the children of Israel, saying, In the seventh month, in the first\nday of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation."
+    }
   },
   {
     "id": "FES-M-0020",
@@ -377,7 +434,10 @@
       "chapter": 9,
       "verse": "26"
     },
-    "explanation": "These days were called Purim, from the word pur (lot), celebrating the Jews' deliverance from Haman's plot."
+    "explanation": "These days were called Purim, from the word pur (lot), celebrating the Jews' deliverance from Haman's plot.",
+    "verses": {
+      "kjv": "Wherefore they called these days Purim after the name of Pur. Therefore for all the words of this letter, and\nof that which they had seen concerning this matter, and which had come unto them,"
+    }
   },
   {
     "id": "FES-M-0021",
@@ -396,7 +456,10 @@
       "chapter": 16,
       "verse": "2"
     },
-    "explanation": "The Lord said to Moses: 'Tell Aaron not to come whenever he chooses into the Most Holy Place.'"
+    "explanation": "The Lord said to Moses: 'Tell Aaron not to come whenever he chooses into the Most Holy Place.'",
+    "verses": {
+      "kjv": "And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy\nplace within the vail before the mercy seat, which\nis upon the ark; that he die not: for I will appear in the cloud upon the mercy seat."
+    }
   },
   {
     "id": "FES-M-0022",
@@ -415,7 +478,10 @@
       "chapter": 23,
       "verse": "34"
     },
-    "explanation": "Say to the Israelites: 'On the fifteenth day of the seventh month the Lord's Festival of Tabernacles begins.'"
+    "explanation": "Say to the Israelites: 'On the fifteenth day of the seventh month the Lord's Festival of Tabernacles begins.'",
+    "verses": {
+      "kjv": "Speak unto the children of Israel, saying, The fifteenth day of this seventh month\nshall be the feast of tabernacles\nfor seven days unto the LORD."
+    }
   },
   {
     "id": "FES-M-0023",
@@ -434,7 +500,10 @@
       "chapter": 23,
       "verse": "27"
     },
-    "explanation": "The tenth day of this seventh month is the Day of Atonement (Yom Kippur)."
+    "explanation": "The tenth day of this seventh month is the Day of Atonement (Yom Kippur).",
+    "verses": {
+      "kjv": "Also on the tenth\nday of this seventh month\nthere shall be a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the LORD."
+    }
   },
   {
     "id": "FES-M-0024",
@@ -453,7 +522,10 @@
       "chapter": 34,
       "verse": "22"
     },
-    "explanation": "Celebrate the Festival of Weeks with the firstfruits of the wheat harvest."
+    "explanation": "Celebrate the Festival of Weeks with the firstfruits of the wheat harvest.",
+    "verses": {
+      "kjv": "And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year’s end."
+    }
   },
   {
     "id": "FES-M-0025",
@@ -472,7 +544,10 @@
       "chapter": 25,
       "verse": "10"
     },
-    "explanation": "Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you."
+    "explanation": "Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you.",
+    "verses": {
+      "kjv": "And ye shall hallow the fiftieth year, and proclaim liberty throughout\nall the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family."
+    }
   },
   {
     "id": "FES-M-0026",
@@ -491,7 +566,10 @@
       "chapter": 23,
       "verse": "24"
     },
-    "explanation": "Say to the Israelites: 'On the first day of the seventh month you are to have a day of sabbath rest, a sacred assembly commemorated with trumpet blasts.'"
+    "explanation": "Say to the Israelites: 'On the first day of the seventh month you are to have a day of sabbath rest, a sacred assembly commemorated with trumpet blasts.'",
+    "verses": {
+      "kjv": "Speak unto the children of Israel, saying, In the seventh month, in the first\nday of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation."
+    }
   },
   {
     "id": "FES-M-0027",
@@ -510,7 +588,10 @@
       "chapter": 23,
       "verse": "27"
     },
-    "explanation": "The tenth day of this seventh month is the Day of Atonement. You must deny yourselves and present a food offering to the Lord."
+    "explanation": "The tenth day of this seventh month is the Day of Atonement. You must deny yourselves and present a food offering to the Lord.",
+    "verses": {
+      "kjv": "Also on the tenth\nday of this seventh month\nthere shall be a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the LORD."
+    }
   },
   {
     "id": "FES-M-0028",
@@ -529,7 +610,10 @@
       "chapter": 23,
       "verse": "43"
     },
-    "explanation": "So your descendants will know that I had the Israelites live in temporary shelters when I brought them out of Egypt."
+    "explanation": "So your descendants will know that I had the Israelites live in temporary shelters when I brought them out of Egypt.",
+    "verses": {
+      "kjv": "That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I\nam\n the LORD your God."
+    }
   },
   {
     "id": "FES-M-0029",
@@ -548,7 +632,10 @@
       "chapter": 12,
       "verse": "8"
     },
-    "explanation": "That same night they are to eat the meat roasted over the fire, along with bitter herbs, and bread made without yeast."
+    "explanation": "That same night they are to eat the meat roasted over the fire, along with bitter herbs, and bread made without yeast.",
+    "verses": {
+      "kjv": "And they shall eat the flesh in that night, roast with fire, and unleavened bread;\nand with bitter\nherbs they shall eat it."
+    }
   },
   {
     "id": "FES-M-0030",
@@ -567,7 +654,10 @@
       "chapter": 25,
       "verse": "4"
     },
-    "explanation": "But in the seventh year the land is to have a year of sabbath rest, a sabbath to the Lord. Do not sow your fields or prune your vineyards."
+    "explanation": "But in the seventh year the land is to have a year of sabbath rest, a sabbath to the Lord. Do not sow your fields or prune your vineyards.",
+    "verses": {
+      "kjv": "But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the LORD: thou shalt neither sow thy field, nor prune thy vineyard."
+    }
   },
   {
     "id": "FES-M-0031",
@@ -586,7 +676,10 @@
       "chapter": 25,
       "verse": "10"
     },
-    "explanation": "Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you; each of you is to return to your family property."
+    "explanation": "Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you; each of you is to return to your family property.",
+    "verses": {
+      "kjv": "And ye shall hallow the fiftieth year, and proclaim liberty throughout\nall the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family."
+    }
   },
   {
     "id": "FES-M-0032",
@@ -605,7 +698,10 @@
       "chapter": 16,
       "verse": "22"
     },
-    "explanation": "The goat will carry on itself all their sins to a remote place; and the man shall release it in the wilderness."
+    "explanation": "The goat will carry on itself all their sins to a remote place; and the man shall release it in the wilderness.",
+    "verses": {
+      "kjv": "And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness."
+    }
   },
   {
     "id": "FES-M-0026",
@@ -624,7 +720,10 @@
       "chapter": 16,
       "verse": "7-8"
     },
-    "explanation": "He is to take two goats and present them before the Lord. Aaron shall cast lots for the two goats—one lot for the Lord and the other for the scapegoat."
+    "explanation": "He is to take two goats and present them before the Lord. Aaron shall cast lots for the two goats—one lot for the Lord and the other for the scapegoat.",
+    "verses": {
+      "kjv": "And he shall take the two goats, and present them before the LORD\nat the door of the tabernacle of the congregation.\nAnd Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the scapegoat."
+    }
   },
   {
     "id": "FES-M-0027",
@@ -643,6 +742,9 @@
       "chapter": 12,
       "verse": "15"
     },
-    "explanation": "For seven days you are to eat bread made without yeast. On the first day remove the yeast from your houses."
+    "explanation": "For seven days you are to eat bread made without yeast. On the first day remove the yeast from your houses.",
+    "verses": {
+      "kjv": "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel."
+    }
   }
 ]

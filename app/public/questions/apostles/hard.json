@@ -16,7 +16,10 @@
       "chapter": 13,
       "verse": "55"
     },
-    "explanation": "Jesus' brothers were James, Joseph, Simon, and Judas (not Iscariot)."
+    "explanation": "Jesus' brothers were James, Joseph, Simon, and Judas (not Iscariot).",
+    "verses": {
+      "kjv": "Is not this the carpenter’s son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?"
+    }
   },
   {
     "id": "APO-H-0002",
@@ -35,7 +38,10 @@
       "chapter": 1,
       "verse": "45"
     },
-    "explanation": "Bartholomew is believed to be the same person as Nathanael, whom Philip brought to Jesus."
+    "explanation": "Bartholomew is believed to be the same person as Nathanael, whom Philip brought to Jesus.",
+    "verses": {
+      "kjv": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph."
+    }
   },
   {
     "id": "APO-H-0003",
@@ -54,7 +60,10 @@
       "chapter": 16,
       "verse": "9"
     },
-    "explanation": "During the night Paul had a vision of a man of Macedonia standing and begging him to come help them."
+    "explanation": "During the night Paul had a vision of a man of Macedonia standing and begging him to come help them.",
+    "verses": {
+      "kjv": "And a vision appeared to Paul in the night; There stood a man of Macedonia, and prayed him, saying, Come over into Macedonia, and help us."
+    }
   },
   {
     "id": "APO-H-0004",
@@ -73,7 +82,10 @@
       "chapter": 1,
       "verse": "1"
     },
-    "explanation": "Matthew, John, Peter, James, and Jude (if counted) wrote New Testament books."
+    "explanation": "Matthew, John, Peter, James, and Jude (if counted) wrote New Testament books.",
+    "verses": {
+      "kjv": "The book of the generation of Jesus Christ, the son of David, the son of Abraham."
+    }
   },
   {
     "id": "APO-H-0005",
@@ -92,7 +104,10 @@
       "chapter": 6,
       "verse": "15"
     },
-    "explanation": "Matthew, Thomas, James son of Alphaeus, Simon who was called the Zealot."
+    "explanation": "Matthew, Thomas, James son of Alphaeus, Simon who was called the Zealot.",
+    "verses": {
+      "kjv": "Matthew and Thomas, James the\nson of Alphaeus, and Simon called Zelotes,"
+    }
   },
   {
     "id": "APO-H-0006",
@@ -111,7 +126,10 @@
       "chapter": 1,
       "verse": "26"
     },
-    "explanation": "The apostles cast lots between Matthias and Justus, and Matthias was chosen to replace Judas."
+    "explanation": "The apostles cast lots between Matthias and Justus, and Matthias was chosen to replace Judas.",
+    "verses": {
+      "kjv": "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles."
+    }
   },
   {
     "id": "APO-H-0007",
@@ -130,7 +148,10 @@
       "chapter": 24,
       "verse": "18"
     },
-    "explanation": "Cleopas and another disciple walked with Jesus to Emmaus, but their eyes were kept from recognizing him."
+    "explanation": "Cleopas and another disciple walked with Jesus to Emmaus, but their eyes were kept from recognizing him.",
+    "verses": {
+      "kjv": "And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?"
+    }
   },
   {
     "id": "APO-H-0008",
@@ -149,7 +170,10 @@
       "chapter": 17,
       "verse": "14-15"
     },
-    "explanation": "Silas and Timothy stayed in Berea while Paul went to Athens, then joined him later."
+    "explanation": "Silas and Timothy stayed in Berea while Paul went to Athens, then joined him later.",
+    "verses": {
+      "kjv": "And then immediately the brethren sent away Paul to go as it were to the sea: but Silas and Timotheus abode there still.\nAnd they that conducted Paul brought him unto Athens: and receiving a commandment unto Silas and Timotheus for to come to him with all speed, they departed."
+    }
   },
   {
     "id": "APO-H-0009",
@@ -168,7 +192,10 @@
       "chapter": 1,
       "verse": "18"
     },
-    "explanation": "Three years later Paul went up to Jerusalem to get acquainted with Peter."
+    "explanation": "Three years later Paul went up to Jerusalem to get acquainted with Peter.",
+    "verses": {
+      "kjv": "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days."
+    }
   },
   {
     "id": "APO-H-0010",
@@ -187,7 +214,10 @@
       "chapter": 6,
       "verse": "15"
     },
-    "explanation": "Matthew, Thomas, James son of Alphaeus, Simon who was called the Zealot."
+    "explanation": "Matthew, Thomas, James son of Alphaeus, Simon who was called the Zealot.",
+    "verses": {
+      "kjv": "Matthew and Thomas, James the\nson of Alphaeus, and Simon called Zelotes,"
+    }
   },
   {
     "id": "APO-H-0011",
@@ -206,7 +236,10 @@
       "chapter": 1,
       "verse": "45"
     },
-    "explanation": "Philip found Nathanael and told him, 'We have found the one Moses wrote about in the Law.'"
+    "explanation": "Philip found Nathanael and told him, 'We have found the one Moses wrote about in the Law.'",
+    "verses": {
+      "kjv": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph."
+    }
   },
   {
     "id": "APO-H-0012",
@@ -225,7 +258,10 @@
       "chapter": 15,
       "verse": "40"
     },
-    "explanation": "Among them were Mary Magdalene, Mary the mother of James the younger and of Joseph, and Salome."
+    "explanation": "Among them were Mary Magdalene, Mary the mother of James the younger and of Joseph, and Salome.",
+    "verses": {
+      "kjv": "There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;"
+    }
   },
   {
     "id": "APO-H-0013",
@@ -244,7 +280,10 @@
       "chapter": 6,
       "verse": "7"
     },
-    "explanation": "Philip answered him, 'It would take more than half a year's wages to buy enough bread for each one to have a bite!'"
+    "explanation": "Philip answered him, 'It would take more than half a year's wages to buy enough bread for each one to have a bite!'",
+    "verses": {
+      "kjv": "Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little."
+    }
   },
   {
     "id": "APO-H-0014",
@@ -263,7 +302,10 @@
       "chapter": 2,
       "verse": "14"
     },
-    "explanation": "As he walked along, he saw Levi son of Alphaeus sitting at the tax collector's booth."
+    "explanation": "As he walked along, he saw Levi son of Alphaeus sitting at the tax collector's booth.",
+    "verses": {
+      "kjv": "And as he passed by, he saw Levi the\nson of Alphaeus sitting at the receipt of custom, and said unto him,\nFollow me. And he arose and followed him."
+    }
   },
   {
     "id": "APO-H-0015",
@@ -282,7 +324,10 @@
       "chapter": 11,
       "verse": "16"
     },
-    "explanation": "Then Thomas (also known as Didymus) said to the rest of the disciples, 'Let us also go, that we may die with him.'"
+    "explanation": "Then Thomas (also known as Didymus) said to the rest of the disciples, 'Let us also go, that we may die with him.'",
+    "verses": {
+      "kjv": "Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him."
+    }
   },
   {
     "id": "APO-H-0016",
@@ -301,7 +346,10 @@
       "chapter": 12,
       "verse": "21-22"
     },
-    "explanation": "They came to Philip with a request. 'Sir,' they said, 'we would like to see Jesus.' Philip went to tell Andrew; Andrew and Philip in turn told Jesus."
+    "explanation": "They came to Philip with a request. 'Sir,' they said, 'we would like to see Jesus.' Philip went to tell Andrew; Andrew and Philip in turn told Jesus.",
+    "verses": {
+      "kjv": "The same came therefore to Philip, which was of Bethsaida of Galilee, and desired him, saying, Sir, we would see Jesus.\nPhilip cometh and telleth Andrew: and again Andrew and Philip tell Jesus."
+    }
   },
   {
     "id": "APO-H-0017",
@@ -320,7 +368,10 @@
       "chapter": 14,
       "verse": "8"
     },
-    "explanation": "Philip said, 'Lord, show us the Father and that will be enough for us.'"
+    "explanation": "Philip said, 'Lord, show us the Father and that will be enough for us.'",
+    "verses": {
+      "kjv": "Philip saith unto him, Lord, shew us the Father, and it sufficeth us."
+    }
   },
   {
     "id": "APO-H-0025",
@@ -339,7 +390,10 @@
       "chapter": 20,
       "verse": "24"
     },
-    "explanation": "Now Thomas (also known as Didymus), one of the Twelve, was not with the disciples when Jesus came."
+    "explanation": "Now Thomas (also known as Didymus), one of the Twelve, was not with the disciples when Jesus came.",
+    "verses": {
+      "kjv": "But Thomas, one of the twelve, called Didymus, was not with them when Jesus came."
+    }
   },
   {
     "id": "APO-H-0026",
@@ -358,6 +412,9 @@
       "chapter": 1,
       "verse": "44"
     },
-    "explanation": "Philip, like Andrew and Peter, was from the town of Bethsaida."
+    "explanation": "Philip, like Andrew and Peter, was from the town of Bethsaida.",
+    "verses": {
+      "kjv": "Now Philip was of Bethsaida, the city of Andrew and Peter."
+    }
   }
 ]

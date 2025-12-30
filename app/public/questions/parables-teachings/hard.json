@@ -16,7 +16,10 @@
       "chapter": 13,
       "verse": "44"
     },
-    "explanation": "Jesus simply calls it 'treasure' without specifying what it was; the kingdom of heaven is like this treasure."
+    "explanation": "Jesus simply calls it 'treasure' without specifying what it was; the kingdom of heaven is like this treasure.",
+    "verses": {
+      "kjv": "Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field."
+    }
   },
   {
     "id": "PAR-H-0002",
@@ -35,7 +38,10 @@
       "chapter": 16,
       "verse": "26"
     },
-    "explanation": "And besides all this, between us and you a great chasm has been set in place, so that those who want to go from here to you cannot, nor can anyone cross over from there to us."
+    "explanation": "And besides all this, between us and you a great chasm has been set in place, so that those who want to go from here to you cannot, nor can anyone cross over from there to us.",
+    "verses": {
+      "kjv": "And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that\nwould come from thence."
+    }
   },
   {
     "id": "PAR-H-0003",
@@ -54,7 +60,10 @@
       "chapter": 22,
       "verse": "13"
     },
-    "explanation": "Then the king told the attendants, 'Tie him hand and foot, and throw him outside, into the darkness, where there will be weeping and gnashing of teeth.'"
+    "explanation": "Then the king told the attendants, 'Tie him hand and foot, and throw him outside, into the darkness, where there will be weeping and gnashing of teeth.'",
+    "verses": {
+      "kjv": "Then said the king to the servants, Bind him hand and foot, and take him away, and cast\nhim into outer darkness; there shall be weeping and gnashing of teeth."
+    }
   },
   {
     "id": "PAR-H-0022",
@@ -73,7 +82,10 @@
       "chapter": 16,
       "verse": "5-7"
     },
-    "explanation": "The manager called in his master's debtors and reduced their bills so they would take care of him after he lost his job."
+    "explanation": "The manager called in his master's debtors and reduced their bills so they would take care of him after he lost his job.",
+    "verses": {
+      "kjv": "So he called every one of his lord’s debtors\nunto him,\n and said unto the first, How much owest thou unto my lord?\nAnd he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty.\nThen said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore."
+    }
   },
   {
     "id": "PAR-H-0023",
@@ -92,7 +104,10 @@
       "chapter": 18,
       "verse": "3"
     },
-    "explanation": "And there was a widow in that town who kept coming to him with the plea, 'Grant me justice against my adversary.'"
+    "explanation": "And there was a widow in that town who kept coming to him with the plea, 'Grant me justice against my adversary.'",
+    "verses": {
+      "kjv": "And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary."
+    }
   },
   {
     "id": "PAR-H-0024",
@@ -111,7 +126,10 @@
       "chapter": 12,
       "verse": "18"
     },
-    "explanation": "Then he said, 'This is what I'll do. I will tear down my barns and build bigger ones, and there I will store my surplus grain.'"
+    "explanation": "Then he said, 'This is what I'll do. I will tear down my barns and build bigger ones, and there I will store my surplus grain.'",
+    "verses": {
+      "kjv": "And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods."
+    }
   },
   {
     "id": "PAR-H-0025",
@@ -130,7 +148,10 @@
       "chapter": 20,
       "verse": "6"
     },
-    "explanation": "About five in the afternoon (the eleventh hour) he went out and found still others standing around."
+    "explanation": "About five in the afternoon (the eleventh hour) he went out and found still others standing around.",
+    "verses": {
+      "kjv": "And about the eleventh hour he went out, and found others standing idle, and saith unto them, Why stand ye here all the day idle?"
+    }
   },
   {
     "id": "PAR-H-0026",
@@ -149,6 +170,9 @@
       "chapter": 18,
       "verse": "24"
     },
-    "explanation": "As he began the settlement, a man who owed him ten thousand bags of gold was brought to him."
+    "explanation": "As he began the settlement, a man who owed him ten thousand bags of gold was brought to him.",
+    "verses": {
+      "kjv": "And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents."
+    }
   }
 ]

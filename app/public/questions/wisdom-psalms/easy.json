@@ -16,7 +16,10 @@
       "chapter": 1,
       "verse": "1"
     },
-    "explanation": "King David wrote approximately half of the 150 psalms in the book of Psalms."
+    "explanation": "King David wrote approximately half of the 150 psalms in the book of Psalms.",
+    "verses": {
+      "kjv": "Blessed\nis the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful."
+    }
   },
   {
     "id": "WIS-E-0002",
@@ -35,7 +38,10 @@
       "chapter": 9,
       "verse": "10"
     },
-    "explanation": "The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding."
+    "explanation": "The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding.",
+    "verses": {
+      "kjv": "The fear of the LORD\nis the beginning of wisdom: and the knowledge of the holy\nis understanding."
+    }
   },
   {
     "id": "WIS-E-0003",
@@ -54,7 +60,10 @@
       "chapter": 23,
       "verse": "1"
     },
-    "explanation": "Psalm 23 begins with 'The Lord is my shepherd, I shall not want,' expressing trust in God's provision."
+    "explanation": "Psalm 23 begins with 'The Lord is my shepherd, I shall not want,' expressing trust in God's provision.",
+    "verses": {
+      "kjv": "The LORD\nis my shepherd; I shall not want."
+    }
   },
   {
     "id": "WIS-E-0004",
@@ -73,7 +82,10 @@
       "chapter": 15,
       "verse": "1"
     },
-    "explanation": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+    "explanation": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+    "verses": {
+      "kjv": "A soft answer turneth away wrath: but grievous words stir up anger."
+    }
   },
   {
     "id": "WIS-E-0005",
@@ -92,7 +104,10 @@
       "chapter": 3,
       "verse": "5"
     },
-    "explanation": "This verse encourages complete trust in God rather than relying on our limited understanding."
+    "explanation": "This verse encourages complete trust in God rather than relying on our limited understanding.",
+    "verses": {
+      "kjv": "Trust in the LORD with all thine heart; and lean not unto thine own understanding."
+    }
   },
   {
     "id": "WIS-E-0006",
@@ -111,7 +126,10 @@
       "chapter": 1,
       "verse": "1"
     },
-    "explanation": "The book of Job tells the story of a righteous man's suffering and his dialogue with God and his friends."
+    "explanation": "The book of Job tells the story of a righteous man's suffering and his dialogue with God and his friends.",
+    "verses": {
+      "kjv": "There was a man in the land of Uz, whose name\nwas Job; and that man was perfect and upright, and one that feared God, and eschewed evil."
+    }
   },
   {
     "id": "WIS-E-0007",
@@ -130,7 +148,10 @@
       "chapter": 1,
       "verse": "2"
     },
-    "explanation": "Blessed is the one who delights in the law of the Lord and meditates on it day and night."
+    "explanation": "Blessed is the one who delights in the law of the Lord and meditates on it day and night.",
+    "verses": {
+      "kjv": "But his delight\nis in the law of the LORD; and in his law doth he meditate day and night."
+    }
   },
   {
     "id": "WIS-E-0008",
@@ -149,7 +170,10 @@
       "chapter": 1,
       "verse": "2"
     },
-    "explanation": "Ecclesiastes begins with the Teacher declaring the vanity and meaninglessness of worldly pursuits."
+    "explanation": "Ecclesiastes begins with the Teacher declaring the vanity and meaninglessness of worldly pursuits.",
+    "verses": {
+      "kjv": "Vanity of vanities, saith the Preacher, vanity of vanities; all\nis vanity."
+    }
   },
   {
     "id": "WIS-E-0009",
@@ -168,7 +192,10 @@
       "chapter": 19,
       "verse": "1"
     },
-    "explanation": "The heavens declare the glory of God; the skies proclaim the work of his hands."
+    "explanation": "The heavens declare the glory of God; the skies proclaim the work of his hands.",
+    "verses": {
+      "kjv": "The heavens declare the glory of God; and the firmament sheweth his handywork."
+    }
   },
   {
     "id": "WIS-E-0010",
@@ -187,7 +214,10 @@
       "chapter": 22,
       "verse": "6"
     },
-    "explanation": "Train up a child in the way he should go, and when he is old he will not depart from it."
+    "explanation": "Train up a child in the way he should go, and when he is old he will not depart from it.",
+    "verses": {
+      "kjv": "Train up a child in the way he should go: and when he is old, he will not depart from it."
+    }
   },
   {
     "id": "WIS-E-0011",
@@ -206,7 +236,10 @@
       "chapter": 119,
       "verse": "105"
     },
-    "explanation": "Your word is a lamp for my feet, a light on my path."
+    "explanation": "Your word is a lamp for my feet, a light on my path.",
+    "verses": {
+      "kjv": "Thy word\nis a lamp unto my feet, and a light unto my path."
+    }
   },
   {
     "id": "WIS-E-0012",
@@ -225,7 +258,10 @@
       "chapter": 16,
       "verse": "18"
     },
-    "explanation": "Pride goes before destruction, a haughty spirit before a fall."
+    "explanation": "Pride goes before destruction, a haughty spirit before a fall.",
+    "verses": {
+      "kjv": "Pride\ngoeth before destruction, and an haughty spirit before a fall."
+    }
   },
   {
     "id": "WIS-E-0013",
@@ -244,7 +280,10 @@
       "chapter": 1,
       "verse": "1"
     },
-    "explanation": "Job was blameless and upright, yet suffered greatly, raising questions about suffering and God's justice."
+    "explanation": "Job was blameless and upright, yet suffered greatly, raising questions about suffering and God's justice.",
+    "verses": {
+      "kjv": "There was a man in the land of Uz, whose name\nwas Job; and that man was perfect and upright, and one that feared God, and eschewed evil."
+    }
   },
   {
     "id": "WIS-E-0014",
@@ -263,7 +302,10 @@
       "chapter": 3,
       "verse": "1"
     },
-    "explanation": "There is a time for everything, and a season for every activity under the heavens."
+    "explanation": "There is a time for everything, and a season for every activity under the heavens.",
+    "verses": {
+      "kjv": "To every\nthing there is a season, and a time to every purpose under the heaven:"
+    }
   },
   {
     "id": "WIS-E-0015",
@@ -282,7 +324,10 @@
       "chapter": 100,
       "verse": "1"
     },
-    "explanation": "Make a joyful noise unto the Lord, all ye lands."
+    "explanation": "Make a joyful noise unto the Lord, all ye lands.",
+    "verses": {
+      "kjv": "Make a joyful noise unto the LORD, all ye lands."
+    }
   },
   {
     "id": "WIS-E-0016",
@@ -301,7 +346,10 @@
       "chapter": 16,
       "verse": "16"
     },
-    "explanation": "How much better to get wisdom than gold, to get insight rather than silver!"
+    "explanation": "How much better to get wisdom than gold, to get insight rather than silver!",
+    "verses": {
+      "kjv": "How much better\nis it to get wisdom than gold! and to get understanding rather to be chosen than silver!"
+    }
   },
   {
     "id": "WIS-E-0017",
@@ -320,7 +368,10 @@
       "chapter": 1,
       "verse": "7"
     },
-    "explanation": "The fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction."
+    "explanation": "The fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction.",
+    "verses": {
+      "kjv": "The fear of the LORD\nis the beginning of knowledge:\nbut\n fools despise wisdom and instruction."
+    }
   },
   {
     "id": "WIS-E-0018",
@@ -339,7 +390,10 @@
       "chapter": 23,
       "verse": "4"
     },
-    "explanation": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me."
+    "explanation": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me.",
+    "verses": {
+      "kjv": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou\nart with me; thy rod and thy staff they comfort me."
+    }
   },
   {
     "id": "WIS-E-0019",
@@ -358,7 +412,10 @@
       "chapter": 15,
       "verse": "1"
     },
-    "explanation": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+    "explanation": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+    "verses": {
+      "kjv": "A soft answer turneth away wrath: but grievous words stir up anger."
+    }
   },
   {
     "id": "WIS-E-0020",
@@ -377,7 +434,10 @@
       "chapter": 1,
       "verse": "2"
     },
-    "explanation": "But whose delight is in the law of the Lord, and who meditates on his law day and night."
+    "explanation": "But whose delight is in the law of the Lord, and who meditates on his law day and night.",
+    "verses": {
+      "kjv": "But his delight\nis in the law of the LORD; and in his law doth he meditate day and night."
+    }
   },
   {
     "id": "WIS-E-0021",
@@ -396,7 +456,10 @@
       "chapter": 119,
       "verse": "105"
     },
-    "explanation": "Your word is a lamp for my feet, a light on my path."
+    "explanation": "Your word is a lamp for my feet, a light on my path.",
+    "verses": {
+      "kjv": "Thy word\nis a lamp unto my feet, and a light unto my path."
+    }
   },
   {
     "id": "WIS-E-0022",
@@ -415,7 +478,10 @@
       "chapter": 16,
       "verse": "18"
     },
-    "explanation": "Pride goes before destruction, a haughty spirit before a fall."
+    "explanation": "Pride goes before destruction, a haughty spirit before a fall.",
+    "verses": {
+      "kjv": "Pride\ngoeth before destruction, and an haughty spirit before a fall."
+    }
   },
   {
     "id": "WIS-E-0023",
@@ -434,7 +500,10 @@
       "chapter": 1,
       "verse": "1"
     },
-    "explanation": "The proverbs of Solomon son of David, king of Israel."
+    "explanation": "The proverbs of Solomon son of David, king of Israel.",
+    "verses": {
+      "kjv": "The proverbs of Solomon the son of David, king of Israel;"
+    }
   },
   {
     "id": "WIS-E-0024",
@@ -453,7 +522,10 @@
       "chapter": 23,
       "verse": "1"
     },
-    "explanation": "The Lord is my shepherd, I lack nothing."
+    "explanation": "The Lord is my shepherd, I lack nothing.",
+    "verses": {
+      "kjv": "The LORD\nis my shepherd; I shall not want."
+    }
   },
   {
     "id": "WIS-E-0025",
@@ -472,7 +544,10 @@
       "chapter": 46,
       "verse": "10"
     },
-    "explanation": "He says, 'Be still, and know that I am God; I will be exalted among the nations.'"
+    "explanation": "He says, 'Be still, and know that I am God; I will be exalted among the nations.'",
+    "verses": {
+      "kjv": "Be still, and know that I\nam God: I will be exalted among the heathen, I will be exalted in the earth."
+    }
   },
   {
     "id": "WIS-E-0026",
@@ -491,7 +566,10 @@
       "chapter": 3,
       "verse": "1"
     },
-    "explanation": "There is a time for everything, and a season for every activity under the heavens."
+    "explanation": "There is a time for everything, and a season for every activity under the heavens.",
+    "verses": {
+      "kjv": "To every\nthing there is a season, and a time to every purpose under the heaven:"
+    }
   },
   {
     "id": "WIS-E-0027",
@@ -510,7 +588,10 @@
       "chapter": 22,
       "verse": "6"
     },
-    "explanation": "Start children off on the way they should go, and even when they are old they will not turn from it."
+    "explanation": "Start children off on the way they should go, and even when they are old they will not turn from it.",
+    "verses": {
+      "kjv": "Train up a child in the way he should go: and when he is old, he will not depart from it."
+    }
   },
   {
     "id": "WIS-E-0028",
@@ -529,7 +610,10 @@
       "chapter": 139,
       "verse": "2"
     },
-    "explanation": "You know when I sit and when I rise; you perceive my thoughts from afar."
+    "explanation": "You know when I sit and when I rise; you perceive my thoughts from afar.",
+    "verses": {
+      "kjv": "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off."
+    }
   },
   {
     "id": "WIS-E-0029",
@@ -548,7 +632,10 @@
       "chapter": 42,
       "verse": "1"
     },
-    "explanation": "As the deer pants for streams of water, so my soul pants for you, my God."
+    "explanation": "As the deer pants for streams of water, so my soul pants for you, my God.",
+    "verses": {
+      "kjv": "As the hart panteth after the water brooks, so panteth my soul after thee, O God."
+    }
   },
   {
     "id": "WIS-E-0030",
@@ -567,7 +654,10 @@
       "chapter": 1,
       "verse": "2"
     },
-    "explanation": "'Meaningless! Meaningless!' says the Teacher. 'Utterly meaningless! Everything is meaningless.'"
+    "explanation": "'Meaningless! Meaningless!' says the Teacher. 'Utterly meaningless! Everything is meaningless.'",
+    "verses": {
+      "kjv": "Vanity of vanities, saith the Preacher, vanity of vanities; all\nis vanity."
+    }
   },
   {
     "id": "WIS-E-0031",
@@ -586,7 +676,10 @@
       "chapter": 3,
       "verse": "14"
     },
-    "explanation": "For she is more profitable than silver and yields better returns than gold."
+    "explanation": "For she is more profitable than silver and yields better returns than gold.",
+    "verses": {
+      "kjv": "For the merchandise of it\nis better than the merchandise of silver, and the gain thereof than fine gold."
+    }
   },
   {
     "id": "WIS-E-0032",
@@ -605,7 +698,10 @@
       "chapter": 1,
       "verse": "2"
     },
-    "explanation": "But whose delight is in the law of the Lord, and who meditates on his law day and night."
+    "explanation": "But whose delight is in the law of the Lord, and who meditates on his law day and night.",
+    "verses": {
+      "kjv": "But his delight\nis in the law of the LORD; and in his law doth he meditate day and night."
+    }
   },
   {
     "id": "WIS-E-0033",
@@ -624,7 +720,10 @@
       "chapter": 23,
       "verse": "1"
     },
-    "explanation": "The Lord is my shepherd, I lack nothing."
+    "explanation": "The Lord is my shepherd, I lack nothing.",
+    "verses": {
+      "kjv": "The LORD\nis my shepherd; I shall not want."
+    }
   },
   {
     "id": "WIS-E-0034",
@@ -643,7 +742,10 @@
       "chapter": 15,
       "verse": "1"
     },
-    "explanation": "A soft answer turns away wrath, but a harsh word stirs up anger."
+    "explanation": "A soft answer turns away wrath, but a harsh word stirs up anger.",
+    "verses": {
+      "kjv": "A soft answer turneth away wrath: but grievous words stir up anger."
+    }
   },
   {
     "id": "WIS-E-0035",
@@ -662,7 +764,10 @@
       "chapter": 46,
       "verse": "1"
     },
-    "explanation": "God is our refuge and strength, an ever-present help in trouble."
+    "explanation": "God is our refuge and strength, an ever-present help in trouble.",
+    "verses": {
+      "kjv": "God\nis our refuge and strength, a very present help in trouble."
+    }
   },
   {
     "id": "WIS-E-0036",
@@ -681,7 +786,10 @@
       "chapter": 119,
       "verse": "105"
     },
-    "explanation": "Your word is a lamp for my feet, a light on my path."
+    "explanation": "Your word is a lamp for my feet, a light on my path.",
+    "verses": {
+      "kjv": "Thy word\nis a lamp unto my feet, and a light unto my path."
+    }
   },
   {
     "id": "WIS-E-0037",
@@ -700,7 +808,10 @@
       "chapter": 100,
       "verse": "4"
     },
-    "explanation": "Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name."
+    "explanation": "Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name.",
+    "verses": {
+      "kjv": "Enter into his gates with thanksgiving,\nand into his courts with praise: be thankful unto him,\nand bless his name."
+    }
   },
   {
     "id": "WIS-E-0038",
@@ -719,7 +830,10 @@
       "chapter": 147,
       "verse": "3"
     },
-    "explanation": "He heals the brokenhearted and binds up their wounds."
+    "explanation": "He heals the brokenhearted and binds up their wounds.",
+    "verses": {
+      "kjv": "He healeth the broken in heart, and bindeth up their wounds."
+    }
   },
   {
     "id": "WIS-E-0039",
@@ -738,7 +852,10 @@
       "chapter": 18,
       "verse": "21"
     },
-    "explanation": "The tongue has the power of life and death, and those who love it will eat its fruit."
+    "explanation": "The tongue has the power of life and death, and those who love it will eat its fruit.",
+    "verses": {
+      "kjv": "Death and life\nare in the power of the tongue: and they that love it shall eat the fruit thereof."
+    }
   },
   {
     "id": "WIS-E-0040",
@@ -757,7 +874,10 @@
       "chapter": 34,
       "verse": "18"
     },
-    "explanation": "The Lord is close to the brokenhearted and saves those who are crushed in spirit."
+    "explanation": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+    "verses": {
+      "kjv": "The LORD\nis nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."
+    }
   },
   {
     "id": "WIS-E-0041",
@@ -776,7 +896,10 @@
       "chapter": 3,
       "verse": "5"
     },
-    "explanation": "Trust in the Lord with all your heart and lean not on your own understanding."
+    "explanation": "Trust in the Lord with all your heart and lean not on your own understanding.",
+    "verses": {
+      "kjv": "Trust in the LORD with all thine heart; and lean not unto thine own understanding."
+    }
   },
   {
     "id": "WIS-E-0025",
@@ -795,7 +918,10 @@
       "chapter": 23,
       "verse": "1"
     },
-    "explanation": "The Lord is my shepherd, I shall not want. This is one of the most famous verses in the Bible."
+    "explanation": "The Lord is my shepherd, I shall not want. This is one of the most famous verses in the Bible.",
+    "verses": {
+      "kjv": "The LORD\nis my shepherd; I shall not want."
+    }
   },
   {
     "id": "WIS-E-0026",
@@ -814,7 +940,10 @@
       "chapter": 9,
       "verse": "10"
     },
-    "explanation": "The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding."
+    "explanation": "The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding.",
+    "verses": {
+      "kjv": "The fear of the LORD\nis the beginning of wisdom: and the knowledge of the holy\nis understanding."
+    }
   },
   {
     "id": "WIS-E-0027",
@@ -833,6 +962,9 @@
       "chapter": 1,
       "verse": "4"
     },
-    "explanation": "Not so the wicked! They are like chaff that the wind blows away."
+    "explanation": "Not so the wicked! They are like chaff that the wind blows away.",
+    "verses": {
+      "kjv": "The ungodly\nare not so: but\nare like the chaff which the wind driveth away."
+    }
   }
 ]

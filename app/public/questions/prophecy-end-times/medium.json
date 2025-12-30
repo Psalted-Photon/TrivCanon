@@ -16,7 +16,10 @@
       "chapter": 6,
       "verse": "8"
     },
-    "explanation": "Death rides a pale horse, and Hades follows with him, representing death and the grave."
+    "explanation": "Death rides a pale horse, and Hades follows with him, representing death and the grave.",
+    "verses": {
+      "kjv": "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth."
+    }
   },
   {
     "id": "END-M-0002",
@@ -35,7 +38,10 @@
       "chapter": 5,
       "verse": "1"
     },
-    "explanation": "The scroll sealed with seven seals is opened by the Lamb, revealing judgments and prophecies."
+    "explanation": "The scroll sealed with seven seals is opened by the Lamb, revealing judgments and prophecies.",
+    "verses": {
+      "kjv": "And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals."
+    }
   },
   {
     "id": "END-M-0003",
@@ -54,7 +60,10 @@
       "chapter": 4,
       "verse": "4"
     },
-    "explanation": "Twenty-four elders sit on thrones around God's throne, dressed in white with golden crowns."
+    "explanation": "Twenty-four elders sit on thrones around God's throne, dressed in white with golden crowns.",
+    "verses": {
+      "kjv": "And round about the throne\nwere four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold."
+    }
   },
   {
     "id": "END-M-0004",
@@ -73,7 +82,10 @@
       "chapter": 7,
       "verse": "4"
     },
-    "explanation": "144,000 from all the tribes of Israel will be sealed, 12,000 from each tribe."
+    "explanation": "144,000 from all the tribes of Israel will be sealed, 12,000 from each tribe.",
+    "verses": {
+      "kjv": "And I heard the number of them which were sealed:\nand there were\n sealed an hundred\nand forty\nand four thousand of all the tribes of the children of Israel."
+    }
   },
   {
     "id": "END-M-0005",
@@ -92,7 +104,10 @@
       "chapter": 6,
       "verse": "1-8"
     },
-    "explanation": "The four horsemen ride white, red, black, and pale horses, representing conquest, war, famine, and death."
+    "explanation": "The four horsemen ride white, red, black, and pale horses, representing conquest, war, famine, and death.",
+    "verses": {
+      "kjv": "And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.\nAnd I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer.\nAnd when he had opened the second seal, I heard the second beast say, Come and see.\nAnd there went out another horse\nthat was red: and\npower\n was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword.\nAnd when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand.\nAnd I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and\nsee\n thou hurt not the oil and the wine.\nAnd when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.\nAnd I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth."
+    }
   },
   {
     "id": "END-M-0006",
@@ -111,7 +126,10 @@
       "chapter": 24,
       "verse": "30"
     },
-    "explanation": "Jesus said the sign of the Son of Man will appear in heaven, and all nations will see Him coming on the clouds."
+    "explanation": "Jesus said the sign of the Son of Man will appear in heaven, and all nations will see Him coming on the clouds.",
+    "verses": {
+      "kjv": "And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory."
+    }
   },
   {
     "id": "END-M-0007",
@@ -130,7 +148,10 @@
       "chapter": 8,
       "verse": "2"
     },
-    "explanation": "Seven angels were given seven trumpets, each bringing judgment when blown."
+    "explanation": "Seven angels were given seven trumpets, each bringing judgment when blown.",
+    "verses": {
+      "kjv": "And I saw the seven angels which stood before God; and to them were given seven trumpets."
+    }
   },
   {
     "id": "END-M-0008",
@@ -149,7 +170,10 @@
       "chapter": 7,
       "verse": "3"
     },
-    "explanation": "Daniel saw four great beasts coming up out of the sea, representing different kingdoms."
+    "explanation": "Daniel saw four great beasts coming up out of the sea, representing different kingdoms.",
+    "verses": {
+      "kjv": "And four great beasts came up from the sea, diverse one from another."
+    }
   },
   {
     "id": "END-M-0009",
@@ -168,7 +192,10 @@
       "chapter": 21,
       "verse": "22"
     },
-    "explanation": "There will be no temple in the New Jerusalem because the Lord God Almighty and the Lamb are its temple."
+    "explanation": "There will be no temple in the New Jerusalem because the Lord God Almighty and the Lamb are its temple.",
+    "verses": {
+      "kjv": "And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it."
+    }
   },
   {
     "id": "END-M-0010",
@@ -187,7 +214,10 @@
       "chapter": 20,
       "verse": "14"
     },
-    "explanation": "Death and Hades were thrown into the lake of fire. This is the second death."
+    "explanation": "Death and Hades were thrown into the lake of fire. This is the second death.",
+    "verses": {
+      "kjv": "And death and hell were cast into the lake of fire. This is the second death."
+    }
   },
   {
     "id": "END-M-0011",
@@ -206,7 +236,10 @@
       "chapter": 24,
       "verse": "29"
     },
-    "explanation": "Immediately after the tribulation, the sun will be darkened and the moon will not give its light."
+    "explanation": "Immediately after the tribulation, the sun will be darkened and the moon will not give its light.",
+    "verses": {
+      "kjv": "Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:"
+    }
   },
   {
     "id": "END-M-0012",
@@ -225,7 +258,10 @@
       "chapter": 17,
       "verse": "5"
     },
-    "explanation": "Babylon the Great represents evil, while the New Jerusalem represents God's kingdom."
+    "explanation": "Babylon the Great represents evil, while the New Jerusalem represents God's kingdom.",
+    "verses": {
+      "kjv": "And upon her forehead\nwas a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH."
+    }
   },
   {
     "id": "END-M-0013",
@@ -244,7 +280,10 @@
       "chapter": 20,
       "verse": "6"
     },
-    "explanation": "They will be priests of God and of Christ and will reign with him for a thousand years."
+    "explanation": "They will be priests of God and of Christ and will reign with him for a thousand years.",
+    "verses": {
+      "kjv": "Blessed and holy\nis he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years."
+    }
   },
   {
     "id": "END-M-0014",
@@ -263,7 +302,10 @@
       "chapter": 18,
       "verse": "11"
     },
-    "explanation": "The merchants of the earth will weep and mourn over Babylon because no one buys their cargoes anymore."
+    "explanation": "The merchants of the earth will weep and mourn over Babylon because no one buys their cargoes anymore.",
+    "verses": {
+      "kjv": "And the merchants of the earth shall weep and mourn over her; for no man buyeth their merchandise any more:"
+    }
   },
   {
     "id": "END-M-0015",
@@ -282,7 +324,10 @@
       "chapter": 19,
       "verse": "15"
     },
-    "explanation": "Coming out of his mouth is a sharp sword with which to strike down the nations."
+    "explanation": "Coming out of his mouth is a sharp sword with which to strike down the nations.",
+    "verses": {
+      "kjv": "And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God."
+    }
   },
   {
     "id": "END-M-0016",
@@ -301,7 +346,10 @@
       "chapter": 20,
       "verse": "2"
     },
-    "explanation": "He seized the dragon, that ancient serpent who is Satan, and bound him for a thousand years."
+    "explanation": "He seized the dragon, that ancient serpent who is Satan, and bound him for a thousand years.",
+    "verses": {
+      "kjv": "And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,"
+    }
   },
   {
     "id": "END-M-0017",
@@ -320,7 +368,10 @@
       "chapter": 19,
       "verse": "11"
     },
-    "explanation": "I saw heaven standing open and there before me was a white horse, whose rider is called Faithful and True."
+    "explanation": "I saw heaven standing open and there before me was a white horse, whose rider is called Faithful and True.",
+    "verses": {
+      "kjv": "And I saw heaven opened, and behold a white horse; and he that sat upon him\nwas called Faithful and True, and in righteousness he doth judge and make war."
+    }
   },
   {
     "id": "END-M-0018",
@@ -339,7 +390,10 @@
       "chapter": 4,
       "verse": "16"
     },
-    "explanation": "The dead in Christ will rise first. After that, we who are still alive will be caught up together with them."
+    "explanation": "The dead in Christ will rise first. After that, we who are still alive will be caught up together with them.",
+    "verses": {
+      "kjv": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:"
+    }
   },
   {
     "id": "END-M-0019",
@@ -358,7 +412,10 @@
       "chapter": 5,
       "verse": "1"
     },
-    "explanation": "Then I saw in the right hand of him who sat on the throne a scroll with writing on both sides and sealed with seven seals."
+    "explanation": "Then I saw in the right hand of him who sat on the throne a scroll with writing on both sides and sealed with seven seals.",
+    "verses": {
+      "kjv": "And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals."
+    }
   },
   {
     "id": "END-M-0020",
@@ -377,7 +434,10 @@
       "chapter": 8,
       "verse": "2"
     },
-    "explanation": "And I saw the seven angels who stand before God, and seven trumpets were given to them."
+    "explanation": "And I saw the seven angels who stand before God, and seven trumpets were given to them.",
+    "verses": {
+      "kjv": "And I saw the seven angels which stood before God; and to them were given seven trumpets."
+    }
   },
   {
     "id": "END-M-0021",
@@ -396,7 +456,10 @@
       "chapter": 4,
       "verse": "16"
     },
-    "explanation": "For the Lord himself will come down from heaven, and the dead in Christ will rise first."
+    "explanation": "For the Lord himself will come down from heaven, and the dead in Christ will rise first.",
+    "verses": {
+      "kjv": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:"
+    }
   },
   {
     "id": "END-M-0022",
@@ -415,7 +478,10 @@
       "chapter": 6,
       "verse": "2"
     },
-    "explanation": "John saw the four horsemen of the apocalypse representing conquest, war, famine, and death."
+    "explanation": "John saw the four horsemen of the apocalypse representing conquest, war, famine, and death.",
+    "verses": {
+      "kjv": "And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer."
+    }
   },
   {
     "id": "END-M-0023",
@@ -434,7 +500,10 @@
       "chapter": 8,
       "verse": "2"
     },
-    "explanation": "And I saw the seven angels who stand before God, and seven trumpets were given to them."
+    "explanation": "And I saw the seven angels who stand before God, and seven trumpets were given to them.",
+    "verses": {
+      "kjv": "And I saw the seven angels which stood before God; and to them were given seven trumpets."
+    }
   },
   {
     "id": "END-M-0024",
@@ -453,7 +522,10 @@
       "chapter": 21,
       "verse": "23"
     },
-    "explanation": "The city does not need the sun or moon to shine on it, for the glory of God gives it light."
+    "explanation": "The city does not need the sun or moon to shine on it, for the glory of God gives it light.",
+    "verses": {
+      "kjv": "And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb\nis the light thereof."
+    }
   },
   {
     "id": "END-M-0025",
@@ -472,7 +544,10 @@
       "chapter": 8,
       "verse": "10"
     },
-    "explanation": "A great star, blazing like a torch, fell from the sky on a third of the rivers."
+    "explanation": "A great star, blazing like a torch, fell from the sky on a third of the rivers.",
+    "verses": {
+      "kjv": "And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters;"
+    }
   },
   {
     "id": "END-M-0026",
@@ -491,7 +566,10 @@
       "chapter": 16,
       "verse": "2"
     },
-    "explanation": "The first angel poured out his bowl, and ugly, festering sores broke out on those who had the mark of the beast."
+    "explanation": "The first angel poured out his bowl, and ugly, festering sores broke out on those who had the mark of the beast.",
+    "verses": {
+      "kjv": "And the first went, and poured out his vial upon the earth; and there fell a noisome and grievous sore upon the men which had the mark of the beast, and\nupon them which worshipped his image."
+    }
   },
   {
     "id": "END-M-0027",
@@ -510,7 +588,10 @@
       "chapter": 21,
       "verse": "12"
     },
-    "explanation": "It had a great, high wall with twelve gates, and with twelve angels at the gates."
+    "explanation": "It had a great, high wall with twelve gates, and with twelve angels at the gates.",
+    "verses": {
+      "kjv": "And had a wall great and high,\nand had twelve gates, and at the gates twelve angels, and names written thereon, which are\nthe names\n of the twelve tribes of the children of Israel:"
+    }
   },
   {
     "id": "END-M-0028",
@@ -529,7 +610,10 @@
       "chapter": 13,
       "verse": "1"
     },
-    "explanation": "The dragon stood on the shore of the sea. And I saw a beast coming out of the sea. It had ten horns and seven heads."
+    "explanation": "The dragon stood on the shore of the sea. And I saw a beast coming out of the sea. It had ten horns and seven heads.",
+    "verses": {
+      "kjv": "And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy."
+    }
   },
   {
     "id": "END-M-0029",
@@ -548,7 +632,10 @@
       "chapter": 21,
       "verse": "12"
     },
-    "explanation": "It had a great, high wall with twelve gates, and with twelve angels at the gates. On the gates were written the names of the twelve tribes of Israel."
+    "explanation": "It had a great, high wall with twelve gates, and with twelve angels at the gates. On the gates were written the names of the twelve tribes of Israel.",
+    "verses": {
+      "kjv": "And had a wall great and high,\nand had twelve gates, and at the gates twelve angels, and names written thereon, which are\nthe names\n of the twelve tribes of the children of Israel:"
+    }
   },
   {
     "id": "END-M-0030",
@@ -567,7 +654,10 @@
       "chapter": 20,
       "verse": "14"
     },
-    "explanation": "Then death and Hades were thrown into the lake of fire. The lake of fire is the second death."
+    "explanation": "Then death and Hades were thrown into the lake of fire. The lake of fire is the second death.",
+    "verses": {
+      "kjv": "And death and hell were cast into the lake of fire. This is the second death."
+    }
   },
   {
     "id": "END-M-0031",
@@ -586,7 +676,10 @@
       "chapter": 20,
       "verse": "2"
     },
-    "explanation": "He seized the dragon, that ancient serpent, who is the devil, or Satan, and bound him for a thousand years."
+    "explanation": "He seized the dragon, that ancient serpent, who is the devil, or Satan, and bound him for a thousand years.",
+    "verses": {
+      "kjv": "And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,"
+    }
   },
   {
     "id": "END-M-0032",
@@ -605,7 +698,10 @@
       "chapter": 22,
       "verse": "1"
     },
-    "explanation": "Then the angel showed me the river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb."
+    "explanation": "Then the angel showed me the river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb.",
+    "verses": {
+      "kjv": "And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb."
+    }
   },
   {
     "id": "END-M-0033",
@@ -624,7 +720,10 @@
       "chapter": 6,
       "verse": "4"
     },
-    "explanation": "Then another horse came out, a fiery red one. Its rider was given power to take peace from the earth and to make people kill each other."
+    "explanation": "Then another horse came out, a fiery red one. Its rider was given power to take peace from the earth and to make people kill each other.",
+    "verses": {
+      "kjv": "And there went out another horse\nthat was red: and\npower\n was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword."
+    }
   },
   {
     "id": "END-M-0034",
@@ -643,7 +742,10 @@
       "chapter": 6,
       "verse": "5"
     },
-    "explanation": "There before me was a black horse! Its rider was holding a pair of scales in his hand."
+    "explanation": "There before me was a black horse! Its rider was holding a pair of scales in his hand.",
+    "verses": {
+      "kjv": "And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand."
+    }
   },
   {
     "id": "END-M-0035",
@@ -662,7 +764,10 @@
       "chapter": 21,
       "verse": "2"
     },
-    "explanation": "I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband."
+    "explanation": "I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband.",
+    "verses": {
+      "kjv": "And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband."
+    }
   },
   {
     "id": "END-M-0036",
@@ -681,7 +786,10 @@
       "chapter": 6,
       "verse": "2"
     },
-    "explanation": "I looked, and there before me was a white horse! Its rider held a bow, and he was given a crown, and he rode out as a conqueror bent on conquest."
+    "explanation": "I looked, and there before me was a white horse! Its rider held a bow, and he was given a crown, and he rode out as a conqueror bent on conquest.",
+    "verses": {
+      "kjv": "And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer."
+    }
   },
   {
     "id": "END-M-0037",
@@ -700,7 +808,10 @@
       "chapter": 6,
       "verse": "5-6"
     },
-    "explanation": "Its rider was holding a pair of scales. Then I heard a voice say, 'Two pounds of wheat for a day's wages,' indicating famine."
+    "explanation": "Its rider was holding a pair of scales. Then I heard a voice say, 'Two pounds of wheat for a day's wages,' indicating famine.",
+    "verses": {
+      "kjv": "And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand.\nAnd I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and\nsee\n thou hurt not the oil and the wine."
+    }
   },
   {
     "id": "END-M-0026",
@@ -719,7 +830,10 @@
       "chapter": 4,
       "verse": "4"
     },
-    "explanation": "Surrounding the throne were twenty-four other thrones, and seated on them were twenty-four elders dressed in white."
+    "explanation": "Surrounding the throne were twenty-four other thrones, and seated on them were twenty-four elders dressed in white.",
+    "verses": {
+      "kjv": "And round about the throne\nwere four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold."
+    }
   },
   {
     "id": "END-M-0027",
@@ -738,6 +852,9 @@
       "chapter": 11,
       "verse": "4"
     },
-    "explanation": "They are the two olive trees and the two lampstands, and they stand before the Lord of the earth."
+    "explanation": "They are the two olive trees and the two lampstands, and they stand before the Lord of the earth.",
+    "verses": {
+      "kjv": "These are the two olive trees, and the two candlesticks standing before the God of the earth."
+    }
   }
 ]

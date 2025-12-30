@@ -16,7 +16,10 @@
       "chapter": 1,
       "verse": "2"
     },
-    "explanation": "The Teacher declares 'Vanity of vanities, all is vanity' to emphasize the fleeting nature of earthly pursuits."
+    "explanation": "The Teacher declares 'Vanity of vanities, all is vanity' to emphasize the fleeting nature of earthly pursuits.",
+    "verses": {
+      "kjv": "Vanity of vanities, saith the Preacher, vanity of vanities; all\nis vanity."
+    }
   },
   {
     "id": "WIS-M-0002",
@@ -35,7 +38,10 @@
       "chapter": 1,
       "verse": "7"
     },
-    "explanation": "The fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction."
+    "explanation": "The fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction.",
+    "verses": {
+      "kjv": "The fear of the LORD\nis the beginning of knowledge:\nbut\n fools despise wisdom and instruction."
+    }
   },
   {
     "id": "WIS-M-0003",
@@ -54,7 +60,10 @@
       "chapter": 150,
       "verse": "1"
     },
-    "explanation": "The book of Psalms contains 150 individual psalms, the last being Psalm 150."
+    "explanation": "The book of Psalms contains 150 individual psalms, the last being Psalm 150.",
+    "verses": {
+      "kjv": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power."
+    }
   },
   {
     "id": "WIS-M-0004",
@@ -73,7 +82,10 @@
       "chapter": 16,
       "verse": "32"
     },
-    "explanation": "Better a patient person than a warrior, one with self-control than one who takes a city."
+    "explanation": "Better a patient person than a warrior, one with self-control than one who takes a city.",
+    "verses": {
+      "kjv": "He that is slow to anger\nis better than the mighty; and he that ruleth his spirit than he that taketh a city."
+    }
   },
   {
     "id": "WIS-M-0005",
@@ -92,7 +104,10 @@
       "chapter": 3,
       "verse": "15"
     },
-    "explanation": "Wisdom is more precious than rubies, and nothing you desire can compare with her."
+    "explanation": "Wisdom is more precious than rubies, and nothing you desire can compare with her.",
+    "verses": {
+      "kjv": "She\nis more precious than rubies: and all the things thou canst desire are not to be compared unto her."
+    }
   },
   {
     "id": "WIS-M-0006",
@@ -111,7 +126,10 @@
       "chapter": 119,
       "verse": "1"
     },
-    "explanation": "Psalm 119 has 176 verses, making it the longest chapter in the Bible."
+    "explanation": "Psalm 119 has 176 verses, making it the longest chapter in the Bible.",
+    "verses": {
+      "kjv": "Blessed\nare the undefiled in the way, who walk in the law of the LORD."
+    }
   },
   {
     "id": "WIS-M-0007",
@@ -130,7 +148,10 @@
       "chapter": 26,
       "verse": "4"
     },
-    "explanation": "Do not answer a fool according to his folly, or you yourself will be just like him."
+    "explanation": "Do not answer a fool according to his folly, or you yourself will be just like him.",
+    "verses": {
+      "kjv": "Answer not a fool according to his folly, lest thou also be like unto him."
+    }
   },
   {
     "id": "WIS-M-0008",
@@ -149,7 +170,10 @@
       "chapter": 19,
       "verse": "25"
     },
-    "explanation": "I know that my redeemer lives, and that in the end he will stand on the earth."
+    "explanation": "I know that my redeemer lives, and that in the end he will stand on the earth.",
+    "verses": {
+      "kjv": "For I know\nthat my redeemer liveth, and\nthat he shall stand at the latter\nday upon the earth:"
+    }
   },
   {
     "id": "WIS-M-0009",
@@ -168,7 +192,10 @@
       "chapter": 43,
       "verse": "2"
     },
-    "explanation": "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you."
+    "explanation": "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you.",
+    "verses": {
+      "kjv": "When thou passest through the waters, I\nwill be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee."
+    }
   },
   {
     "id": "WIS-M-0010",
@@ -187,7 +214,10 @@
       "chapter": 46,
       "verse": "10"
     },
-    "explanation": "Be still, and know that I am God; I will be exalted among the nations."
+    "explanation": "Be still, and know that I am God; I will be exalted among the nations.",
+    "verses": {
+      "kjv": "Be still, and know that I\nam God: I will be exalted among the heathen, I will be exalted in the earth."
+    }
   },
   {
     "id": "WIS-M-0011",
@@ -206,7 +236,10 @@
       "chapter": 4,
       "verse": "23"
     },
-    "explanation": "Above all else, guard your heart, for everything you do flows from it."
+    "explanation": "Above all else, guard your heart, for everything you do flows from it.",
+    "verses": {
+      "kjv": "Keep thy heart with all diligence; for out of it\nare the issues of life."
+    }
   },
   {
     "id": "WIS-M-0012",
@@ -225,7 +258,10 @@
       "chapter": 6,
       "verse": "8"
     },
-    "explanation": "He has shown you what is good: To act justly and to love mercy and to walk humbly with your God."
+    "explanation": "He has shown you what is good: To act justly and to love mercy and to walk humbly with your God.",
+    "verses": {
+      "kjv": "He hath shewed thee, O man, what\nis good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?"
+    }
   },
   {
     "id": "WIS-M-0013",
@@ -244,7 +280,10 @@
       "chapter": 24,
       "verse": "1"
     },
-    "explanation": "The earth is the Lord's, and everything in it, the world, and all who live in it."
+    "explanation": "The earth is the Lord's, and everything in it, the world, and all who live in it.",
+    "verses": {
+      "kjv": "The earth\nis the LORD’S, and the fulness thereof; the world, and they that dwell therein."
+    }
   },
   {
     "id": "WIS-M-0014",
@@ -263,7 +302,10 @@
       "chapter": 15,
       "verse": "1"
     },
-    "explanation": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+    "explanation": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+    "verses": {
+      "kjv": "A soft answer turneth away wrath: but grievous words stir up anger."
+    }
   },
   {
     "id": "WIS-M-0015",
@@ -282,7 +324,10 @@
       "chapter": 100,
       "verse": "4"
     },
-    "explanation": "Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name."
+    "explanation": "Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name.",
+    "verses": {
+      "kjv": "Enter into his gates with thanksgiving,\nand into his courts with praise: be thankful unto him,\nand bless his name."
+    }
   },
   {
     "id": "WIS-M-0016",
@@ -301,7 +346,10 @@
       "chapter": 2,
       "verse": "11-12"
     },
-    "explanation": "Discretion will protect you, and understanding will guard you. Wisdom will save you from the ways of wicked men."
+    "explanation": "Discretion will protect you, and understanding will guard you. Wisdom will save you from the ways of wicked men.",
+    "verses": {
+      "kjv": "Discretion shall preserve thee, understanding shall keep thee:\nTo deliver thee from the way of the evil\nman, from the man that speaketh froward things;"
+    }
   },
   {
     "id": "WIS-M-0017",
@@ -320,7 +368,10 @@
       "chapter": 51,
       "verse": "10"
     },
-    "explanation": "Create in me a pure heart, O God, and renew a steadfast spirit within me."
+    "explanation": "Create in me a pure heart, O God, and renew a steadfast spirit within me.",
+    "verses": {
+      "kjv": "Create in me a clean heart, O God; and renew a right spirit within me."
+    }
   },
   {
     "id": "WIS-M-0018",
@@ -339,7 +390,10 @@
       "chapter": 11,
       "verse": "28"
     },
-    "explanation": "Those who trust in their riches will fall, but the righteous will thrive like a green leaf."
+    "explanation": "Those who trust in their riches will fall, but the righteous will thrive like a green leaf.",
+    "verses": {
+      "kjv": "He that trusteth in his riches shall fall: but the righteous shall flourish as a branch."
+    }
   },
   {
     "id": "WIS-M-0019",
@@ -358,7 +412,10 @@
       "chapter": 119,
       "verse": "105"
     },
-    "explanation": "Your word is a lamp for my feet, a light on my path. Psalm 119 is dedicated to praising God's Word."
+    "explanation": "Your word is a lamp for my feet, a light on my path. Psalm 119 is dedicated to praising God's Word.",
+    "verses": {
+      "kjv": "Thy word\nis a lamp unto my feet, and a light unto my path."
+    }
   },
   {
     "id": "WIS-M-0020",
@@ -377,7 +434,10 @@
       "chapter": 3,
       "verse": "13"
     },
-    "explanation": "That each of them may eat and drink, and find satisfaction in all their toil—this is the gift of God."
+    "explanation": "That each of them may eat and drink, and find satisfaction in all their toil—this is the gift of God.",
+    "verses": {
+      "kjv": "And also that every man should eat and drink, and enjoy the good of all his labour, it\nis the gift of God."
+    }
   },
   {
     "id": "WIS-M-0021",
@@ -396,7 +456,10 @@
       "chapter": 17,
       "verse": "22"
     },
-    "explanation": "A cheerful heart is good medicine, but a crushed spirit dries up the bones."
+    "explanation": "A cheerful heart is good medicine, but a crushed spirit dries up the bones.",
+    "verses": {
+      "kjv": "A merry heart doeth good\nlike a medicine: but a broken spirit drieth the bones."
+    }
   },
   {
     "id": "WIS-M-0022",
@@ -415,7 +478,10 @@
       "chapter": 21,
       "verse": "23"
     },
-    "explanation": "Those who guard their mouths and their tongues keep themselves from calamity."
+    "explanation": "Those who guard their mouths and their tongues keep themselves from calamity.",
+    "verses": {
+      "kjv": "Whoso keepeth his mouth and his tongue keepeth his soul from troubles."
+    }
   },
   {
     "id": "WIS-M-0023",
@@ -434,7 +500,10 @@
       "chapter": 22,
       "verse": "1"
     },
-    "explanation": "A good name is more desirable than great riches; to be esteemed is better than silver or gold."
+    "explanation": "A good name is more desirable than great riches; to be esteemed is better than silver or gold.",
+    "verses": {
+      "kjv": "A\ngood name\nis rather to be chosen than great riches,\nand loving favour rather than silver and gold."
+    }
   },
   {
     "id": "WIS-M-0024",
@@ -453,7 +522,10 @@
       "chapter": 20,
       "verse": "13"
     },
-    "explanation": "Do not love sleep or you will grow poor; stay awake and you will have food to spare."
+    "explanation": "Do not love sleep or you will grow poor; stay awake and you will have food to spare.",
+    "verses": {
+      "kjv": "Love not sleep, lest thou come to poverty; open thine eyes,\nand\n thou shalt be satisfied with bread."
+    }
   },
   {
     "id": "WIS-M-0025",
@@ -472,7 +544,10 @@
       "chapter": 15,
       "verse": "33"
     },
-    "explanation": "Wisdom's instruction is to fear the Lord, and humility comes before honor."
+    "explanation": "Wisdom's instruction is to fear the Lord, and humility comes before honor.",
+    "verses": {
+      "kjv": "The fear of the LORD\nis the instruction of wisdom; and before honour\nis humility."
+    }
   },
   {
     "id": "WIS-M-0026",
@@ -491,7 +566,10 @@
       "chapter": 21,
       "verse": "9"
     },
-    "explanation": "Better to live on a corner of the roof than share a house with a quarrelsome wife."
+    "explanation": "Better to live on a corner of the roof than share a house with a quarrelsome wife.",
+    "verses": {
+      "kjv": "It is better to dwell in a corner of the housetop, than with a brawling woman in a wide house."
+    }
   },
   {
     "id": "WIS-M-0027",
@@ -510,7 +588,10 @@
       "chapter": 29,
       "verse": "7"
     },
-    "explanation": "The righteous care about justice for the poor, but the wicked have no such concern."
+    "explanation": "The righteous care about justice for the poor, but the wicked have no such concern.",
+    "verses": {
+      "kjv": "The righteous considereth the cause of the poor:\nbut the wicked regardeth not to know\nit."
+    }
   },
   {
     "id": "WIS-M-0028",
@@ -529,7 +610,10 @@
       "chapter": 37,
       "verse": "11"
     },
-    "explanation": "But the meek will inherit the land and enjoy peace and prosperity."
+    "explanation": "But the meek will inherit the land and enjoy peace and prosperity.",
+    "verses": {
+      "kjv": "But the meek shall inherit the earth; and shall delight themselves in the abundance of peace."
+    }
   },
   {
     "id": "WIS-M-0025",
@@ -548,7 +632,10 @@
       "chapter": 8,
       "verse": "11"
     },
-    "explanation": "For wisdom is more precious than rubies, and nothing you desire can compare with her."
+    "explanation": "For wisdom is more precious than rubies, and nothing you desire can compare with her.",
+    "verses": {
+      "kjv": "For wisdom\nis better than rubies; and all the things that may be desired are not to be compared to it."
+    }
   },
   {
     "id": "WIS-M-0026",
@@ -567,7 +654,10 @@
       "chapter": 119,
       "verse": "105"
     },
-    "explanation": "Your word is a lamp for my feet, a light on my path."
+    "explanation": "Your word is a lamp for my feet, a light on my path.",
+    "verses": {
+      "kjv": "Thy word\nis a lamp unto my feet, and a light unto my path."
+    }
   },
   {
     "id": "WIS-M-0027",
@@ -586,6 +676,9 @@
       "chapter": 15,
       "verse": "1"
     },
-    "explanation": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+    "explanation": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+    "verses": {
+      "kjv": "A soft answer turneth away wrath: but grievous words stir up anger."
+    }
   }
 ]

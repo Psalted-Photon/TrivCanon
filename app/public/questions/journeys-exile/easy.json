@@ -16,7 +16,10 @@
       "chapter": 3,
       "verse": "10"
     },
-    "explanation": "God called Moses to lead His people out of slavery in Egypt to the Promised Land."
+    "explanation": "God called Moses to lead His people out of slavery in Egypt to the Promised Land.",
+    "verses": {
+      "kjv": "Come now therefore, and I will send thee unto Pharaoh, that thou mayest bring forth my people the children of Israel out of Egypt."
+    }
   },
   {
     "id": "JRN-E-0002",
@@ -35,7 +38,10 @@
       "chapter": 14,
       "verse": "33"
     },
-    "explanation": "Because of their disobedience, the Israelites wandered in the wilderness for 40 years."
+    "explanation": "Because of their disobedience, the Israelites wandered in the wilderness for 40 years.",
+    "verses": {
+      "kjv": "And your children shall wander in the wilderness forty years, and bear your whoredoms, until your carcases be wasted in the wilderness."
+    }
   },
   {
     "id": "JRN-E-0003",
@@ -54,7 +60,10 @@
       "chapter": 16,
       "verse": "13-15"
     },
-    "explanation": "God provided manna each morning and quail each evening to feed the Israelites in the wilderness."
+    "explanation": "God provided manna each morning and quail each evening to feed the Israelites in the wilderness.",
+    "verses": {
+      "kjv": "And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host.\nAnd when the dew that lay was gone up, behold, upon the face of the wilderness\nthere lay a small round thing,\nas small as the hoar frost on the ground.\nAnd when the children of Israel saw\nit, they said one to another, It\nis manna: for they wist not what it\nwas.\n And Moses said unto them, This\nis the bread which the LORD hath given you to eat."
+    }
   },
   {
     "id": "JRN-E-0004",
@@ -73,7 +82,10 @@
       "chapter": 14,
       "verse": "21"
     },
-    "explanation": "God parted the Red Sea so the Israelites could cross on dry ground while escaping Pharaoh's army."
+    "explanation": "God parted the Red Sea so the Israelites could cross on dry ground while escaping Pharaoh's army.",
+    "verses": {
+      "kjv": "And Moses stretched out his hand over the sea; and the LORD caused the sea to go\nback by a strong east wind all that night, and made the sea dry\nland, and the waters were divided."
+    }
   },
   {
     "id": "JRN-E-0005",
@@ -92,7 +104,10 @@
       "chapter": 3,
       "verse": "7"
     },
-    "explanation": "After Moses died, Joshua led the people across the Jordan River on dry ground into Canaan."
+    "explanation": "After Moses died, Joshua led the people across the Jordan River on dry ground into Canaan.",
+    "verses": {
+      "kjv": "And the LORD said unto Joshua, This day will I begin to magnify thee in the sight of all Israel, that they may know that, as I was with Moses, so I will be with thee."
+    }
   },
   {
     "id": "JRN-E-0006",
@@ -111,7 +126,10 @@
       "chapter": 19,
       "verse": "20"
     },
-    "explanation": "God called Moses to the top of Mount Sinai to give him the Law written on stone tablets."
+    "explanation": "God called Moses to the top of Mount Sinai to give him the Law written on stone tablets.",
+    "verses": {
+      "kjv": "And the LORD came down upon mount Sinai, on the top of the mount: and the LORD called Moses\nup to the top of the mount; and Moses went up."
+    }
   },
   {
     "id": "JRN-E-0007",
@@ -130,7 +148,10 @@
       "chapter": 1,
       "verse": "22"
     },
-    "explanation": "Naomi returned from Moab with Ruth the Moabite, her daughter-in-law."
+    "explanation": "Naomi returned from Moab with Ruth the Moabite, her daughter-in-law.",
+    "verses": {
+      "kjv": "So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harvest."
+    }
   },
   {
     "id": "JRN-E-0008",
@@ -149,7 +170,10 @@
       "chapter": 13,
       "verse": "21"
     },
-    "explanation": "God went ahead of them in a pillar of cloud by day and fire by night to guide them through the wilderness."
+    "explanation": "God went ahead of them in a pillar of cloud by day and fire by night to guide them through the wilderness.",
+    "verses": {
+      "kjv": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:"
+    }
   },
   {
     "id": "JRN-E-0009",
@@ -168,7 +192,10 @@
       "chapter": 2,
       "verse": "5"
     },
-    "explanation": "Nehemiah asked the king for permission to return to Jerusalem to rebuild the city walls."
+    "explanation": "Nehemiah asked the king for permission to return to Jerusalem to rebuild the city walls.",
+    "verses": {
+      "kjv": "And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers’ sepulchres, that I may build it."
+    }
   },
   {
     "id": "JRN-E-0010",
@@ -187,7 +214,10 @@
       "chapter": 37,
       "verse": "28"
     },
-    "explanation": "They sold Joseph to the Ishmaelites for twenty shekels of silver, and he was taken to Egypt."
+    "explanation": "They sold Joseph to the Ishmaelites for twenty shekels of silver, and he was taken to Egypt.",
+    "verses": {
+      "kjv": "Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty\npieces of silver: and they brought Joseph into Egypt."
+    }
   },
   {
     "id": "JRN-E-0011",
@@ -206,7 +236,10 @@
       "chapter": 16,
       "verse": "3"
     },
-    "explanation": "The Israelites said to Moses and Aaron, 'If only we had died in Egypt where we had meat and bread!'"
+    "explanation": "The Israelites said to Moses and Aaron, 'If only we had died in Egypt where we had meat and bread!'",
+    "verses": {
+      "kjv": "And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots,\nand when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger."
+    }
   },
   {
     "id": "JRN-E-0012",
@@ -225,7 +258,10 @@
       "chapter": 1,
       "verse": "3"
     },
-    "explanation": "Jonah ran away from the Lord and headed for Tarshish to flee from the Lord."
+    "explanation": "Jonah ran away from the Lord and headed for Tarshish to flee from the Lord.",
+    "verses": {
+      "kjv": "But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD."
+    }
   },
   {
     "id": "JRN-E-0013",
@@ -244,7 +280,10 @@
       "chapter": 1,
       "verse": "17"
     },
-    "explanation": "Jonah was in the belly of the huge fish three days and three nights."
+    "explanation": "Jonah was in the belly of the huge fish three days and three nights.",
+    "verses": {
+      "kjv": "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights."
+    }
   },
   {
     "id": "JRN-E-0014",
@@ -263,7 +302,10 @@
       "chapter": 3,
       "verse": "17"
     },
-    "explanation": "The priests carrying the ark stood firm on dry ground in the middle of the Jordan while Israel crossed over."
+    "explanation": "The priests carrying the ark stood firm on dry ground in the middle of the Jordan while Israel crossed over.",
+    "verses": {
+      "kjv": "And the priests that bare the ark of the covenant of the LORD stood firm on dry ground in the midst of Jordan, and all the Israelites passed over on dry ground, until all the people were passed clean over Jordan."
+    }
   },
   {
     "id": "JRN-E-0015",
@@ -282,7 +324,10 @@
       "chapter": 3,
       "verse": "20"
     },
-    "explanation": "Only a few people, eight in all, were saved through water in Noah's ark."
+    "explanation": "Only a few people, eight in all, were saved through water in Noah's ark.",
+    "verses": {
+      "kjv": "Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water."
+    }
   },
   {
     "id": "JRN-E-0016",
@@ -301,7 +346,10 @@
       "chapter": 41,
       "verse": "15"
     },
-    "explanation": "Pharaoh said to Joseph, 'I had a dream, and no one can interpret it. But I have heard you can interpret dreams.'"
+    "explanation": "Pharaoh said to Joseph, 'I had a dream, and no one can interpret it. But I have heard you can interpret dreams.'",
+    "verses": {
+      "kjv": "And Pharaoh said unto Joseph, I have dreamed a dream, and\nthere is\n none that can interpret it: and I have heard say of thee,\nthat\n thou canst understand a dream to interpret it."
+    }
   },
   {
     "id": "JRN-E-0017",
@@ -320,7 +368,10 @@
       "chapter": 1,
       "verse": "1"
     },
-    "explanation": "After the death of Moses the servant of the Lord, the Lord said to Joshua son of Nun, Moses' aide."
+    "explanation": "After the death of Moses the servant of the Lord, the Lord said to Joshua son of Nun, Moses' aide.",
+    "verses": {
+      "kjv": "Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses’ minister, saying,"
+    }
   },
   {
     "id": "JRN-E-0018",
@@ -339,7 +390,10 @@
       "chapter": 6,
       "verse": "19"
     },
-    "explanation": "At the first light of dawn, the king got up and hurried to the lions' den."
+    "explanation": "At the first light of dawn, the king got up and hurried to the lions' den.",
+    "verses": {
+      "kjv": "Then the king arose very early in the morning, and went in haste unto the den of lions."
+    }
   },
   {
     "id": "JRN-E-0019",
@@ -358,7 +412,10 @@
       "chapter": 7,
       "verse": "14"
     },
-    "explanation": "God sent ten plagues upon Egypt to convince Pharaoh to let the Israelites go."
+    "explanation": "God sent ten plagues upon Egypt to convince Pharaoh to let the Israelites go.",
+    "verses": {
+      "kjv": "And the LORD said unto Moses, Pharaoh’s heart\nis hardened, he refuseth to let the people go."
+    }
   },
   {
     "id": "JRN-E-0020",
@@ -377,7 +434,10 @@
       "chapter": 19,
       "verse": "20"
     },
-    "explanation": "The Lord descended to the top of Mount Sinai and called Moses to come up to receive the commandments."
+    "explanation": "The Lord descended to the top of Mount Sinai and called Moses to come up to receive the commandments.",
+    "verses": {
+      "kjv": "And the LORD came down upon mount Sinai, on the top of the mount: and the LORD called Moses\nup to the top of the mount; and Moses went up."
+    }
   },
   {
     "id": "JRN-E-0021",
@@ -396,7 +456,10 @@
       "chapter": 3,
       "verse": "17"
     },
-    "explanation": "The priests who carried the ark stood firm on dry ground in the middle of the Jordan while all Israel passed by."
+    "explanation": "The priests who carried the ark stood firm on dry ground in the middle of the Jordan while all Israel passed by.",
+    "verses": {
+      "kjv": "And the priests that bare the ark of the covenant of the LORD stood firm on dry ground in the midst of Jordan, and all the Israelites passed over on dry ground, until all the people were passed clean over Jordan."
+    }
   },
   {
     "id": "JRN-E-0022",
@@ -415,7 +478,10 @@
       "chapter": 1,
       "verse": "17"
     },
-    "explanation": "The Lord provided a huge fish to swallow Jonah, and Jonah was in the belly of the fish three days."
+    "explanation": "The Lord provided a huge fish to swallow Jonah, and Jonah was in the belly of the fish three days.",
+    "verses": {
+      "kjv": "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights."
+    }
   },
   {
     "id": "JRN-E-0023",
@@ -434,7 +500,10 @@
       "chapter": 32,
       "verse": "4"
     },
-    "explanation": "Aaron took their gold and made it into an idol cast in the shape of a calf."
+    "explanation": "Aaron took their gold and made it into an idol cast in the shape of a calf.",
+    "verses": {
+      "kjv": "And he received\nthem at their hand, and fashioned it with a graving tool, after he had made it a molten calf: and they said, These\nbe thy gods, O Israel, which brought thee up out of the land of Egypt."
+    }
   },
   {
     "id": "JRN-E-0024",
@@ -453,7 +522,10 @@
       "chapter": 1,
       "verse": "9"
     },
-    "explanation": "I, John, your brother, was on the island of Patmos because of the word of God and the testimony of Jesus."
+    "explanation": "I, John, your brother, was on the island of Patmos because of the word of God and the testimony of Jesus.",
+    "verses": {
+      "kjv": "I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ."
+    }
   },
   {
     "id": "JRN-E-0025",
@@ -472,7 +544,10 @@
       "chapter": 7,
       "verse": "20"
     },
-    "explanation": "Moses and Aaron did just as the Lord had commanded. He raised his staff and struck the water of the Nile, and all the water was changed into blood."
+    "explanation": "Moses and Aaron did just as the Lord had commanded. He raised his staff and struck the water of the Nile, and all the water was changed into blood.",
+    "verses": {
+      "kjv": "And Moses and Aaron did so, as the LORD commanded; and he lifted up the rod, and smote the waters that\nwere in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that\nwere\n in the river were turned to blood."
+    }
   },
   {
     "id": "JRN-E-0026",
@@ -491,7 +566,10 @@
       "chapter": 11,
       "verse": "5"
     },
-    "explanation": "Every firstborn son in Egypt will die, from the firstborn son of Pharaoh to the firstborn of the female slave."
+    "explanation": "Every firstborn son in Egypt will die, from the firstborn son of Pharaoh to the firstborn of the female slave.",
+    "verses": {
+      "kjv": "And all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh that sitteth upon his throne, even unto the firstborn of the maidservant that\nis behind the mill; and all the firstborn of beasts."
+    }
   },
   {
     "id": "JRN-E-0027",
@@ -510,7 +588,10 @@
       "chapter": 14,
       "verse": "21"
     },
-    "explanation": "Then Moses stretched out his hand over the sea, and all that night the Lord drove the sea back with a strong east wind and turned it into dry land."
+    "explanation": "Then Moses stretched out his hand over the sea, and all that night the Lord drove the sea back with a strong east wind and turned it into dry land.",
+    "verses": {
+      "kjv": "And Moses stretched out his hand over the sea; and the LORD caused the sea to go\nback by a strong east wind all that night, and made the sea dry\nland, and the waters were divided."
+    }
   },
   {
     "id": "JRN-E-0028",
@@ -529,7 +610,10 @@
       "chapter": 19,
       "verse": "20"
     },
-    "explanation": "The Lord descended to the top of Mount Sinai and called Moses to the top of the mountain."
+    "explanation": "The Lord descended to the top of Mount Sinai and called Moses to the top of the mountain.",
+    "verses": {
+      "kjv": "And the LORD came down upon mount Sinai, on the top of the mount: and the LORD called Moses\nup to the top of the mount; and Moses went up."
+    }
   },
   {
     "id": "JRN-E-0029",
@@ -548,7 +632,10 @@
       "chapter": 39,
       "verse": "1"
     },
-    "explanation": "Now Joseph had been taken down to Egypt. Potiphar, an Egyptian who was one of Pharaoh's officials, bought him from the Ishmaelites."
+    "explanation": "Now Joseph had been taken down to Egypt. Potiphar, an Egyptian who was one of Pharaoh's officials, bought him from the Ishmaelites.",
+    "verses": {
+      "kjv": "And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither."
+    }
   },
   {
     "id": "JRN-E-0030",
@@ -567,7 +654,10 @@
       "chapter": 39,
       "verse": "19-20"
     },
-    "explanation": "When his master heard the story his wife told him, he burned with anger. Joseph's master took him and put him in prison."
+    "explanation": "When his master heard the story his wife told him, he burned with anger. Joseph's master took him and put him in prison.",
+    "verses": {
+      "kjv": "And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did thy servant to me; that his wrath was kindled.\nAnd Joseph’s master took him, and put him into the prison, a place where the king’s prisoners\nwere bound: and he was there in the prison."
+    }
   },
   {
     "id": "JRN-E-0031",
@@ -586,7 +676,10 @@
       "chapter": 41,
       "verse": "30"
     },
-    "explanation": "But seven years of famine will follow them. Then all the abundance in Egypt will be forgotten, and the famine will ravage the land."
+    "explanation": "But seven years of famine will follow them. Then all the abundance in Egypt will be forgotten, and the famine will ravage the land.",
+    "verses": {
+      "kjv": "And there shall arise after them seven years of famine; and all the plenty shall be forgotten in the land of Egypt; and the famine shall consume the land;"
+    }
   },
   {
     "id": "JRN-E-0032",
@@ -605,7 +698,10 @@
       "chapter": 37,
       "verse": "33"
     },
-    "explanation": "He recognized it and said, 'It is my son's robe! Some ferocious animal has devoured him. Joseph has surely been torn to pieces.'"
+    "explanation": "He recognized it and said, 'It is my son's robe! Some ferocious animal has devoured him. Joseph has surely been torn to pieces.'",
+    "verses": {
+      "kjv": "And he knew it, and said,\nIt is my son’s coat; an evil beast hath devoured him; Joseph is without doubt rent in pieces."
+    }
   },
   {
     "id": "JRN-E-0033",
@@ -624,7 +720,10 @@
       "chapter": 41,
       "verse": "40"
     },
-    "explanation": "You shall be in charge of my palace, and all my people are to submit to your orders. Only with respect to the throne will I be greater than you."
+    "explanation": "You shall be in charge of my palace, and all my people are to submit to your orders. Only with respect to the throne will I be greater than you.",
+    "verses": {
+      "kjv": "Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou."
+    }
   },
   {
     "id": "JRN-E-0034",
@@ -643,7 +742,10 @@
       "chapter": 42,
       "verse": "6"
     },
-    "explanation": "Now Joseph was the governor of the land; he was the one who sold grain to all its people. So when Joseph's brothers arrived, they bowed down to him with their faces to the ground."
+    "explanation": "Now Joseph was the governor of the land; he was the one who sold grain to all its people. So when Joseph's brothers arrived, they bowed down to him with their faces to the ground.",
+    "verses": {
+      "kjv": "And Joseph\nwas the governor over the land,\nand he\nit was that sold to all the people of the land: and Joseph’s brethren came, and bowed down themselves before him\nwith their faces to the earth."
+    }
   },
   {
     "id": "JRN-E-0025",
@@ -662,7 +764,10 @@
       "chapter": 12,
       "verse": "41"
     },
-    "explanation": "At the end of the 430 years, to the very day, all the Lord's divisions left Egypt."
+    "explanation": "At the end of the 430 years, to the very day, all the Lord's divisions left Egypt.",
+    "verses": {
+      "kjv": "And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the LORD went out from the land of Egypt."
+    }
   },
   {
     "id": "JRN-E-0026",
@@ -681,7 +786,10 @@
       "chapter": 14,
       "verse": "33"
     },
-    "explanation": "Your children will be shepherds here for forty years, suffering for your unfaithfulness, until the last of your bodies lies in the wilderness."
+    "explanation": "Your children will be shepherds here for forty years, suffering for your unfaithfulness, until the last of your bodies lies in the wilderness.",
+    "verses": {
+      "kjv": "And your children shall wander in the wilderness forty years, and bear your whoredoms, until your carcases be wasted in the wilderness."
+    }
   },
   {
     "id": "JRN-E-0027",
@@ -700,6 +808,9 @@
       "chapter": 14,
       "verse": "21-22"
     },
-    "explanation": "Then Moses stretched out his hand over the sea, and the Lord drove the sea back and the Israelites went through the sea on dry ground."
+    "explanation": "Then Moses stretched out his hand over the sea, and the Lord drove the sea back and the Israelites went through the sea on dry ground.",
+    "verses": {
+      "kjv": "And Moses stretched out his hand over the sea; and the LORD caused the sea to go\nback by a strong east wind all that night, and made the sea dry\nland, and the waters were divided.\nAnd the children of Israel went into the midst of the sea upon the dry\nground: and the waters\nwere a wall unto them on their right hand, and on their left."
+    }
   }
 ]
