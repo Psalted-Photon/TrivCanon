@@ -72,29 +72,66 @@
   /* Spotlight effect handled by .theme-logo */
 }
 
+.theme-logo-wrapper {
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
+
 .theme-logo {
   width: 200px;
   height: 200px;
   object-fit: contain;
-  transition: filter 0.8s ease;
   position: relative;
-  /* Unselected: darkened with shadow overlay and slight blur */
-  filter: brightness(0.4) drop-shadow(0 0 8px rgba(0, 0, 0, 0.8)) blur(1px);
+  z-index: 2;
+  transition: opacity 0.55s ease, filter 0.55s ease !important;
+  opacity: 0.25;
+  filter: blur(1px);
 }
 
 .theme-card.selected .theme-logo {
-  /* Selected: bright spotlight with radiant golden glow */
-  filter: brightness(1.15) drop-shadow(0 0 15px rgba(212, 175, 55, 0.6)) drop-shadow(0 0 30px rgba(212, 175, 55, 0.3)) blur(0px);
+  opacity: 1;
+  filter: blur(0px);
 }
 
 .theme-card:hover .theme-logo {
-  /* Subtle brightness increase on hover */
-  filter: brightness(0.55) drop-shadow(0 0 12px rgba(212, 175, 55, 0.3)) blur(0.8px);
+  opacity: 0.55;
+  filter: blur(0.8px);
 }
 
 .theme-card.selected:hover .theme-logo {
-  /* Intensified glow when hovering over selected */
-  filter: brightness(1.2) drop-shadow(0 0 20px rgba(212, 175, 55, 0.7)) drop-shadow(0 0 40px rgba(212, 175, 55, 0.4));
+  opacity: 1;
+  filter: blur(0px);
+}
+
+.theme-glow {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 0.55s ease, box-shadow 0.55s ease;
+  box-shadow: 0 0 15px rgba(212, 175, 55, 0), 0 0 30px rgba(212, 175, 55, 0);
+}
+
+.theme-card.selected .theme-glow {
+  opacity: 1;
+  box-shadow: 0 0 15px rgba(212, 175, 55, 0.6), 0 0 30px rgba(212, 175, 55, 0.3);
+}
+
+.theme-card:hover .theme-glow {
+  opacity: 0.5;
+  box-shadow: 0 0 12px rgba(212, 175, 55, 0.3);
+}
+
+.theme-card.selected:hover .theme-glow {
+  opacity: 1;
+  box-shadow: 0 0 20px rgba(212, 175, 55, 0.7), 0 0 40px rgba(212, 175, 55, 0.4);
 }
 
 .theme-name-fallback {

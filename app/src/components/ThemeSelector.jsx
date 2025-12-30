@@ -49,15 +49,18 @@ export default function ThemeSelector({ onStart, totalQuestions }) {
             onClick={() => toggleTheme(theme.name)}
             style={{ '--theme-color': theme.color }}
           >
-            <img 
-              src={`/images/Logos/${theme.logo}`} 
-              alt={theme.name}
-              className="theme-logo"
-              onError={(e) => {
-                e.target.style.display = 'none';
-                e.target.nextElementSibling.style.display = 'flex';
-              }}
-            />
+            <div className="theme-logo-wrapper">
+              <img 
+                src={`/images/Logos/${theme.logo}`} 
+                alt={theme.name}
+                className="theme-logo"
+                onError={(e) => {
+                  e.target.style.display = 'none';
+                  e.target.nextElementSibling.style.display = 'flex';
+                }}
+              />
+              <div className="theme-glow"></div>
+            </div>
             <div className="theme-name-fallback" style={{ display: 'none' }}>
               {theme.name}
             </div>
