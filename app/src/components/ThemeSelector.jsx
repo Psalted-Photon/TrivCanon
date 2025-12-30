@@ -41,15 +41,6 @@ export default function ThemeSelector({ onStart, totalQuestions }) {
 
   return (
     <div className="theme-selector">
-      <div className="header">
-        <p>Select themes for your quiz</p>
-      </div>
-
-      <div className="controls">
-        <button onClick={selectAll} className="control-btn">Select All</button>
-        <button onClick={deselectAll} className="control-btn">Deselect All</button>
-      </div>
-
       <div className="themes-grid">
         {THEMES.map(theme => (
           <div
@@ -72,6 +63,15 @@ export default function ThemeSelector({ onStart, totalQuestions }) {
             </div>
           </div>
         ))}
+      </div>
+
+      <div className="header">
+        <p>Select themes for your quiz</p>
+      </div>
+
+      <div className="controls">
+        <button onClick={selectAll} className="control-btn">Select All</button>
+        <button onClick={deselectAll} className="control-btn">Deselect All</button>
       </div>
 
       <div className="difficulty-filter">

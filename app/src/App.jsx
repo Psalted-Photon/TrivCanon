@@ -215,8 +215,18 @@ export default function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1><span className="logo-mark">TC</span> TrivCanon</h1>
-        <p className="app-subtitle">Master the Canon</p>
+        {screen === 'theme-select' ? (
+          <img 
+            src="/images/TrivCanonTitle.png" 
+            alt="TrivCanon - Master the Canon" 
+            className="app-logo"
+          />
+        ) : (
+          <div className="app-title-text">
+            <h1>TrivCanon</h1>
+            <p className="subtitle">Twelve tribes, one truth.</p>
+          </div>
+        )}
       </header>
 
       <main className="app-main">
