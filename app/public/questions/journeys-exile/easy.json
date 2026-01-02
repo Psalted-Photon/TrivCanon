@@ -770,28 +770,6 @@
     }
   },
   {
-    "id": "JRN-E-0026",
-    "theme": "Journeys & Exile",
-    "question": "How many years did the Israelites wander in the wilderness?",
-    "choices": [
-      "40 years",
-      "70 years",
-      "400 years",
-      "12 years"
-    ],
-    "correctIndex": 0,
-    "difficulty": "easy",
-    "reference": {
-      "book": "Numbers",
-      "chapter": 14,
-      "verse": "33"
-    },
-    "explanation": "Your children will be shepherds here for forty years, suffering for your unfaithfulness, until the last of your bodies lies in the wilderness.",
-    "verses": {
-      "kjv": "And your children shall wander in the wilderness forty years, and bear your whoredoms, until your carcases be wasted in the wilderness."
-    }
-  },
-  {
     "id": "JRN-E-0027",
     "theme": "Journeys & Exile",
     "question": "Which sea did the Israelites cross when leaving Egypt?",

@@ -1,65 +1,11 @@
 [
   {
-    "theme": "Miracles",
-    "themeCode": "MIR",
-    "themePath": "miracles",
-    "difficulty": "easy",
-    "difficultyCode": "E",
-    "count": 27,
-    "filePath": "questions/miracles/easy.json"
-  },
-  {
-    "theme": "Miracles",
-    "themeCode": "MIR",
-    "themePath": "miracles",
-    "difficulty": "medium",
-    "difficultyCode": "M",
-    "count": 35,
-    "filePath": "questions/miracles/medium.json"
-  },
-  {
-    "theme": "Miracles",
-    "themeCode": "MIR",
-    "themePath": "miracles",
-    "difficulty": "hard",
-    "difficultyCode": "H",
-    "count": 18,
-    "filePath": "questions/miracles/hard.json"
-  },
-  {
-    "theme": "Prophets",
-    "themeCode": "PRO",
-    "themePath": "prophets",
-    "difficulty": "easy",
-    "difficultyCode": "E",
-    "count": 24,
-    "filePath": "questions/prophets/easy.json"
-  },
-  {
-    "theme": "Prophets",
-    "themeCode": "PRO",
-    "themePath": "prophets",
-    "difficulty": "medium",
-    "difficultyCode": "M",
-    "count": 28,
-    "filePath": "questions/prophets/medium.json"
-  },
-  {
-    "theme": "Prophets",
-    "themeCode": "PRO",
-    "themePath": "prophets",
-    "difficulty": "hard",
-    "difficultyCode": "H",
-    "count": 28,
-    "filePath": "questions/prophets/hard.json"
-  },
-  {
     "theme": "Apostles",
     "themeCode": "APO",
     "themePath": "apostles",
     "difficulty": "easy",
     "difficultyCode": "E",
-    "count": 32,
+    "count": 50,
     "filePath": "questions/apostles/easy.json"
   },
   {
@@ -68,7 +14,7 @@
     "themePath": "apostles",
     "difficulty": "medium",
     "difficultyCode": "M",
-    "count": 29,
+    "count": 50,
     "filePath": "questions/apostles/medium.json"
   },
   {
@@ -77,62 +23,8 @@
     "themePath": "apostles",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 19,
+    "count": 50,
     "filePath": "questions/apostles/hard.json"
-  },
-  {
-    "theme": "Kings & Rulers",
-    "themeCode": "KNG",
-    "themePath": "kings-rulers",
-    "difficulty": "easy",
-    "difficultyCode": "E",
-    "count": 27,
-    "filePath": "questions/kings-rulers/easy.json"
-  },
-  {
-    "theme": "Kings & Rulers",
-    "themeCode": "KNG",
-    "themePath": "kings-rulers",
-    "difficulty": "medium",
-    "difficultyCode": "M",
-    "count": 28,
-    "filePath": "questions/kings-rulers/medium.json"
-  },
-  {
-    "theme": "Kings & Rulers",
-    "themeCode": "KNG",
-    "themePath": "kings-rulers",
-    "difficulty": "hard",
-    "difficultyCode": "H",
-    "count": 25,
-    "filePath": "questions/kings-rulers/hard.json"
-  },
-  {
-    "theme": "Women of Faith",
-    "themeCode": "WOF",
-    "themePath": "women-of-faith",
-    "difficulty": "medium",
-    "difficultyCode": "M",
-    "count": 24,
-    "filePath": "questions/women-of-faith/medium.json"
-  },
-  {
-    "theme": "Women of Faith",
-    "themeCode": "WOF",
-    "themePath": "women-of-faith",
-    "difficulty": "easy",
-    "difficultyCode": "E",
-    "count": 45,
-    "filePath": "questions/women-of-faith/easy.json"
-  },
-  {
-    "theme": "Women of Faith",
-    "themeCode": "WOF",
-    "themePath": "women-of-faith",
-    "difficulty": "hard",
-    "difficultyCode": "H",
-    "count": 11,
-    "filePath": "questions/women-of-faith/hard.json"
   },
   {
     "theme": "Battles & Conquests",
@@ -162,49 +54,13 @@
     "filePath": "questions/battles-conquests/hard.json"
   },
   {
-    "theme": "Parables & Teachings",
-    "themeCode": "PAR",
-    "themePath": "parables-teachings",
-    "difficulty": "easy",
-    "difficultyCode": "E",
-    "count": 42,
-    "filePath": "questions/parables-teachings/easy.json"
-  },
-  {
-    "theme": "Parables & Teachings",
-    "themeCode": "PAR",
-    "themePath": "parables-teachings",
-    "difficulty": "medium",
-    "difficultyCode": "M",
-    "count": 30,
-    "filePath": "questions/parables-teachings/medium.json"
-  },
-  {
-    "theme": "Parables & Teachings",
-    "themeCode": "PAR",
-    "themePath": "parables-teachings",
-    "difficulty": "hard",
-    "difficultyCode": "H",
-    "count": 8,
-    "filePath": "questions/parables-teachings/hard.json"
-  },
-  {
     "theme": "Creation & Origins",
     "themeCode": "CRE",
     "themePath": "creation-origins",
     "difficulty": "easy",
     "difficultyCode": "E",
-    "count": 41,
+    "count": 39,
     "filePath": "questions/creation-origins/easy.json"
-  },
-  {
-    "theme": "Creation & Origins",
-    "themeCode": "CRE",
-    "themePath": "creation-origins",
-    "difficulty": "hard",
-    "difficultyCode": "H",
-    "count": 15,
-    "filePath": "questions/creation-origins/hard.json"
   },
   {
     "theme": "Creation & Origins",
@@ -216,58 +72,13 @@
     "filePath": "questions/creation-origins/medium.json"
   },
   {
-    "theme": "Prophecy & End Times",
-    "themeCode": "END",
-    "themePath": "prophecy-end-times",
-    "difficulty": "medium",
-    "difficultyCode": "M",
-    "count": 39,
-    "filePath": "questions/prophecy-end-times/medium.json"
-  },
-  {
-    "theme": "Prophecy & End Times",
-    "themeCode": "END",
-    "themePath": "prophecy-end-times",
+    "theme": "Creation & Origins",
+    "themeCode": "CRE",
+    "themePath": "creation-origins",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 18,
-    "filePath": "questions/prophecy-end-times/hard.json"
-  },
-  {
-    "theme": "Prophecy & End Times",
-    "themeCode": "END",
-    "themePath": "prophecy-end-times",
-    "difficulty": "easy",
-    "difficultyCode": "E",
-    "count": 23,
-    "filePath": "questions/prophecy-end-times/easy.json"
-  },
-  {
-    "theme": "Journeys & Exile",
-    "themeCode": "JRN",
-    "themePath": "journeys-exile",
-    "difficulty": "easy",
-    "difficultyCode": "E",
-    "count": 37,
-    "filePath": "questions/journeys-exile/easy.json"
-  },
-  {
-    "theme": "Journeys & Exile",
-    "themeCode": "JRN",
-    "themePath": "journeys-exile",
-    "difficulty": "medium",
-    "difficultyCode": "M",
-    "count": 29,
-    "filePath": "questions/journeys-exile/medium.json"
-  },
-  {
-    "theme": "Journeys & Exile",
-    "themeCode": "JRN",
-    "themePath": "journeys-exile",
-    "difficulty": "hard",
-    "difficultyCode": "H",
-    "count": 14,
-    "filePath": "questions/journeys-exile/hard.json"
+    "count": 15,
+    "filePath": "questions/creation-origins/hard.json"
   },
   {
     "theme": "Festivals & Customs",
@@ -297,6 +108,168 @@
     "filePath": "questions/festivals-customs/hard.json"
   },
   {
+    "theme": "Journeys & Exile",
+    "themeCode": "JRN",
+    "themePath": "journeys-exile",
+    "difficulty": "easy",
+    "difficultyCode": "E",
+    "count": 36,
+    "filePath": "questions/journeys-exile/easy.json"
+  },
+  {
+    "theme": "Journeys & Exile",
+    "themeCode": "JRN",
+    "themePath": "journeys-exile",
+    "difficulty": "medium",
+    "difficultyCode": "M",
+    "count": 29,
+    "filePath": "questions/journeys-exile/medium.json"
+  },
+  {
+    "theme": "Journeys & Exile",
+    "themeCode": "JRN",
+    "themePath": "journeys-exile",
+    "difficulty": "hard",
+    "difficultyCode": "H",
+    "count": 51,
+    "filePath": "questions/journeys-exile/hard.json"
+  },
+  {
+    "theme": "Kings & Rulers",
+    "themeCode": "KNG",
+    "themePath": "kings-rulers",
+    "difficulty": "easy",
+    "difficultyCode": "E",
+    "count": 27,
+    "filePath": "questions/kings-rulers/easy.json"
+  },
+  {
+    "theme": "Kings & Rulers",
+    "themeCode": "KNG",
+    "themePath": "kings-rulers",
+    "difficulty": "medium",
+    "difficultyCode": "M",
+    "count": 28,
+    "filePath": "questions/kings-rulers/medium.json"
+  },
+  {
+    "theme": "Kings & Rulers",
+    "themeCode": "KNG",
+    "themePath": "kings-rulers",
+    "difficulty": "hard",
+    "difficultyCode": "H",
+    "count": 25,
+    "filePath": "questions/kings-rulers/hard.json"
+  },
+  {
+    "theme": "Miracles",
+    "themeCode": "MIR",
+    "themePath": "miracles",
+    "difficulty": "easy",
+    "difficultyCode": "E",
+    "count": 27,
+    "filePath": "questions/miracles/easy.json"
+  },
+  {
+    "theme": "Miracles",
+    "themeCode": "MIR",
+    "themePath": "miracles",
+    "difficulty": "medium",
+    "difficultyCode": "M",
+    "count": 35,
+    "filePath": "questions/miracles/medium.json"
+  },
+  {
+    "theme": "Miracles",
+    "themeCode": "MIR",
+    "themePath": "miracles",
+    "difficulty": "hard",
+    "difficultyCode": "H",
+    "count": 18,
+    "filePath": "questions/miracles/hard.json"
+  },
+  {
+    "theme": "Parables & Teachings",
+    "themeCode": "PAR",
+    "themePath": "parables-teachings",
+    "difficulty": "easy",
+    "difficultyCode": "E",
+    "count": 37,
+    "filePath": "questions/parables-teachings/easy.json"
+  },
+  {
+    "theme": "Parables & Teachings",
+    "themeCode": "PAR",
+    "themePath": "parables-teachings",
+    "difficulty": "medium",
+    "difficultyCode": "M",
+    "count": 28,
+    "filePath": "questions/parables-teachings/medium.json"
+  },
+  {
+    "theme": "Parables & Teachings",
+    "themeCode": "PAR",
+    "themePath": "parables-teachings",
+    "difficulty": "hard",
+    "difficultyCode": "H",
+    "count": 42,
+    "filePath": "questions/parables-teachings/hard.json"
+  },
+  {
+    "theme": "Prophecy & End Times",
+    "themeCode": "END",
+    "themePath": "prophecy-end-times",
+    "difficulty": "easy",
+    "difficultyCode": "E",
+    "count": 22,
+    "filePath": "questions/prophecy-end-times/easy.json"
+  },
+  {
+    "theme": "Prophecy & End Times",
+    "themeCode": "END",
+    "themePath": "prophecy-end-times",
+    "difficulty": "medium",
+    "difficultyCode": "M",
+    "count": 39,
+    "filePath": "questions/prophecy-end-times/medium.json"
+  },
+  {
+    "theme": "Prophecy & End Times",
+    "themeCode": "END",
+    "themePath": "prophecy-end-times",
+    "difficulty": "hard",
+    "difficultyCode": "H",
+    "count": 17,
+    "filePath": "questions/prophecy-end-times/hard.json"
+  },
+  {
+    "theme": "Prophets",
+    "themeCode": "PRO",
+    "themePath": "prophets",
+    "difficulty": "easy",
+    "difficultyCode": "E",
+    "count": 24,
+    "filePath": "questions/prophets/easy.json"
+  },
+  {
+    "theme": "Prophets",
+    "themeCode": "PRO",
+    "themePath": "prophets",
+    "difficulty": "medium",
+    "difficultyCode": "M",
+    "count": 28,
+    "filePath": "questions/prophets/medium.json"
+  },
+  {
+    "theme": "Prophets",
+    "themeCode": "PRO",
+    "themePath": "prophets",
+    "difficulty": "hard",
+    "difficultyCode": "H",
+    "count": 28,
+    "filePath": "questions/prophets/hard.json"
+  },
+  {
     "theme": "Wisdom & Psalms",
     "themeCode": "WIS",
     "themePath": "wisdom-psalms",
@@ -322,5 +295,32 @@
     "difficultyCode": "H",
     "count": 42,
     "filePath": "questions/wisdom-psalms/hard.json"
+  },
+  {
+    "theme": "Women of Faith",
+    "themeCode": "WOM",
+    "themePath": "women-of-faith",
+    "difficulty": "easy",
+    "difficultyCode": "E",
+    "count": 45,
+    "filePath": "questions/women-of-faith/easy.json"
+  },
+  {
+    "theme": "Women of Faith",
+    "themeCode": "WOM",
+    "themePath": "women-of-faith",
+    "difficulty": "medium",
+    "difficultyCode": "M",
+    "count": 24,
+    "filePath": "questions/women-of-faith/medium.json"
+  },
+  {
+    "theme": "Women of Faith",
+    "themeCode": "WOM",
+    "themePath": "women-of-faith",
+    "difficulty": "hard",
+    "difficultyCode": "H",
+    "count": 50,
+    "filePath": "questions/women-of-faith/hard.json"
   }
 ]

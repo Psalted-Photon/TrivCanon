@@ -484,28 +484,6 @@
     }
   },
   {
-    "id": "PAR-M-0023",
-    "theme": "Parables & Teachings",
-    "question": "In the parable of the rich man and Lazarus, where did Lazarus go after death?",
-    "choices": [
-      "Abraham's side",
-      "Heaven",
-      "Paradise",
-      "Sheol"
-    ],
-    "correctIndex": 0,
-    "difficulty": "medium",
-    "reference": {
-      "book": "Luke",
-      "chapter": 16,
-      "verse": "22"
-    },
-    "explanation": "The time came when the beggar died and the angels carried him to Abraham's side.",
-    "verses": {
-      "kjv": "And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried;"
-    }
-  },
-  {
     "id": "PAR-M-0024",
     "theme": "Parables & Teachings",
     "question": "In the parable of the wedding banquet, why did the invited guests not come?",
@@ -547,28 +525,6 @@
     "explanation": "So go to the street corners and invite to the banquet anyone you find.",
     "verses": {
       "kjv": "Go ye therefore into the highways, and as many as ye shall find, bid to the marriage."
-    }
-  },
-  {
-    "id": "PAR-M-0023",
-    "theme": "Parables & Teachings",
-    "question": "In the parable of the ten virgins, how many were wise?",
-    "choices": [
-      "5",
-      "3",
-      "7",
-      "2"
-    ],
-    "correctIndex": 0,
-    "difficulty": "medium",
-    "reference": {
-      "book": "Matthew",
-      "chapter": 25,
-      "verse": "2"
-    },
-    "explanation": "Five of them were foolish and five were wise.",
-    "verses": {
-      "kjv": "And five of them were wise, and five\nwere foolish."
     }
   },
   {

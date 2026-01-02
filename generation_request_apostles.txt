@@ -1,0 +1,31 @@
+Please generate 19 easy + 21 medium + 31 hard questions for the "Apostles" theme.
+
+Requirements:
+- Total questions: 71
+- Difficulty distribution: 19 easy, 21 medium, 31 hard
+- Theme: Apostles
+- Use KJV Bible references
+- Each question must have exactly 4 multiple choice options
+- Include full verse text in KJV
+
+Return ONLY a JSON object with this structure:
+{
+  "easy": [array of easy questions],
+  "medium": [array of medium questions],
+  "hard": [array of hard questions]
+}
+
+Each question object must have:
+{
+  "id": "TEMP-ID",
+  "theme": "Apostles",
+  "question": "question text",
+  "choices": ["correct answer", "wrong1", "wrong2", "wrong3"],
+  "correctIndex": 0,
+  "difficulty": "easy|medium|hard",
+  "reference": {"book": "BookName", "chapter": 1, "verse": "1"},
+  "explanation": "explanation text",
+  "verses": {"kjv": "full verse text from KJV"}
+}
+
+Note: Use "TEMP-ID" for all IDs - they will be auto-assigned during import.

@@ -198,26 +198,26 @@
     }
   },
   {
-    "id": "APO-E-0010",
-    "theme": "Apostles",
-    "question": "Which apostle asked to see Jesus' hands and side?",
+    "question": "Who replaced Judas Iscariot as the twelfth apostle?",
     "choices": [
-      "Thomas",
-      "Peter",
-      "John",
-      "Philip"
+      "Matthias",
+      "Barnabas",
+      "Timothy",
+      "Silas"
     ],
     "correctIndex": 0,
-    "difficulty": "easy",
     "reference": {
-      "book": "John",
-      "chapter": 20,
-      "verse": "25"
+      "book": "Acts",
+      "chapter": 1,
+      "verse": "26"
     },
-    "explanation": "Thomas said, 'Unless I see the nail marks in his hands and put my finger where the nails were, I will not believe.'",
+    "explanation": "After Judas' betrayal and death, the apostles cast lots between Joseph called Barsabas and Matthias, and the lot fell to Matthias.",
     "verses": {
-      "kjv": "The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe."
-    }
+      "kjv": "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles."
+    },
+    "id": "APO-E-0010",
+    "theme": "Apostles",
+    "difficulty": "easy"
   },
   {
     "id": "APO-E-0011",
@@ -310,7 +310,7 @@
   {
     "id": "APO-E-0015",
     "theme": "Apostles",
-    "question": "What was Paul's occupation?",
+    "question": "What trade did Paul work with his hands to support his ministry?",
     "choices": [
       "Tentmaker",
       "Fisherman",
@@ -324,7 +324,7 @@
       "chapter": 18,
       "verse": "3"
     },
-    "explanation": "Because he was a tentmaker as they were, he stayed and worked with them.",
+    "explanation": "Paul was a tentmaker by trade and worked with his hands to support himself while preaching the gospel, so he would not be a burden to the churches.",
     "verses": {
       "kjv": "And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers."
     }
@@ -396,26 +396,26 @@
     }
   },
   {
-    "id": "APO-E-0019",
-    "theme": "Apostles",
-    "question": "Which apostle doubted Jesus' resurrection until he saw and touched Jesus' wounds?",
+    "question": "Which apostle was known as 'the Zealot'?",
     "choices": [
-      "Thomas",
-      "Philip",
-      "Bartholomew",
-      "Matthew"
+      "Simon",
+      "Judas",
+      "Matthew",
+      "Thaddaeus"
     ],
     "correctIndex": 0,
-    "difficulty": "easy",
     "reference": {
-      "book": "John",
-      "chapter": 20,
-      "verse": "27"
+      "book": "Luke",
+      "chapter": 6,
+      "verse": "15"
     },
-    "explanation": "Thomas said he would not believe unless he could put his finger in the nail marks and his hand in Jesus' side.",
+    "explanation": "Simon the Zealot was one of the twelve apostles, distinguished from Simon Peter by this designation.",
     "verses": {
-      "kjv": "Then saith he to Thomas,\nreach hither thy finger, and behold my hands; and reach hither thy hand, and thrust\nit into my side: and be not faithless, but believing."
-    }
+      "kjv": "Matthew and Thomas, James the son of Alphaeus, and Simon called Zelotes,"
+    },
+    "id": "APO-E-0019",
+    "theme": "Apostles",
+    "difficulty": "easy"
   },
   {
     "id": "APO-E-0020",
@@ -484,92 +484,92 @@
     }
   },
   {
-    "id": "APO-E-0023",
-    "theme": "Apostles",
-    "question": "Which apostle brought his brother to Jesus?",
+    "question": "What was the other name for the apostle Bartholomew?",
     "choices": [
-      "Andrew",
-      "Peter",
-      "James",
-      "John"
+      "Nathanael",
+      "Thaddaeus",
+      "Levi",
+      "Barsabas"
     ],
     "correctIndex": 0,
-    "difficulty": "easy",
     "reference": {
       "book": "John",
       "chapter": 1,
-      "verse": "41-42"
+      "verse": "45"
     },
-    "explanation": "The first thing Andrew did was to find his brother Simon and tell him, 'We have found the Messiah.'",
+    "explanation": "Bartholomew is generally identified with Nathanael, whom Philip brought to Jesus and who was from Cana of Galilee.",
     "verses": {
-      "kjv": "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.\nAnd he brought him to Jesus. And when Jesus beheld him, he said,\nThou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone."
-    }
+      "kjv": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph."
+    },
+    "id": "APO-E-0023",
+    "theme": "Apostles",
+    "difficulty": "easy"
   },
   {
+    "question": "What was Matthew also called?",
+    "choices": [
+      "Levi",
+      "Thaddaeus",
+      "Judas",
+      "Simon"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Mark",
+      "chapter": 2,
+      "verse": "14"
+    },
+    "explanation": "The tax collector who became an apostle was known both as Matthew and as Levi, son of Alphaeus.",
+    "verses": {
+      "kjv": "And as he passed by, he saw Levi the son of Alphaeus sitting at the receipt of custom, and said unto him, Follow me. And he arose and followed him."
+    },
     "id": "APO-E-0024",
     "theme": "Apostles",
-    "question": "Which apostle doubted Jesus' resurrection until he saw Him?",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which apostle brought Nathanael to Jesus?",
     "choices": [
+      "Philip",
+      "Andrew",
+      "Matthew",
+      "Bartholomew"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "John",
+      "chapter": 1,
+      "verse": "45"
+    },
+    "explanation": "Philip found Nathanael and told him they had found the one Moses and the prophets wrote about.",
+    "verses": {
+      "kjv": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph."
+    },
+    "id": "APO-E-0025",
+    "theme": "Apostles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which apostle said 'Can any good thing come out of Nazareth'?",
+    "choices": [
+      "Nathanael",
       "Thomas",
-      "Peter",
       "Philip",
       "Andrew"
     ],
     "correctIndex": 0,
-    "difficulty": "easy",
     "reference": {
       "book": "John",
-      "chapter": 20,
-      "verse": "25"
+      "chapter": 1,
+      "verse": "46"
     },
-    "explanation": "So the other disciples told him, 'We have seen the Lord!' But he said, 'Unless I see the nail marks... I will not believe.'",
+    "explanation": "When Philip told Nathanael about Jesus of Nazareth, Nathanael skeptically asked if anything good could come from Nazareth.",
     "verses": {
-      "kjv": "The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe."
-    }
-  },
-  {
-    "id": "APO-E-0025",
-    "theme": "Apostles",
-    "question": "Which apostle cut off the servant's ear in Gethsemane?",
-    "choices": [
-      "Peter",
-      "John",
-      "James",
-      "Judas"
-    ],
-    "correctIndex": 0,
-    "difficulty": "easy",
-    "reference": {
-      "book": "John",
-      "chapter": 18,
-      "verse": "10"
+      "kjv": "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see."
     },
-    "explanation": "Then Simon Peter, who had a sword, drew it and struck the high priest's servant, cutting off his right ear.",
-    "verses": {
-      "kjv": "Then Simon Peter having a sword drew it, and smote the high priest’s servant, and cut off his right ear. The servant’s name was Malchus."
-    }
-  },
-  {
     "id": "APO-E-0026",
     "theme": "Apostles",
-    "question": "Which apostle was fishing when Jesus called him to be a fisher of men?",
-    "choices": [
-      "Peter",
-      "Matthew",
-      "Philip",
-      "Bartholomew"
-    ],
-    "correctIndex": 0,
-    "difficulty": "easy",
-    "reference": {
-      "book": "Matthew",
-      "chapter": 4,
-      "verse": "18-19"
-    },
-    "explanation": "As Jesus was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the lake, for they were fishermen. 'Come, follow me,' Jesus said, 'and I will send you out to fish for people.'",
-    "verses": {
-      "kjv": "And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.\nAnd he saith unto them,\nFollow me, and I will make you fishers of men."
-    }
+    "difficulty": "easy"
   },
   {
     "id": "APO-E-0027",
@@ -596,46 +596,46 @@
   {
     "id": "APO-E-0028",
     "theme": "Apostles",
-    "question": "Which apostle did Jesus love?",
+    "question": "Which apostle is referred to as 'the disciple whom Jesus loved'?",
     "choices": [
-      "All of them",
       "John",
       "Peter",
-      "James"
+      "James",
+      "Andrew"
     ],
     "correctIndex": 0,
     "difficulty": "easy",
     "reference": {
       "book": "John",
       "chapter": 13,
-      "verse": "1"
+      "verse": "23"
     },
-    "explanation": "Having loved his own who were in the world, he loved them to the end. Jesus loved all His disciples.",
+    "explanation": "John is identified throughout his Gospel as 'the disciple whom Jesus loved,' a special designation that appears multiple times.",
     "verses": {
-      "kjv": "Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end."
+      "kjv": "Now there was leaning on Jesus' bosom one of his disciples, whom Jesus loved."
     }
   },
   {
-    "id": "APO-E-0029",
-    "theme": "Apostles",
-    "question": "Which apostle wrote the most epistles?",
+    "question": "Which apostle is also called Judas, son of James?",
     "choices": [
-      "Paul",
-      "Peter",
-      "John",
-      "James"
+      "Thaddaeus",
+      "Matthew",
+      "Bartholomew",
+      "Simon"
     ],
     "correctIndex": 0,
-    "difficulty": "easy",
     "reference": {
-      "book": "Romans",
-      "chapter": 1,
-      "verse": "1"
+      "book": "Luke",
+      "chapter": 6,
+      "verse": "16"
     },
-    "explanation": "Paul wrote 13 or 14 epistles, more than any other New Testament writer.",
+    "explanation": "Thaddaeus is also known as Judas, son of James, and is sometimes called Lebbaeus to distinguish him from Judas Iscariot.",
     "verses": {
-      "kjv": "Paul, a servant of Jesus Christ, called\nto be an apostle, separated unto the gospel of God,"
-    }
+      "kjv": "And Judas the brother of James, and Judas Iscariot, which also was the traitor."
+    },
+    "id": "APO-E-0029",
+    "theme": "Apostles",
+    "difficulty": "easy"
   },
   {
     "id": "APO-E-0030",
@@ -660,47 +660,443 @@
     }
   },
   {
-    "id": "APO-E-0026",
+    "id": "APO-E-0031",
     "theme": "Apostles",
-    "question": "Which apostle was called 'the disciple whom Jesus loved'?",
+    "question": "What did Jesus command His disciples to do after His resurrection?",
     "choices": [
-      "John",
-      "Peter",
-      "James",
-      "Andrew"
+      "Go and make disciples of all nations",
+      "Return to Galilee only",
+      "Stay in Jerusalem forever",
+      "Build a temple"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 28,
+      "verse": "19"
+    },
+    "explanation": "Jesus commanded the disciples to go and teach all nations, baptizing them in the name of the Father, Son, and Holy Ghost.",
+    "verses": {
+      "kjv": "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:"
+    }
+  },
+  {
+    "id": "APO-E-0032",
+    "theme": "Apostles",
+    "question": "On which day of the week did the disciples meet when Jesus appeared to them after resurrection?",
+    "choices": [
+      "First day of the week",
+      "Sabbath",
+      "Third day",
+      "Seventh day"
     ],
     "correctIndex": 0,
     "difficulty": "easy",
     "reference": {
       "book": "John",
-      "chapter": 13,
-      "verse": "23"
+      "chapter": 20,
+      "verse": "19"
     },
-    "explanation": "One of them, the disciple whom Jesus loved, was reclining next to him.",
+    "explanation": "On the first day of the week, the same day Jesus rose, He appeared to His disciples when they were assembled.",
     "verses": {
-      "kjv": "Now there was leaning on Jesus’ bosom one of his disciples, whom Jesus loved."
+      "kjv": "Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you."
     }
   },
   {
-    "id": "APO-E-0027",
+    "id": "APO-E-0033",
     "theme": "Apostles",
-    "question": "Which apostle walked on water with Jesus?",
+    "question": "What did the apostles do after Jesus ascended into heaven?",
+    "choices": [
+      "Returned to Jerusalem with great joy",
+      "Fled to Egypt",
+      "Went fishing",
+      "Hid in fear"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 24,
+      "verse": "52"
+    },
+    "explanation": "After worshipping Jesus, the disciples returned to Jerusalem with great joy.",
+    "verses": {
+      "kjv": "And they worshipped him, and returned to Jerusalem with great joy:"
+    }
+  },
+  {
+    "id": "APO-E-0034",
+    "theme": "Apostles",
+    "question": "Which apostle betrayed Jesus?",
+    "choices": [
+      "Judas Iscariot",
+      "Peter",
+      "Thomas",
+      "Philip"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 26,
+      "verse": "14-15"
+    },
+    "explanation": "Judas Iscariot went to the chief priests and betrayed Jesus for thirty pieces of silver.",
+    "verses": {
+      "kjv": "Then one of the twelve, called Judas Iscariot, went unto the chief priests, And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver."
+    }
+  },
+  {
+    "id": "APO-E-0035",
+    "theme": "Apostles",
+    "question": "Which apostle denied Jesus three times?",
     "choices": [
       "Peter",
+      "Thomas",
+      "Judas",
+      "Matthew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 26,
+      "verse": "75"
+    },
+    "explanation": "Peter denied knowing Jesus three times before the rooster crowed, just as Jesus had predicted.",
+    "verses": {
+      "kjv": "And Peter remembered the word of Jesus, which said unto him, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly."
+    }
+  },
+  {
+    "question": "What did Nathanael call Jesus when he first met Him?",
+    "choices": [
+      "Son of God and King of Israel",
+      "The Messiah",
+      "Lord and Savior",
+      "The Christ"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "John",
+      "chapter": 1,
+      "verse": "49"
+    },
+    "explanation": "After Jesus demonstrated His knowledge of Nathanael, Nathanael declared 'Rabbi, thou art the Son of God; thou art the King of Israel.'",
+    "verses": {
+      "kjv": "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel."
+    },
+    "id": "APO-E-0036",
+    "theme": "Apostles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many loaves and fishes did Andrew find for Jesus to multiply?",
+    "choices": [
+      "Five loaves and two fish",
+      "Seven loaves and three fish",
+      "Two loaves and five fish",
+      "Three loaves and two fish"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "John",
+      "chapter": 6,
+      "verse": "9"
+    },
+    "explanation": "Andrew brought a boy with five barley loaves and two small fish to Jesus, who then multiplied them to feed the multitude.",
+    "verses": {
+      "kjv": "There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many?"
+    },
+    "id": "APO-E-0037",
+    "theme": "Apostles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which disciple questioned how they could know the way when Jesus said He was going away?",
+    "choices": [
+      "Thomas",
+      "Philip",
+      "Bartholomew",
+      "Matthew"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "John",
+      "chapter": 14,
+      "verse": "5"
+    },
+    "explanation": "Thomas said to Jesus 'Lord, we know not whither thou goest; and how can we know the way?'",
+    "verses": {
+      "kjv": "Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?"
+    },
+    "id": "APO-E-0038",
+    "theme": "Apostles",
+    "difficulty": "easy"
+  },
+  {
+    "id": "APO-E-0039",
+    "theme": "Apostles",
+    "question": "What did Jesus promise to make Peter and Andrew?",
+    "choices": [
+      "Fishers of men",
+      "Rulers of nations",
+      "Teachers of law",
+      "Builders of temples"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 4,
+      "verse": "19"
+    },
+    "explanation": "Jesus told them to follow Him and He would make them fishers of men.",
+    "verses": {
+      "kjv": "And he saith unto them, Follow me, and I will make you fishers of men."
+    }
+  },
+  {
+    "question": "What did the disciples do immediately after Jesus called them?",
+    "choices": [
+      "They left their nets and followed Him",
+      "They finished their work first",
+      "They went home to tell their families",
+      "They asked for time to think"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 4,
+      "verse": "20"
+    },
+    "explanation": "When Jesus called the fishermen, they immediately left their nets and followed Him.",
+    "verses": {
+      "kjv": "And they straightway left their nets, and followed him."
+    },
+    "id": "APO-E-0040",
+    "theme": "Apostles",
+    "difficulty": "easy"
+  },
+  {
+    "id": "APO-E-0041",
+    "theme": "Apostles",
+    "question": "Which apostle is known for his epistles in the New Testament?",
+    "choices": [
+      "Peter",
+      "Philip",
+      "Bartholomew",
+      "Simon the Zealot"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Peter",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "Peter wrote two epistles (1 Peter and 2 Peter) found in the New Testament.",
+    "verses": {
+      "kjv": "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,"
+    }
+  },
+  {
+    "id": "APO-E-0042",
+    "theme": "Apostles",
+    "question": "Which apostle wrote the Gospel that bears his name and three epistles?",
+    "choices": [
       "John",
+      "Matthew",
+      "Peter",
+      "James"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 21,
+      "verse": "24"
+    },
+    "explanation": "John wrote the Gospel of John and the epistles 1 John, 2 John, and 3 John.",
+    "verses": {
+      "kjv": "This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true."
+    }
+  },
+  {
+    "id": "APO-E-0043",
+    "theme": "Apostles",
+    "question": "Which apostle was the son of Zebedee?",
+    "choices": [
+      "James",
+      "Peter",
+      "Andrew",
+      "Philip"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 4,
+      "verse": "21"
+    },
+    "explanation": "James and his brother John were the sons of Zebedee, called by Jesus while mending nets.",
+    "verses": {
+      "kjv": "And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them."
+    }
+  },
+  {
+    "id": "APO-E-0044",
+    "theme": "Apostles",
+    "question": "Who was called to follow Jesus while sitting at the tax office?",
+    "choices": [
+      "Matthew",
+      "Luke",
+      "Mark",
+      "Zacchaeus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Mark",
+      "chapter": 2,
+      "verse": "14"
+    },
+    "explanation": "Matthew (Levi) was sitting at the receipt of custom when Jesus called him to follow.",
+    "verses": {
+      "kjv": "And as he passed by, he saw Levi the son of Alphaeus sitting at the receipt of custom, and said unto him, Follow me. And he arose and followed him."
+    }
+  },
+  {
+    "question": "Which apostle is listed last in most of the lists of the twelve?",
+    "choices": [
+      "Judas Iscariot",
+      "Matthias",
+      "Thaddaeus",
+      "Simon the Zealot"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 10,
+      "verse": "4"
+    },
+    "explanation": "Judas Iscariot is consistently listed last among the twelve apostles, often identified as the one who betrayed Jesus.",
+    "verses": {
+      "kjv": "Simon the Canaanite, and Judas Iscariot, who also betrayed him."
+    },
+    "id": "APO-E-0045",
+    "theme": "Apostles",
+    "difficulty": "easy"
+  },
+  {
+    "id": "APO-E-0046",
+    "theme": "Apostles",
+    "question": "How many pieces of silver did Judas receive for betraying Jesus?",
+    "choices": [
+      "Thirty",
+      "Twenty",
+      "Forty",
+      "Fifty"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 26,
+      "verse": "15"
+    },
+    "explanation": "Judas received thirty pieces of silver from the chief priests for betraying Jesus.",
+    "verses": {
+      "kjv": "And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver."
+    }
+  },
+  {
+    "question": "How did Matthias become an apostle?",
+    "choices": [
+      "By casting lots",
+      "By election",
+      "Jesus appeared to him",
+      "By drawing straws"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 1,
+      "verse": "26"
+    },
+    "explanation": "The apostles prayed and cast lots between two candidates, and the lot fell to Matthias who was numbered with the eleven.",
+    "verses": {
+      "kjv": "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles."
+    },
+    "id": "APO-E-0047",
+    "theme": "Apostles",
+    "difficulty": "easy"
+  },
+  {
+    "id": "APO-E-0048",
+    "theme": "Apostles",
+    "question": "Which of the twelve apostles was the first to be killed for his faith?",
+    "choices": [
+      "James",
+      "Peter",
+      "Paul",
+      "Stephen"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Acts",
+      "chapter": 12,
+      "verse": "2"
+    },
+    "explanation": "King Herod killed James, the brother of John, with the sword. Though Stephen was the first Christian martyr, James was the first of the twelve apostles to be martyred.",
+    "verses": {
+      "kjv": "And he killed James the brother of John with the sword."
+    }
+  },
+  {
+    "id": "APO-E-0049",
+    "theme": "Apostles",
+    "question": "Which apostle said to Jesus, 'Show us the Father'?",
+    "choices": [
+      "Philip",
+      "Thomas",
+      "Andrew",
+      "Bartholomew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 14,
+      "verse": "8"
+    },
+    "explanation": "Philip asked Jesus to show them the Father, to which Jesus responded about knowing Him.",
+    "verses": {
+      "kjv": "Philip saith unto him, Lord, shew us the Father, and it sufficeth us."
+    }
+  },
+  {
+    "id": "APO-E-0050",
+    "theme": "Apostles",
+    "question": "What name did Jesus give to Simon?",
+    "choices": [
+      "Peter",
+      "Rock",
       "Andrew",
       "James"
     ],
     "correctIndex": 0,
     "difficulty": "easy",
     "reference": {
-      "book": "Matthew",
-      "chapter": 14,
-      "verse": "29"
+      "book": "John",
+      "chapter": 1,
+      "verse": "42"
     },
-    "explanation": "Peter got down out of the boat, walked on the water and came toward Jesus.",
+    "explanation": "Jesus gave Simon the name Cephas, which is translated as Peter, meaning rock.",
     "verses": {
-      "kjv": "And he said,\nCome. And when Peter was come down out of the ship, he walked on the water, to go to Jesus."
+      "kjv": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone."
     }
   }
 ]

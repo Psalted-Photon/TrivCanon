@@ -132,28 +132,6 @@
     }
   },
   {
-    "id": "END-E-0007",
-    "theme": "Prophecy & End Times",
-    "question": "What is the number of the beast in Revelation?",
-    "choices": [
-      "666",
-      "777",
-      "999",
-      "333"
-    ],
-    "correctIndex": 0,
-    "difficulty": "easy",
-    "reference": {
-      "book": "Revelation",
-      "chapter": 13,
-      "verse": "18"
-    },
-    "explanation": "This calls for wisdom. Let the person who has insight calculate the number of the beast, for it is the number of a man. That number is 666.",
-    "verses": {
-      "kjv": "Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number\nis Six hundred threescore\nand six."
-    }
-  },
-  {
     "id": "END-E-0008",
     "theme": "Prophecy & End Times",
     "question": "How many elders are seated around God's throne in Revelation?",

@@ -856,49 +856,5 @@
     "verses": {
       "kjv": "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:\nAnd let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.\nAnd God made two great lights; the greater light to rule the day, and the lesser light to rule the night:\nhe made the stars also.\nAnd God set them in the firmament of the heaven to give light upon the earth,\nAnd to rule over the day and over the night, and to divide the light from the darkness: and God saw that\nit was good.\nAnd the evening and the morning were the fourth day."
     }
-  },
-  {
-    "id": "CRE-E-0026",
-    "theme": "Creation & Origins",
-    "question": "What did God create on the fifth day?",
-    "choices": [
-      "Sea creatures and birds",
-      "Land animals",
-      "Plants",
-      "Humans"
-    ],
-    "correctIndex": 0,
-    "difficulty": "easy",
-    "reference": {
-      "book": "Genesis",
-      "chapter": 1,
-      "verse": "20-23"
-    },
-    "explanation": "God created the great creatures of the sea and every living thing with which the water teems and every winged bird.",
-    "verses": {
-      "kjv": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl\nthat may fly above the earth in the open firmament of heaven.\nAnd God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that\nit was good.\nAnd God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.\nAnd the evening and the morning were the fifth day."
-    }
-  },
-  {
-    "id": "CRE-E-0027",
-    "theme": "Creation & Origins",
-    "question": "What was the first thing God created?",
-    "choices": [
-      "Light",
-      "Water",
-      "Earth",
-      "Heaven"
-    ],
-    "correctIndex": 0,
-    "difficulty": "easy",
-    "reference": {
-      "book": "Genesis",
-      "chapter": 1,
-      "verse": "3"
-    },
-    "explanation": "And God said, 'Let there be light,' and there was light. This was the first thing God created.",
-    "verses": {
-      "kjv": "And God said, Let there be light: and there was light."
-    }
   }
 ]

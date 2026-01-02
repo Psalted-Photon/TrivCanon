@@ -352,28 +352,6 @@
     }
   },
   {
-    "id": "END-H-0025",
-    "theme": "Prophecy & End Times",
-    "question": "How long will the two witnesses prophesy in Revelation?",
-    "choices": [
-      "1,260 days",
-      "42 months",
-      "3.5 years",
-      "1,000 days"
-    ],
-    "correctIndex": 0,
-    "difficulty": "hard",
-    "reference": {
-      "book": "Revelation",
-      "chapter": 11,
-      "verse": "3"
-    },
-    "explanation": "And I will appoint my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.",
-    "verses": {
-      "kjv": "And I will give\npower unto my two witnesses, and they shall prophesy a thousand two hundred\nand threescore days, clothed in sackcloth."
-    }
-  },
-  {
     "id": "END-H-0026",
     "theme": "Prophecy & End Times",
     "question": "What is the name of the place where kings gather for battle in Revelation?",

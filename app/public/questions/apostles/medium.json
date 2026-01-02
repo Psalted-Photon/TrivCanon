@@ -594,9 +594,251 @@
     }
   },
   {
-    "id": "APO-M-0026",
+    "id": "APO-M-0028",
     "theme": "Apostles",
-    "question": "Which two apostles were sent by Jesus to prepare the Passover meal?",
+    "question": "Which apostle was known for bringing people to Jesus, including a boy with loaves and fish?",
+    "choices": [
+      "Andrew",
+      "Philip",
+      "Bartholomew",
+      "Matthew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 6,
+      "verse": "8-9"
+    },
+    "explanation": "Andrew brought his brother Peter to Jesus, and later brought the boy with five loaves and two fish.",
+    "verses": {
+      "kjv": "One of his disciples, Andrew, Simon Peter's brother, saith unto him, There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many?"
+    }
+  },
+  {
+    "id": "APO-M-0029",
+    "theme": "Apostles",
+    "question": "Which Gospel records that Peter and another disciple ran to the tomb?",
+    "choices": [
+      "John",
+      "Matthew",
+      "Mark",
+      "Luke"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 20,
+      "verse": "3-4"
+    },
+    "explanation": "The Gospel of John records that Peter and John (the other disciple) ran together to the sepulchre.",
+    "verses": {
+      "kjv": "Peter therefore went forth, and that other disciple, and came to the sepulchre. So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre."
+    }
+  },
+  {
+    "id": "APO-M-0030",
+    "theme": "Apostles",
+    "question": "What was Peter's original name before Jesus renamed him?",
+    "choices": [
+      "Simon",
+      "Simeon",
+      "Samuel",
+      "Saul"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 1,
+      "verse": "42"
+    },
+    "explanation": "Peter was originally named Simon, son of Jona, before Jesus gave him the name Cephas (Peter).",
+    "verses": {
+      "kjv": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone."
+    }
+  },
+  {
+    "id": "APO-M-0031",
+    "theme": "Apostles",
+    "question": "Which apostle was chosen to replace Judas Iscariot?",
+    "choices": [
+      "Matthias",
+      "Barsabbas",
+      "Paul",
+      "Timothy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 1,
+      "verse": "26"
+    },
+    "explanation": "After casting lots, Matthias was chosen to replace Judas among the twelve apostles.",
+    "verses": {
+      "kjv": "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles."
+    }
+  },
+  {
+    "id": "APO-M-0032",
+    "theme": "Apostles",
+    "question": "What was the occupation of James and John before following Jesus?",
+    "choices": [
+      "Fishermen",
+      "Tax collectors",
+      "Tentmakers",
+      "Carpenters"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Mark",
+      "chapter": 1,
+      "verse": "19-20"
+    },
+    "explanation": "James and John were fishermen, mending their nets with their father Zebedee when Jesus called them.",
+    "verses": {
+      "kjv": "And when he had gone a little farther thence, he saw James the son of Zebedee, and John his brother, who also were in the ship mending their nets. And straightway he called them: and they left their father Zebedee in the ship with the hired servants, and went after him."
+    }
+  },
+  {
+    "id": "APO-M-0033",
+    "theme": "Apostles",
+    "question": "What did Jesus tell His disciples they would be after receiving the Holy Spirit?",
+    "choices": [
+      "Witnesses unto Him",
+      "Kings and priests",
+      "Prophets only",
+      "Judges of Israel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 1,
+      "verse": "8"
+    },
+    "explanation": "Jesus told the disciples they would receive power when the Holy Ghost came upon them and be witnesses unto Him.",
+    "verses": {
+      "kjv": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth."
+    }
+  },
+  {
+    "id": "APO-M-0034",
+    "theme": "Apostles",
+    "question": "Who was the father of James and John?",
+    "choices": [
+      "Zebedee",
+      "Alphaeus",
+      "Jonah",
+      "Zacharias"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 4,
+      "verse": "21"
+    },
+    "explanation": "James and John were the sons of Zebedee, who was also a fisherman.",
+    "verses": {
+      "kjv": "And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them."
+    }
+  },
+  {
+    "id": "APO-M-0035",
+    "theme": "Apostles",
+    "question": "What question did Thomas ask Jesus at the Last Supper?",
+    "choices": [
+      "How can we know the way?",
+      "Who will betray you?",
+      "Where are you going?",
+      "When will you return?"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 14,
+      "verse": "5"
+    },
+    "explanation": "Thomas said to Jesus that they did not know where He was going, so how could they know the way.",
+    "verses": {
+      "kjv": "Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?"
+    }
+  },
+  {
+    "id": "APO-M-0036",
+    "theme": "Apostles",
+    "question": "Which apostle is also called Levi?",
+    "choices": [
+      "Matthew",
+      "James",
+      "Simon",
+      "Judas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Mark",
+      "chapter": 2,
+      "verse": "14"
+    },
+    "explanation": "Matthew the tax collector was also known as Levi, the son of Alphaeus.",
+    "verses": {
+      "kjv": "And as he passed by, he saw Levi the son of Alphaeus sitting at the receipt of custom, and said unto him, Follow me. And he arose and followed him."
+    }
+  },
+  {
+    "id": "APO-M-0037",
+    "theme": "Apostles",
+    "question": "How did Judas Iscariot die according to the book of Acts?",
+    "choices": [
+      "He fell headlong and burst open",
+      "He hanged himself",
+      "He was stoned",
+      "He was crucified"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 1,
+      "verse": "18"
+    },
+    "explanation": "Acts records that Judas fell headlong and his bowels gushed out in the field he purchased.",
+    "verses": {
+      "kjv": "Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out."
+    }
+  },
+  {
+    "id": "APO-M-0038",
+    "theme": "Apostles",
+    "question": "What was the name of the high priest's servant whose ear Peter cut off?",
+    "choices": [
+      "Malchus",
+      "Caiaphas",
+      "Annas",
+      "Alexander"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 18,
+      "verse": "10"
+    },
+    "explanation": "The servant's name was Malchus, and Peter cut off his right ear.",
+    "verses": {
+      "kjv": "Then Simon Peter having a sword drew it, and smote the high priest's servant, and cut off his right ear. The servant's name was Malchus."
+    }
+  },
+  {
+    "id": "APO-M-0039",
+    "theme": "Apostles",
+    "question": "Which two apostles did Jesus send to prepare the Passover?",
     "choices": [
       "Peter and John",
       "James and John",
@@ -610,31 +852,251 @@
       "chapter": 22,
       "verse": "8"
     },
-    "explanation": "Jesus sent Peter and John, saying, 'Go and make preparations for us to eat the Passover.'",
+    "explanation": "Jesus sent Peter and John to prepare the Passover meal for the disciples.",
     "verses": {
-      "kjv": "And he sent Peter and John, saying,\nGo and prepare us the passover, that we may eat."
+      "kjv": "And he sent Peter and John, saying, Go and prepare us the passover, that we may eat."
     }
   },
   {
-    "id": "APO-M-0027",
+    "id": "APO-M-0040",
     "theme": "Apostles",
-    "question": "Which apostle brought his brother to Jesus?",
+    "question": "What did Andrew tell his brother Simon about Jesus?",
     "choices": [
-      "Andrew",
-      "James",
-      "Philip",
-      "John"
+      "We have found the Messias",
+      "This is the Son of God",
+      "The kingdom is at hand",
+      "Repent and be saved"
     ],
     "correctIndex": 0,
     "difficulty": "medium",
     "reference": {
       "book": "John",
       "chapter": 1,
-      "verse": "40-42"
+      "verse": "41"
     },
-    "explanation": "Andrew, Simon Peter's brother, was one of the two who heard John and followed Jesus. He first found his own brother Simon.",
+    "explanation": "Andrew first found his brother Simon and told him they had found the Messias, which is Christ.",
     "verses": {
-      "kjv": "One of the two which heard John\nspeak, and followed him, was Andrew, Simon Peter’s brother.\nHe first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.\nAnd he brought him to Jesus. And when Jesus beheld him, he said,\nThou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone."
+      "kjv": "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ."
+    }
+  },
+  {
+    "id": "APO-M-0041",
+    "theme": "Apostles",
+    "question": "Which apostle said 'Lord, show us the Father, and it sufficeth us'?",
+    "choices": [
+      "Philip",
+      "Thomas",
+      "Bartholomew",
+      "Matthew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 14,
+      "verse": "8"
+    },
+    "explanation": "Philip requested that Jesus show them the Father, believing that would be sufficient.",
+    "verses": {
+      "kjv": "Philip saith unto him, Lord, shew us the Father, and it sufficeth us."
+    }
+  },
+  {
+    "id": "APO-M-0042",
+    "theme": "Apostles",
+    "question": "In which city was Peter when he received the vision of the sheet with unclean animals?",
+    "choices": [
+      "Joppa",
+      "Jerusalem",
+      "Caesarea",
+      "Antioch"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 10,
+      "verse": "9-10"
+    },
+    "explanation": "Peter was in Joppa, on a housetop praying, when he received the vision about clean and unclean animals.",
+    "verses": {
+      "kjv": "On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour: And he became very hungry, and would have eaten: but while they made ready, he fell into a trance,"
+    }
+  },
+  {
+    "id": "APO-M-0043",
+    "theme": "Apostles",
+    "question": "Which apostle asked Jesus about the man born blind, 'who sinned, this man or his parents'?",
+    "choices": [
+      "The disciples",
+      "John",
+      "Peter",
+      "Thomas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 9,
+      "verse": "2"
+    },
+    "explanation": "The disciples asked Jesus whether the man or his parents had sinned, causing his blindness.",
+    "verses": {
+      "kjv": "And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?"
+    }
+  },
+  {
+    "id": "APO-M-0044",
+    "theme": "Apostles",
+    "question": "What was Peter doing on the night he had the vision about the sheet?",
+    "choices": [
+      "Praying on a housetop",
+      "Fishing",
+      "Walking by the sea",
+      "Teaching in the temple"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 10,
+      "verse": "9"
+    },
+    "explanation": "Peter went up on the housetop to pray about the sixth hour when he fell into a trance.",
+    "verses": {
+      "kjv": "On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:"
+    }
+  },
+  {
+    "id": "APO-M-0045",
+    "theme": "Apostles",
+    "question": "Which apostle was also known as Didymus?",
+    "choices": [
+      "Thomas",
+      "James",
+      "Judas",
+      "Simon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 11,
+      "verse": "16"
+    },
+    "explanation": "Thomas was called Didymus, which means 'twin' in Greek.",
+    "verses": {
+      "kjv": "Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him."
+    }
+  },
+  {
+    "id": "APO-M-0046",
+    "theme": "Apostles",
+    "question": "Who questioned how 5,000 people could be fed in the wilderness?",
+    "choices": [
+      "Philip",
+      "Andrew",
+      "Peter",
+      "John"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 6,
+      "verse": "7"
+    },
+    "explanation": "Philip answered Jesus saying that two hundred pennyworth of bread would not be sufficient for them.",
+    "verses": {
+      "kjv": "Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little."
+    }
+  },
+  {
+    "id": "APO-M-0047",
+    "theme": "Apostles",
+    "question": "Which apostle found the boy with five loaves and two fish?",
+    "choices": [
+      "Andrew",
+      "Philip",
+      "Peter",
+      "John"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 6,
+      "verse": "8-9"
+    },
+    "explanation": "Andrew, Simon Peter's brother, told Jesus about the lad with five barley loaves and two small fishes.",
+    "verses": {
+      "kjv": "One of his disciples, Andrew, Simon Peter's brother, saith unto him, There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many?"
+    }
+  },
+  {
+    "id": "APO-M-0048",
+    "theme": "Apostles",
+    "question": "How many days after the resurrection did Jesus appear to Thomas?",
+    "choices": [
+      "Eight days",
+      "Three days",
+      "Seven days",
+      "Ten days"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "John",
+      "chapter": 20,
+      "verse": "26"
+    },
+    "explanation": "After eight days, Jesus appeared again to the disciples when Thomas was present.",
+    "verses": {
+      "kjv": "And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you."
+    }
+  },
+  {
+    "id": "APO-M-0049",
+    "theme": "Apostles",
+    "question": "What did Peter tell the lame beggar at the temple gate?",
+    "choices": [
+      "Silver and gold have I none",
+      "Arise and walk",
+      "Thy faith hath made thee whole",
+      "Go in peace"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 3,
+      "verse": "6"
+    },
+    "explanation": "Peter told the lame man that he had no silver or gold, but would give him what he had in Jesus' name.",
+    "verses": {
+      "kjv": "Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk."
+    }
+  },
+  {
+    "id": "APO-M-0050",
+    "theme": "Apostles",
+    "question": "Where were the disciples when they received the Holy Spirit on Pentecost?",
+    "choices": [
+      "In an upper room in Jerusalem",
+      "By the Sea of Galilee",
+      "In the temple",
+      "On Mount Sinai"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "reference": {
+      "book": "Acts",
+      "chapter": 2,
+      "verse": "1-2"
+    },
+    "explanation": "The disciples were all with one accord in one place when the Holy Spirit came upon them on the day of Pentecost.",
+    "verses": {
+      "kjv": "And when the day of Pentecost was fully come, they were all with one accord in one place. And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting."
     }
   }
 ]

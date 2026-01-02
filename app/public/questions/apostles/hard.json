@@ -416,5 +416,687 @@
     "verses": {
       "kjv": "Now Philip was of Bethsaida, the city of Andrew and Peter."
     }
+  },
+  {
+    "id": "APO-H-0020",
+    "theme": "Apostles",
+    "question": "In which town was Peter staying when Cornelius sent for him?",
+    "choices": [
+      "Joppa",
+      "Caesarea",
+      "Antioch",
+      "Lydda"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 10,
+      "verse": "5"
+    },
+    "explanation": "Cornelius was told to send men to Joppa to fetch Simon Peter, who was lodging with Simon the tanner.",
+    "verses": {
+      "kjv": "And now send men to Joppa, and call for one Simon, whose surname is Peter:"
+    }
+  },
+  {
+    "id": "APO-H-0021",
+    "theme": "Apostles",
+    "question": "What was the name of the tanner with whom Peter stayed in Joppa?",
+    "choices": [
+      "Simon",
+      "John",
+      "Philip",
+      "James"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 9,
+      "verse": "43"
+    },
+    "explanation": "Peter stayed many days in Joppa with one Simon, a tanner.",
+    "verses": {
+      "kjv": "And it came to pass, that he tarried many days in Joppa with one Simon a tanner."
+    }
+  },
+  {
+    "id": "APO-H-0022",
+    "theme": "Apostles",
+    "question": "Who was the father of Judas Iscariot?",
+    "choices": [
+      "Simon",
+      "Alphaeus",
+      "Zebedee",
+      "Jonah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 6,
+      "verse": "71"
+    },
+    "explanation": "Judas Iscariot was the son of Simon, who would betray Jesus.",
+    "verses": {
+      "kjv": "He spake of Judas Iscariot the son of Simon: for he it was that should betray him, being one of the twelve."
+    }
+  },
+  {
+    "id": "APO-H-0023",
+    "theme": "Apostles",
+    "question": "Which apostle is identified as the son of Alphaeus?",
+    "choices": [
+      "James the Less",
+      "Matthew",
+      "Judas",
+      "Simon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Mark",
+      "chapter": 3,
+      "verse": "18"
+    },
+    "explanation": "James the son of Alphaeus is listed among the twelve apostles, also called James the Less.",
+    "verses": {
+      "kjv": "And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Canaanite,"
+    }
+  },
+  {
+    "id": "APO-H-0024",
+    "theme": "Apostles",
+    "question": "What other name is given for the apostle Thaddaeus?",
+    "choices": [
+      "Judas the brother of James",
+      "Lebbaeus",
+      "Simon Zelotes",
+      "Bartholomew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Luke",
+      "chapter": 6,
+      "verse": "16"
+    },
+    "explanation": "Thaddaeus is also identified as Judas the brother of James (not Iscariot).",
+    "verses": {
+      "kjv": "And Judas the brother of James, and Judas Iscariot, which also was the traitor."
+    }
+  },
+  {
+    "id": "APO-H-0025",
+    "theme": "Apostles",
+    "question": "In which town did Jesus find Philip?",
+    "choices": [
+      "Bethsaida",
+      "Capernaum",
+      "Nazareth",
+      "Cana"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 1,
+      "verse": "43-44"
+    },
+    "explanation": "Jesus found Philip in Bethsaida, the city of Andrew and Peter.",
+    "verses": {
+      "kjv": "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me. Now Philip was of Bethsaida, the city of Andrew and Peter."
+    }
+  },
+  {
+    "id": "APO-H-0026",
+    "theme": "Apostles",
+    "question": "What was Bartholomew's hometown according to tradition?",
+    "choices": [
+      "Cana",
+      "Bethsaida",
+      "Nazareth",
+      "Capernaum"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 1,
+      "verse": "45-46"
+    },
+    "explanation": "Nathanael (Bartholomew) was from Cana in Galilee, as indicated when Philip found him.",
+    "verses": {
+      "kjv": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph. And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see."
+    }
+  },
+  {
+    "id": "APO-H-0027",
+    "theme": "Apostles",
+    "question": "Which king killed the apostle James with a sword?",
+    "choices": [
+      "Herod Agrippa I",
+      "Herod Antipas",
+      "Herod the Great",
+      "Pontius Pilate"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 12,
+      "verse": "1-2"
+    },
+    "explanation": "Herod Agrippa I (called Herod the king) killed James the brother of John with the sword.",
+    "verses": {
+      "kjv": "Now about that time Herod the king stretched forth his hands to vex certain of the church. And he killed James the brother of John with the sword."
+    }
+  },
+  {
+    "id": "APO-H-0028",
+    "theme": "Apostles",
+    "question": "How many fish did the disciples catch when Jesus told them to cast their net on the right side?",
+    "choices": [
+      "153",
+      "276",
+      "120",
+      "144"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 21,
+      "verse": "11"
+    },
+    "explanation": "Simon Peter drew the net to land full of great fishes, one hundred and fifty-three.",
+    "verses": {
+      "kjv": "Simon Peter went up, and drew the net to land full of great fishes, an hundred and fifty and three: and for all there were so many, yet was not the net broken."
+    }
+  },
+  {
+    "id": "APO-H-0029",
+    "theme": "Apostles",
+    "question": "How many times did Jesus ask Peter if he loved Him after the resurrection?",
+    "choices": [
+      "Three",
+      "Two",
+      "Four",
+      "Seven"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 21,
+      "verse": "17"
+    },
+    "explanation": "Jesus asked Peter three times if he loved Him, corresponding to Peter's three denials.",
+    "verses": {
+      "kjv": "He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep."
+    }
+  },
+  {
+    "id": "APO-H-0030",
+    "theme": "Apostles",
+    "question": "What was the field called that was bought with Judas' betrayal money?",
+    "choices": [
+      "Aceldama",
+      "Gethsemane",
+      "Kidron",
+      "Golgotha"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 1,
+      "verse": "19"
+    },
+    "explanation": "The field purchased with the reward of iniquity was called Aceldama, meaning 'field of blood'.",
+    "verses": {
+      "kjv": "And it was known unto all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood."
+    }
+  },
+  {
+    "id": "APO-H-0031",
+    "theme": "Apostles",
+    "question": "Which two men were nominated to replace Judas as an apostle?",
+    "choices": [
+      "Joseph Barsabbas and Matthias",
+      "Barnabas and Paul",
+      "Silas and Timothy",
+      "Stephen and Philip"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 1,
+      "verse": "23"
+    },
+    "explanation": "They appointed two men: Joseph called Barsabbas (surnamed Justus) and Matthias.",
+    "verses": {
+      "kjv": "And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias."
+    }
+  },
+  {
+    "id": "APO-H-0032",
+    "theme": "Apostles",
+    "question": "What was the surname of Joseph Barsabbas who was considered to replace Judas?",
+    "choices": [
+      "Justus",
+      "Marcus",
+      "Clement",
+      "Rufus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 1,
+      "verse": "23"
+    },
+    "explanation": "Joseph called Barsabbas was also surnamed Justus.",
+    "verses": {
+      "kjv": "And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias."
+    }
+  },
+  {
+    "id": "APO-H-0033",
+    "theme": "Apostles",
+    "question": "From where did Nathanael come when Philip found him?",
+    "choices": [
+      "Cana of Galilee",
+      "Bethany",
+      "Bethlehem",
+      "Bethsaida"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 21,
+      "verse": "2"
+    },
+    "explanation": "Nathanael of Cana in Galilee is mentioned among the disciples who went fishing.",
+    "verses": {
+      "kjv": "There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the sons of Zebedee, and two other of his disciples."
+    }
+  },
+  {
+    "id": "APO-H-0034",
+    "theme": "Apostles",
+    "question": "What was Matthew's other name mentioned in the Gospels?",
+    "choices": [
+      "Levi",
+      "Alphaeus",
+      "Thaddaeus",
+      "Simon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Luke",
+      "chapter": 5,
+      "verse": "27"
+    },
+    "explanation": "Matthew the tax collector was also called Levi, the son of Alphaeus.",
+    "verses": {
+      "kjv": "And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me."
+    }
+  },
+  {
+    "id": "APO-H-0035",
+    "theme": "Apostles",
+    "question": "Which apostle is specifically called 'the Canaanite' or 'Zelotes'?",
+    "choices": [
+      "Simon",
+      "Judas",
+      "James",
+      "Matthew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Luke",
+      "chapter": 6,
+      "verse": "15"
+    },
+    "explanation": "Simon was called Zelotes, indicating he may have been part of the Zealot movement.",
+    "verses": {
+      "kjv": "Matthew and Thomas, James the son of Alphaeus, and Simon called Zelotes,"
+    }
+  },
+  {
+    "id": "APO-H-0036",
+    "theme": "Apostles",
+    "question": "How many people were gathered in the upper room when Matthias was chosen?",
+    "choices": [
+      "About 120",
+      "About 500",
+      "About 70",
+      "The eleven"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 1,
+      "verse": "15"
+    },
+    "explanation": "Peter stood up among the disciples, numbering about one hundred and twenty.",
+    "verses": {
+      "kjv": "And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,)"
+    }
+  },
+  {
+    "id": "APO-H-0037",
+    "theme": "Apostles",
+    "question": "What did Peter say would happen to him when he grew old?",
+    "choices": [
+      "Another would gird him and carry him where he would not",
+      "He would see the kingdom of God",
+      "He would deny Christ again",
+      "He would be crowned with glory"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 21,
+      "verse": "18"
+    },
+    "explanation": "Jesus told Peter that when he was old, another would gird him and carry him where he did not wish to go.",
+    "verses": {
+      "kjv": "Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not."
+    }
+  },
+  {
+    "id": "APO-H-0038",
+    "theme": "Apostles",
+    "question": "Who was the mother of James and John?",
+    "choices": [
+      "Salome",
+      "Mary Magdalene",
+      "Mary of Bethany",
+      "Joanna"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Mark",
+      "chapter": 15,
+      "verse": "40"
+    },
+    "explanation": "Salome is traditionally identified as the mother of Zebedee's children (James and John).",
+    "verses": {
+      "kjv": "There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;"
+    }
+  },
+  {
+    "id": "APO-H-0039",
+    "theme": "Apostles",
+    "question": "In which city did Peter heal Aeneas who had been bedridden for eight years?",
+    "choices": [
+      "Lydda",
+      "Joppa",
+      "Caesarea",
+      "Samaria"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 9,
+      "verse": "32-33"
+    },
+    "explanation": "Peter came to the saints at Lydda and found Aeneas who had been bedridden eight years with palsy.",
+    "verses": {
+      "kjv": "And it came to pass, as Peter passed throughout all quarters, he came down also to the saints which dwelt at Lydda. And there he found a certain man named Aeneas, which had kept his bed eight years, and was sick of the palsy."
+    }
+  },
+  {
+    "id": "APO-H-0040",
+    "theme": "Apostles",
+    "question": "What was the name of the woman Peter raised from the dead in Joppa?",
+    "choices": [
+      "Tabitha",
+      "Lydia",
+      "Priscilla",
+      "Dorcas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 9,
+      "verse": "36"
+    },
+    "explanation": "Tabitha (also called Dorcas) was a disciple in Joppa who Peter raised from the dead.",
+    "verses": {
+      "kjv": "Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did."
+    }
+  },
+  {
+    "id": "APO-H-0041",
+    "theme": "Apostles",
+    "question": "In which town was Tabitha (Dorcas) residing when she died?",
+    "choices": [
+      "Joppa",
+      "Lydda",
+      "Caesarea",
+      "Jerusalem"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 9,
+      "verse": "36"
+    },
+    "explanation": "Tabitha was a disciple living in Joppa who became sick and died.",
+    "verses": {
+      "kjv": "Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did."
+    }
+  },
+  {
+    "id": "APO-H-0042",
+    "theme": "Apostles",
+    "question": "Who was the centurion in Caesarea who sent for Peter?",
+    "choices": [
+      "Cornelius",
+      "Julius",
+      "Claudius",
+      "Longinus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 10,
+      "verse": "1"
+    },
+    "explanation": "Cornelius was a centurion of the Italian band in Caesarea who was devout and feared God.",
+    "verses": {
+      "kjv": "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band,"
+    }
+  },
+  {
+    "id": "APO-H-0043",
+    "theme": "Apostles",
+    "question": "What was the name of the Italian band to which Cornelius belonged?",
+    "choices": [
+      "The Italian band",
+      "The Augustan band",
+      "The Imperial band",
+      "The Praetorian guard"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 10,
+      "verse": "1"
+    },
+    "explanation": "Cornelius was a centurion of the band called the Italian band.",
+    "verses": {
+      "kjv": "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band,"
+    }
+  },
+  {
+    "id": "APO-H-0044",
+    "theme": "Apostles",
+    "question": "At what hour did Cornelius see the angel in his vision?",
+    "choices": [
+      "The ninth hour",
+      "The third hour",
+      "The sixth hour",
+      "The eleventh hour"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 10,
+      "verse": "3"
+    },
+    "explanation": "Cornelius saw clearly in a vision about the ninth hour of the day an angel of God coming to him.",
+    "verses": {
+      "kjv": "He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius."
+    }
+  },
+  {
+    "id": "APO-H-0045",
+    "theme": "Apostles",
+    "question": "What was Peter's vision about on the housetop in Joppa?",
+    "choices": [
+      "A sheet with clean and unclean animals",
+      "A ladder to heaven",
+      "A burning bush",
+      "Seven golden lampstands"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 10,
+      "verse": "11-12"
+    },
+    "explanation": "Peter saw heaven opened and a vessel like a great sheet descending with all manner of beasts, creeping things, and fowls.",
+    "verses": {
+      "kjv": "And saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth: Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air."
+    }
+  },
+  {
+    "id": "APO-H-0046",
+    "theme": "Apostles",
+    "question": "How many men did Cornelius send to Joppa to fetch Peter?",
+    "choices": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 10,
+      "verse": "7"
+    },
+    "explanation": "Cornelius called two of his household servants and a devout soldier, making three men total.",
+    "verses": {
+      "kjv": "And when the angel which spake unto Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;"
+    }
+  },
+  {
+    "id": "APO-H-0047",
+    "theme": "Apostles",
+    "question": "What did the voice tell Peter regarding the animals in the sheet?",
+    "choices": [
+      "Kill and eat",
+      "Take and sacrifice",
+      "Observe and learn",
+      "Touch not"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 10,
+      "verse": "13"
+    },
+    "explanation": "A voice came to Peter saying, 'Rise, Peter; kill, and eat.'",
+    "verses": {
+      "kjv": "And there came a voice to him, Rise, Peter; kill, and eat."
+    }
+  },
+  {
+    "id": "APO-H-0048",
+    "theme": "Apostles",
+    "question": "How many times was the sheet with animals let down to Peter in his vision?",
+    "choices": [
+      "Three times",
+      "Once",
+      "Twice",
+      "Seven times"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 10,
+      "verse": "16"
+    },
+    "explanation": "This was done three times, and the vessel was received up again into heaven.",
+    "verses": {
+      "kjv": "This was done thrice: and the vessel was received up again into heaven."
+    }
+  },
+  {
+    "id": "APO-H-0049",
+    "theme": "Apostles",
+    "question": "Which apostle suggested buying food for 5,000 people would cost 200 denarii?",
+    "choices": [
+      "Philip",
+      "Andrew",
+      "Peter",
+      "Matthew"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "John",
+      "chapter": 6,
+      "verse": "7"
+    },
+    "explanation": "Philip calculated that two hundred pennyworth of bread would not be sufficient for each to have a little.",
+    "verses": {
+      "kjv": "Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little."
+    }
+  },
+  {
+    "id": "APO-H-0050",
+    "theme": "Apostles",
+    "question": "What was the name of the gate where Peter and John healed the lame man?",
+    "choices": [
+      "Beautiful",
+      "Golden",
+      "Sheep",
+      "Eastern"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Acts",
+      "chapter": 3,
+      "verse": "2"
+    },
+    "explanation": "A lame man was laid daily at the gate of the temple called Beautiful to ask for alms.",
+    "verses": {
+      "kjv": "And a certain man lame from his mother's womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms of them that entered into the temple;"
+    }
   }
 ]

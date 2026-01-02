@@ -306,5 +306,819 @@
     "verses": {
       "kjv": "O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king’s cupbearer."
     }
+  },
+  {
+    "question": "What city did Abraham's servant reach when he found Rebekah?",
+    "choices": [
+      "The city of Nahor",
+      "Haran",
+      "Damascus",
+      "Ur of the Chaldees"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 24,
+      "verse": "10"
+    },
+    "explanation": "Abraham's servant journeyed to Mesopotamia, to the city of Nahor, where he found Rebekah at the well.",
+    "verses": {
+      "kjv": "And the servant took ten camels of the camels of his master, and departed; for all the goods of his master were in his hand: and he arose, and went to Mesopotamia, unto the city of Nahor."
+    },
+    "id": "JRN-H-0027",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many years did Jacob serve Laban before fleeing back to Canaan?",
+    "choices": [
+      "Twenty years",
+      "Fourteen years",
+      "Seven years",
+      "Twenty-one years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 31,
+      "verse": "38"
+    },
+    "explanation": "Jacob reminded Laban that he had served him for twenty years before departing.",
+    "verses": {
+      "kjv": "This twenty years have I been with thee; thy ewes and thy she goats have not cast their young, and the rams of thy flock have I not eaten."
+    },
+    "id": "JRN-H-0028",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What river did Jacob cross when he wrestled with the angel?",
+    "choices": [
+      "Jabbok",
+      "Jordan",
+      "Arnon",
+      "Euphrates"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 32,
+      "verse": "22-24"
+    },
+    "explanation": "Jacob sent his family across the ford Jabbok, and wrestled with the angel that same night.",
+    "verses": {
+      "kjv": "And he rose up that night, and took his two wives, and his two womenservants, and his eleven sons, and passed over the ford Jabbok. And he took them, and sent them over the brook, and sent over that he had. And Jacob was left alone; and there wrestled a man with him until the breaking of the day."
+    },
+    "id": "JRN-H-0029",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what land did Jacob settle after returning from Padan-aram?",
+    "choices": [
+      "The land of Canaan",
+      "The land of Goshen",
+      "The land of Egypt",
+      "The land of Gilead"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 37,
+      "verse": "1"
+    },
+    "explanation": "Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan.",
+    "verses": {
+      "kjv": "And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan."
+    },
+    "id": "JRN-H-0030",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of Joseph's brothers suggested they not kill him but cast him into a pit?",
+    "choices": [
+      "Reuben",
+      "Judah",
+      "Simeon",
+      "Levi"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 37,
+      "verse": "21-22"
+    },
+    "explanation": "Reuben heard their plot and delivered Joseph by suggesting they cast him into a pit instead of killing him.",
+    "verses": {
+      "kjv": "And Reuben heard it, and he delivered him out of their hands; and said, Let us not kill him. And Reuben said unto them, Shed no blood, but cast him into this pit that is in the wilderness, and lay no hand upon him; that he might rid him out of their hands, to deliver him to his father again."
+    },
+    "id": "JRN-H-0031",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the name of the place where Joseph was cast into the pit?",
+    "choices": [
+      "Dothan",
+      "Shechem",
+      "Bethel",
+      "Hebron"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 37,
+      "verse": "17"
+    },
+    "explanation": "Joseph found his brothers in Dothan, where they cast him into the pit.",
+    "verses": {
+      "kjv": "And the man said, They are departed hence; for I heard them say, Let us go to Dothan. And Joseph went after his brethren, and found them in Dothan."
+    },
+    "id": "JRN-H-0032",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "To whom did the Midianites sell Joseph in Egypt?",
+    "choices": [
+      "Potiphar, an officer of Pharaoh",
+      "The captain of the guard",
+      "The chief baker",
+      "The chief butler"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 37,
+      "verse": "36"
+    },
+    "explanation": "The Midianites sold Joseph in Egypt unto Potiphar, an officer of Pharaoh's and captain of the guard.",
+    "verses": {
+      "kjv": "And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh's, and captain of the guard."
+    },
+    "id": "JRN-H-0033",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many days' journey was it from Horeb to Kadesh-barnea?",
+    "choices": [
+      "Eleven days",
+      "Forty days",
+      "Three days",
+      "Seven days"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "Moses noted it was an eleven days' journey from Horeb by way of mount Seir unto Kadesh-barnea.",
+    "verses": {
+      "kjv": "There are eleven days' journey from Horeb by the way of mount Seir unto Kadesh-barnea."
+    },
+    "id": "JRN-H-0034",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the first place the Israelites camped after leaving Egypt?",
+    "choices": [
+      "Succoth",
+      "Etham",
+      "Pi-hahiroth",
+      "Marah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 12,
+      "verse": "37"
+    },
+    "explanation": "The children of Israel journeyed from Rameses to Succoth as their first encampment.",
+    "verses": {
+      "kjv": "And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot that were men, beside children."
+    },
+    "id": "JRN-H-0035",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where did the Israelites encamp before crossing the Red Sea?",
+    "choices": [
+      "Pi-hahiroth, between Migdol and the sea",
+      "Succoth",
+      "Etham",
+      "Elim"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 14,
+      "verse": "2"
+    },
+    "explanation": "The Lord instructed them to encamp before Pi-hahiroth, between Migdol and the sea, before Baal-zephon.",
+    "verses": {
+      "kjv": "Speak unto the children of Israel, that they turn and encamp before Pi-hahiroth, between Migdol and the sea, over against Baal-zephon: before it shall ye encamp by the sea."
+    },
+    "id": "JRN-H-0036",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many wells of water and palm trees were at Elim?",
+    "choices": [
+      "Twelve wells and seventy palm trees",
+      "Seven wells and twelve palm trees",
+      "Forty wells and twenty palm trees",
+      "Ten wells and fifty palm trees"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 15,
+      "verse": "27"
+    },
+    "explanation": "At Elim there were twelve wells of water and threescore and ten (seventy) palm trees.",
+    "verses": {
+      "kjv": "And they came to Elim, where were twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters."
+    },
+    "id": "JRN-H-0037",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what month did the Israelites come to the wilderness of Sin?",
+    "choices": [
+      "The second month",
+      "The first month",
+      "The third month",
+      "The fourth month"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 16,
+      "verse": "1"
+    },
+    "explanation": "They came unto the wilderness of Sin on the fifteenth day of the second month after departing Egypt.",
+    "verses": {
+      "kjv": "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt."
+    },
+    "id": "JRN-H-0038",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did Moses name the place where the people tempted the Lord saying 'Is the LORD among us, or not?'",
+    "choices": [
+      "Massah and Meribah",
+      "Kadesh",
+      "Taberah",
+      "Kibroth-hattaavah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 17,
+      "verse": "7"
+    },
+    "explanation": "Moses called the place Massah (temptation) and Meribah (strife) because of the people's contention.",
+    "verses": {
+      "kjv": "And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the LORD, saying, Is the LORD among us, or not?"
+    },
+    "id": "JRN-H-0039",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How long after leaving Egypt did the Israelites come to the wilderness of Sinai?",
+    "choices": [
+      "The third month",
+      "Forty days",
+      "The sixth month",
+      "One year"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 19,
+      "verse": "1"
+    },
+    "explanation": "In the third month after leaving Egypt, they came into the wilderness of Sinai.",
+    "verses": {
+      "kjv": "In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they into the wilderness of Sinai."
+    },
+    "id": "JRN-H-0040",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What place did the Israelites name 'Taberah' because fire burned among them?",
+    "choices": [
+      "The uttermost parts of the camp",
+      "The center of the camp",
+      "Near the tabernacle",
+      "At Mount Sinai"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 11,
+      "verse": "1-3"
+    },
+    "explanation": "Fire from the Lord burned in the uttermost parts of the camp, and Moses called the place Taberah.",
+    "verses": {
+      "kjv": "And when the people complained, it displeased the LORD: and the LORD heard it; and his anger was kindled; and the fire of the LORD burnt among them, and consumed them that were in the uttermost parts of the camp. And the people cried unto Moses; and when Moses prayed unto the LORD, the fire was quenched. And he called the name of the place Taberah: because the fire of the LORD burnt among them."
+    },
+    "id": "JRN-H-0041",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the place called where the people were buried who lusted after meat?",
+    "choices": [
+      "Kibroth-hattaavah",
+      "Taberah",
+      "Hazeroth",
+      "Rithmah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 11,
+      "verse": "34"
+    },
+    "explanation": "The name Kibroth-hattaavah means 'graves of lust' where they buried those who craved meat.",
+    "verses": {
+      "kjv": "And he called the name of that place Kibroth-hattaavah: because there they buried the people that lusted."
+    },
+    "id": "JRN-H-0042",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "From what location did Moses send spies to search the land of Canaan?",
+    "choices": [
+      "The wilderness of Paran",
+      "Kadesh-barnea",
+      "Mount Sinai",
+      "The wilderness of Zin"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 13,
+      "verse": "3"
+    },
+    "explanation": "Moses sent the spies from the wilderness of Paran according to the Lord's commandment.",
+    "verses": {
+      "kjv": "And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men were heads of the children of Israel."
+    },
+    "id": "JRN-H-0043",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many days did the spies search the land of Canaan?",
+    "choices": [
+      "Forty days",
+      "Thirty days",
+      "Twelve days",
+      "Seventy days"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 13,
+      "verse": "25"
+    },
+    "explanation": "The spies returned from searching the land after forty days.",
+    "verses": {
+      "kjv": "And they returned from searching of the land after forty days."
+    },
+    "id": "JRN-H-0044",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many years did the Israelites wander for each day the spies searched the land?",
+    "choices": [
+      "One year for each day",
+      "Two years for each day",
+      "Ten years for each day",
+      "Forty years total"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 14,
+      "verse": "34"
+    },
+    "explanation": "God decreed one year of wandering for each of the forty days the spies searched the land.",
+    "verses": {
+      "kjv": "After the number of the days in which ye searched the land, even forty days, each day for a year, shall ye bear your iniquities, even forty years, and ye shall know my breach of promise."
+    },
+    "id": "JRN-H-0045",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where did Miriam die and was buried?",
+    "choices": [
+      "Kadesh",
+      "Mount Hor",
+      "The wilderness of Zin",
+      "Ezion-geber"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 20,
+      "verse": "1"
+    },
+    "explanation": "Miriam died in Kadesh and was buried there.",
+    "verses": {
+      "kjv": "Then came the children of Israel, even the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there."
+    },
+    "id": "JRN-H-0046",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "On what mountain did Aaron die?",
+    "choices": [
+      "Mount Hor",
+      "Mount Sinai",
+      "Mount Nebo",
+      "Mount Pisgah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 20,
+      "verse": "27-28"
+    },
+    "explanation": "Aaron went up Mount Hor and died there, and Moses stripped him of his garments.",
+    "verses": {
+      "kjv": "And Moses did as the LORD commanded: and they went up into mount Hor in the sight of all the congregation. And Moses stripped Aaron of his garments, and put them upon Eleazar his son; and Aaron died there in the top of the mount: and Moses and Eleazar came down from the mount."
+    },
+    "id": "JRN-H-0047",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How old was Aaron when he died on Mount Hor?",
+    "choices": [
+      "One hundred and twenty-three years",
+      "One hundred and twenty years",
+      "One hundred and ten years",
+      "One hundred and thirty years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 33,
+      "verse": "39"
+    },
+    "explanation": "Aaron was an hundred and twenty and three years old when he died in mount Hor.",
+    "verses": {
+      "kjv": "And Aaron was an hundred and twenty and three years old when he died in mount Hor."
+    },
+    "id": "JRN-H-0048",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What route did the Israelites take from Mount Hor after Aaron's death?",
+    "choices": [
+      "By the way of the Red sea",
+      "Through the wilderness of Zin",
+      "Toward Canaan",
+      "To the Jordan River"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 21,
+      "verse": "4"
+    },
+    "explanation": "They journeyed from mount Hor by the way of the Red sea to compass the land of Edom.",
+    "verses": {
+      "kjv": "And they journeyed from mount Hor by the way of the Red sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way."
+    },
+    "id": "JRN-H-0049",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What king of the Amorites did Israel defeat before crossing the Jordan?",
+    "choices": [
+      "Sihon king of Heshbon",
+      "Og king of Bashan",
+      "Balak king of Moab",
+      "Eglon king of Moab"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 21,
+      "verse": "21-24"
+    },
+    "explanation": "Israel defeated Sihon king of the Amorites who ruled from Heshbon.",
+    "verses": {
+      "kjv": "And Israel sent messengers unto Sihon king of the Amorites, saying, Let me pass through thy land: we will not turn into the fields, or into the vineyards; we will not drink of the waters of the well: but we will go along by the king's high way, until we be past thy borders. And Sihon would not suffer Israel to pass through his border: but Sihon gathered all his people together, and went out against Israel into the wilderness: and he came to Jahaz, and fought against Israel. And Israel smote him with the edge of the sword, and possessed his land from Arnon unto Jabbok, even unto the children of Ammon: for the border of the children of Ammon was strong."
+    },
+    "id": "JRN-H-0050",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what plains did Israel camp before crossing the Jordan River?",
+    "choices": [
+      "The plains of Moab",
+      "The plains of Jericho",
+      "The plains of Shittim",
+      "The plains of Jordan"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 22,
+      "verse": "1"
+    },
+    "explanation": "Israel pitched in the plains of Moab on the side of Jordan by Jericho.",
+    "verses": {
+      "kjv": "And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan by Jericho."
+    },
+    "id": "JRN-H-0051",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "From what mountain did Moses view the Promised Land before his death?",
+    "choices": [
+      "Mount Nebo",
+      "Mount Hor",
+      "Mount Sinai",
+      "Mount Horeb"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 34,
+      "verse": "1"
+    },
+    "explanation": "Moses went up from the plains of Moab unto mount Nebo to view the land.",
+    "verses": {
+      "kjv": "And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is over against Jericho. And the LORD shewed him all the land of Gilead, unto Dan,"
+    },
+    "id": "JRN-H-0052",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what land was Moses buried?",
+    "choices": [
+      "Moab",
+      "Canaan",
+      "Egypt",
+      "Midian"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 34,
+      "verse": "5-6"
+    },
+    "explanation": "Moses died in the land of Moab and was buried in a valley there.",
+    "verses": {
+      "kjv": "So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD. And he buried him in a valley in the land of Moab, over against Beth-peor: but no man knoweth of his sepulchre unto this day."
+    },
+    "id": "JRN-H-0053",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How long did the children of Israel weep for Moses in the plains of Moab?",
+    "choices": [
+      "Thirty days",
+      "Forty days",
+      "Seven days",
+      "Seventy days"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 34,
+      "verse": "8"
+    },
+    "explanation": "The children of Israel wept for Moses in the plains of Moab thirty days.",
+    "verses": {
+      "kjv": "And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping and mourning for Moses were ended."
+    },
+    "id": "JRN-H-0054",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the name of the place where Joshua sent two spies before crossing Jordan?",
+    "choices": [
+      "Shittim",
+      "Gilgal",
+      "Jericho",
+      "Kadesh"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 2,
+      "verse": "1"
+    },
+    "explanation": "Joshua sent two spies from Shittim to view the land, especially Jericho.",
+    "verses": {
+      "kjv": "And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot's house, named Rahab, and lodged there."
+    },
+    "id": "JRN-H-0055",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where did the Israelites set up twelve stones as a memorial after crossing the Jordan?",
+    "choices": [
+      "Gilgal",
+      "Shittim",
+      "Jericho",
+      "Bethel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 4,
+      "verse": "20"
+    },
+    "explanation": "Joshua set up the twelve stones taken from Jordan at Gilgal.",
+    "verses": {
+      "kjv": "And those twelve stones, which they took out of Jordan, did Joshua pitch in Gilgal."
+    },
+    "id": "JRN-H-0056",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "On what day of the month did the Israelites cross the Jordan River?",
+    "choices": [
+      "The tenth day of the first month",
+      "The first day of the first month",
+      "The fifteenth day of the first month",
+      "The seventh day of the first month"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 4,
+      "verse": "19"
+    },
+    "explanation": "The people came up out of Jordan on the tenth day of the first month.",
+    "verses": {
+      "kjv": "And the people came up out of Jordan on the tenth day of the first month, and encamped in Gilgal, in the east border of Jericho."
+    },
+    "id": "JRN-H-0057",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What city did the Israelites attack and burn after Jericho, where Achan's sin was revealed?",
+    "choices": [
+      "Ai",
+      "Bethel",
+      "Gibeon",
+      "Gilgal"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 7,
+      "verse": "2-5"
+    },
+    "explanation": "After Jericho, Joshua sent men to Ai, but they were defeated because of Achan's sin.",
+    "verses": {
+      "kjv": "And Joshua sent men from Jericho to Ai, which is beside Beth-aven, on the east side of Beth-el, and spake unto them, saying, Go up and view the country. And the men went up and viewed Ai. And they returned to Joshua, and said unto him, Let not all the people go up; but let about two or three thousand men go up and smite Ai; and make not all the people to labour thither; for they are but few. So there went up thither of the people about three thousand men: and they fled before the men of Ai. And the men of Ai smote of them about thirty and six men: for they chased them from before the gate even unto Shebarim, and smote them in the going down: wherefore the hearts of the people melted, and became as water."
+    },
+    "id": "JRN-H-0058",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which nation deceived Joshua by pretending to be from a far country?",
+    "choices": [
+      "The Gibeonites",
+      "The Hivites",
+      "The Jebusites",
+      "The Amorites"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 9,
+      "verse": "3-6"
+    },
+    "explanation": "The inhabitants of Gibeon deceived Joshua with old provisions and worn clothing.",
+    "verses": {
+      "kjv": "And when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to Ai, They did work wilily, and went and made as if they had been ambassadors, and took old sacks upon their asses, and wine bottles, old, and rent, and bound up; And old shoes and clouted upon their feet, and old garments upon them; and all the bread of their provision was dry and mouldy. And they went to Joshua unto the camp at Gilgal, and said unto him, and to the men of Israel, We be come from a far country: now therefore make ye a league with us."
+    },
+    "id": "JRN-H-0059",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "To what city was Jeremiah taken against his will after the fall of Jerusalem?",
+    "choices": [
+      "Egypt",
+      "Babylon",
+      "Moab",
+      "Ammon"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 43,
+      "verse": "6-7"
+    },
+    "explanation": "Johanan and the captains took all the remnant of Judah, including Jeremiah, into Egypt.",
+    "verses": {
+      "kjv": "Even men, and women, and children, and the king's daughters, and every person that Nebuzar-adan the captain of the guard had left with Gedaliah the son of Ahikam the son of Shaphan, and Jeremiah the prophet, and Baruch the son of Neriah. So they came into the land of Egypt: for they obeyed not the voice of the LORD: thus came they even to Tahpanhes."
+    },
+    "id": "JRN-H-0060",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "By what river in Babylon did Ezekiel see his first vision?",
+    "choices": [
+      "The river Chebar",
+      "The Euphrates",
+      "The Tigris",
+      "The Ulai"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verse": "1-3"
+    },
+    "explanation": "Ezekiel saw visions of God by the river Chebar among the captives.",
+    "verses": {
+      "kjv": "Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God. In the fifth day of the month, which was the fifth year of king Jehoiachin's captivity, The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him."
+    },
+    "id": "JRN-H-0061",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many men returned with Ezra from Babylon to Jerusalem?",
+    "choices": [
+      "About five thousand males",
+      "About two thousand males",
+      "About ten thousand males",
+      "About one thousand males"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezra",
+      "chapter": 8,
+      "verse": "1-20"
+    },
+    "explanation": "The count of males who went up with Ezra totaled approximately 1,500-1,800, but counting Levites and Nethinims brought it near 5,000.",
+    "verses": {
+      "kjv": "These are now the chief of their fathers, and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king."
+    },
+    "id": "JRN-H-0062",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where did Ezra gather the people before departing for Jerusalem, and proclaim a fast?",
+    "choices": [
+      "The river of Ahava",
+      "The river Chebar",
+      "The Euphrates",
+      "Babylon"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezra",
+      "chapter": 8,
+      "verse": "21"
+    },
+    "explanation": "Ezra proclaimed a fast at the river Ahava to seek God's protection for the journey.",
+    "verses": {
+      "kjv": "Then I proclaimed a fast there, at the river of Ahava, that we might afflict ourselves before our God, to seek of him a right way for us, and for our little ones, and for all our substance."
+    },
+    "id": "JRN-H-0063",
+    "theme": "Journeys & Exile",
+    "difficulty": "hard"
   }
 ]

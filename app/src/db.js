@@ -5,7 +5,7 @@ import { openDB } from 'idb';
 
 const DB_NAME = 'bible-trivia-db';
 const STORE_NAME = 'questions';
-const DB_VERSION = 6; // Force complete cache clear and fresh load
+const DB_VERSION = 7; // Force complete cache clear and fresh load
 
 let cachedIndex = null; // Cache the index in memory
 
