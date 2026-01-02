@@ -112,28 +112,6 @@
   {
     "id": "APO-H-0006",
     "theme": "Apostles",
-    "question": "Which apostle was chosen to replace Judas Iscariot?",
-    "choices": [
-      "Matthias",
-      "Barnabas",
-      "Silas",
-      "Timothy"
-    ],
-    "correctIndex": 0,
-    "difficulty": "hard",
-    "reference": {
-      "book": "Acts",
-      "chapter": 1,
-      "verse": "26"
-    },
-    "explanation": "The apostles cast lots between Matthias and Justus, and Matthias was chosen to replace Judas.",
-    "verses": {
-      "kjv": "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles."
-    }
-  },
-  {
-    "id": "APO-H-0007",
-    "theme": "Apostles",
     "question": "Which apostle walked with Jesus on the road to Emmaus without recognizing him?",
     "choices": [
       "Cleopas",
@@ -154,7 +132,7 @@
     }
   },
   {
-    "id": "APO-H-0008",
+    "id": "APO-H-0007",
     "theme": "Apostles",
     "question": "Who accompanied Paul to Athens?",
     "choices": [
@@ -176,7 +154,7 @@
     }
   },
   {
-    "id": "APO-H-0009",
+    "id": "APO-H-0008",
     "theme": "Apostles",
     "question": "How many years did Paul spend in Arabia after his conversion?",
     "choices": [
@@ -198,7 +176,7 @@
     }
   },
   {
-    "id": "APO-H-0010",
+    "id": "APO-H-0009",
     "theme": "Apostles",
     "question": "Which apostle was a zealot?",
     "choices": [
@@ -220,7 +198,7 @@
     }
   },
   {
-    "id": "APO-H-0011",
+    "id": "APO-H-0010",
     "theme": "Apostles",
     "question": "What was Bartholomew's other name?",
     "choices": [
@@ -242,7 +220,7 @@
     }
   },
   {
-    "id": "APO-H-0012",
+    "id": "APO-H-0011",
     "theme": "Apostles",
     "question": "Which apostle is called 'the Lesser'?",
     "choices": [
@@ -264,7 +242,7 @@
     }
   },
   {
-    "id": "APO-H-0013",
+    "id": "APO-H-0012",
     "theme": "Apostles",
     "question": "Which apostle questioned how they could afford to feed 5,000 people?",
     "choices": [
@@ -286,7 +264,7 @@
     }
   },
   {
-    "id": "APO-H-0014",
+    "id": "APO-H-0013",
     "theme": "Apostles",
     "question": "What was Matthew also called?",
     "choices": [
@@ -308,7 +286,7 @@
     }
   },
   {
-    "id": "APO-H-0015",
+    "id": "APO-H-0014",
     "theme": "Apostles",
     "question": "Which apostle was known as Didymus?",
     "choices": [
@@ -330,7 +308,7 @@
     }
   },
   {
-    "id": "APO-H-0016",
+    "id": "APO-H-0015",
     "theme": "Apostles",
     "question": "Which apostle brought Greeks to see Jesus?",
     "choices": [
@@ -352,7 +330,7 @@
     }
   },
   {
-    "id": "APO-H-0017",
+    "id": "APO-H-0016",
     "theme": "Apostles",
     "question": "Which apostle asked Jesus to show them the Father?",
     "choices": [
@@ -374,7 +352,7 @@
     }
   },
   {
-    "id": "APO-H-0025",
+    "id": "APO-H-0017",
     "theme": "Apostles",
     "question": "Which apostle was also called Didymus?",
     "choices": [
@@ -396,7 +374,7 @@
     }
   },
   {
-    "id": "APO-H-0026",
+    "id": "APO-H-0018",
     "theme": "Apostles",
     "question": "Which apostle was from Bethsaida, the same town as Peter and Andrew?",
     "choices": [
@@ -418,7 +396,7 @@
     }
   },
   {
-    "id": "APO-H-0020",
+    "id": "APO-H-0019",
     "theme": "Apostles",
     "question": "In which town was Peter staying when Cornelius sent for him?",
     "choices": [
@@ -440,7 +418,7 @@
     }
   },
   {
-    "id": "APO-H-0021",
+    "id": "APO-H-0020",
     "theme": "Apostles",
     "question": "What was the name of the tanner with whom Peter stayed in Joppa?",
     "choices": [
@@ -462,7 +440,7 @@
     }
   },
   {
-    "id": "APO-H-0022",
+    "id": "APO-H-0021",
     "theme": "Apostles",
     "question": "Who was the father of Judas Iscariot?",
     "choices": [
@@ -484,7 +462,7 @@
     }
   },
   {
-    "id": "APO-H-0023",
+    "id": "APO-H-0022",
     "theme": "Apostles",
     "question": "Which apostle is identified as the son of Alphaeus?",
     "choices": [
@@ -506,7 +484,7 @@
     }
   },
   {
-    "id": "APO-H-0024",
+    "id": "APO-H-0023",
     "theme": "Apostles",
     "question": "What other name is given for the apostle Thaddaeus?",
     "choices": [
@@ -528,7 +506,7 @@
     }
   },
   {
-    "id": "APO-H-0025",
+    "id": "APO-H-0024",
     "theme": "Apostles",
     "question": "In which town did Jesus find Philip?",
     "choices": [
@@ -550,7 +528,7 @@
     }
   },
   {
-    "id": "APO-H-0026",
+    "id": "APO-H-0025",
     "theme": "Apostles",
     "question": "What was Bartholomew's hometown according to tradition?",
     "choices": [
@@ -572,7 +550,7 @@
     }
   },
   {
-    "id": "APO-H-0027",
+    "id": "APO-H-0026",
     "theme": "Apostles",
     "question": "Which king killed the apostle James with a sword?",
     "choices": [
@@ -594,7 +572,7 @@
     }
   },
   {
-    "id": "APO-H-0028",
+    "id": "APO-H-0027",
     "theme": "Apostles",
     "question": "How many fish did the disciples catch when Jesus told them to cast their net on the right side?",
     "choices": [
@@ -616,7 +594,7 @@
     }
   },
   {
-    "id": "APO-H-0029",
+    "id": "APO-H-0028",
     "theme": "Apostles",
     "question": "How many times did Jesus ask Peter if he loved Him after the resurrection?",
     "choices": [
@@ -638,7 +616,7 @@
     }
   },
   {
-    "id": "APO-H-0030",
+    "id": "APO-H-0029",
     "theme": "Apostles",
     "question": "What was the field called that was bought with Judas' betrayal money?",
     "choices": [
@@ -660,7 +638,7 @@
     }
   },
   {
-    "id": "APO-H-0031",
+    "id": "APO-H-0030",
     "theme": "Apostles",
     "question": "Which two men were nominated to replace Judas as an apostle?",
     "choices": [
@@ -682,7 +660,7 @@
     }
   },
   {
-    "id": "APO-H-0032",
+    "id": "APO-H-0031",
     "theme": "Apostles",
     "question": "What was the surname of Joseph Barsabbas who was considered to replace Judas?",
     "choices": [
@@ -704,7 +682,7 @@
     }
   },
   {
-    "id": "APO-H-0033",
+    "id": "APO-H-0032",
     "theme": "Apostles",
     "question": "From where did Nathanael come when Philip found him?",
     "choices": [
@@ -726,7 +704,7 @@
     }
   },
   {
-    "id": "APO-H-0034",
+    "id": "APO-H-0033",
     "theme": "Apostles",
     "question": "What was Matthew's other name mentioned in the Gospels?",
     "choices": [
@@ -748,7 +726,7 @@
     }
   },
   {
-    "id": "APO-H-0035",
+    "id": "APO-H-0034",
     "theme": "Apostles",
     "question": "Which apostle is specifically called 'the Canaanite' or 'Zelotes'?",
     "choices": [
@@ -770,7 +748,7 @@
     }
   },
   {
-    "id": "APO-H-0036",
+    "id": "APO-H-0035",
     "theme": "Apostles",
     "question": "How many people were gathered in the upper room when Matthias was chosen?",
     "choices": [
@@ -792,7 +770,7 @@
     }
   },
   {
-    "id": "APO-H-0037",
+    "id": "APO-H-0036",
     "theme": "Apostles",
     "question": "What did Peter say would happen to him when he grew old?",
     "choices": [
@@ -814,7 +792,7 @@
     }
   },
   {
-    "id": "APO-H-0038",
+    "id": "APO-H-0037",
     "theme": "Apostles",
     "question": "Who was the mother of James and John?",
     "choices": [
@@ -836,7 +814,7 @@
     }
   },
   {
-    "id": "APO-H-0039",
+    "id": "APO-H-0038",
     "theme": "Apostles",
     "question": "In which city did Peter heal Aeneas who had been bedridden for eight years?",
     "choices": [
@@ -858,7 +836,7 @@
     }
   },
   {
-    "id": "APO-H-0040",
+    "id": "APO-H-0039",
     "theme": "Apostles",
     "question": "What was the name of the woman Peter raised from the dead in Joppa?",
     "choices": [
@@ -880,7 +858,7 @@
     }
   },
   {
-    "id": "APO-H-0041",
+    "id": "APO-H-0040",
     "theme": "Apostles",
     "question": "In which town was Tabitha (Dorcas) residing when she died?",
     "choices": [
@@ -902,7 +880,7 @@
     }
   },
   {
-    "id": "APO-H-0042",
+    "id": "APO-H-0041",
     "theme": "Apostles",
     "question": "Who was the centurion in Caesarea who sent for Peter?",
     "choices": [
@@ -924,7 +902,7 @@
     }
   },
   {
-    "id": "APO-H-0043",
+    "id": "APO-H-0042",
     "theme": "Apostles",
     "question": "What was the name of the Italian band to which Cornelius belonged?",
     "choices": [
@@ -946,7 +924,7 @@
     }
   },
   {
-    "id": "APO-H-0044",
+    "id": "APO-H-0043",
     "theme": "Apostles",
     "question": "At what hour did Cornelius see the angel in his vision?",
     "choices": [
@@ -968,7 +946,7 @@
     }
   },
   {
-    "id": "APO-H-0045",
+    "id": "APO-H-0044",
     "theme": "Apostles",
     "question": "What was Peter's vision about on the housetop in Joppa?",
     "choices": [
@@ -990,7 +968,7 @@
     }
   },
   {
-    "id": "APO-H-0046",
+    "id": "APO-H-0045",
     "theme": "Apostles",
     "question": "How many men did Cornelius send to Joppa to fetch Peter?",
     "choices": [
@@ -1012,7 +990,7 @@
     }
   },
   {
-    "id": "APO-H-0047",
+    "id": "APO-H-0046",
     "theme": "Apostles",
     "question": "What did the voice tell Peter regarding the animals in the sheet?",
     "choices": [
@@ -1034,7 +1012,7 @@
     }
   },
   {
-    "id": "APO-H-0048",
+    "id": "APO-H-0047",
     "theme": "Apostles",
     "question": "How many times was the sheet with animals let down to Peter in his vision?",
     "choices": [
@@ -1056,7 +1034,7 @@
     }
   },
   {
-    "id": "APO-H-0049",
+    "id": "APO-H-0048",
     "theme": "Apostles",
     "question": "Which apostle suggested buying food for 5,000 people would cost 200 denarii?",
     "choices": [
@@ -1078,7 +1056,7 @@
     }
   },
   {
-    "id": "APO-H-0050",
+    "id": "APO-H-0049",
     "theme": "Apostles",
     "question": "What was the name of the gate where Peter and John healed the lame man?",
     "choices": [
@@ -1098,5 +1076,27 @@
     "verses": {
       "kjv": "And a certain man lame from his mother's womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms of them that entered into the temple;"
     }
+  },
+  {
+    "question": "Which apostle wrote of meeting \"James the Lord's brother\" with Cephas during an early visit to Jerusalem?",
+    "choices": [
+      "Paul",
+      "Peter",
+      "John",
+      "Matthew"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Galatians",
+      "chapter": 1,
+      "verse": "19"
+    },
+    "explanation": "In Galatians, Paul says he saw none of the other apostles, save James the Lord's brother.",
+    "verses": {
+      "kjv": "But other of the apostles saw I none, save James the Lord's brother."
+    },
+    "id": "APO-H-0050",
+    "theme": "Apostles",
+    "difficulty": "hard"
   }
 ]

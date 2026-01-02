@@ -244,28 +244,6 @@
   {
     "id": "CRE-E-0012",
     "theme": "Creation & Origins",
-    "question": "What was Abel's occupation?",
-    "choices": [
-      "Shepherd",
-      "Farmer",
-      "Hunter",
-      "Builder"
-    ],
-    "correctIndex": 0,
-    "difficulty": "easy",
-    "reference": {
-      "book": "Genesis",
-      "chapter": 4,
-      "verse": "2"
-    },
-    "explanation": "Abel kept flocks while his brother Cain worked the soil.",
-    "verses": {
-      "kjv": "And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground."
-    }
-  },
-  {
-    "id": "CRE-E-0013",
-    "theme": "Creation & Origins",
     "question": "How many days did God take to create the world?",
     "choices": [
       "Six",
@@ -286,7 +264,7 @@
     }
   },
   {
-    "id": "CRE-E-0014",
+    "id": "CRE-E-0013",
     "theme": "Creation & Origins",
     "question": "From what was woman created?",
     "choices": [
@@ -308,7 +286,7 @@
     }
   },
   {
-    "id": "CRE-E-0015",
+    "id": "CRE-E-0014",
     "theme": "Creation & Origins",
     "question": "What did God say after creating each thing in Genesis 1?",
     "choices": [
@@ -330,7 +308,7 @@
     }
   },
   {
-    "id": "CRE-E-0016",
+    "id": "CRE-E-0015",
     "theme": "Creation & Origins",
     "question": "What did God breathe into Adam's nostrils?",
     "choices": [
@@ -352,7 +330,7 @@
     }
   },
   {
-    "id": "CRE-E-0017",
+    "id": "CRE-E-0016",
     "theme": "Creation & Origins",
     "question": "Who was the first murderer?",
     "choices": [
@@ -374,7 +352,7 @@
     }
   },
   {
-    "id": "CRE-E-0018",
+    "id": "CRE-E-0017",
     "theme": "Creation & Origins",
     "question": "What did God promise never to do again after the flood?",
     "choices": [
@@ -396,7 +374,7 @@
     }
   },
   {
-    "id": "CRE-E-0019",
+    "id": "CRE-E-0018",
     "theme": "Creation & Origins",
     "question": "What was the name of the garden where God placed Adam?",
     "choices": [
@@ -418,7 +396,7 @@
     }
   },
   {
-    "id": "CRE-E-0020",
+    "id": "CRE-E-0019",
     "theme": "Creation & Origins",
     "question": "How many sons did Noah have?",
     "choices": [
@@ -440,7 +418,7 @@
     }
   },
   {
-    "id": "CRE-E-0021",
+    "id": "CRE-E-0020",
     "theme": "Creation & Origins",
     "question": "What was Eve's punishment for eating the forbidden fruit?",
     "choices": [
@@ -462,7 +440,7 @@
     }
   },
   {
-    "id": "CRE-E-0022",
+    "id": "CRE-E-0021",
     "theme": "Creation & Origins",
     "question": "What did God use to create woman?",
     "choices": [
@@ -484,7 +462,7 @@
     }
   },
   {
-    "id": "CRE-E-0023",
+    "id": "CRE-E-0022",
     "theme": "Creation & Origins",
     "question": "What was the first thing God created?",
     "choices": [
@@ -506,7 +484,7 @@
     }
   },
   {
-    "id": "CRE-E-0024",
+    "id": "CRE-E-0023",
     "theme": "Creation & Origins",
     "question": "What tree did God forbid Adam and Eve from eating?",
     "choices": [
@@ -528,7 +506,7 @@
     }
   },
   {
-    "id": "CRE-E-0025",
+    "id": "CRE-E-0024",
     "theme": "Creation & Origins",
     "question": "How long did God take to create the world?",
     "choices": [
@@ -550,7 +528,7 @@
     }
   },
   {
-    "id": "CRE-E-0026",
+    "id": "CRE-E-0025",
     "theme": "Creation & Origins",
     "question": "What did God call the darkness?",
     "choices": [
@@ -572,7 +550,7 @@
     }
   },
   {
-    "id": "CRE-E-0027",
+    "id": "CRE-E-0026",
     "theme": "Creation & Origins",
     "question": "What creatures did God create on the fifth day?",
     "choices": [
@@ -594,7 +572,7 @@
     }
   },
   {
-    "id": "CRE-E-0028",
+    "id": "CRE-E-0027",
     "theme": "Creation & Origins",
     "question": "What were Adam and Eve wearing in the Garden before they sinned?",
     "choices": [
@@ -616,7 +594,7 @@
     }
   },
   {
-    "id": "CRE-E-0029",
+    "id": "CRE-E-0028",
     "theme": "Creation & Origins",
     "question": "What did God use to form man from the earth?",
     "choices": [
@@ -638,7 +616,7 @@
     }
   },
   {
-    "id": "CRE-E-0030",
+    "id": "CRE-E-0029",
     "theme": "Creation & Origins",
     "question": "What did God say about His creation?",
     "choices": [
@@ -660,7 +638,7 @@
     }
   },
   {
-    "id": "CRE-E-0031",
+    "id": "CRE-E-0030",
     "theme": "Creation & Origins",
     "question": "What did Adam name his wife?",
     "choices": [
@@ -682,7 +660,7 @@
     }
   },
   {
-    "id": "CRE-E-0032",
+    "id": "CRE-E-0031",
     "theme": "Creation & Origins",
     "question": "On which day did God create man?",
     "choices": [
@@ -704,7 +682,7 @@
     }
   },
   {
-    "id": "CRE-E-0033",
+    "id": "CRE-E-0032",
     "theme": "Creation & Origins",
     "question": "What did God do on the seventh day?",
     "choices": [
@@ -726,7 +704,7 @@
     }
   },
   {
-    "id": "CRE-E-0034",
+    "id": "CRE-E-0033",
     "theme": "Creation & Origins",
     "question": "From what part of Adam did God create Eve?",
     "choices": [
@@ -748,7 +726,7 @@
     }
   },
   {
-    "id": "CRE-E-0035",
+    "id": "CRE-E-0034",
     "theme": "Creation & Origins",
     "question": "What was the punishment for eating from the forbidden tree?",
     "choices": [
@@ -770,7 +748,7 @@
     }
   },
   {
-    "id": "CRE-E-0036",
+    "id": "CRE-E-0035",
     "theme": "Creation & Origins",
     "question": "What did God create on the sixth day besides man?",
     "choices": [
@@ -792,7 +770,7 @@
     }
   },
   {
-    "id": "CRE-E-0037",
+    "id": "CRE-E-0036",
     "theme": "Creation & Origins",
     "question": "What did God give humans dominion over?",
     "choices": [
@@ -814,7 +792,7 @@
     }
   },
   {
-    "id": "CRE-E-0038",
+    "id": "CRE-E-0037",
     "theme": "Creation & Origins",
     "question": "What did God say about all He had made?",
     "choices": [
@@ -836,28 +814,6 @@
     }
   },
   {
-    "id": "CRE-E-0025",
-    "theme": "Creation & Origins",
-    "question": "On which day did God create the sun, moon, and stars?",
-    "choices": [
-      "Day 4",
-      "Day 3",
-      "Day 5",
-      "Day 2"
-    ],
-    "correctIndex": 0,
-    "difficulty": "easy",
-    "reference": {
-      "book": "Genesis",
-      "chapter": 1,
-      "verse": "14-19"
-    },
-    "explanation": "And God said, 'Let there be lights in the vault of the sky to separate the day from the night.' This was the fourth day.",
-    "verses": {
-      "kjv": "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:\nAnd let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.\nAnd God made two great lights; the greater light to rule the day, and the lesser light to rule the night:\nhe made the stars also.\nAnd God set them in the firmament of the heaven to give light upon the earth,\nAnd to rule over the day and over the night, and to divide the light from the darkness: and God saw that\nit was good.\nAnd the evening and the morning were the fourth day."
-    }
-  },
-  {
     "question": "In the beginning, what did God create?",
     "choices": [
       "The heaven and the earth",
@@ -875,7 +831,7 @@
     "verses": {
       "kjv": "In the beginning God created the heaven and the earth."
     },
-    "id": "CRE-E-0039",
+    "id": "CRE-E-0038",
     "theme": "Creation & Origins",
     "difficulty": "easy"
   },
@@ -897,7 +853,7 @@
     "verses": {
       "kjv": "And God said, Let there be light: and there was light."
     },
-    "id": "CRE-E-0040",
+    "id": "CRE-E-0039",
     "theme": "Creation & Origins",
     "difficulty": "easy"
   },
@@ -919,7 +875,7 @@
     "verses": {
       "kjv": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day."
     },
-    "id": "CRE-E-0041",
+    "id": "CRE-E-0040",
     "theme": "Creation & Origins",
     "difficulty": "easy"
   },
@@ -941,7 +897,7 @@
     "verses": {
       "kjv": "And God called the firmament Heaven. And the evening and the morning were the second day."
     },
-    "id": "CRE-E-0042",
+    "id": "CRE-E-0041",
     "theme": "Creation & Origins",
     "difficulty": "easy"
   },
@@ -963,29 +919,7 @@
     "verses": {
       "kjv": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good."
     },
-    "id": "CRE-E-0043",
-    "theme": "Creation & Origins",
-    "difficulty": "easy"
-  },
-  {
-    "question": "What did God call the gathering together of the waters?",
-    "choices": [
-      "Seas",
-      "Rivers",
-      "Oceans",
-      "Deep"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Genesis",
-      "chapter": 1,
-      "verse": "10"
-    },
-    "explanation": "Genesis 1:10 says God called the gathered waters \"Seas.\"",
-    "verses": {
-      "kjv": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good."
-    },
-    "id": "CRE-E-0044",
+    "id": "CRE-E-0042",
     "theme": "Creation & Origins",
     "difficulty": "easy"
   },
@@ -1007,7 +941,7 @@
     "verses": {
       "kjv": "And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good."
     },
-    "id": "CRE-E-0045",
+    "id": "CRE-E-0043",
     "theme": "Creation & Origins",
     "difficulty": "easy"
   },
@@ -1029,7 +963,7 @@
     "verses": {
       "kjv": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so."
     },
-    "id": "CRE-E-0046",
+    "id": "CRE-E-0044",
     "theme": "Creation & Origins",
     "difficulty": "easy"
   },
@@ -1051,7 +985,7 @@
     "verses": {
       "kjv": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good."
     },
-    "id": "CRE-E-0047",
+    "id": "CRE-E-0045",
     "theme": "Creation & Origins",
     "difficulty": "easy"
   },
@@ -1073,7 +1007,7 @@
     "verses": {
       "kjv": "So God created man in his own image, in the image of God created he him; male and female created he them."
     },
-    "id": "CRE-E-0048",
+    "id": "CRE-E-0046",
     "theme": "Creation & Origins",
     "difficulty": "easy"
   },
@@ -1095,7 +1029,73 @@
     "verses": {
       "kjv": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also."
     },
+    "id": "CRE-E-0047",
+    "theme": "Creation & Origins",
+    "difficulty": "easy"
+  },
+  {
+    "question": "On which day did God say, \"Let the earth bring forth grass\"?",
+    "choices": [
+      "The third day",
+      "The first day",
+      "The fifth day",
+      "The seventh day"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "11"
+    },
+    "explanation": "Genesis 1:11 records God speaking for the earth to bring forth grass and herb yielding seed and fruit tree.",
+    "verses": {
+      "kjv": "And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so."
+    },
+    "id": "CRE-E-0048",
+    "theme": "Creation & Origins",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Before God formed man from the dust, what does Genesis say God formed out of the ground?",
+    "choices": [
+      "Every beast of the field and every fowl of the air",
+      "The sun and the moon",
+      "The trees of the garden only",
+      "The sea and the dry land"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "19"
+    },
+    "explanation": "Genesis 2:19 says the LORD God formed every beast of the field and every fowl of the air out of the ground and brought them to Adam.",
+    "verses": {
+      "kjv": "And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof."
+    },
     "id": "CRE-E-0049",
+    "theme": "Creation & Origins",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the creation account, what does Genesis say God created on the fourth day to give light upon the earth?",
+    "choices": [
+      "Lights in the firmament of the heaven",
+      "Fowl that may fly above the earth",
+      "The dry land and seas",
+      "Cattle and creeping things"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "17"
+    },
+    "explanation": "Genesis 1:17 says God set the lights in the firmament of the heaven to give light upon the earth.",
+    "verses": {
+      "kjv": "And God set them in the firmament of the heaven to give light upon the earth,"
+    },
+    "id": "CRE-E-0050",
     "theme": "Creation & Origins",
     "difficulty": "easy"
   }

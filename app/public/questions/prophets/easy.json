@@ -484,29 +484,7 @@
     }
   },
   {
-    "id": "PRO-E-0026",
-    "theme": "Prophets",
-    "question": "Which prophet confronted King Ahab about Naboth's vineyard?",
-    "choices": [
-      "Elijah",
-      "Elisha",
-      "Isaiah",
-      "Jeremiah"
-    ],
-    "correctIndex": 0,
-    "difficulty": "easy",
-    "reference": {
-      "book": "1 Kings",
-      "chapter": 21,
-      "verse": "17-19"
-    },
-    "explanation": "Elijah confronted Ahab for murdering Naboth and seizing his vineyard, prophesying judgment against him.",
-    "verses": {
-      "kjv": "And the word of the LORD came to Elijah the Tishbite, saying,\nArise, go down to meet Ahab king of Israel, which\nis in Samaria: behold,\nhe is in the vineyard of Naboth, whither he is gone down to possess it.\nAnd thou shalt speak unto him, saying, Thus saith the LORD, Hast thou killed, and also taken possession? And thou shalt speak unto him, saying, Thus saith the LORD, In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine."
-    }
-  },
-  {
-    "id": "PRO-E-0027",
+    "id": "PRO-E-0023",
     "theme": "Prophets",
     "question": "Which prophet anointed Saul as the first king of Israel?",
     "choices": [
@@ -545,7 +523,7 @@
     "verses": {
       "kjv": "The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD."
     },
-    "id": "PRO-E-0028",
+    "id": "PRO-E-0024",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -567,7 +545,7 @@
     "verses": {
       "kjv": "The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD."
     },
-    "id": "PRO-E-0029",
+    "id": "PRO-E-0025",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -589,7 +567,7 @@
     "verses": {
       "kjv": "The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel."
     },
-    "id": "PRO-E-0030",
+    "id": "PRO-E-0026",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -611,7 +589,7 @@
     "verses": {
       "kjv": "And it came to pass, as they still went on, and talked, that, behold, there appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven."
     },
-    "id": "PRO-E-0031",
+    "id": "PRO-E-0027",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -633,7 +611,7 @@
     "verses": {
       "kjv": "And it came to pass, when they were gone over, that Elijah said unto Elisha, Ask what I shall do for thee, before I be taken away from thee. And Elisha said, I pray thee, let a double portion of thy spirit be upon me."
     },
-    "id": "PRO-E-0032",
+    "id": "PRO-E-0028",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -655,7 +633,7 @@
     "verses": {
       "kjv": "And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it."
     },
-    "id": "PRO-E-0033",
+    "id": "PRO-E-0029",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -677,7 +655,7 @@
     "verses": {
       "kjv": "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith."
     },
-    "id": "PRO-E-0034",
+    "id": "PRO-E-0030",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -699,7 +677,7 @@
     "verses": {
       "kjv": "Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel."
     },
-    "id": "PRO-E-0035",
+    "id": "PRO-E-0031",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -721,7 +699,7 @@
     "verses": {
       "kjv": "And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word."
     },
-    "id": "PRO-E-0036",
+    "id": "PRO-E-0032",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -743,7 +721,7 @@
     "verses": {
       "kjv": "Then the fire of the LORD fell, and consumed the burnt sacrifice, and the wood, and the stones, and the dust, and licked up the water that was in the trench."
     },
-    "id": "PRO-E-0037",
+    "id": "PRO-E-0033",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -765,7 +743,7 @@
     "verses": {
       "kjv": "Get thee hence, and turn thee eastward, and hide thyself by the brook Cherith, that is before Jordan."
     },
-    "id": "PRO-E-0038",
+    "id": "PRO-E-0034",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -787,7 +765,7 @@
     "verses": {
       "kjv": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations."
     },
-    "id": "PRO-E-0039",
+    "id": "PRO-E-0035",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -809,7 +787,7 @@
     "verses": {
       "kjv": "Then the LORD put forth his hand, and touched my mouth. And the LORD said unto me, Behold, I have put my words in thy mouth."
     },
-    "id": "PRO-E-0040",
+    "id": "PRO-E-0036",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -831,7 +809,7 @@
     "verses": {
       "kjv": "In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple."
     },
-    "id": "PRO-E-0041",
+    "id": "PRO-E-0037",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -853,7 +831,7 @@
     "verses": {
       "kjv": "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me."
     },
-    "id": "PRO-E-0042",
+    "id": "PRO-E-0038",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -875,7 +853,7 @@
     "verses": {
       "kjv": "Then I turned, and lifted up mine eyes, and looked, and behold a flying roll."
     },
-    "id": "PRO-E-0043",
+    "id": "PRO-E-0039",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -897,7 +875,7 @@
     "verses": {
       "kjv": "And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains were mountains of brass."
     },
-    "id": "PRO-E-0044",
+    "id": "PRO-E-0040",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -919,7 +897,7 @@
     "verses": {
       "kjv": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?"
     },
-    "id": "PRO-E-0045",
+    "id": "PRO-E-0041",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -941,7 +919,7 @@
     "verses": {
       "kjv": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?"
     },
-    "id": "PRO-E-0046",
+    "id": "PRO-E-0042",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -963,7 +941,7 @@
     "verses": {
       "kjv": "But let judgment run down as waters, and righteousness as a mighty stream."
     },
-    "id": "PRO-E-0047",
+    "id": "PRO-E-0043",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -985,7 +963,7 @@
     "verses": {
       "kjv": "But let judgment run down as waters, and righteousness as a mighty stream."
     },
-    "id": "PRO-E-0048",
+    "id": "PRO-E-0044",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -1007,7 +985,7 @@
     "verses": {
       "kjv": "But the LORD is in his holy temple: let all the earth keep silence before him."
     },
-    "id": "PRO-E-0049",
+    "id": "PRO-E-0045",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -1029,7 +1007,7 @@
     "verses": {
       "kjv": "For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry."
     },
-    "id": "PRO-E-0050",
+    "id": "PRO-E-0046",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -1051,7 +1029,7 @@
     "verses": {
       "kjv": "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint."
     },
-    "id": "PRO-E-0051",
+    "id": "PRO-E-0047",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -1073,7 +1051,7 @@
     "verses": {
       "kjv": "Is not my word like as a fire? saith the LORD; and like a hammer that breaketh the rock in pieces?"
     },
-    "id": "PRO-E-0052",
+    "id": "PRO-E-0048",
     "theme": "Prophets",
     "difficulty": "easy"
   },
@@ -1095,7 +1073,29 @@
     "verses": {
       "kjv": "The heart is deceitful above all things, and desperately wicked: who can know it?"
     },
-    "id": "PRO-E-0053",
+    "id": "PRO-E-0049",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Jeremiah, what did the LORD say He would do to His words in Jeremiah's mouth and make him unto the people?",
+    "choices": [
+      "Make his words fire, and the people wood, and it shall devour them",
+      "Make his words water, and the people thirsty, and it shall refresh them",
+      "Make his words light, and the people blind, and it shall hide them",
+      "Make his words silver, and the people merchants, and it shall enrich them"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 5,
+      "verse": "14"
+    },
+    "explanation": "Jeremiah 5:14 says the LORD would make His words in Jeremiah's mouth fire, and the people wood, and it would devour them.",
+    "verses": {
+      "kjv": "Wherefore thus saith the LORD God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them."
+    },
+    "id": "PRO-E-0050",
     "theme": "Prophets",
     "difficulty": "easy"
   }

@@ -352,7 +352,7 @@
     }
   },
   {
-    "id": "END-H-0026",
+    "id": "END-H-0017",
     "theme": "Prophecy & End Times",
     "question": "What is the name of the place where kings gather for battle in Revelation?",
     "choices": [
@@ -374,710 +374,6 @@
     }
   },
   {
-    "question": "In Ezekiel's vision of the valley of dry bones, what did God command the prophet to prophesy to?",
-    "choices": [
-      "The breath",
-      "The bones",
-      "The graves",
-      "The mountains"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Ezekiel",
-      "chapter": 37,
-      "verse": "9"
-    },
-    "explanation": "After the bones came together, God commanded Ezekiel to prophesy unto the wind (breath) to breathe upon the slain.",
-    "verses": {
-      "kjv": "Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord GOD; Come from the four winds, O breath, and breathe upon these slain, that they may live."
-    },
-    "id": "END-H-0027",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "In Daniel's vision of the four beasts, how many wings did the first beast like a lion have?",
-    "choices": [
-      "Two wings like an eagle",
-      "Four wings",
-      "Six wings",
-      "No wings"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Daniel",
-      "chapter": 7,
-      "verse": "4"
-    },
-    "explanation": "The first beast was like a lion and had eagle's wings, which were plucked and it was given a man's heart.",
-    "verses": {
-      "kjv": "The first was like a lion, and had eagle's wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man's heart was given to it."
-    },
-    "id": "END-H-0028",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How many heads did the beast from the sea have in Revelation 13?",
-    "choices": [
-      "Seven heads",
-      "Ten heads",
-      "Twelve heads",
-      "One head"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 13,
-      "verse": "1"
-    },
-    "explanation": "The beast rising out of the sea had seven heads and ten horns, with ten crowns upon his horns.",
-    "verses": {
-      "kjv": "And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy."
-    },
-    "id": "END-H-0029",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How many horns did the beast from the sea have in Revelation 13?",
-    "choices": [
-      "Ten horns",
-      "Seven horns",
-      "Twelve horns",
-      "Two horns"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 13,
-      "verse": "1"
-    },
-    "explanation": "The beast had ten horns with ten crowns upon them, and seven heads with blasphemous names.",
-    "verses": {
-      "kjv": "And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy."
-    },
-    "id": "END-H-0030",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What was the second beast from the earth like in Revelation 13?",
-    "choices": [
-      "A lamb with two horns",
-      "A dragon with seven heads",
-      "A leopard with wings",
-      "A bear with three ribs"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 13,
-      "verse": "11"
-    },
-    "explanation": "The second beast had two horns like a lamb but spoke as a dragon.",
-    "verses": {
-      "kjv": "And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon."
-    },
-    "id": "END-H-0031",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How many elders are seated around the throne in Revelation?",
-    "choices": [
-      "Twenty-four elders",
-      "Twelve elders",
-      "Seventy elders",
-      "Seven elders"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 4,
-      "verse": "4"
-    },
-    "explanation": "Round about the throne were four and twenty seats with four and twenty elders sitting clothed in white raiment.",
-    "verses": {
-      "kjv": "And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold."
-    },
-    "id": "END-H-0032",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How many living creatures are around the throne in Revelation 4?",
-    "choices": [
-      "Four",
-      "Seven",
-      "Twelve",
-      "Twenty-four"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 4,
-      "verse": "6"
-    },
-    "explanation": "In the midst of the throne and round about it were four beasts (living creatures) full of eyes.",
-    "verses": {
-      "kjv": "And before the throne there was a sea of glass like unto crystal: and in the midst of the throne, and round about the throne, were four beasts full of eyes before and behind."
-    },
-    "id": "END-H-0033",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How many eyes does each of the four living creatures have in Revelation?",
-    "choices": [
-      "Six wings each, full of eyes",
-      "Four wings each",
-      "Two eyes each",
-      "Seven eyes each"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 4,
-      "verse": "8"
-    },
-    "explanation": "Each of the four beasts had six wings about him and were full of eyes within.",
-    "verses": {
-      "kjv": "And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come."
-    },
-    "id": "END-H-0034",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What was the first living creature like in appearance?",
-    "choices": [
-      "A lion",
-      "A calf",
-      "A man",
-      "An eagle"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 4,
-      "verse": "7"
-    },
-    "explanation": "The first beast was like a lion, the second like a calf, the third had a face as a man, and the fourth was like a flying eagle.",
-    "verses": {
-      "kjv": "And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle."
-    },
-    "id": "END-H-0035",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How many seals were on the book that only the Lamb could open?",
-    "choices": [
-      "Seven seals",
-      "Twelve seals",
-      "Ten seals",
-      "Three seals"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 5,
-      "verse": "1"
-    },
-    "explanation": "The book was sealed with seven seals, which only the Lamb was worthy to open.",
-    "verses": {
-      "kjv": "And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals."
-    },
-    "id": "END-H-0036",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What color was the horse when the second seal was opened?",
-    "choices": [
-      "Red",
-      "White",
-      "Black",
-      "Pale"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 6,
-      "verse": "4"
-    },
-    "explanation": "When the second seal was opened, a red horse went forth, and power was given to take peace from the earth.",
-    "verses": {
-      "kjv": "And there went out another horse that was red: and power was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword."
-    },
-    "id": "END-H-0037",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What did the rider of the black horse hold in his hand?",
-    "choices": [
-      "A pair of balances",
-      "A great sword",
-      "A bow",
-      "A sickle"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 6,
-      "verse": "5"
-    },
-    "explanation": "When the third seal was opened, the rider on the black horse had a pair of balances in his hand.",
-    "verses": {
-      "kjv": "And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand."
-    },
-    "id": "END-H-0038",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How much was a measure of wheat during the black horse's judgment?",
-    "choices": [
-      "A penny",
-      "Two pence",
-      "A shekel",
-      "A talent"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 6,
-      "verse": "6"
-    },
-    "explanation": "A voice announced that a measure of wheat would cost a penny, and three measures of barley for a penny.",
-    "verses": {
-      "kjv": "And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and see thou hurt not the oil and the wine."
-    },
-    "id": "END-H-0039",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How many were sealed from each of the twelve tribes of Israel?",
-    "choices": [
-      "Twelve thousand from each tribe",
-      "Ten thousand from each tribe",
-      "Seven thousand from each tribe",
-      "One thousand from each tribe"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 7,
-      "verse": "5-8"
-    },
-    "explanation": "Twelve thousand were sealed from each of the twelve tribes, totaling 144,000.",
-    "verses": {
-      "kjv": "Of the tribe of Juda were sealed twelve thousand. Of the tribe of Reuben were sealed twelve thousand. Of the tribe of Gad were sealed twelve thousand."
-    },
-    "id": "END-H-0040",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What fraction of the earth was burned when the first trumpet sounded?",
-    "choices": [
-      "A third part",
-      "A fourth part",
-      "Half",
-      "All of it"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 8,
-      "verse": "7"
-    },
-    "explanation": "Hail and fire mingled with blood burned the third part of trees and all green grass.",
-    "verses": {
-      "kjv": "The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth: and the third part of trees was burnt up, and all green grass was burnt up."
-    },
-    "id": "END-H-0041",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What fell from heaven when the third trumpet sounded?",
-    "choices": [
-      "A great star burning as a lamp",
-      "A mountain burning with fire",
-      "Hail and fire",
-      "Locusts"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 8,
-      "verse": "10"
-    },
-    "explanation": "A great star named Wormwood fell from heaven, burning as it were a lamp.",
-    "verses": {
-      "kjv": "And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters;"
-    },
-    "id": "END-H-0042",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What was the name of the star that fell when the third trumpet sounded?",
-    "choices": [
-      "Wormwood",
-      "Abaddon",
-      "Apollyon",
-      "Babylon"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 8,
-      "verse": "11"
-    },
-    "explanation": "The star was called Wormwood, and it made the waters bitter.",
-    "verses": {
-      "kjv": "And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter."
-    },
-    "id": "END-H-0043",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What fraction of the sun, moon, and stars was darkened when the fourth trumpet sounded?",
-    "choices": [
-      "A third part",
-      "Half",
-      "A fourth part",
-      "All of them"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 8,
-      "verse": "12"
-    },
-    "explanation": "The third part of the sun, moon, and stars was smitten so that the day and night were darkened by a third.",
-    "verses": {
-      "kjv": "And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise."
-    },
-    "id": "END-H-0044",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How many months were the locust-like creatures allowed to torment men in Revelation 9?",
-    "choices": [
-      "Five months",
-      "Three months",
-      "Twelve months",
-      "Forty-two months"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 9,
-      "verse": "5"
-    },
-    "explanation": "The locusts were given power to torment men for five months, but not to kill them.",
-    "verses": {
-      "kjv": "And to them it was given that they should not kill them, but that they should be tormented five months: and their torment was as the torment of a scorpion, when he striketh a man."
-    },
-    "id": "END-H-0045",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What is the Hebrew name of the angel of the bottomless pit?",
-    "choices": [
-      "Abaddon",
-      "Apollyon",
-      "Beelzebub",
-      "Lucifer"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 9,
-      "verse": "11"
-    },
-    "explanation": "The angel of the bottomless pit is called Abaddon in Hebrew and Apollyon in Greek.",
-    "verses": {
-      "kjv": "And they had a king over them, which is the angel of the bottomless pit, whose name in the Hebrew tongue is Abaddon, but in the Greek tongue hath his name Apollyon."
-    },
-    "id": "END-H-0046",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How many horsemen were released when the sixth trumpet sounded?",
-    "choices": [
-      "Two hundred thousand thousand (200 million)",
-      "One hundred thousand",
-      "Seventy thousand",
-      "Twelve thousand"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 9,
-      "verse": "16"
-    },
-    "explanation": "The number of the army of horsemen was two hundred thousand thousand.",
-    "verses": {
-      "kjv": "And the number of the army of the horsemen were two hundred thousand thousand: and I heard the number of them."
-    },
-    "id": "END-H-0047",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How many days will the two witnesses prophesy in sackcloth?",
-    "choices": [
-      "One thousand two hundred and threescore days (1,260)",
-      "Forty-two days",
-      "Three and a half days",
-      "Seventy weeks"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 11,
-      "verse": "3"
-    },
-    "explanation": "God will give power unto His two witnesses to prophesy 1,260 days clothed in sackcloth.",
-    "verses": {
-      "kjv": "And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth."
-    },
-    "id": "END-H-0048",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How long will the bodies of the two witnesses lie in the street before resurrection?",
-    "choices": [
-      "Three days and a half",
-      "Seven days",
-      "Forty days",
-      "One day"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 11,
-      "verse": "9"
-    },
-    "explanation": "Their dead bodies will lie in the street for three and a half days while people rejoice.",
-    "verses": {
-      "kjv": "And they of the people and kindreds and tongues and nations shall see their dead bodies three days and an half, and shall not suffer their dead bodies to be put in graves."
-    },
-    "id": "END-H-0049",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "In Daniel's vision, how many horns did the ram have?",
-    "choices": [
-      "Two horns",
-      "One horn",
-      "Four horns",
-      "Ten horns"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Daniel",
-      "chapter": 8,
-      "verse": "3"
-    },
-    "explanation": "The ram had two horns, with one higher than the other, representing Media and Persia.",
-    "verses": {
-      "kjv": "Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last."
-    },
-    "id": "END-H-0050",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "In Daniel's vision, how many notable horns replaced the great horn on the goat?",
-    "choices": [
-      "Four",
-      "Two",
-      "Seven",
-      "Ten"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Daniel",
-      "chapter": 8,
-      "verse": "8"
-    },
-    "explanation": "When the great horn was broken, four notable ones came up in its place toward the four winds.",
-    "verses": {
-      "kjv": "Therefore the he goat waxed very great: and when he was strong, the great horn was broken; and for it came up four notable ones toward the four winds of heaven."
-    },
-    "id": "END-H-0051",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How many weeks were determined upon Daniel's people in his vision?",
-    "choices": [
-      "Seventy weeks",
-      "Sixty-two weeks",
-      "Seven weeks",
-      "One week"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Daniel",
-      "chapter": 9,
-      "verse": "24"
-    },
-    "explanation": "Seventy weeks are determined upon thy people and thy holy city to finish transgression and bring in everlasting righteousness.",
-    "verses": {
-      "kjv": "Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy."
-    },
-    "id": "END-H-0052",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "In Ezekiel's vision, how many years was he to bear the iniquity of Judah?",
-    "choices": [
-      "Forty days, each day for a year",
-      "Three hundred and ninety days",
-      "Seventy days",
-      "One hundred and twenty days"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Ezekiel",
-      "chapter": 4,
-      "verse": "6"
-    },
-    "explanation": "After lying 390 days for Israel, Ezekiel was to lie on his right side forty days for Judah, each day for a year.",
-    "verses": {
-      "kjv": "And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year."
-    },
-    "id": "END-H-0053",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What did the woman in Revelation 12 have on her head?",
-    "choices": [
-      "A crown of twelve stars",
-      "A crown of seven stars",
-      "A golden crown",
-      "A crown of thorns"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 12,
-      "verse": "1"
-    },
-    "explanation": "The woman clothed with the sun had the moon under her feet and a crown of twelve stars on her head.",
-    "verses": {
-      "kjv": "And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:"
-    },
-    "id": "END-H-0054",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How many stars did the dragon's tail draw from heaven?",
-    "choices": [
-      "A third part of the stars",
-      "Half the stars",
-      "All the stars",
-      "Seven stars"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 12,
-      "verse": "4"
-    },
-    "explanation": "The dragon's tail drew the third part of the stars of heaven and cast them to the earth.",
-    "verses": {
-      "kjv": "And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born."
-    },
-    "id": "END-H-0055",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "For how long was the woman in Revelation 12 nourished in the wilderness?",
-    "choices": [
-      "A time, times, and half a time",
-      "Forty-two months",
-      "Seven years",
-      "One thousand days"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 12,
-      "verse": "14"
-    },
-    "explanation": "The woman was given two wings of a great eagle to fly into the wilderness for a time, times, and half a time.",
-    "verses": {
-      "kjv": "And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent."
-    },
-    "id": "END-H-0056",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How many months was the beast given authority to continue in Revelation 13?",
-    "choices": [
-      "Forty-two months",
-      "Twelve months",
-      "Seventy months",
-      "Three and a half months"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Revelation",
-      "chapter": 13,
-      "verse": "5"
-    },
-    "explanation": "Power was given unto the beast to continue forty and two months.",
-    "verses": {
-      "kjv": "And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months."
-    },
-    "id": "END-H-0057",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
-    "question": "In Isaiah's prophecy, how long would a virgin conceive and bear a son as a sign?",
-    "choices": [
-      "The Lord himself shall give you a sign",
-      "Seven years",
-      "Forty days",
-      "Three years"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Isaiah",
-      "chapter": 7,
-      "verse": "14"
-    },
-    "explanation": "The Lord said He would give a sign: a virgin shall conceive and bear a son called Immanuel.",
-    "verses": {
-      "kjv": "Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel."
-    },
-    "id": "END-H-0058",
-    "theme": "Prophecy & End Times",
-    "difficulty": "hard"
-  },
-  {
     "question": "In Zechariah's vision, how many horns scattered Judah, Israel, and Jerusalem?",
     "choices": [
       "Four horns",
@@ -1095,7 +391,711 @@
     "verses": {
       "kjv": "Then lifted I up mine eyes, and saw, and behold four horns. And I said unto the angel that talked with me, What be these? And he answered me, These are the horns which have scattered Judah, Israel, and Jerusalem."
     },
-    "id": "END-H-0059",
+    "id": "END-H-0018",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Matthew, what sign did Jesus say would appear in heaven before all the tribes of the earth mourn and see the Son of man coming?",
+    "choices": [
+      "The sign of the Son of man in heaven",
+      "A star falling upon the third part of the rivers",
+      "A rainbow round about the throne",
+      "A pillar of cloud by day and fire by night"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 24,
+      "verse": "30"
+    },
+    "explanation": "Matthew 24:30 states that the sign of the Son of man will appear in heaven, and then the tribes of the earth will mourn and see Him coming in the clouds with power and great glory.",
+    "verses": {
+      "kjv": "And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory."
+    },
+    "id": "END-H-0019",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In 1 Thessalonians, what did Paul say would happen to the dead in Christ at the Lord's coming?",
+    "choices": [
+      "They shall rise first",
+      "They shall remain asleep until the end of the world",
+      "They shall be turned to dust forever",
+      "They shall be judged immediately without resurrection"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Thessalonians",
+      "chapter": 4,
+      "verse": "16"
+    },
+    "explanation": "1 Thessalonians 4:16 teaches that the dead in Christ will rise first when the Lord descends from heaven with a shout.",
+    "verses": {
+      "kjv": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:"
+    },
+    "id": "END-H-0020",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Revelation, what was written in the book that was opened, according to the dead being judged?",
+    "choices": [
+      "The things which were written in the books, according to their works",
+      "Only the names of kings and rulers",
+      "The genealogies of Israel only",
+      "The secrets of the temple treasury"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 20,
+      "verse": "12"
+    },
+    "explanation": "Revelation 20:12 says the dead were judged out of those things which were written in the books, according to their works.",
+    "verses": {
+      "kjv": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works."
+    },
+    "id": "END-H-0021",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Daniel, what did the prophet say would happen to many of them that sleep in the dust of the earth?",
+    "choices": [
+      "Some shall awake to everlasting life, and some to shame and everlasting contempt",
+      "All shall remain asleep forever",
+      "Only kings shall awake to life",
+      "They shall awake to reign over the earth for a thousand years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Daniel",
+      "chapter": 12,
+      "verse": "2"
+    },
+    "explanation": "Daniel 12:2 teaches a resurrection: some to everlasting life and some to shame and everlasting contempt.",
+    "verses": {
+      "kjv": "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt."
+    },
+    "id": "END-H-0022",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Revelation, what did John see coming down from God out of heaven, prepared as a bride adorned for her husband?",
+    "choices": [
+      "The holy city, new Jerusalem",
+      "A great mountain burning with fire",
+      "The tabernacle of Moses",
+      "A temple made with hands"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "2"
+    },
+    "explanation": "Revelation 21:2 describes John seeing the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.",
+    "verses": {
+      "kjv": "And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband."
+    },
+    "id": "END-H-0023",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In 2 Peter, what did Peter say would pass away with a great noise?",
+    "choices": [
+      "The heavens",
+      "The covenant",
+      "The law",
+      "The temple only"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Peter",
+      "chapter": 3,
+      "verse": "10"
+    },
+    "explanation": "2 Peter 3:10 says the heavens shall pass away with a great noise, and the elements shall melt with fervent heat.",
+    "verses": {
+      "kjv": "But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up."
+    },
+    "id": "END-H-0024",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Revelation, what was given to the woman in the wilderness so she might fly into her place?",
+    "choices": [
+      "Two wings of a great eagle",
+      "A crown of twelve stars",
+      "A rod of iron",
+      "A golden censer"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 12,
+      "verse": "14"
+    },
+    "explanation": "Revelation 12:14 says two wings of a great eagle were given to the woman so she could fly into the wilderness to be nourished for a time, times, and half a time.",
+    "verses": {
+      "kjv": "And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent."
+    },
+    "id": "END-H-0025",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Revelation, what did the angel say the seven stars in Christ's right hand are?",
+    "choices": [
+      "The angels of the seven churches",
+      "The seven spirits of the earth",
+      "The seven seals",
+      "The seven trumpets"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 1,
+      "verse": "20"
+    },
+    "explanation": "Revelation 1:20 explains that the seven stars are the angels of the seven churches, and the seven candlesticks are the seven churches.",
+    "verses": {
+      "kjv": "The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches."
+    },
+    "id": "END-H-0026",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Revelation, what did John see in the right hand of him that sat on the throne?",
+    "choices": [
+      "A book written within and on the backside, sealed with seven seals",
+      "A sword of fire",
+      "A scroll of the law of Moses",
+      "A golden crown with twelve stars"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 5,
+      "verse": "1"
+    },
+    "explanation": "Revelation 5:1 describes a book in the right hand of him that sat on the throne, written within and on the backside, sealed with seven seals.",
+    "verses": {
+      "kjv": "And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals."
+    },
+    "id": "END-H-0027",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Revelation, what did the angel say would be the torment of those who worship the beast and his image?",
+    "choices": [
+      "He shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb",
+      "He shall be cast into a dungeon of iron without light",
+      "He shall be turned into salt before all men",
+      "He shall wander the earth as a fugitive forever"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 14,
+      "verse": "10"
+    },
+    "explanation": "Revelation 14:10 states that those who worship the beast will be tormented with fire and brimstone in the presence of the holy angels and the Lamb.",
+    "verses": {
+      "kjv": "The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:"
+    },
+    "id": "END-H-0028",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Revelation, what did John see coming out of the sea in his vision?",
+    "choices": [
+      "A beast having seven heads and ten horns, and upon his horns ten crowns",
+      "A golden altar before the throne",
+      "A white horse with seven riders",
+      "A river of living water proceeding from the throne"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 13,
+      "verse": "1"
+    },
+    "explanation": "Revelation 13:1 describes a beast rising up out of the sea with seven heads and ten horns and ten crowns on his horns.",
+    "verses": {
+      "kjv": "And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy."
+    },
+    "id": "END-H-0029",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Revelation, what did John say he saw proceeding out of the throne?",
+    "choices": [
+      "Lightnings and thunderings and voices",
+      "A river of fire and brimstone",
+      "Seven swords of iron",
+      "A cloud of smoke that darkened the sun"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 4,
+      "verse": "5"
+    },
+    "explanation": "Revelation 4:5 describes lightnings, thunderings, and voices proceeding out of the throne, and mentions seven lamps of fire burning before the throne.",
+    "verses": {
+      "kjv": "And out of the throne proceeded lightnings and thunderings and voices: and there were seven lamps of fire burning before the throne, which are the seven Spirits of God."
+    },
+    "id": "END-H-0030",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Mark, what did Jesus say to do when you see the abomination of desolation standing where it ought not?",
+    "choices": [
+      "Let them that be in Judaea flee to the mountains",
+      "Let them go into the synagogues and remain there",
+      "Let them gather at the sea and wait",
+      "Let them take up the sword and fight"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Mark",
+      "chapter": 13,
+      "verse": "14"
+    },
+    "explanation": "Mark 13:14 instructs those in Judaea to flee to the mountains when they see the abomination of desolation standing where it ought not.",
+    "verses": {
+      "kjv": "But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand,) then let them that be in Judaea flee to the mountains:"
+    },
+    "id": "END-H-0031",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Luke, what did Jesus say would be upon the earth as distress of nations, with perplexity?",
+    "choices": [
+      "The sea and the waves roaring",
+      "A river of blood flowing",
+      "A great famine in every city",
+      "A pillar of smoke covering the sun"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 21,
+      "verse": "25"
+    },
+    "explanation": "Luke 21:25 describes distress of nations with perplexity and mentions the sea and the waves roaring.",
+    "verses": {
+      "kjv": "And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;"
+    },
+    "id": "END-H-0032",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to 1 Corinthians, what did Paul say concerning the sound of the trumpet at the last trump?",
+    "choices": [
+      "The trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed",
+      "The trumpet shall sound, and the sea shall be dried up",
+      "The trumpet shall sound, and the temple shall be rebuilt",
+      "The trumpet shall sound, and the angels shall depart"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "verse": "52"
+    },
+    "explanation": "1 Corinthians 15:52 says at the last trump the trumpet shall sound and the dead shall be raised incorruptible and believers shall be changed.",
+    "verses": {
+      "kjv": "In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed."
+    },
+    "id": "END-H-0033",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to 2 Timothy, what did Paul say the Lord would give him \"at that day\"?",
+    "choices": [
+      "A crown of righteousness",
+      "A sword of judgment",
+      "A throne in Jerusalem",
+      "A new name written on stone"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verse": "8"
+    },
+    "explanation": "2 Timothy 4:8 says the Lord, the righteous judge, shall give Paul a crown of righteousness at that day, and not to him only, but to all who love his appearing.",
+    "verses": {
+      "kjv": "Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing."
+    },
+    "id": "END-H-0034",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Revelation, what did the angel say would be \"time no longer\"?",
+    "choices": [
+      "There should be time no longer",
+      "There should be no more day and night",
+      "There should be no more sun and moon",
+      "There should be no more kings on the earth"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 10,
+      "verse": "6"
+    },
+    "explanation": "Revelation 10:6 records the angel swearing that there should be time no longer.",
+    "verses": {
+      "kjv": "And sware by him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:"
+    },
+    "id": "END-H-0035",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Revelation, what does John say the testimony of Jesus is?",
+    "choices": [
+      "The spirit of prophecy",
+      "The law of Moses",
+      "The power of the sword",
+      "The wisdom of the world"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 19,
+      "verse": "10"
+    },
+    "explanation": "Revelation 19:10 explicitly says the testimony of Jesus is the spirit of prophecy.",
+    "verses": {
+      "kjv": "And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy."
+    },
+    "id": "END-H-0036",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to John, what is the will of him that sent Jesus concerning those who see the Son and believe on him?",
+    "choices": [
+      "That he may have everlasting life, and Jesus will raise him up at the last day",
+      "That he should never experience death in any form",
+      "That he should rule the kingdoms of the earth immediately",
+      "That he should return to Egypt and dwell there"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "John",
+      "chapter": 6,
+      "verse": "40"
+    },
+    "explanation": "John 6:40 states that everyone who sees the Son and believes on him may have everlasting life and will be raised up at the last day.",
+    "verses": {
+      "kjv": "And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day."
+    },
+    "id": "END-H-0037",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Revelation, what did John say he saw standing in heaven as a sign, with which the seven plagues were finished?",
+    "choices": [
+      "Seven angels having the seven last plagues",
+      "A lamb with seven horns",
+      "A dragon with ten crowns",
+      "An altar of gold with incense"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 15,
+      "verse": "1"
+    },
+    "explanation": "Revelation 15:1 says John saw seven angels having the seven last plagues, for in them is filled up the wrath of God.",
+    "verses": {
+      "kjv": "And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God."
+    },
+    "id": "END-H-0038",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Revelation, what did John say was given unto the locusts that came out of the smoke of the bottomless pit?",
+    "choices": [
+      "Power, as the scorpions of the earth have power",
+      "Crowns of gold to rule the nations",
+      "The key to the bottomless pit",
+      "A rod of iron to smite the earth"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 9,
+      "verse": "3"
+    },
+    "explanation": "Revelation 9:3 says locusts came out upon the earth and power was given unto them as scorpions have power.",
+    "verses": {
+      "kjv": "And there came out of the smoke locusts upon the earth: and unto them was given power, as the scorpions of the earth have power."
+    },
+    "id": "END-H-0039",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Isaiah, what will happen to the hosts of heaven in the day of the LORD?",
+    "choices": [
+      "They shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison",
+      "They shall be crowned with gold and set over the nations",
+      "They shall flee into the wilderness and hide themselves for ever",
+      "They shall build a new temple upon the mountains"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 24,
+      "verse": "22"
+    },
+    "explanation": "Isaiah says the host of the high ones and the kings of the earth will be gathered like prisoners and shut up, then visited after many days.",
+    "verses": {
+      "kjv": "And they shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited."
+    },
+    "id": "END-H-0040",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Isaiah, what does the prophet say the LORD will do to the covering cast over all people and the vail spread over all nations?",
+    "choices": [
+      "He will destroy it in this mountain",
+      "He will bind it with seven seals for ever",
+      "He will cast it into the bottomless pit",
+      "He will spread it over the whole earth again"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 25,
+      "verse": "7"
+    },
+    "explanation": "Isaiah 25:7 states that the LORD will destroy the covering and the vail that is spread over the nations.",
+    "verses": {
+      "kjv": "And he will destroy in this mountain the face of the covering cast over all people, and the vail that is spread over all nations."
+    },
+    "id": "END-H-0041",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Isaiah, what will the LORD do when he comes out of his place to punish the inhabitants of the earth for their iniquity?",
+    "choices": [
+      "The earth also shall disclose her blood, and shall no more cover her slain",
+      "The sea shall be turned into a plain, and the mountains melted",
+      "All nations shall gather to Jerusalem to make peace",
+      "The sun shall stand still for three days"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 26,
+      "verse": "21"
+    },
+    "explanation": "Isaiah says the LORD will punish, and the earth will reveal blood and not cover the slain.",
+    "verses": {
+      "kjv": "For, behold, the LORD cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain."
+    },
+    "id": "END-H-0042",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Ezekiel, what did the LORD say he would do to Gog when he comes against the land of Israel in the latter days?",
+    "choices": [
+      "He will bring him against his land, that the heathen may know him, when he shall be sanctified in him, O Gog, before their eyes",
+      "He will make him king over Jerusalem for a thousand years",
+      "He will lead him to build the temple and restore the sacrifices",
+      "He will cause him to flee to Egypt and hide among the nations"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 38,
+      "verse": "16"
+    },
+    "explanation": "Ezekiel 38:16 says the LORD will bring Gog against the land so the nations may know him when God is sanctified in Gog before their eyes.",
+    "verses": {
+      "kjv": "And thou shalt come up against my people of Israel, as a cloud to cover the land; it shall be in the latter days, and I will bring thee against my land, that the heathen may know me, when I shall be sanctified in thee, O Gog, before their eyes."
+    },
+    "id": "END-H-0043",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Ezekiel, what does the Lord GOD say will happen to the land after it is cleansed?",
+    "choices": [
+      "It shall be tilled and sown",
+      "It shall be burned with fire and become a desert for ever",
+      "It shall be covered with water and become as the sea",
+      "It shall be divided into ten kingdoms"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 36,
+      "verse": "9"
+    },
+    "explanation": "Ezekiel 36:9 says God will turn unto the land, and it shall be tilled and sown.",
+    "verses": {
+      "kjv": "For, behold, I am for you, and I will turn unto you, and ye shall be tilled and sown:"
+    },
+    "id": "END-H-0044",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Ezekiel, what did the LORD say he would do so that the heathen would know that he is the LORD, when he is sanctified in Israel before their eyes?",
+    "choices": [
+      "He will bring them out from the people, and gather them out of the countries, and bring them to their own land",
+      "He will set up an everlasting kingdom in Babylon",
+      "He will give them a new law by the hand of an angel",
+      "He will cause the sun to be darkened for forty days"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 36,
+      "verse": "23"
+    },
+    "explanation": "Ezekiel 36:23–24 connects God's sanctifying of his great name with gathering Israel from the nations back to their land.",
+    "verses": {
+      "kjv": "And I will sanctify my great name, which was profaned among the heathen, which ye have profaned in the midst of them; and the heathen shall know that I am the LORD, saith the Lord GOD, when I shall be sanctified in you before their eyes."
+    },
+    "id": "END-H-0045",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Ezekiel, what does the LORD say will happen when the sanctuary is in the midst of Israel for evermore?",
+    "choices": [
+      "The heathen shall know that the LORD do sanctify Israel",
+      "All nations shall cease to exist",
+      "The stars of heaven shall fall to the earth",
+      "The sea shall no more be"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 37,
+      "verse": "28"
+    },
+    "explanation": "Ezekiel 37:28 says the nations will know the LORD sanctifies Israel when his sanctuary is in their midst for evermore.",
+    "verses": {
+      "kjv": "And the heathen shall know that I the LORD do sanctify Israel, when my sanctuary shall be in the midst of them for evermore."
+    },
+    "id": "END-H-0046",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Joel, what will the sun and the moon be like before the great and terrible day of the LORD come?",
+    "choices": [
+      "The sun shall be turned into darkness, and the moon into blood",
+      "The sun shall be seven times brighter, and the moon shall vanish",
+      "The sun shall stand still, and the moon shall fall",
+      "The sun shall be covered with clouds, and the moon shall be broken"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joel",
+      "chapter": 2,
+      "verse": "31"
+    },
+    "explanation": "Joel 2:31 explicitly says the sun will be turned into darkness and the moon into blood before the day of the LORD.",
+    "verses": {
+      "kjv": "The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come."
+    },
+    "id": "END-H-0047",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Joel, what will the LORD do for his people in the day he gathers the nations and brings them down into the valley of Jehoshaphat?",
+    "choices": [
+      "The LORD will be the hope of his people, and the strength of the children of Israel",
+      "The LORD will cause them to wander forty years in the wilderness again",
+      "The LORD will remove his name from Israel for a season",
+      "The LORD will deliver them into captivity under Assyria"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joel",
+      "chapter": 3,
+      "verse": "16"
+    },
+    "explanation": "Joel 3:16 says the LORD will roar out of Zion and be the hope and strength of his people.",
+    "verses": {
+      "kjv": "The LORD also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the LORD will be the hope of his people, and the strength of the children of Israel."
+    },
+    "id": "END-H-0048",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Zephaniah, what does the LORD say he will do to the nations in the day of his determination?",
+    "choices": [
+      "He will gather the nations, assemble the kingdoms, and pour upon them his indignation",
+      "He will crown them with peace and give them a new covenant",
+      "He will cause them to sleep, and forget their sins for ever",
+      "He will remove all judgment from the earth and end all war"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Zephaniah",
+      "chapter": 3,
+      "verse": "8"
+    },
+    "explanation": "Zephaniah 3:8 says God will gather nations and pour out indignation; the whole earth will be devoured with the fire of his jealousy.",
+    "verses": {
+      "kjv": "Therefore wait ye upon me, saith the LORD, until the day that I rise up to the prey: for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger: for all the earth shall be devoured with the fire of my jealousy."
+    },
+    "id": "END-H-0049",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Zephaniah, what does the LORD say he will turn to the people after the judgments?",
+    "choices": [
+      "A pure language, that they may all call upon the name of the LORD, to serve him with one consent",
+      "A sword of iron, that they may conquer every nation",
+      "A new temple in Babylon, that they may worship there",
+      "A veil over their eyes, that they may not understand"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Zephaniah",
+      "chapter": 3,
+      "verse": "9"
+    },
+    "explanation": "Zephaniah 3:9 says God will turn to the people a pure language so they may call on the LORD and serve with one consent.",
+    "verses": {
+      "kjv": "For then will I turn to the people a pure language, that they may all call upon the name of the LORD, to serve him with one consent."
+    },
+    "id": "END-H-0050",
     "theme": "Prophecy & End Times",
     "difficulty": "hard"
   }

@@ -44,7 +44,7 @@
     }
   },
   {
-    "id": "WIS-H-0006",
+    "id": "WIS-H-0003",
     "theme": "Wisdom & Psalms",
     "question": "In Job, who said 'The Lord gave, and the Lord hath taken away'?",
     "choices": [
@@ -66,7 +66,7 @@
     }
   },
   {
-    "id": "WIS-H-0007",
+    "id": "WIS-H-0004",
     "theme": "Wisdom & Psalms",
     "question": "Which psalm is known as the 'Shepherd Psalm'?",
     "choices": [
@@ -88,7 +88,7 @@
     }
   },
   {
-    "id": "WIS-H-0008",
+    "id": "WIS-H-0005",
     "theme": "Wisdom & Psalms",
     "question": "According to Proverbs, what kind of words are like apples of gold in pictures of silver?",
     "choices": [
@@ -110,7 +110,7 @@
     }
   },
   {
-    "id": "WIS-H-0009",
+    "id": "WIS-H-0006",
     "theme": "Wisdom & Psalms",
     "question": "Which book of wisdom literature questions the justice of God's ways?",
     "choices": [
@@ -132,7 +132,7 @@
     }
   },
   {
-    "id": "WIS-H-0010",
+    "id": "WIS-H-0007",
     "theme": "Wisdom & Psalms",
     "question": "How many proverbs did Solomon speak according to 1 Kings?",
     "choices": [
@@ -154,7 +154,7 @@
     }
   },
   {
-    "id": "WIS-H-0011",
+    "id": "WIS-H-0008",
     "theme": "Wisdom & Psalms",
     "question": "What does Ecclesiastes say is vanity of vanities?",
     "choices": [
@@ -176,7 +176,7 @@
     }
   },
   {
-    "id": "WIS-H-0012",
+    "id": "WIS-H-0009",
     "theme": "Wisdom & Psalms",
     "question": "In Proverbs, what does a foolish son bring to his mother?",
     "choices": [
@@ -198,7 +198,7 @@
     }
   },
   {
-    "id": "WIS-H-0013",
+    "id": "WIS-H-0010",
     "theme": "Wisdom & Psalms",
     "question": "According to Psalm 90, what is the span of our years?",
     "choices": [
@@ -220,7 +220,7 @@
     }
   },
   {
-    "id": "WIS-H-0014",
+    "id": "WIS-H-0011",
     "theme": "Wisdom & Psalms",
     "question": "Which psalm begins 'Make a joyful noise unto the Lord'?",
     "choices": [
@@ -242,7 +242,7 @@
     }
   },
   {
-    "id": "WIS-H-0015",
+    "id": "WIS-H-0012",
     "theme": "Wisdom & Psalms",
     "question": "In Job, what was the name of Job's oldest daughter?",
     "choices": [
@@ -264,7 +264,7 @@
     }
   },
   {
-    "id": "WIS-H-0016",
+    "id": "WIS-H-0013",
     "theme": "Wisdom & Psalms",
     "question": "According to Proverbs, the heart of the wise teaches what?",
     "choices": [
@@ -286,7 +286,7 @@
     }
   },
   {
-    "id": "WIS-H-0017",
+    "id": "WIS-H-0014",
     "theme": "Wisdom & Psalms",
     "question": "Which psalm is Moses's prayer?",
     "choices": [
@@ -308,7 +308,7 @@
     }
   },
   {
-    "id": "WIS-H-0018",
+    "id": "WIS-H-0015",
     "theme": "Wisdom & Psalms",
     "question": "In Song of Solomon, what is the beloved compared to among the daughters?",
     "choices": [
@@ -330,7 +330,7 @@
     }
   },
   {
-    "id": "WIS-H-0019",
+    "id": "WIS-H-0016",
     "theme": "Wisdom & Psalms",
     "question": "According to Ecclesiastes, what has God set in man's heart?",
     "choices": [
@@ -352,7 +352,7 @@
     }
   },
   {
-    "id": "WIS-H-0020",
+    "id": "WIS-H-0017",
     "theme": "Wisdom & Psalms",
     "question": "In Proverbs, a false balance is what to the Lord?",
     "choices": [
@@ -374,7 +374,7 @@
     }
   },
   {
-    "id": "WIS-H-0021",
+    "id": "WIS-H-0018",
     "theme": "Wisdom & Psalms",
     "question": "Which psalm contains the verse 'Deep calleth unto deep'?",
     "choices": [
@@ -396,7 +396,7 @@
     }
   },
   {
-    "id": "WIS-H-0022",
+    "id": "WIS-H-0019",
     "theme": "Wisdom & Psalms",
     "question": "How many friends came to comfort Job?",
     "choices": [
@@ -418,7 +418,7 @@
     }
   },
   {
-    "id": "WIS-H-0023",
+    "id": "WIS-H-0020",
     "theme": "Wisdom & Psalms",
     "question": "According to Proverbs, pride goes before what?",
     "choices": [
@@ -440,29 +440,7 @@
     }
   },
   {
-    "id": "WIS-H-0024",
-    "theme": "Wisdom & Psalms",
-    "question": "What is the longest chapter in the Bible?",
-    "choices": [
-      "Psalm 119",
-      "Psalm 23",
-      "Genesis 1",
-      "Isaiah 53"
-    ],
-    "correctIndex": 0,
-    "difficulty": "hard",
-    "reference": {
-      "book": "Psalm",
-      "chapter": 119,
-      "verse": "1"
-    },
-    "explanation": "Psalm 119 has 176 verses, making it the longest chapter in the Bible. It is an acrostic poem about God's law.",
-    "verses": {
-      "kjv": "Blessed\nare the undefiled in the way, who walk in the law of the LORD."
-    }
-  },
-  {
-    "id": "WIS-H-0025",
+    "id": "WIS-H-0021",
     "theme": "Wisdom & Psalms",
     "question": "In Ecclesiastes, what does the Teacher say is meaningless?",
     "choices": [
@@ -484,7 +462,7 @@
     }
   },
   {
-    "id": "WIS-H-0026",
+    "id": "WIS-H-0022",
     "theme": "Wisdom & Psalms",
     "question": "Who wrote most of the Proverbs?",
     "choices": [
@@ -506,7 +484,7 @@
     }
   },
   {
-    "id": "WIS-H-0027",
+    "id": "WIS-H-0023",
     "theme": "Wisdom & Psalms",
     "question": "In Ecclesiastes, there is a time to be born and a time to what?",
     "choices": [
@@ -528,7 +506,7 @@
     }
   },
   {
-    "id": "WIS-H-0028",
+    "id": "WIS-H-0024",
     "theme": "Wisdom & Psalms",
     "question": "Which psalm is David's psalm of repentance after his sin with Bathsheba?",
     "choices": [
@@ -550,7 +528,7 @@
     }
   },
   {
-    "id": "WIS-H-0029",
+    "id": "WIS-H-0025",
     "theme": "Wisdom & Psalms",
     "question": "According to Proverbs, what kind of rebuke is better than secret love?",
     "choices": [
@@ -572,7 +550,7 @@
     }
   },
   {
-    "id": "WIS-H-0030",
+    "id": "WIS-H-0026",
     "theme": "Wisdom & Psalms",
     "question": "In Job, what did God ask Job out of?",
     "choices": [
@@ -594,7 +572,7 @@
     }
   },
   {
-    "id": "WIS-H-0031",
+    "id": "WIS-H-0027",
     "theme": "Wisdom & Psalms",
     "question": "According to Psalm 137, by which rivers did they sit down and weep?",
     "choices": [
@@ -616,7 +594,7 @@
     }
   },
   {
-    "id": "WIS-H-0032",
+    "id": "WIS-H-0028",
     "theme": "Wisdom & Psalms",
     "question": "In Proverbs, what does a soft answer turn away?",
     "choices": [
@@ -638,7 +616,7 @@
     }
   },
   {
-    "id": "WIS-H-0033",
+    "id": "WIS-H-0029",
     "theme": "Wisdom & Psalms",
     "question": "Which psalm begins 'Bless the Lord, O my soul'?",
     "choices": [
@@ -660,7 +638,7 @@
     }
   },
   {
-    "id": "WIS-H-0034",
+    "id": "WIS-H-0030",
     "theme": "Wisdom & Psalms",
     "question": "According to Ecclesiastes, what is there nothing new under?",
     "choices": [
@@ -682,7 +660,7 @@
     }
   },
   {
-    "id": "WIS-H-0035",
+    "id": "WIS-H-0031",
     "theme": "Wisdom & Psalms",
     "question": "In Job, how many sons did Job have before his trials?",
     "choices": [
@@ -704,7 +682,7 @@
     }
   },
   {
-    "id": "WIS-H-0036",
+    "id": "WIS-H-0032",
     "theme": "Wisdom & Psalms",
     "question": "According to Proverbs, the fear of the Lord is the beginning of what?",
     "choices": [
@@ -726,7 +704,7 @@
     }
   },
   {
-    "id": "WIS-H-0037",
+    "id": "WIS-H-0033",
     "theme": "Wisdom & Psalms",
     "question": "Which psalm contains 'The Lord reigneth; let the earth rejoice'?",
     "choices": [
@@ -748,7 +726,7 @@
     }
   },
   {
-    "id": "WIS-H-0038",
+    "id": "WIS-H-0034",
     "theme": "Wisdom & Psalms",
     "question": "According to Proverbs, what kind of witness tells lies?",
     "choices": [
@@ -770,7 +748,7 @@
     }
   },
   {
-    "id": "WIS-H-0039",
+    "id": "WIS-H-0035",
     "theme": "Wisdom & Psalms",
     "question": "In Song of Solomon, where does the beloved say his love is like a roe or young hart?",
     "choices": [
@@ -792,7 +770,7 @@
     }
   },
   {
-    "id": "WIS-H-0040",
+    "id": "WIS-H-0036",
     "theme": "Wisdom & Psalms",
     "question": "According to Psalm 1, what is the blessed man like?",
     "choices": [
@@ -814,7 +792,7 @@
     }
   },
   {
-    "id": "WIS-H-0041",
+    "id": "WIS-H-0037",
     "theme": "Wisdom & Psalms",
     "question": "In Ecclesiastes, what did the Preacher say he hated?",
     "choices": [
@@ -836,7 +814,7 @@
     }
   },
   {
-    "id": "WIS-H-0042",
+    "id": "WIS-H-0038",
     "theme": "Wisdom & Psalms",
     "question": "According to Proverbs, what covers all sins?",
     "choices": [
@@ -858,7 +836,7 @@
     }
   },
   {
-    "id": "WIS-H-0043",
+    "id": "WIS-H-0039",
     "theme": "Wisdom & Psalms",
     "question": "Which psalm is the shortest psalm in the Bible?",
     "choices": [
@@ -880,7 +858,7 @@
     }
   },
   {
-    "id": "WIS-H-0044",
+    "id": "WIS-H-0040",
     "theme": "Wisdom & Psalms",
     "question": "In Job, what creature did God describe as 'chief of the ways of God'?",
     "choices": [
@@ -902,7 +880,7 @@
     }
   },
   {
-    "id": "WIS-H-0045",
+    "id": "WIS-H-0041",
     "theme": "Wisdom & Psalms",
     "question": "According to Proverbs, where does a virtuous woman's price exceed?",
     "choices": [
@@ -941,7 +919,7 @@
     "verses": {
       "kjv": "I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit."
     },
-    "id": "WIS-H-0046",
+    "id": "WIS-H-0042",
     "theme": "Wisdom & Psalms",
     "difficulty": "hard"
   },
@@ -963,7 +941,7 @@
     "verses": {
       "kjv": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man."
     },
-    "id": "WIS-H-0047",
+    "id": "WIS-H-0043",
     "theme": "Wisdom & Psalms",
     "difficulty": "hard"
   },
@@ -985,7 +963,7 @@
     "verses": {
       "kjv": "All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as is the good, so is the sinner; and he that sweareth, as he that feareth an oath."
     },
-    "id": "WIS-H-0048",
+    "id": "WIS-H-0044",
     "theme": "Wisdom & Psalms",
     "difficulty": "hard"
   },
@@ -1007,7 +985,7 @@
     "verses": {
       "kjv": "A good name is rather to be chosen than great riches, and loving favour rather than silver and gold."
     },
-    "id": "WIS-H-0049",
+    "id": "WIS-H-0045",
     "theme": "Wisdom & Psalms",
     "difficulty": "hard"
   },
@@ -1029,7 +1007,7 @@
     "verses": {
       "kjv": "A good name is rather to be chosen than great riches, and loving favour rather than silver and gold."
     },
-    "id": "WIS-H-0050",
+    "id": "WIS-H-0046",
     "theme": "Wisdom & Psalms",
     "difficulty": "hard"
   },
@@ -1051,7 +1029,7 @@
     "verses": {
       "kjv": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend."
     },
-    "id": "WIS-H-0051",
+    "id": "WIS-H-0047",
     "theme": "Wisdom & Psalms",
     "difficulty": "hard"
   },
@@ -1073,7 +1051,7 @@
     "verses": {
       "kjv": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend."
     },
-    "id": "WIS-H-0052",
+    "id": "WIS-H-0048",
     "theme": "Wisdom & Psalms",
     "difficulty": "hard"
   },
@@ -1095,7 +1073,29 @@
     "verses": {
       "kjv": "The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass."
     },
-    "id": "WIS-H-0053",
+    "id": "WIS-H-0049",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Psalm 22, what did the psalmist say his enemies did with their mouths when they saw him?",
+    "choices": [
+      "They gaped upon me with their mouths, as a ravening and a roaring lion",
+      "They blessed me and prayed for my peace",
+      "They were silent and covered their mouths",
+      "They wept and comforted me"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Psalm",
+      "chapter": 22,
+      "verse": "13"
+    },
+    "explanation": "Psalm 22:13 describes enemies gaping with their mouths like a ravening and roaring lion.",
+    "verses": {
+      "kjv": "They gaped upon me with their mouths, as a ravening and a roaring lion."
+    },
+    "id": "WIS-H-0050",
     "theme": "Wisdom & Psalms",
     "difficulty": "hard"
   }

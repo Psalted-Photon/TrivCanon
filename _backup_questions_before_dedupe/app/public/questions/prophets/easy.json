@@ -1,0 +1,1080 @@
+[
+  {
+    "id": "PRO-E-0001",
+    "theme": "Prophets",
+    "question": "Which prophet was swallowed by a great fish?",
+    "choices": [
+      "Jonah",
+      "Elijah",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Jonah",
+      "chapter": 1,
+      "verse": "17"
+    },
+    "explanation": "Jonah was swallowed by a great fish for three days after fleeing from God's command to go to Nineveh.",
+    "verses": {
+      "kjv": "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights."
+    }
+  },
+  {
+    "id": "PRO-E-0002",
+    "theme": "Prophets",
+    "question": "Which prophet was taken up to heaven in a whirlwind?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Enoch",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 2,
+      "verse": "11"
+    },
+    "explanation": "Elijah went up to heaven in a whirlwind, with chariots and horses of fire separating him from Elisha.",
+    "verses": {
+      "kjv": "And it came to pass, as they still went on, and talked, that, behold,\nthere appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven."
+    }
+  },
+  {
+    "id": "PRO-E-0003",
+    "theme": "Prophets",
+    "question": "Which prophet called down fire from heaven on Mount Carmel?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Moses",
+      "Samuel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verse": "38"
+    },
+    "explanation": "Elijah called on God, and fire fell from heaven, consuming the sacrifice and proving God's power over Baal.",
+    "verses": {
+      "kjv": "Then the fire of the LORD fell, and consumed the burnt sacrifice, and the wood, and the stones, and the dust, and licked up the water that\nwas in the trench."
+    }
+  },
+  {
+    "id": "PRO-E-0004",
+    "theme": "Prophets",
+    "question": "Which prophet interpreted King Nebuchadnezzar's dreams?",
+    "choices": [
+      "Daniel",
+      "Ezekiel",
+      "Jeremiah",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 2,
+      "verse": "19"
+    },
+    "explanation": "God revealed the dream and its interpretation to Daniel, who then told the king.",
+    "verses": {
+      "kjv": "Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven."
+    }
+  },
+  {
+    "id": "PRO-E-0005",
+    "theme": "Prophets",
+    "question": "Which prophet said 'Here am I. Send me!' when God asked who would go?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Amos"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": "8"
+    },
+    "explanation": "After being cleansed by a seraphim with a burning coal, Isaiah eagerly volunteered to be God's messenger.",
+    "verses": {
+      "kjv": "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here\nam I; send me."
+    }
+  },
+  {
+    "id": "PRO-E-0006",
+    "theme": "Prophets",
+    "question": "Which prophet saw a vision of a valley filled with dry bones?",
+    "choices": [
+      "Ezekiel",
+      "Daniel",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 37,
+      "verse": "1-2"
+    },
+    "explanation": "God led Ezekiel to a valley full of dry bones and asked if they could live again.",
+    "verses": {
+      "kjv": "The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which\nwas full of bones,\nAnd caused me to pass by them round about: and, behold,\nthere were\n very many in the open valley; and, lo,\nthey were very dry."
+    }
+  },
+  {
+    "id": "PRO-E-0007",
+    "theme": "Prophets",
+    "question": "Which prophet was fed by ravens?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Samuel",
+      "Nathan"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verse": "6"
+    },
+    "explanation": "The ravens brought Elijah bread and meat in the morning and evening, and he drank from the brook.",
+    "verses": {
+      "kjv": "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook."
+    }
+  },
+  {
+    "id": "PRO-E-0008",
+    "theme": "Prophets",
+    "question": "What did Balaam's donkey do that was unusual?",
+    "choices": [
+      "Spoke to him",
+      "Flew",
+      "Disappeared",
+      "Turned to stone"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Numbers",
+      "chapter": 22,
+      "verse": "28"
+    },
+    "explanation": "The Lord opened the donkey's mouth, and it said to Balaam, 'What have I done to you?'",
+    "verses": {
+      "kjv": "And the LORD opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?"
+    }
+  },
+  {
+    "id": "PRO-E-0009",
+    "theme": "Prophets",
+    "question": "Which prophet warned Nineveh of God's judgment?",
+    "choices": [
+      "Jonah",
+      "Nahum",
+      "Micah",
+      "Habakkuk"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Jonah",
+      "chapter": 3,
+      "verse": "4"
+    },
+    "explanation": "Jonah proclaimed: 'Forty more days and Nineveh will be overthrown.'",
+    "verses": {
+      "kjv": "And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown."
+    }
+  },
+  {
+    "id": "PRO-E-0010",
+    "theme": "Prophets",
+    "question": "Which prophet married a prostitute as commanded by God?",
+    "choices": [
+      "Hosea",
+      "Jeremiah",
+      "Isaiah",
+      "Amos"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Hosea",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "The Lord said to Hosea, 'Go, marry a promiscuous woman' to illustrate Israel's unfaithfulness.",
+    "verses": {
+      "kjv": "The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom,\ndeparting from the LORD."
+    }
+  },
+  {
+    "id": "PRO-E-0011",
+    "theme": "Prophets",
+    "question": "Which prophet stood before King Ahab and predicted drought?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Nathan",
+      "Samuel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verse": "1"
+    },
+    "explanation": "Elijah said to Ahab, 'As the Lord lives, there will be neither dew nor rain except at my word.'",
+    "verses": {
+      "kjv": "And Elijah the Tishbite,\nwho was of the inhabitants of Gilead, said unto Ahab,\nAs the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word."
+    }
+  },
+  {
+    "id": "PRO-E-0012",
+    "theme": "Prophets",
+    "question": "Who was the last prophet in the Old Testament?",
+    "choices": [
+      "Malachi",
+      "Zechariah",
+      "Haggai",
+      "Joel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Malachi",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "Malachi is the last book of the Old Testament and the last of the writing prophets.",
+    "verses": {
+      "kjv": "The burden of the word of the LORD to Israel by Malachi."
+    }
+  },
+  {
+    "id": "PRO-E-0013",
+    "theme": "Prophets",
+    "question": "How long did Jonah spend inside the great fish?",
+    "choices": [
+      "Three days and nights",
+      "Seven days",
+      "Forty days",
+      "One day"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Jonah",
+      "chapter": 1,
+      "verse": "17"
+    },
+    "explanation": "Now the Lord provided a huge fish to swallow Jonah, and Jonah was in the belly of the fish three days and three nights.",
+    "verses": {
+      "kjv": "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights."
+    }
+  },
+  {
+    "id": "PRO-E-0014",
+    "theme": "Prophets",
+    "question": "Which prophet saw God sitting on a throne with seraphim calling 'Holy, holy, holy'?",
+    "choices": [
+      "Isaiah",
+      "Ezekiel",
+      "Daniel",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": "3"
+    },
+    "explanation": "Isaiah saw the Lord seated on a throne, high and exalted, with seraphim praising His holiness.",
+    "verses": {
+      "kjv": "And one cried unto another, and said, Holy, holy, holy,\nis\n the LORD of hosts: the whole earth\nis full of his glory."
+    }
+  },
+  {
+    "id": "PRO-E-0015",
+    "theme": "Prophets",
+    "question": "Who interpreted King Nebuchadnezzar's dream about a great statue?",
+    "choices": [
+      "Daniel",
+      "Ezekiel",
+      "Jeremiah",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 2,
+      "verse": "36"
+    },
+    "explanation": "Daniel interpreted the king's dream about a statue with different metals representing successive kingdoms.",
+    "verses": {
+      "kjv": "This\nis the dream; and we will tell the interpretation thereof before the king."
+    }
+  },
+  {
+    "id": "PRO-E-0016",
+    "theme": "Prophets",
+    "question": "Which prophet was fed by ravens during a drought?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verse": "6"
+    },
+    "explanation": "God commanded ravens to bring bread and meat to Elijah at the Brook Cherith during the drought.",
+    "verses": {
+      "kjv": "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook."
+    }
+  },
+  {
+    "id": "PRO-E-0017",
+    "theme": "Prophets",
+    "question": "Which prophet was fed by ravens at the Brook Cherith?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verse": "6"
+    },
+    "explanation": "The ravens brought him bread and meat in the morning and bread and meat in the evening, and he drank from the brook.",
+    "verses": {
+      "kjv": "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook."
+    }
+  },
+  {
+    "id": "PRO-E-0018",
+    "theme": "Prophets",
+    "question": "Which prophet was thrown into a lion's den?",
+    "choices": [
+      "Daniel",
+      "Jeremiah",
+      "Ezekiel",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 6,
+      "verse": "16"
+    },
+    "explanation": "So the king gave the order, and they brought Daniel and threw him into the lions' den.",
+    "verses": {
+      "kjv": "Then the king commanded, and they brought Daniel, and cast\nhim\n into the den of lions.\nNow the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee."
+    }
+  },
+  {
+    "id": "PRO-E-0019",
+    "theme": "Prophets",
+    "question": "Which prophet said 'Here am I. Send me!' when God asked whom to send?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Samuel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": "8"
+    },
+    "explanation": "Then I heard the voice of the Lord saying, 'Whom shall I send?' And I said, 'Here am I. Send me!'",
+    "verses": {
+      "kjv": "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here\nam I; send me."
+    }
+  },
+  {
+    "id": "PRO-E-0020",
+    "theme": "Prophets",
+    "question": "Which prophet prophesied that a virgin would conceive?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Micah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 7,
+      "verse": "14"
+    },
+    "explanation": "Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel.",
+    "verses": {
+      "kjv": "Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel."
+    }
+  },
+  {
+    "id": "PRO-E-0021",
+    "theme": "Prophets",
+    "question": "What does the name Immanuel mean?",
+    "choices": [
+      "God with us",
+      "God saves",
+      "God is great",
+      "God is holy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 7,
+      "verse": "14"
+    },
+    "explanation": "The virgin will conceive and give birth to a son, and will call him Immanuel (which means 'God with us').",
+    "verses": {
+      "kjv": "Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel."
+    }
+  },
+  {
+    "id": "PRO-E-0022",
+    "theme": "Prophets",
+    "question": "Which prophet saw a vision of a valley of dry bones?",
+    "choices": [
+      "Ezekiel",
+      "Daniel",
+      "Jeremiah",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 37,
+      "verse": "1-2"
+    },
+    "explanation": "The hand of the Lord was on me, and he brought me out by the Spirit of the Lord and set me in the middle of a valley; it was full of bones.",
+    "verses": {
+      "kjv": "The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which\nwas full of bones,\nAnd caused me to pass by them round about: and, behold,\nthere were\n very many in the open valley; and, lo,\nthey were very dry."
+    }
+  },
+  {
+    "id": "PRO-E-0023",
+    "theme": "Prophets",
+    "question": "Which prophet anointed Saul as the first king of Israel?",
+    "choices": [
+      "Samuel",
+      "Nathan",
+      "Elijah",
+      "Elisha"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "verse": "1"
+    },
+    "explanation": "Samuel took a flask of oil and poured it on Saul's head and kissed him, saying the Lord has anointed you leader over his inheritance.",
+    "verses": {
+      "kjv": "Then Samuel took a vial of oil, and poured\nit upon his head, and kissed him, and said,\nIs it not because the LORD hath anointed thee\nto be captain over his inheritance?"
+    }
+  },
+  {
+    "question": "Which prophet was commanded by the LORD to marry a wife of whoredoms?",
+    "choices": [
+      "Hosea",
+      "Amos",
+      "Micah",
+      "Zechariah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Hosea",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "The LORD told Hosea to take a wife of whoredoms as a sign to Israel.",
+    "verses": {
+      "kjv": "The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD."
+    },
+    "id": "PRO-E-0024",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet was told to take a wife of whoredoms and children of whoredoms?",
+    "choices": [
+      "Hosea",
+      "Jeremiah",
+      "Ezekiel",
+      "Malachi"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Hosea",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "Hosea was commanded by the LORD to take a wife of whoredoms and children of whoredoms.",
+    "verses": {
+      "kjv": "The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD."
+    },
+    "id": "PRO-E-0025",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet saw a wheel in the middle of a wheel in a vision?",
+    "choices": [
+      "Ezekiel",
+      "Daniel",
+      "Habakkuk",
+      "Haggai"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verse": "16"
+    },
+    "explanation": "Ezekiel describes the appearance of the wheels as a wheel in the middle of a wheel.",
+    "verses": {
+      "kjv": "The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel."
+    },
+    "id": "PRO-E-0026",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet was taken up by a whirlwind into heaven?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 2,
+      "verse": "11"
+    },
+    "explanation": "Elijah went up by a whirlwind into heaven while Elisha watched.",
+    "verses": {
+      "kjv": "And it came to pass, as they still went on, and talked, that, behold, there appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven."
+    },
+    "id": "PRO-E-0027",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet asked the LORD for a double portion of another prophet's spirit?",
+    "choices": [
+      "Elisha",
+      "Elijah",
+      "Samuel",
+      "Nathan"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 2,
+      "verse": "9"
+    },
+    "explanation": "Elisha asked Elijah for a double portion of his spirit.",
+    "verses": {
+      "kjv": "And it came to pass, when they were gone over, that Elijah said unto Elisha, Ask what I shall do for thee, before I be taken away from thee. And Elisha said, I pray thee, let a double portion of thy spirit be upon me."
+    },
+    "id": "PRO-E-0028",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet was told to write the vision and make it plain upon tables?",
+    "choices": [
+      "Habakkuk",
+      "Zephaniah",
+      "Amos",
+      "Micah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Habakkuk",
+      "chapter": 2,
+      "verse": "2"
+    },
+    "explanation": "The LORD answered Habakkuk and told him to write the vision plainly.",
+    "verses": {
+      "kjv": "And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it."
+    },
+    "id": "PRO-E-0029",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet said, \"The just shall live by his faith\"?",
+    "choices": [
+      "Habakkuk",
+      "Hosea",
+      "Joel",
+      "Malachi"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Habakkuk",
+      "chapter": 2,
+      "verse": "4"
+    },
+    "explanation": "Habakkuk says the just shall live by his faith.",
+    "verses": {
+      "kjv": "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith."
+    },
+    "id": "PRO-E-0030",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet was instructed to eat a roll (scroll) that was given to him?",
+    "choices": [
+      "Ezekiel",
+      "Daniel",
+      "Jonah",
+      "Micah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 3,
+      "verse": "1"
+    },
+    "explanation": "God told Ezekiel to eat the roll and then speak to the house of Israel.",
+    "verses": {
+      "kjv": "Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel."
+    },
+    "id": "PRO-E-0031",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet said, \"As the LORD liveth, before whom I stand\"?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Isaiah",
+      "Ezekiel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verse": "1"
+    },
+    "explanation": "Elijah spoke these words to Ahab when declaring there would be no rain except by his word.",
+    "verses": {
+      "kjv": "And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word."
+    },
+    "id": "PRO-E-0032",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet called down fire from the LORD to consume the burnt sacrifice on Mount Carmel?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verse": "38"
+    },
+    "explanation": "The LORD answered Elijah by fire, consuming the sacrifice and even the water in the trench.",
+    "verses": {
+      "kjv": "Then the fire of the LORD fell, and consumed the burnt sacrifice, and the wood, and the stones, and the dust, and licked up the water that was in the trench."
+    },
+    "id": "PRO-E-0033",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet was told to hide by the brook Cherith during the drought?",
+    "choices": [
+      "Elijah",
+      "Elisha",
+      "Amos",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verse": "3"
+    },
+    "explanation": "The LORD commanded Elijah to hide by the brook Cherith.",
+    "verses": {
+      "kjv": "Get thee hence, and turn thee eastward, and hide thyself by the brook Cherith, that is before Jordan."
+    },
+    "id": "PRO-E-0034",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet was told by the LORD, \"Before I formed thee in the belly I knew thee\"?",
+    "choices": [
+      "Jeremiah",
+      "Isaiah",
+      "Ezekiel",
+      "Daniel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 1,
+      "verse": "5"
+    },
+    "explanation": "The LORD told Jeremiah He knew and sanctified him before he was born.",
+    "verses": {
+      "kjv": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations."
+    },
+    "id": "PRO-E-0035",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet was told, \"I have put my words in thy mouth\"?",
+    "choices": [
+      "Jeremiah",
+      "Isaiah",
+      "Hosea",
+      "Jonah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 1,
+      "verse": "9"
+    },
+    "explanation": "God touched Jeremiah's mouth and said He had put His words in Jeremiah's mouth.",
+    "verses": {
+      "kjv": "Then the LORD put forth his hand, and touched my mouth. And the LORD said unto me, Behold, I have put my words in thy mouth."
+    },
+    "id": "PRO-E-0036",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet saw the LORD sitting upon a throne, high and lifted up?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": "1"
+    },
+    "explanation": "Isaiah records seeing the Lord upon a throne, high and lifted up.",
+    "verses": {
+      "kjv": "In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple."
+    },
+    "id": "PRO-E-0037",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet said, \"Here am I; send me\"?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Daniel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": "8"
+    },
+    "explanation": "Isaiah volunteered when the Lord asked who would go for Him.",
+    "verses": {
+      "kjv": "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me."
+    },
+    "id": "PRO-E-0038",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet saw a vision of a flying roll?",
+    "choices": [
+      "Zechariah",
+      "Haggai",
+      "Malachi",
+      "Obadiah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Zechariah",
+      "chapter": 5,
+      "verse": "1"
+    },
+    "explanation": "Zechariah says he looked and saw a flying roll.",
+    "verses": {
+      "kjv": "Then I turned, and lifted up mine eyes, and looked, and behold a flying roll."
+    },
+    "id": "PRO-E-0039",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet saw a vision of four chariots coming from between two mountains?",
+    "choices": [
+      "Zechariah",
+      "Ezekiel",
+      "Daniel",
+      "Micah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Zechariah",
+      "chapter": 6,
+      "verse": "1"
+    },
+    "explanation": "Zechariah describes seeing four chariots coming from between two mountains of brass.",
+    "verses": {
+      "kjv": "And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains were mountains of brass."
+    },
+    "id": "PRO-E-0040",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet said, \"He hath shewed thee, O man, what is good\"?",
+    "choices": [
+      "Micah",
+      "Amos",
+      "Joel",
+      "Obadiah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Micah",
+      "chapter": 6,
+      "verse": "8"
+    },
+    "explanation": "Micah 6:8 says God has shown what is good and what He requires.",
+    "verses": {
+      "kjv": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?"
+    },
+    "id": "PRO-E-0041",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet wrote that the LORD requires us to do justly, love mercy, and walk humbly with God?",
+    "choices": [
+      "Micah",
+      "Hosea",
+      "Zephaniah",
+      "Malachi"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Micah",
+      "chapter": 6,
+      "verse": "8"
+    },
+    "explanation": "Micah states these requirements directly in Micah 6:8.",
+    "verses": {
+      "kjv": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?"
+    },
+    "id": "PRO-E-0042",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet said, \"Let justice run down as waters\"?",
+    "choices": [
+      "Amos",
+      "Isaiah",
+      "Jeremiah",
+      "Daniel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Amos",
+      "chapter": 5,
+      "verse": "24"
+    },
+    "explanation": "Amos called for justice and righteousness, using this vivid phrase.",
+    "verses": {
+      "kjv": "But let judgment run down as waters, and righteousness as a mighty stream."
+    },
+    "id": "PRO-E-0043",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet wrote, \"But let judgment run down as waters\"?",
+    "choices": [
+      "Amos",
+      "Hosea",
+      "Joel",
+      "Micah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Amos",
+      "chapter": 5,
+      "verse": "24"
+    },
+    "explanation": "Amos 5:24 contains this call for judgment and righteousness.",
+    "verses": {
+      "kjv": "But let judgment run down as waters, and righteousness as a mighty stream."
+    },
+    "id": "PRO-E-0044",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet said, \"The LORD is in his holy temple\"?",
+    "choices": [
+      "Habakkuk",
+      "Amos",
+      "Obadiah",
+      "Nahum"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Habakkuk",
+      "chapter": 2,
+      "verse": "20"
+    },
+    "explanation": "Habakkuk declares that the LORD is in His holy temple and all the earth should keep silence before Him.",
+    "verses": {
+      "kjv": "But the LORD is in his holy temple: let all the earth keep silence before him."
+    },
+    "id": "PRO-E-0045",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet said, \"Though it tarry, wait for it\" about the vision?",
+    "choices": [
+      "Habakkuk",
+      "Haggai",
+      "Zechariah",
+      "Joel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Habakkuk",
+      "chapter": 2,
+      "verse": "3"
+    },
+    "explanation": "Habakkuk writes that the vision is for an appointed time and instructs to wait for it if it seems to tarry.",
+    "verses": {
+      "kjv": "For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry."
+    },
+    "id": "PRO-E-0046",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet said, \"They that wait upon the LORD shall renew their strength\"?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Daniel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 40,
+      "verse": "31"
+    },
+    "explanation": "Isaiah promises renewed strength to those who wait upon the LORD.",
+    "verses": {
+      "kjv": "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint."
+    },
+    "id": "PRO-E-0047",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet compared the word of the LORD to a fire and a hammer?",
+    "choices": [
+      "Jeremiah",
+      "Isaiah",
+      "Ezekiel",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 23,
+      "verse": "29"
+    },
+    "explanation": "Jeremiah records God saying His word is like fire and like a hammer that breaks rock.",
+    "verses": {
+      "kjv": "Is not my word like as a fire? saith the LORD; and like a hammer that breaketh the rock in pieces?"
+    },
+    "id": "PRO-E-0048",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which prophet said, \"The heart is deceitful above all things\"?",
+    "choices": [
+      "Jeremiah",
+      "Isaiah",
+      "Daniel",
+      "Micah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 17,
+      "verse": "9"
+    },
+    "explanation": "Jeremiah 17:9 says the heart is deceitful above all things and desperately wicked.",
+    "verses": {
+      "kjv": "The heart is deceitful above all things, and desperately wicked: who can know it?"
+    },
+    "id": "PRO-E-0049",
+    "theme": "Prophets",
+    "difficulty": "easy"
+  }
+]

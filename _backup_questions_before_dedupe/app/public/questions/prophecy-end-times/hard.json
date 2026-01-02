@@ -1,0 +1,398 @@
+[
+  {
+    "id": "END-H-0001",
+    "theme": "Prophecy & End Times",
+    "question": "In Daniel's vision, what did the statue's feet made of iron and clay represent?",
+    "choices": [
+      "A divided kingdom",
+      "Rome",
+      "Future nations",
+      "The final empire"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 2,
+      "verse": "41-43"
+    },
+    "explanation": "The feet of iron mixed with clay represent a divided kingdom, partly strong and partly brittle.",
+    "verses": {
+      "kjv": "And whereas thou sawest the feet and toes, part of potters’ clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.\nAnd\nas the toes of the feet\nwere part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken.\nAnd whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay."
+    }
+  },
+  {
+    "id": "END-H-0002",
+    "theme": "Prophecy & End Times",
+    "question": "In Daniel's vision, which animal represented the Medo-Persian empire?",
+    "choices": [
+      "A bear",
+      "A lion",
+      "A leopard",
+      "A goat"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 7,
+      "verse": "5"
+    },
+    "explanation": "The bear with three ribs in its mouth represented the Medo-Persian empire in Daniel's vision.",
+    "verses": {
+      "kjv": "And behold another beast, a second, like to a bear, and it raised up itself on one side, and\nit had three ribs in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh."
+    }
+  },
+  {
+    "id": "END-H-0003",
+    "theme": "Prophecy & End Times",
+    "question": "Who are the two witnesses in Revelation?",
+    "choices": [
+      "Not specifically named",
+      "Moses and Elijah",
+      "Enoch and Elijah",
+      "Peter and Paul"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 11,
+      "verse": "3"
+    },
+    "explanation": "The Bible describes two witnesses but doesn't name them, though they have powers similar to Moses and Elijah.",
+    "verses": {
+      "kjv": "And I will give\npower unto my two witnesses, and they shall prophesy a thousand two hundred\nand threescore days, clothed in sackcloth."
+    }
+  },
+  {
+    "id": "END-H-0004",
+    "theme": "Prophecy & End Times",
+    "question": "According to Zechariah, what will come from the Mount of Olives?",
+    "choices": [
+      "The Lord will stand on it and it will split",
+      "Fire will descend",
+      "Water will flow",
+      "Angels will appear"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Zechariah",
+      "chapter": 14,
+      "verse": "4"
+    },
+    "explanation": "On that day his feet will stand on the Mount of Olives, and it will be split in two from east to west.",
+    "verses": {
+      "kjv": "And his feet shall stand in that day upon the mount of Olives, which\nis before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west,\nand there shall be a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south."
+    }
+  },
+  {
+    "id": "END-H-0005",
+    "theme": "Prophecy & End Times",
+    "question": "What is the last word in the book of Revelation?",
+    "choices": [
+      "Amen",
+      "Jesus",
+      "Come",
+      "Forever"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 22,
+      "verse": "21"
+    },
+    "explanation": "The grace of the Lord Jesus be with God's people. Amen.",
+    "verses": {
+      "kjv": "The grace of our Lord Jesus Christ\nbe with you all. Amen."
+    }
+  },
+  {
+    "id": "END-H-0006",
+    "theme": "Prophecy & End Times",
+    "question": "Who will Jesus destroy with the breath of His mouth?",
+    "choices": [
+      "The lawless one",
+      "The beast",
+      "Satan",
+      "Death"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "2 Thessalonians",
+      "chapter": 2,
+      "verse": "8"
+    },
+    "explanation": "The Lord Jesus will overthrow the lawless one with the breath of his mouth and destroy by the splendor of his coming.",
+    "verses": {
+      "kjv": "And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:"
+    }
+  },
+  {
+    "id": "END-H-0007",
+    "theme": "Prophecy & End Times",
+    "question": "According to Daniel, how many times will the Antichrist break his covenant?",
+    "choices": [
+      "In the middle of the 'seven'",
+      "At the beginning",
+      "At the end",
+      "Never"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 9,
+      "verse": "27"
+    },
+    "explanation": "In the middle of the 'seven' he will put an end to sacrifice and offering.",
+    "verses": {
+      "kjv": "And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make\nit desolate, even until the consummation, and that determined shall be poured upon the desolate."
+    }
+  },
+  {
+    "id": "END-H-0008",
+    "theme": "Prophecy & End Times",
+    "question": "What are the two witnesses in Revelation clothed in?",
+    "choices": [
+      "Sackcloth",
+      "White robes",
+      "Purple",
+      "Scarlet"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 11,
+      "verse": "3"
+    },
+    "explanation": "I will appoint my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.",
+    "verses": {
+      "kjv": "And I will give\npower unto my two witnesses, and they shall prophesy a thousand two hundred\nand threescore days, clothed in sackcloth."
+    }
+  },
+  {
+    "id": "END-H-0009",
+    "theme": "Prophecy & End Times",
+    "question": "What city is called 'Babylon the Great' in Revelation?",
+    "choices": [
+      "A symbolic city representing evil",
+      "Literal Babylon",
+      "Rome",
+      "Jerusalem"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 17,
+      "verse": "5"
+    },
+    "explanation": "The name written on her forehead was a mystery: BABYLON THE GREAT THE MOTHER OF PROSTITUTES.",
+    "verses": {
+      "kjv": "And upon her forehead\nwas a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH."
+    }
+  },
+  {
+    "id": "END-H-0010",
+    "theme": "Prophecy & End Times",
+    "question": "What are believers called in Revelation who have washed their robes?",
+    "choices": [
+      "Those who made them white in the blood of the Lamb",
+      "Saints",
+      "The redeemed",
+      "The chosen"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 7,
+      "verse": "14"
+    },
+    "explanation": "These are they who have come out of the great tribulation and washed their robes white in the blood of the Lamb.",
+    "verses": {
+      "kjv": "And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb."
+    }
+  },
+  {
+    "id": "END-H-0011",
+    "theme": "Prophecy & End Times",
+    "question": "How long will the two witnesses prophesy in Revelation?",
+    "choices": [
+      "1,260 days",
+      "3 and a half years",
+      "1,000 days",
+      "7 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 11,
+      "verse": "3"
+    },
+    "explanation": "I will appoint my two witnesses, and they will prophesy for 1,260 days.",
+    "verses": {
+      "kjv": "And I will give\npower unto my two witnesses, and they shall prophesy a thousand two hundred\nand threescore days, clothed in sackcloth."
+    }
+  },
+  {
+    "id": "END-H-0012",
+    "theme": "Prophecy & End Times",
+    "question": "What does the seventh trumpet announce?",
+    "choices": [
+      "The kingdom of God has come",
+      "The end of the world",
+      "Final judgment",
+      "Christ's return"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 11,
+      "verse": "15"
+    },
+    "explanation": "The seventh angel sounded his trumpet, and there were loud voices in heaven, which said: 'The kingdom of the world has become the kingdom of our Lord.'",
+    "verses": {
+      "kjv": "And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become\nthe kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever."
+    }
+  },
+  {
+    "id": "END-H-0013",
+    "theme": "Prophecy & End Times",
+    "question": "What happens to the sea when the second trumpet is sounded?",
+    "choices": [
+      "A third of it turns to blood",
+      "It dries up",
+      "It becomes bitter",
+      "It freezes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 8,
+      "verse": "8"
+    },
+    "explanation": "The second angel sounded his trumpet, and something like a huge mountain, all ablaze, was thrown into the sea. A third of the sea turned into blood.",
+    "verses": {
+      "kjv": "And the second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood;"
+    }
+  },
+  {
+    "id": "END-H-0014",
+    "theme": "Prophecy & End Times",
+    "question": "What follows the rider on the pale horse?",
+    "choices": [
+      "Hades",
+      "Death",
+      "War",
+      "Famine"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 6,
+      "verse": "8"
+    },
+    "explanation": "I looked, and there before me was a pale horse! Its rider was named Death, and Hades was following close behind him.",
+    "verses": {
+      "kjv": "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth."
+    }
+  },
+  {
+    "id": "END-H-0015",
+    "theme": "Prophecy & End Times",
+    "question": "Which church did Jesus say He would spit out of His mouth?",
+    "choices": [
+      "Laodicea",
+      "Ephesus",
+      "Sardis",
+      "Thyatira"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 3,
+      "verse": "16"
+    },
+    "explanation": "So, because you are lukewarm—neither hot nor cold—I am about to spit you out of my mouth.",
+    "verses": {
+      "kjv": "So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth."
+    }
+  },
+  {
+    "id": "END-H-0016",
+    "theme": "Prophecy & End Times",
+    "question": "Which church left its first love?",
+    "choices": [
+      "Ephesus",
+      "Smyrna",
+      "Pergamum",
+      "Laodicea"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 2,
+      "verse": "4"
+    },
+    "explanation": "Yet I hold this against you: You have forsaken the love you had at first.",
+    "verses": {
+      "kjv": "Nevertheless I have\nsomewhat against thee, because thou hast left thy first love."
+    }
+  },
+  {
+    "id": "END-H-0017",
+    "theme": "Prophecy & End Times",
+    "question": "What is the name of the place where kings gather for battle in Revelation?",
+    "choices": [
+      "Armageddon",
+      "Megiddo",
+      "Babylon",
+      "Gog"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Revelation",
+      "chapter": 16,
+      "verse": "16"
+    },
+    "explanation": "Then they gathered the kings together to the place that in Hebrew is called Armageddon.",
+    "verses": {
+      "kjv": "And he gathered them together into a place called in the Hebrew tongue Armageddon."
+    }
+  },
+  {
+    "question": "In Zechariah's vision, how many horns scattered Judah, Israel, and Jerusalem?",
+    "choices": [
+      "Four horns",
+      "Seven horns",
+      "Ten horns",
+      "Two horns"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Zechariah",
+      "chapter": 1,
+      "verse": "18-19"
+    },
+    "explanation": "Zechariah saw four horns which had scattered Judah, Israel, and Jerusalem.",
+    "verses": {
+      "kjv": "Then lifted I up mine eyes, and saw, and behold four horns. And I said unto the angel that talked with me, What be these? And he answered me, These are the horns which have scattered Judah, Israel, and Jerusalem."
+    },
+    "id": "END-H-0018",
+    "theme": "Prophecy & End Times",
+    "difficulty": "hard"
+  }
+]

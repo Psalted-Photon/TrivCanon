@@ -1,0 +1,1080 @@
+[
+  {
+    "id": "WIS-H-0001",
+    "theme": "Wisdom & Psalms",
+    "question": "What kind of person does Proverbs say is a companion of fools?",
+    "choices": [
+      "Someone who suffers harm",
+      "Someone who is blessed",
+      "Someone who is wise",
+      "Someone who is wealthy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 13,
+      "verse": "20"
+    },
+    "explanation": "Walk with the wise and become wise, for a companion of fools suffers harm.",
+    "verses": {
+      "kjv": "He that walketh with wise\nmen shall be wise: but a companion of fools shall be destroyed."
+    }
+  },
+  {
+    "id": "WIS-H-0002",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Ecclesiastes, what is better than the day of birth?",
+    "choices": [
+      "The day of death",
+      "The day of marriage",
+      "The day of rest",
+      "The day of celebration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "verse": "1"
+    },
+    "explanation": "A good name is better than fine perfume, and the day of death better than the day of birth.",
+    "verses": {
+      "kjv": "A good name\nis better than precious ointment; and the day of death than the day of one’s birth."
+    }
+  },
+  {
+    "id": "WIS-H-0003",
+    "theme": "Wisdom & Psalms",
+    "question": "In Job, who said 'The Lord gave, and the Lord hath taken away'?",
+    "choices": [
+      "Job",
+      "Eliphaz",
+      "Bildad",
+      "Elihu"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Job",
+      "chapter": 1,
+      "verse": "21"
+    },
+    "explanation": "Job said, 'Naked came I out of my mother's womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away; blessed be the name of the Lord.'",
+    "verses": {
+      "kjv": "And said, Naked came I out of my mother’s womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD."
+    }
+  },
+  {
+    "id": "WIS-H-0004",
+    "theme": "Wisdom & Psalms",
+    "question": "Which psalm is known as the 'Shepherd Psalm'?",
+    "choices": [
+      "Psalm 23",
+      "Psalm 100",
+      "Psalm 1",
+      "Psalm 51"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Psalm",
+      "chapter": 23,
+      "verse": "1"
+    },
+    "explanation": "Psalm 23 begins 'The Lord is my shepherd; I shall not want' and is one of the most beloved psalms.",
+    "verses": {
+      "kjv": "The LORD\nis my shepherd; I shall not want."
+    }
+  },
+  {
+    "id": "WIS-H-0005",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what kind of words are like apples of gold in pictures of silver?",
+    "choices": [
+      "A word fitly spoken",
+      "Kind words",
+      "True words",
+      "Wise words"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 25,
+      "verse": "11"
+    },
+    "explanation": "A word fitly spoken is like apples of gold in pictures of silver.",
+    "verses": {
+      "kjv": "A word fitly spoken\nis like apples of gold in pictures of silver."
+    }
+  },
+  {
+    "id": "WIS-H-0006",
+    "theme": "Wisdom & Psalms",
+    "question": "Which book of wisdom literature questions the justice of God's ways?",
+    "choices": [
+      "Job",
+      "Ecclesiastes",
+      "Proverbs",
+      "Song of Solomon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Job",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "The book of Job explores the problem of suffering and questions why the righteous suffer.",
+    "verses": {
+      "kjv": "There was a man in the land of Uz, whose name\nwas Job; and that man was perfect and upright, and one that feared God, and eschewed evil."
+    }
+  },
+  {
+    "id": "WIS-H-0007",
+    "theme": "Wisdom & Psalms",
+    "question": "How many proverbs did Solomon speak according to 1 Kings?",
+    "choices": [
+      "3,000",
+      "1,000",
+      "5,000",
+      "10,000"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verse": "32"
+    },
+    "explanation": "And he spake three thousand proverbs: and his songs were a thousand and five.",
+    "verses": {
+      "kjv": "And he spake three thousand proverbs: and his songs were a thousand and five."
+    }
+  },
+  {
+    "id": "WIS-H-0008",
+    "theme": "Wisdom & Psalms",
+    "question": "What does Ecclesiastes say is vanity of vanities?",
+    "choices": [
+      "All is vanity",
+      "Riches",
+      "Youth",
+      "Wisdom"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.",
+    "verses": {
+      "kjv": "Vanity of vanities, saith the Preacher, vanity of vanities; all\nis vanity."
+    }
+  },
+  {
+    "id": "WIS-H-0009",
+    "theme": "Wisdom & Psalms",
+    "question": "In Proverbs, what does a foolish son bring to his mother?",
+    "choices": [
+      "Heaviness",
+      "Shame",
+      "Grief",
+      "Anger"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 10,
+      "verse": "1"
+    },
+    "explanation": "A wise son maketh a glad father: but a foolish son is the heaviness of his mother.",
+    "verses": {
+      "kjv": "The proverbs of Solomon. A wise son maketh a glad father: but a foolish son\nis the heaviness of his mother."
+    }
+  },
+  {
+    "id": "WIS-H-0010",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Psalm 90, what is the span of our years?",
+    "choices": [
+      "Threescore years and ten",
+      "Fourscore years",
+      "Fifty years",
+      "One hundred years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Psalm",
+      "chapter": 90,
+      "verse": "10"
+    },
+    "explanation": "The days of our years are threescore years and ten; and if by reason of strength they be fourscore years.",
+    "verses": {
+      "kjv": "The days of our years\nare threescore years and ten; and if by reason of strength\nthey be fourscore years, yet\nis their strength labour and sorrow; for it is soon cut off, and we fly away."
+    }
+  },
+  {
+    "id": "WIS-H-0011",
+    "theme": "Wisdom & Psalms",
+    "question": "Which psalm begins 'Make a joyful noise unto the Lord'?",
+    "choices": [
+      "Psalm 100",
+      "Psalm 95",
+      "Psalm 98",
+      "Psalm 150"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Psalm",
+      "chapter": 100,
+      "verse": "1"
+    },
+    "explanation": "Make a joyful noise unto the Lord, all ye lands.",
+    "verses": {
+      "kjv": "Make a joyful noise unto the LORD, all ye lands."
+    }
+  },
+  {
+    "id": "WIS-H-0012",
+    "theme": "Wisdom & Psalms",
+    "question": "In Job, what was the name of Job's oldest daughter?",
+    "choices": [
+      "Jemima",
+      "Kezia",
+      "Keren-happuch",
+      "Dinah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Job",
+      "chapter": 42,
+      "verse": "14"
+    },
+    "explanation": "And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Keren-happuch.",
+    "verses": {
+      "kjv": "And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Keren-happuch."
+    }
+  },
+  {
+    "id": "WIS-H-0013",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, the heart of the wise teaches what?",
+    "choices": [
+      "His mouth",
+      "His hands",
+      "His feet",
+      "His eyes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 16,
+      "verse": "23"
+    },
+    "explanation": "The heart of the wise teacheth his mouth, and addeth learning to his lips.",
+    "verses": {
+      "kjv": "The heart of the wise teacheth his mouth, and addeth learning to his lips."
+    }
+  },
+  {
+    "id": "WIS-H-0014",
+    "theme": "Wisdom & Psalms",
+    "question": "Which psalm is Moses's prayer?",
+    "choices": [
+      "Psalm 90",
+      "Psalm 1",
+      "Psalm 23",
+      "Psalm 51"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Psalm",
+      "chapter": 90,
+      "verse": "1"
+    },
+    "explanation": "Psalm 90 is titled 'A Prayer of Moses the man of God.'",
+    "verses": {
+      "kjv": "LORD, thou hast been our dwelling place in all generations."
+    }
+  },
+  {
+    "id": "WIS-H-0015",
+    "theme": "Wisdom & Psalms",
+    "question": "In Song of Solomon, what is the beloved compared to among the daughters?",
+    "choices": [
+      "A lily among thorns",
+      "A rose of Sharon",
+      "A dove",
+      "A fountain"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "verse": "2"
+    },
+    "explanation": "As the lily among thorns, so is my love among the daughters.",
+    "verses": {
+      "kjv": "As the lily among thorns, so\nis my love among the daughters."
+    }
+  },
+  {
+    "id": "WIS-H-0016",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Ecclesiastes, what has God set in man's heart?",
+    "choices": [
+      "Eternity",
+      "Love",
+      "Wisdom",
+      "Fear"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "verse": "11"
+    },
+    "explanation": "He hath made every thing beautiful in his time: also he hath set the world (eternity) in their heart.",
+    "verses": {
+      "kjv": "He hath made every\nthing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end."
+    }
+  },
+  {
+    "id": "WIS-H-0017",
+    "theme": "Wisdom & Psalms",
+    "question": "In Proverbs, a false balance is what to the Lord?",
+    "choices": [
+      "Abomination",
+      "Sin",
+      "Evil",
+      "Wickedness"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verse": "1"
+    },
+    "explanation": "A false balance is abomination to the Lord: but a just weight is his delight.",
+    "verses": {
+      "kjv": "A false balance\nis abomination to the LORD: but a just weight\nis his delight."
+    }
+  },
+  {
+    "id": "WIS-H-0018",
+    "theme": "Wisdom & Psalms",
+    "question": "Which psalm contains the verse 'Deep calleth unto deep'?",
+    "choices": [
+      "Psalm 42",
+      "Psalm 23",
+      "Psalm 51",
+      "Psalm 119"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Psalm",
+      "chapter": 42,
+      "verse": "7"
+    },
+    "explanation": "Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.",
+    "verses": {
+      "kjv": "Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me."
+    }
+  },
+  {
+    "id": "WIS-H-0019",
+    "theme": "Wisdom & Psalms",
+    "question": "How many friends came to comfort Job?",
+    "choices": [
+      "Three",
+      "Four",
+      "Five",
+      "Seven"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Job",
+      "chapter": 2,
+      "verse": "11"
+    },
+    "explanation": "Now when Job's three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite.",
+    "verses": {
+      "kjv": "Now when Job’s three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him."
+    }
+  },
+  {
+    "id": "WIS-H-0020",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, pride goes before what?",
+    "choices": [
+      "Destruction",
+      "A fall",
+      "Shame",
+      "Dishonor"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 16,
+      "verse": "18"
+    },
+    "explanation": "Pride goeth before destruction, and an haughty spirit before a fall.",
+    "verses": {
+      "kjv": "Pride\ngoeth before destruction, and an haughty spirit before a fall."
+    }
+  },
+  {
+    "id": "WIS-H-0021",
+    "theme": "Wisdom & Psalms",
+    "question": "In Ecclesiastes, what does the Teacher say is meaningless?",
+    "choices": [
+      "Everything",
+      "Wisdom",
+      "Work",
+      "Pleasure"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "Meaningless! Meaningless! says the Teacher. Utterly meaningless! Everything is meaningless.",
+    "verses": {
+      "kjv": "Vanity of vanities, saith the Preacher, vanity of vanities; all\nis vanity."
+    }
+  },
+  {
+    "id": "WIS-H-0022",
+    "theme": "Wisdom & Psalms",
+    "question": "Who wrote most of the Proverbs?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Moses",
+      "Agur"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "The proverbs of Solomon son of David, king of Israel. Solomon wrote most of the book of Proverbs.",
+    "verses": {
+      "kjv": "The proverbs of Solomon the son of David, king of Israel;"
+    }
+  },
+  {
+    "id": "WIS-H-0023",
+    "theme": "Wisdom & Psalms",
+    "question": "In Ecclesiastes, there is a time to be born and a time to what?",
+    "choices": [
+      "Die",
+      "Live",
+      "Weep",
+      "Laugh"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "verse": "2"
+    },
+    "explanation": "A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted.",
+    "verses": {
+      "kjv": "A time to be born, and a time to die; a time to plant, and a time to pluck up\nthat which is planted;"
+    }
+  },
+  {
+    "id": "WIS-H-0024",
+    "theme": "Wisdom & Psalms",
+    "question": "Which psalm is David's psalm of repentance after his sin with Bathsheba?",
+    "choices": [
+      "Psalm 51",
+      "Psalm 32",
+      "Psalm 38",
+      "Psalm 6"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Psalm",
+      "chapter": 51,
+      "verse": "1"
+    },
+    "explanation": "Psalm 51 is titled 'A Psalm of David, when Nathan the prophet came unto him, after he had gone in to Bathsheba.'",
+    "verses": {
+      "kjv": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions."
+    }
+  },
+  {
+    "id": "WIS-H-0025",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what kind of rebuke is better than secret love?",
+    "choices": [
+      "Open rebuke",
+      "Gentle rebuke",
+      "Private rebuke",
+      "Harsh rebuke"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verse": "5"
+    },
+    "explanation": "Open rebuke is better than secret love.",
+    "verses": {
+      "kjv": "Open rebuke\nis better than secret love."
+    }
+  },
+  {
+    "id": "WIS-H-0026",
+    "theme": "Wisdom & Psalms",
+    "question": "In Job, what did God ask Job out of?",
+    "choices": [
+      "The whirlwind",
+      "The fire",
+      "The cloud",
+      "The thunder"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Job",
+      "chapter": 38,
+      "verse": "1"
+    },
+    "explanation": "Then the Lord answered Job out of the whirlwind, and said, Who is this that darkeneth counsel by words without knowledge?",
+    "verses": {
+      "kjv": "Then the LORD answered Job out of the whirlwind, and said,"
+    }
+  },
+  {
+    "id": "WIS-H-0027",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Psalm 137, by which rivers did they sit down and weep?",
+    "choices": [
+      "Babylon",
+      "Jordan",
+      "Nile",
+      "Euphrates"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Psalm",
+      "chapter": 137,
+      "verse": "1"
+    },
+    "explanation": "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.",
+    "verses": {
+      "kjv": "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion."
+    }
+  },
+  {
+    "id": "WIS-H-0028",
+    "theme": "Wisdom & Psalms",
+    "question": "In Proverbs, what does a soft answer turn away?",
+    "choices": [
+      "Wrath",
+      "Evil",
+      "Sin",
+      "Anger"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verse": "1"
+    },
+    "explanation": "A soft answer turneth away wrath: but grievous words stir up anger.",
+    "verses": {
+      "kjv": "A soft answer turneth away wrath: but grievous words stir up anger."
+    }
+  },
+  {
+    "id": "WIS-H-0029",
+    "theme": "Wisdom & Psalms",
+    "question": "Which psalm begins 'Bless the Lord, O my soul'?",
+    "choices": [
+      "Psalm 103",
+      "Psalm 100",
+      "Psalm 150",
+      "Psalm 23"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Psalm",
+      "chapter": 103,
+      "verse": "1"
+    },
+    "explanation": "Bless the Lord, O my soul: and all that is within me, bless his holy name.",
+    "verses": {
+      "kjv": "Bless the LORD, O my soul: and all that is within me,\nbless\n his holy name."
+    }
+  },
+  {
+    "id": "WIS-H-0030",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Ecclesiastes, what is there nothing new under?",
+    "choices": [
+      "The sun",
+      "The heavens",
+      "The earth",
+      "The moon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "verse": "9"
+    },
+    "explanation": "The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.",
+    "verses": {
+      "kjv": "The thing that hath been, it\nis that which shall be; and that which is done\nis that which shall be done: and\nthere is\n no new\nthing under the sun."
+    }
+  },
+  {
+    "id": "WIS-H-0031",
+    "theme": "Wisdom & Psalms",
+    "question": "In Job, how many sons did Job have before his trials?",
+    "choices": [
+      "Seven",
+      "Three",
+      "Ten",
+      "Twelve"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Job",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "And there were born unto him seven sons and three daughters.",
+    "verses": {
+      "kjv": "And there were born unto him seven sons and three daughters."
+    }
+  },
+  {
+    "id": "WIS-H-0032",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, the fear of the Lord is the beginning of what?",
+    "choices": [
+      "Knowledge",
+      "Wisdom",
+      "Understanding",
+      "Righteousness"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verse": "7"
+    },
+    "explanation": "The fear of the Lord is the beginning of knowledge: but fools despise wisdom and instruction.",
+    "verses": {
+      "kjv": "The fear of the LORD\nis the beginning of knowledge:\nbut\n fools despise wisdom and instruction."
+    }
+  },
+  {
+    "id": "WIS-H-0033",
+    "theme": "Wisdom & Psalms",
+    "question": "Which psalm contains 'The Lord reigneth; let the earth rejoice'?",
+    "choices": [
+      "Psalm 97",
+      "Psalm 95",
+      "Psalm 100",
+      "Psalm 150"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Psalm",
+      "chapter": 97,
+      "verse": "1"
+    },
+    "explanation": "The Lord reigneth; let the earth rejoice; let the multitude of isles be glad thereof.",
+    "verses": {
+      "kjv": "The LORD reigneth; let the earth rejoice; let the multitude of isles be glad\nthereof."
+    }
+  },
+  {
+    "id": "WIS-H-0034",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what kind of witness tells lies?",
+    "choices": [
+      "A false witness",
+      "An unfaithful witness",
+      "A wicked witness",
+      "A deceitful witness"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 14,
+      "verse": "5"
+    },
+    "explanation": "A faithful witness will not lie: but a false witness will utter lies.",
+    "verses": {
+      "kjv": "A faithful witness will not lie: but a false witness will utter lies."
+    }
+  },
+  {
+    "id": "WIS-H-0035",
+    "theme": "Wisdom & Psalms",
+    "question": "In Song of Solomon, where does the beloved say his love is like a roe or young hart?",
+    "choices": [
+      "Upon the mountains of Bether",
+      "In the valleys",
+      "By the fountains",
+      "In the gardens"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "verse": "17"
+    },
+    "explanation": "Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether.",
+    "verses": {
+      "kjv": "Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether."
+    }
+  },
+  {
+    "id": "WIS-H-0036",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Psalm 1, what is the blessed man like?",
+    "choices": [
+      "A tree planted by rivers of water",
+      "A strong tower",
+      "A solid rock",
+      "A mighty fortress"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Psalm",
+      "chapter": 1,
+      "verse": "3"
+    },
+    "explanation": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season.",
+    "verses": {
+      "kjv": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper."
+    }
+  },
+  {
+    "id": "WIS-H-0037",
+    "theme": "Wisdom & Psalms",
+    "question": "In Ecclesiastes, what did the Preacher say he hated?",
+    "choices": [
+      "Life",
+      "Death",
+      "Labor",
+      "Vanity"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "verse": "17"
+    },
+    "explanation": "Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit.",
+    "verses": {
+      "kjv": "Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all\nis vanity and vexation of spirit."
+    }
+  },
+  {
+    "id": "WIS-H-0038",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, what covers all sins?",
+    "choices": [
+      "Love",
+      "Faith",
+      "Grace",
+      "Mercy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 10,
+      "verse": "12"
+    },
+    "explanation": "Hatred stirreth up strifes: but love covereth all sins.",
+    "verses": {
+      "kjv": "Hatred stirreth up strifes: but love covereth all sins."
+    }
+  },
+  {
+    "id": "WIS-H-0039",
+    "theme": "Wisdom & Psalms",
+    "question": "Which psalm is the shortest psalm in the Bible?",
+    "choices": [
+      "Psalm 117",
+      "Psalm 23",
+      "Psalm 100",
+      "Psalm 150"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Psalm",
+      "chapter": 117,
+      "verse": "1"
+    },
+    "explanation": "Psalm 117 has only two verses, making it the shortest psalm and the shortest chapter in the Bible.",
+    "verses": {
+      "kjv": "O praise the LORD, all ye nations: praise him, all ye people."
+    }
+  },
+  {
+    "id": "WIS-H-0040",
+    "theme": "Wisdom & Psalms",
+    "question": "In Job, what creature did God describe as 'chief of the ways of God'?",
+    "choices": [
+      "Behemoth",
+      "Leviathan",
+      "Dragon",
+      "Lion"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Job",
+      "chapter": 40,
+      "verse": "19"
+    },
+    "explanation": "He is the chief of the ways of God: he that made him can make his sword to approach unto him.",
+    "verses": {
+      "kjv": "He\nis the chief of the ways of God: he that made him can make his sword to approach\nunto him."
+    }
+  },
+  {
+    "id": "WIS-H-0041",
+    "theme": "Wisdom & Psalms",
+    "question": "According to Proverbs, where does a virtuous woman's price exceed?",
+    "choices": [
+      "Rubies",
+      "Gold",
+      "Silver",
+      "Pearls"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 31,
+      "verse": "10"
+    },
+    "explanation": "Who can find a virtuous woman? for her price is far above rubies.",
+    "verses": {
+      "kjv": "Who can find a virtuous woman? for her price\nis far above rubies."
+    }
+  },
+  {
+    "question": "According to Ecclesiastes, what is \"vanity\" and \"vexation of spirit\"?",
+    "choices": [
+      "All is vanity",
+      "Only riches are vanity",
+      "Only youth is vanity",
+      "Only sorrow is vanity"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "verse": "14"
+    },
+    "explanation": "Ecclesiastes summarizes life \"under the sun\" as vanity and vexation of spirit.",
+    "verses": {
+      "kjv": "I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit."
+    },
+    "id": "WIS-H-0042",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Ecclesiastes, what is the duty of man?",
+    "choices": [
+      "Fear God, and keep his commandments",
+      "Gather great riches",
+      "Seek only pleasure",
+      "Travel to many lands"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "verse": "13"
+    },
+    "explanation": "Ecclesiastes concludes that man's duty is to fear God and keep His commandments.",
+    "verses": {
+      "kjv": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man."
+    },
+    "id": "WIS-H-0043",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Ecclesiastes, what comes to all?",
+    "choices": [
+      "One event",
+      "One treasure",
+      "One kingdom",
+      "One song"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "verse": "2"
+    },
+    "explanation": "Ecclesiastes says there is one event that happens to all, regardless of righteousness or wickedness.",
+    "verses": {
+      "kjv": "All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as is the good, so is the sinner; and he that sweareth, as he that feareth an oath."
+    },
+    "id": "WIS-H-0044",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Proverbs, what is \"better than great riches\"?",
+    "choices": [
+      "Loving favour",
+      "Many servants",
+      "A strong city",
+      "Fine clothing"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verse": "1"
+    },
+    "explanation": "Proverbs teaches that a good name and loving favour are better than riches.",
+    "verses": {
+      "kjv": "A good name is rather to be chosen than great riches, and loving favour rather than silver and gold."
+    },
+    "id": "WIS-H-0045",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Proverbs, what is better than silver and gold?",
+    "choices": [
+      "Loving favour",
+      "A guarded tongue",
+      "A swift horse",
+      "A full barn"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verse": "1"
+    },
+    "explanation": "Proverbs says loving favour is better than silver and gold.",
+    "verses": {
+      "kjv": "A good name is rather to be chosen than great riches, and loving favour rather than silver and gold."
+    },
+    "id": "WIS-H-0046",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Proverbs, what does \"iron sharpeneth\"?",
+    "choices": [
+      "Iron",
+      "Gold",
+      "Wood",
+      "Stone"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verse": "17"
+    },
+    "explanation": "Proverbs uses this as a picture of people sharpening one another.",
+    "verses": {
+      "kjv": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend."
+    },
+    "id": "WIS-H-0047",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Proverbs, who sharpens a man's countenance?",
+    "choices": [
+      "His friend",
+      "His enemy",
+      "His servant",
+      "His king"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verse": "17"
+    },
+    "explanation": "Proverbs says a man sharpens the countenance of his friend, like iron sharpening iron.",
+    "verses": {
+      "kjv": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend."
+    },
+    "id": "WIS-H-0048",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Proverbs, what is \"as dew\"?",
+    "choices": [
+      "The king's favour",
+      "A fool's laughter",
+      "A strong city",
+      "The wrath of a lion"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 19,
+      "verse": "12"
+    },
+    "explanation": "Proverbs compares the king's favour to dew upon the grass.",
+    "verses": {
+      "kjv": "The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass."
+    },
+    "id": "WIS-H-0049",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  }
+]

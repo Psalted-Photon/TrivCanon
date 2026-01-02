@@ -1,0 +1,1080 @@
+[
+  {
+    "id": "WOM-E-0001",
+    "theme": "Women of Faith",
+    "question": "Which woman became queen of Persia and saved the Jewish people from destruction?",
+    "choices": [
+      "Esther",
+      "Vashti",
+      "Ruth",
+      "Naomi"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Esther",
+      "chapter": 4,
+      "verse": "14"
+    },
+    "explanation": "Esther risked her life to approach the king and reveal Haman's plot to destroy the Jews.",
+    "verses": {
+      "kjv": "For if thou altogether holdest thy peace at this time,\nthen\n shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father’s house shall be destroyed: and who knoweth whether thou art come to the kingdom for\nsuch a time as this?"
+    }
+  },
+  {
+    "id": "WOM-E-0002",
+    "theme": "Women of Faith",
+    "question": "Which woman said 'Where you go I will go, and where you stay I will stay'?",
+    "choices": [
+      "Ruth",
+      "Naomi",
+      "Orpah",
+      "Rachel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ruth",
+      "chapter": 1,
+      "verse": "16"
+    },
+    "explanation": "Ruth pledged her loyalty to her mother-in-law Naomi with these beautiful words of devotion.",
+    "verses": {
+      "kjv": "And Ruth said, Intreat me not to leave thee,\nor to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people\nshall be my people, and thy God my God:"
+    }
+  },
+  {
+    "id": "WOM-E-0003",
+    "theme": "Women of Faith",
+    "question": "Who was the mother of John the Baptist?",
+    "choices": [
+      "Elizabeth",
+      "Hannah",
+      "Mary",
+      "Anna"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 1,
+      "verse": "13"
+    },
+    "explanation": "Elizabeth, a relative of Mary, gave birth to John the Baptist in her old age.",
+    "verses": {
+      "kjv": "But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John."
+    }
+  },
+  {
+    "id": "WOM-E-0004",
+    "theme": "Women of Faith",
+    "question": "Which woman sold purple cloth and was converted by Paul in Philippi?",
+    "choices": [
+      "Lydia",
+      "Priscilla",
+      "Phoebe",
+      "Dorcas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Acts",
+      "chapter": 16,
+      "verse": "14"
+    },
+    "explanation": "Lydia, a dealer in purple cloth, listened to Paul and the Lord opened her heart to respond to his message.",
+    "verses": {
+      "kjv": "And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard\nus: whose heart the Lord opened, that she attended unto the things which were spoken of Paul."
+    }
+  },
+  {
+    "id": "WOM-E-0005",
+    "theme": "Women of Faith",
+    "question": "Which prophetess recognized baby Jesus as the Messiah in the temple?",
+    "choices": [
+      "Anna",
+      "Huldah",
+      "Deborah",
+      "Miriam"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 2,
+      "verse": "36-38"
+    },
+    "explanation": "Anna, an 84-year-old prophetess, gave thanks to God and spoke about Jesus to all who were waiting for redemption.",
+    "verses": {
+      "kjv": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;\nAnd she\nwas a widow of about fourscore and four years, which departed not from the temple, but served\nGod with fastings and prayers night and day.\nAnd she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem."
+    }
+  },
+  {
+    "id": "WOM-E-0006",
+    "theme": "Women of Faith",
+    "question": "Which woman was a judge in Israel?",
+    "choices": [
+      "Deborah",
+      "Miriam",
+      "Huldah",
+      "Anna"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "4"
+    },
+    "explanation": "Deborah, a prophetess and wife of Lappidoth, was leading Israel as a judge at that time.",
+    "verses": {
+      "kjv": "And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time."
+    }
+  },
+  {
+    "id": "WOM-E-0007",
+    "theme": "Women of Faith",
+    "question": "Who did Boaz marry?",
+    "choices": [
+      "Ruth",
+      "Naomi",
+      "Orpah",
+      "Tamar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ruth",
+      "chapter": 4,
+      "verse": "13"
+    },
+    "explanation": "Boaz took Ruth and she became his wife, and the Lord enabled her to conceive.",
+    "verses": {
+      "kjv": "So Boaz took Ruth, and she was his wife: and when he went in unto her, the LORD gave her conception, and she bare a son."
+    }
+  },
+  {
+    "id": "WOM-E-0008",
+    "theme": "Women of Faith",
+    "question": "Who was the first woman mentioned in the Bible?",
+    "choices": [
+      "Eve",
+      "Sarah",
+      "Mary",
+      "Rebekah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "20"
+    },
+    "explanation": "Adam named his wife Eve because she would become the mother of all the living.",
+    "verses": {
+      "kjv": "And Adam called his wife’s name Eve; because she was the mother of all living."
+    }
+  },
+  {
+    "id": "WOM-E-0009",
+    "theme": "Women of Faith",
+    "question": "Who gave birth to Ishmael?",
+    "choices": [
+      "Hagar",
+      "Sarah",
+      "Keturah",
+      "Rebekah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 16,
+      "verse": "15"
+    },
+    "explanation": "Hagar bore Abram a son, and Abram gave the name Ishmael to the son she had borne.",
+    "verses": {
+      "kjv": "And Hagar bare Abram a son: and Abram called his son’s name, which Hagar bare, Ishmael."
+    }
+  },
+  {
+    "id": "WOM-E-0010",
+    "theme": "Women of Faith",
+    "question": "Who was Isaac's wife?",
+    "choices": [
+      "Rebekah",
+      "Rachel",
+      "Leah",
+      "Sarah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 24,
+      "verse": "67"
+    },
+    "explanation": "Isaac brought Rebekah into the tent and she became his wife, and he loved her.",
+    "verses": {
+      "kjv": "And Isaac brought her into his mother Sarah’s tent, and took Rebekah, and she became his wife; and he loved her: and Isaac was comforted after his mother’s\ndeath."
+    }
+  },
+  {
+    "id": "WOM-E-0011",
+    "theme": "Women of Faith",
+    "question": "Who remained at Jesus' feet while her sister was busy with preparations?",
+    "choices": [
+      "Mary",
+      "Martha",
+      "Lazarus",
+      "Salome"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 10,
+      "verse": "39"
+    },
+    "explanation": "Mary sat at the Lord's feet listening to what he said while Martha was distracted with preparations.",
+    "verses": {
+      "kjv": "And she had a sister called Mary, which also sat at Jesus’ feet, and heard his word."
+    }
+  },
+  {
+    "id": "WOM-E-0012",
+    "theme": "Women of Faith",
+    "question": "Who was the mother of Samuel?",
+    "choices": [
+      "Hannah",
+      "Peninnah",
+      "Elizabeth",
+      "Rachel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "verse": "20"
+    },
+    "explanation": "Hannah became pregnant and gave birth to a son. She named him Samuel, saying, 'Because I asked the Lord for him.'",
+    "verses": {
+      "kjv": "Wherefore it came to pass, when the time was come about after Hannah had conceived, that she bare a son, and called his name Samuel,\nsaying,\n Because I have asked him of the LORD."
+    }
+  },
+  {
+    "id": "WOM-E-0013",
+    "theme": "Women of Faith",
+    "question": "Who was the wife of Abraham?",
+    "choices": [
+      "Sarah",
+      "Rebekah",
+      "Hagar",
+      "Keturah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 17,
+      "verse": "15"
+    },
+    "explanation": "God said to Abraham, 'As for Sarai your wife, you are no longer to call her Sarai; her name will be Sarah.'",
+    "verses": {
+      "kjv": "And God said unto Abraham, As for Sarai thy wife, thou shalt not call her name Sarai, but Sarah\nshall her name\nbe."
+    }
+  },
+  {
+    "id": "WOM-E-0014",
+    "theme": "Women of Faith",
+    "question": "Who did God tell would be the mother of nations?",
+    "choices": [
+      "Sarah",
+      "Rebekah",
+      "Rachel",
+      "Leah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 17,
+      "verse": "16"
+    },
+    "explanation": "I will bless her and will surely give you a son by her. She will be the mother of nations.",
+    "verses": {
+      "kjv": "And I will bless her, and give thee a son also of her: yea, I will bless her, and she shall be\na mother of nations; kings of people shall be of her."
+    }
+  },
+  {
+    "id": "WOM-E-0015",
+    "theme": "Women of Faith",
+    "question": "Which woman said 'Your people will be my people and your God my God'?",
+    "choices": [
+      "Ruth",
+      "Naomi",
+      "Orpah",
+      "Esther"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ruth",
+      "chapter": 1,
+      "verse": "16"
+    },
+    "explanation": "Ruth replied, 'Where you go I will go, and where you stay I will stay. Your people will be my people.'",
+    "verses": {
+      "kjv": "And Ruth said, Intreat me not to leave thee,\nor to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people\nshall be my people, and thy God my God:"
+    }
+  },
+  {
+    "id": "WOM-E-0016",
+    "theme": "Women of Faith",
+    "question": "Who became queen instead of Vashti?",
+    "choices": [
+      "Esther",
+      "Ruth",
+      "Deborah",
+      "Rachel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Esther",
+      "chapter": 2,
+      "verse": "17"
+    },
+    "explanation": "The king loved Esther more than any of the other women, and she won his favor and became queen.",
+    "verses": {
+      "kjv": "And the king loved Esther above all the women, and she obtained grace and favour in his sight more than all the virgins; so that he set the royal crown upon her head, and made her queen instead of Vashti."
+    }
+  },
+  {
+    "id": "WOM-E-0017",
+    "theme": "Women of Faith",
+    "question": "Who helped the Israelite spies escape from Jericho?",
+    "choices": [
+      "Rahab",
+      "Ruth",
+      "Deborah",
+      "Miriam"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 2,
+      "verse": "15"
+    },
+    "explanation": "Rahab let them down by a rope through the window, for her house was built into the city wall.",
+    "verses": {
+      "kjv": "Then she let them down by a cord through the window: for her house\nwas upon the town wall, and she dwelt upon the wall."
+    }
+  },
+  {
+    "id": "WOM-E-0018",
+    "theme": "Women of Faith",
+    "question": "Who hid the Israelite spies in Jericho?",
+    "choices": [
+      "Rahab",
+      "Ruth",
+      "Deborah",
+      "Esther"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 2,
+      "verse": "4"
+    },
+    "explanation": "But the woman had taken the two men and hidden them.",
+    "verses": {
+      "kjv": "And the woman took the two men, and hid them, and said thus, There came men unto me, but I wist not whence they\nwere:"
+    }
+  },
+  {
+    "id": "WOM-E-0019",
+    "theme": "Women of Faith",
+    "question": "Who was the sister of Moses and Aaron?",
+    "choices": [
+      "Miriam",
+      "Deborah",
+      "Ruth",
+      "Esther"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 15,
+      "verse": "20"
+    },
+    "explanation": "Then Miriam the prophet, Aaron's sister, took a timbrel in her hand.",
+    "verses": {
+      "kjv": "And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances."
+    }
+  },
+  {
+    "id": "WOM-E-0020",
+    "theme": "Women of Faith",
+    "question": "Which woman hid Israelite spies in Jericho?",
+    "choices": [
+      "Rahab",
+      "Ruth",
+      "Deborah",
+      "Esther"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 2,
+      "verse": "6"
+    },
+    "explanation": "Rahab hid the spies on her roof among stalks of flax and helped them escape from Jericho.",
+    "verses": {
+      "kjv": "But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof."
+    }
+  },
+  {
+    "id": "WOM-E-0021",
+    "theme": "Women of Faith",
+    "question": "Who poured expensive perfume on Jesus' feet?",
+    "choices": [
+      "Mary of Bethany",
+      "Mary Magdalene",
+      "Martha",
+      "Salome"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 12,
+      "verse": "3"
+    },
+    "explanation": "Mary took expensive perfume, poured it on Jesus' feet and wiped His feet with her hair.",
+    "verses": {
+      "kjv": "Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped his feet with her hair: and the house was filled with the odour of the ointment."
+    }
+  },
+  {
+    "id": "WOM-E-0022",
+    "theme": "Women of Faith",
+    "question": "Who was the first person to see the risen Christ?",
+    "choices": [
+      "Mary Magdalene",
+      "Mary mother of Jesus",
+      "Peter",
+      "John"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "John",
+      "chapter": 20,
+      "verse": "16"
+    },
+    "explanation": "Jesus said to her, 'Mary.' She turned toward Him and cried out, 'Rabboni!'",
+    "verses": {
+      "kjv": "Jesus saith unto her,\nMary. She turned herself, and saith unto him, Rabboni; which is to say, Master."
+    }
+  },
+  {
+    "id": "WOM-E-0023",
+    "theme": "Women of Faith",
+    "question": "Who was commended for choosing what is better - sitting at Jesus' feet?",
+    "choices": [
+      "Mary",
+      "Martha",
+      "Elizabeth",
+      "Joanna"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Luke",
+      "chapter": 10,
+      "verse": "42"
+    },
+    "explanation": "Mary has chosen what is better, and it will not be taken away from her.",
+    "verses": {
+      "kjv": "But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her."
+    }
+  },
+  {
+    "id": "WOM-E-0024",
+    "theme": "Women of Faith",
+    "question": "Which woman was a seller of purple cloth?",
+    "choices": [
+      "Lydia",
+      "Priscilla",
+      "Dorcas",
+      "Phoebe"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Acts",
+      "chapter": 16,
+      "verse": "14"
+    },
+    "explanation": "One of those listening was Lydia, a dealer in purple cloth from the city of Thyatira.",
+    "verses": {
+      "kjv": "And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard\nus: whose heart the Lord opened, that she attended unto the things which were spoken of Paul."
+    }
+  },
+  {
+    "id": "WOM-E-0025",
+    "theme": "Women of Faith",
+    "question": "Who was the first female judge of Israel?",
+    "choices": [
+      "Deborah",
+      "Miriam",
+      "Huldah",
+      "Esther"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "4"
+    },
+    "explanation": "Now Deborah, a prophet, the wife of Lappidoth, was leading Israel at that time.",
+    "verses": {
+      "kjv": "And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time."
+    }
+  },
+  {
+    "id": "WOM-E-0026",
+    "theme": "Women of Faith",
+    "question": "Which woman hid spies on her roof?",
+    "choices": [
+      "Rahab",
+      "Ruth",
+      "Esther",
+      "Deborah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 2,
+      "verse": "6"
+    },
+    "explanation": "But she had taken them up to the roof and hidden them under the stalks of flax she had laid out on the roof.",
+    "verses": {
+      "kjv": "But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof."
+    }
+  },
+  {
+    "id": "WOM-E-0027",
+    "theme": "Women of Faith",
+    "question": "Who was the wife of Aquila?",
+    "choices": [
+      "Priscilla",
+      "Lydia",
+      "Phoebe",
+      "Chloe"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Acts",
+      "chapter": 18,
+      "verse": "2"
+    },
+    "explanation": "There he met a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla.",
+    "verses": {
+      "kjv": "And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them."
+    }
+  },
+  {
+    "id": "WOM-E-0028",
+    "theme": "Women of Faith",
+    "question": "Who was the queen that visited Solomon?",
+    "choices": [
+      "Queen of Sheba",
+      "Queen Esther",
+      "Queen Jezebel",
+      "Queen Vashti"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verse": "1"
+    },
+    "explanation": "When the queen of Sheba heard about the fame of Solomon, she came to test him with hard questions.",
+    "verses": {
+      "kjv": "And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions."
+    }
+  },
+  {
+    "id": "WOM-E-0029",
+    "theme": "Women of Faith",
+    "question": "Who was Boaz's wife?",
+    "choices": [
+      "Ruth",
+      "Naomi",
+      "Orpah",
+      "Rachel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ruth",
+      "chapter": 4,
+      "verse": "13"
+    },
+    "explanation": "So Boaz took Ruth and she became his wife.",
+    "verses": {
+      "kjv": "So Boaz took Ruth, and she was his wife: and when he went in unto her, the LORD gave her conception, and she bare a son."
+    }
+  },
+  {
+    "id": "WOM-E-0030",
+    "theme": "Women of Faith",
+    "question": "Who was known for her beauty and became Queen of Persia?",
+    "choices": [
+      "Esther",
+      "Vashti",
+      "Ruth",
+      "Bathsheba"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Esther",
+      "chapter": 2,
+      "verse": "17"
+    },
+    "explanation": "Now the king was attracted to Esther more than to any of the other women, and she won his favor.",
+    "verses": {
+      "kjv": "And the king loved Esther above all the women, and she obtained grace and favour in his sight more than all the virgins; so that he set the royal crown upon her head, and made her queen instead of Vashti."
+    }
+  },
+  {
+    "id": "WOM-E-0031",
+    "theme": "Women of Faith",
+    "question": "Who was the prophetess who led Israel in battle?",
+    "choices": [
+      "Deborah",
+      "Huldah",
+      "Miriam",
+      "Anna"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "14"
+    },
+    "explanation": "Then Deborah said to Barak, 'Go! This is the day the Lord has given Sisera into your hands.'",
+    "verses": {
+      "kjv": "And Deborah said unto Barak, Up; for this\nis the day in which the LORD hath delivered Sisera into thine hand: is not the LORD gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him."
+    }
+  },
+  {
+    "id": "WOM-E-0032",
+    "theme": "Women of Faith",
+    "question": "Which woman killed Sisera with a tent peg?",
+    "choices": [
+      "Jael",
+      "Deborah",
+      "Rahab",
+      "Ruth"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "21"
+    },
+    "explanation": "But Jael, Heber's wife, picked up a tent peg and a hammer and went quietly to him while he lay fast asleep, exhausted. She drove the peg through his temple into the ground, and he died.",
+    "verses": {
+      "kjv": "Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died."
+    }
+  },
+  {
+    "id": "WOM-E-0033",
+    "theme": "Women of Faith",
+    "question": "Which woman said, 'Where you go I will go'?",
+    "choices": [
+      "Ruth",
+      "Naomi",
+      "Orpah",
+      "Esther"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ruth",
+      "chapter": 1,
+      "verse": "16"
+    },
+    "explanation": "But Ruth replied, 'Don't urge me to leave you or to turn back from you. Where you go I will go, and where you stay I will stay.'",
+    "verses": {
+      "kjv": "And Ruth said, Intreat me not to leave thee,\nor to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people\nshall be my people, and thy God my God:"
+    }
+  },
+  {
+    "id": "WOM-E-0034",
+    "theme": "Women of Faith",
+    "question": "Which woman hid the spies and hung a scarlet cord from her window?",
+    "choices": [
+      "Rahab",
+      "Ruth",
+      "Deborah",
+      "Jael"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Joshua",
+      "chapter": 2,
+      "verse": "18"
+    },
+    "explanation": "Unless, when we enter the land, you have tied this scarlet cord in the window through which you let us down.",
+    "verses": {
+      "kjv": "Behold,\nwhen we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father’s household, home unto thee."
+    }
+  },
+  {
+    "id": "WOM-E-0035",
+    "theme": "Women of Faith",
+    "question": "Which woman's prayer for a son led to the birth of Samuel?",
+    "choices": [
+      "Hannah",
+      "Rachel",
+      "Leah",
+      "Sarah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "verse": "11"
+    },
+    "explanation": "And she made a vow, saying, 'Lord Almighty, if you will only look on your servant's misery and give me a son, then I will give him to the Lord for all the days of his life.'",
+    "verses": {
+      "kjv": "And she vowed a vow, and said, O LORD of hosts, if thou wilt indeed look on the affliction of thine handmaid, and remember me, and not forget thine handmaid, but wilt give unto thine handmaid a man child, then I will give him unto the LORD all the days of his life, and there shall no razor come upon his head."
+    }
+  },
+  {
+    "id": "WOM-E-0036",
+    "theme": "Women of Faith",
+    "question": "Which woman became queen instead of Vashti?",
+    "choices": [
+      "Esther",
+      "Ruth",
+      "Deborah",
+      "Bathsheba"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Esther",
+      "chapter": 2,
+      "verse": "17"
+    },
+    "explanation": "Now the king was attracted to Esther more than to any of the other women, so she won his favor and approval more than any of the other virgins. So he set a royal crown on her head and made her queen instead of Vashti.",
+    "verses": {
+      "kjv": "And the king loved Esther above all the women, and she obtained grace and favour in his sight more than all the virgins; so that he set the royal crown upon her head, and made her queen instead of Vashti."
+    }
+  },
+  {
+    "id": "WOM-E-0037",
+    "theme": "Women of Faith",
+    "question": "Who was Esther's cousin who raised her?",
+    "choices": [
+      "Mordecai",
+      "Haman",
+      "Xerxes",
+      "Ahasuerus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Esther",
+      "chapter": 2,
+      "verse": "7"
+    },
+    "explanation": "Mordecai had a cousin named Hadassah, whom he had brought up because she had neither father nor mother. This young woman, who was also known as Esther, had a lovely figure and was beautiful.",
+    "verses": {
+      "kjv": "And he brought up Hadassah, that\nis, Esther, his uncle’s daughter: for she had neither father nor mother, and the maid\nwas\n fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own daughter."
+    }
+  },
+  {
+    "id": "WOM-E-0038",
+    "theme": "Women of Faith",
+    "question": "Who was the mother of Isaac?",
+    "choices": [
+      "Sarah",
+      "Hagar",
+      "Rebekah",
+      "Rachel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": "3"
+    },
+    "explanation": "Abraham gave the name Isaac to the son Sarah bore him.",
+    "verses": {
+      "kjv": "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac."
+    }
+  },
+  {
+    "id": "WOM-E-0039",
+    "theme": "Women of Faith",
+    "question": "Who was Ishmael's mother?",
+    "choices": [
+      "Hagar",
+      "Sarah",
+      "Rebekah",
+      "Leah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 16,
+      "verse": "15"
+    },
+    "explanation": "So Hagar bore Abram a son, and Abram gave the name Ishmael to the son she had borne.",
+    "verses": {
+      "kjv": "And Hagar bare Abram a son: and Abram called his son’s name, which Hagar bare, Ishmael."
+    }
+  },
+  {
+    "id": "WOM-E-0040",
+    "theme": "Women of Faith",
+    "question": "Who was Jacob's favorite wife?",
+    "choices": [
+      "Rachel",
+      "Leah",
+      "Bilhah",
+      "Zilpah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 29,
+      "verse": "30"
+    },
+    "explanation": "Jacob made love to Rachel also, and his love for Rachel was greater than his love for Leah.",
+    "verses": {
+      "kjv": "And he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years."
+    }
+  },
+  {
+    "id": "WOM-E-0041",
+    "theme": "Women of Faith",
+    "question": "Who was Jacob's first wife?",
+    "choices": [
+      "Leah",
+      "Rachel",
+      "Bilhah",
+      "Zilpah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 29,
+      "verse": "23"
+    },
+    "explanation": "But when evening came, he took his daughter Leah and brought her to Jacob, and Jacob made love to her.",
+    "verses": {
+      "kjv": "And it came to pass in the evening, that he took Leah his daughter, and brought her to him; and he went in unto her."
+    }
+  },
+  {
+    "id": "WOM-E-0042",
+    "theme": "Women of Faith",
+    "question": "Who was the mother of Joseph?",
+    "choices": [
+      "Rachel",
+      "Leah",
+      "Bilhah",
+      "Zilpah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Genesis",
+      "chapter": 30,
+      "verse": "24"
+    },
+    "explanation": "She named him Joseph, and said, 'May the Lord add to me another son.'",
+    "verses": {
+      "kjv": "And she called his name Joseph; and said, The LORD shall add to me another son."
+    }
+  },
+  {
+    "id": "WOM-E-0043",
+    "theme": "Women of Faith",
+    "question": "Who was the Moabite woman who became the great-great-grandmother of King David?",
+    "choices": [
+      "Ruth",
+      "Naomi",
+      "Orpah",
+      "Tamar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ruth",
+      "chapter": 4,
+      "verse": "17"
+    },
+    "explanation": "The women said to Naomi, 'He is the father of Jesse, the father of David.' Ruth was David's great-grandmother.",
+    "verses": {
+      "kjv": "And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he\nis the father of Jesse, the father of David."
+    }
+  },
+  {
+    "id": "WOM-E-0044",
+    "theme": "Women of Faith",
+    "question": "Which woman worked alongside her husband Aquila as tentmakers and fellow workers with Paul?",
+    "choices": [
+      "Priscilla",
+      "Lydia",
+      "Phoebe",
+      "Eunice"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Acts",
+      "chapter": 18,
+      "verse": "2-3"
+    },
+    "explanation": "There he met a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla. Paul went to see them, and because he was a tentmaker as they were, he stayed and worked with them.",
+    "verses": {
+      "kjv": "And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.\nAnd because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers."
+    }
+  },
+  {
+    "question": "Who was the mother of Jacob and Esau?",
+    "choices": [
+      "Rebekah",
+      "Rachel",
+      "Leah",
+      "Sarah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 25,
+      "verse": "24"
+    },
+    "explanation": "Genesis says Rebekah's days to be delivered were fulfilled, and there were twins in her womb (Jacob and Esau).",
+    "verses": {
+      "kjv": "And when her days to be delivered were fulfilled, behold, there were twins in her womb."
+    },
+    "id": "WOM-E-0045",
+    "theme": "Women of Faith",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was the name of Moses' mother?",
+    "choices": [
+      "Jochebed",
+      "Miriam",
+      "Zipporah",
+      "Deborah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 6,
+      "verse": "20"
+    },
+    "explanation": "Exodus identifies Jochebed as the wife of Amram and the mother of Aaron and Moses.",
+    "verses": {
+      "kjv": "And Amram took him Jochebed his father's sister to wife; and she bare him Aaron and Moses: and the years of the life of Amram were an hundred and thirty and seven years."
+    },
+    "id": "WOM-E-0046",
+    "theme": "Women of Faith",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who was the prophetess who judged Israel under a palm tree?",
+    "choices": [
+      "Deborah",
+      "Huldah",
+      "Anna",
+      "Miriam"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "4"
+    },
+    "explanation": "Judges describes Deborah as a prophetess who judged Israel at that time.",
+    "verses": {
+      "kjv": "And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time."
+    },
+    "id": "WOM-E-0047",
+    "theme": "Women of Faith",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who was the wife of Boaz?",
+    "choices": [
+      "Ruth",
+      "Naomi",
+      "Orpah",
+      "Rahab"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ruth",
+      "chapter": 4,
+      "verse": "13"
+    },
+    "explanation": "Ruth 4:13 says Boaz took Ruth, and she became his wife.",
+    "verses": {
+      "kjv": "So Boaz took Ruth, and she was his wife: and when he went in unto her, the LORD gave her conception, and she bare a son."
+    },
+    "id": "WOM-E-0048",
+    "theme": "Women of Faith",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Whose words were, \"Call me not Naomi, call me Mara\"?",
+    "choices": [
+      "Naomi",
+      "Ruth",
+      "Esther",
+      "Hannah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ruth",
+      "chapter": 1,
+      "verse": "20"
+    },
+    "explanation": "Naomi asked to be called Mara because the Almighty had dealt very bitterly with her.",
+    "verses": {
+      "kjv": "And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me."
+    },
+    "id": "WOM-E-0049",
+    "theme": "Women of Faith",
+    "difficulty": "easy"
+  }
+]

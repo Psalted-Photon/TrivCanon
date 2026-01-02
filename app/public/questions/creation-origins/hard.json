@@ -112,28 +112,6 @@
   {
     "id": "CRE-H-0006",
     "theme": "Creation & Origins",
-    "question": "Who was the father of all who play stringed instruments and pipes?",
-    "choices": [
-      "Jubal",
-      "Tubal-Cain",
-      "Jabal",
-      "Cain"
-    ],
-    "correctIndex": 0,
-    "difficulty": "hard",
-    "reference": {
-      "book": "Genesis",
-      "chapter": 4,
-      "verse": "21"
-    },
-    "explanation": "Jubal was the father of all who play stringed instruments and pipes.",
-    "verses": {
-      "kjv": "And his brother’s name\nwas Jubal: he was the father of all such as handle the harp and organ."
-    }
-  },
-  {
-    "id": "CRE-H-0007",
-    "theme": "Creation & Origins",
     "question": "How old was Methuselah when he died?",
     "choices": [
       "969 years",
@@ -154,7 +132,7 @@
     }
   },
   {
-    "id": "CRE-H-0008",
+    "id": "CRE-H-0007",
     "theme": "Creation & Origins",
     "question": "Who was the first person to build a city?",
     "choices": [
@@ -176,7 +154,7 @@
     }
   },
   {
-    "id": "CRE-H-0009",
+    "id": "CRE-H-0008",
     "theme": "Creation & Origins",
     "question": "Where did Cain go after killing Abel?",
     "choices": [
@@ -198,7 +176,7 @@
     }
   },
   {
-    "id": "CRE-H-0010",
+    "id": "CRE-H-0009",
     "theme": "Creation & Origins",
     "question": "Who was the father of Enoch?",
     "choices": [
@@ -220,7 +198,7 @@
     }
   },
   {
-    "id": "CRE-H-0011",
+    "id": "CRE-H-0010",
     "theme": "Creation & Origins",
     "question": "How many years did Enoch live before God took him?",
     "choices": [
@@ -242,7 +220,7 @@
     }
   },
   {
-    "id": "CRE-H-0012",
+    "id": "CRE-H-0011",
     "theme": "Creation & Origins",
     "question": "What river flowed through Eden?",
     "choices": [
@@ -264,7 +242,7 @@
     }
   },
   {
-    "id": "CRE-H-0024",
+    "id": "CRE-H-0012",
     "theme": "Creation & Origins",
     "question": "Who was Enoch's son?",
     "choices": [
@@ -286,7 +264,7 @@
     }
   },
   {
-    "id": "CRE-H-0025",
+    "id": "CRE-H-0013",
     "theme": "Creation & Origins",
     "question": "How long did Enoch walk with God before he was taken up?",
     "choices": [
@@ -308,7 +286,7 @@
     }
   },
   {
-    "id": "CRE-H-0026",
+    "id": "CRE-H-0014",
     "theme": "Creation & Origins",
     "question": "What was the name of Cain's son?",
     "choices": [
@@ -347,7 +325,7 @@
     "verses": {
       "kjv": "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. And God called the firmament Heaven. And the evening and the morning were the second day."
     },
-    "id": "CRE-H-0027",
+    "id": "CRE-H-0015",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -369,7 +347,7 @@
     "verses": {
       "kjv": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good."
     },
-    "id": "CRE-H-0028",
+    "id": "CRE-H-0016",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -391,7 +369,7 @@
     "verses": {
       "kjv": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good."
     },
-    "id": "CRE-H-0029",
+    "id": "CRE-H-0017",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -413,7 +391,7 @@
     "verses": {
       "kjv": "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years: And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so. And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also. And God set them in the firmament of the heaven to give light upon the earth, And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good. And the evening and the morning were the fourth day."
     },
-    "id": "CRE-H-0030",
+    "id": "CRE-H-0018",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -435,7 +413,7 @@
     "verses": {
       "kjv": "And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads. The name of the first is Pison: that is it which compasseth the whole land of Havilah, where there is gold; And the gold of that land is good: there is bdellium and the onyx stone. And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia. And the name of the third river is Hiddekel: that is it which goeth toward the east of Assyria. And the fourth river is Euphrates."
     },
-    "id": "CRE-H-0031",
+    "id": "CRE-H-0019",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -457,7 +435,7 @@
     "verses": {
       "kjv": "The name of the first is Pison: that is it which compasseth the whole land of Havilah, where there is gold;"
     },
-    "id": "CRE-H-0032",
+    "id": "CRE-H-0020",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -479,7 +457,7 @@
     "verses": {
       "kjv": "And the gold of that land is good: there is bdellium and the onyx stone."
     },
-    "id": "CRE-H-0033",
+    "id": "CRE-H-0021",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -501,7 +479,7 @@
     "verses": {
       "kjv": "And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia."
     },
-    "id": "CRE-H-0034",
+    "id": "CRE-H-0022",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -523,7 +501,7 @@
     "verses": {
       "kjv": "And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof; And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man."
     },
-    "id": "CRE-H-0035",
+    "id": "CRE-H-0023",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -545,7 +523,7 @@
     "verses": {
       "kjv": "And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;"
     },
-    "id": "CRE-H-0036",
+    "id": "CRE-H-0024",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -567,7 +545,7 @@
     "verses": {
       "kjv": "Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?"
     },
-    "id": "CRE-H-0037",
+    "id": "CRE-H-0025",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -589,7 +567,7 @@
     "verses": {
       "kjv": "And the LORD God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:"
     },
-    "id": "CRE-H-0038",
+    "id": "CRE-H-0026",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -611,7 +589,7 @@
     "verses": {
       "kjv": "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life."
     },
-    "id": "CRE-H-0039",
+    "id": "CRE-H-0027",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -633,7 +611,7 @@
     "verses": {
       "kjv": "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life."
     },
-    "id": "CRE-H-0040",
+    "id": "CRE-H-0028",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -655,7 +633,7 @@
     "verses": {
       "kjv": "And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground."
     },
-    "id": "CRE-H-0041",
+    "id": "CRE-H-0029",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -677,7 +655,7 @@
     "verses": {
       "kjv": "And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:"
     },
-    "id": "CRE-H-0042",
+    "id": "CRE-H-0030",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -699,7 +677,7 @@
     "verses": {
       "kjv": "And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground."
     },
-    "id": "CRE-H-0043",
+    "id": "CRE-H-0031",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -721,7 +699,7 @@
     "verses": {
       "kjv": "When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth."
     },
-    "id": "CRE-H-0044",
+    "id": "CRE-H-0032",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -743,7 +721,7 @@
     "verses": {
       "kjv": "And his brother's name was Jubal: he was the father of all such as handle the harp and organ."
     },
-    "id": "CRE-H-0045",
+    "id": "CRE-H-0033",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -765,7 +743,7 @@
     "verses": {
       "kjv": "And Zillah, she also bare Tubal-cain, an instructer of every artificer in brass and iron: and the sister of Tubal-cain was Naamah."
     },
-    "id": "CRE-H-0046",
+    "id": "CRE-H-0034",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -787,7 +765,7 @@
     "verses": {
       "kjv": "And Zillah, she also bare Tubal-cain, an instructer of every artificer in brass and iron: and the sister of Tubal-cain was Naamah."
     },
-    "id": "CRE-H-0047",
+    "id": "CRE-H-0035",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -809,7 +787,7 @@
     "verses": {
       "kjv": "And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah."
     },
-    "id": "CRE-H-0048",
+    "id": "CRE-H-0036",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -831,7 +809,7 @@
     "verses": {
       "kjv": "And Adah bare Jabal: he was the father of such as dwell in tents, and of such as have cattle."
     },
-    "id": "CRE-H-0049",
+    "id": "CRE-H-0037",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -853,7 +831,7 @@
     "verses": {
       "kjv": "And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me another seed instead of Abel, whom Cain slew."
     },
-    "id": "CRE-H-0050",
+    "id": "CRE-H-0038",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -875,29 +853,7 @@
     "verses": {
       "kjv": "And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD."
     },
-    "id": "CRE-H-0051",
-    "theme": "Creation & Origins",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How old was Adam when Seth was born?",
-    "choices": [
-      "One hundred and thirty years",
-      "One hundred years",
-      "Two hundred years",
-      "Ninety years"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Genesis",
-      "chapter": 5,
-      "verse": "3"
-    },
-    "explanation": "Adam lived an hundred and thirty years and begat Seth.",
-    "verses": {
-      "kjv": "And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:"
-    },
-    "id": "CRE-H-0052",
+    "id": "CRE-H-0039",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -919,7 +875,7 @@
     "verses": {
       "kjv": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:"
     },
-    "id": "CRE-H-0053",
+    "id": "CRE-H-0040",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -941,7 +897,7 @@
     "verses": {
       "kjv": "And all the days that Adam lived were nine hundred and thirty years: and he died."
     },
-    "id": "CRE-H-0054",
+    "id": "CRE-H-0041",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -963,7 +919,7 @@
     "verses": {
       "kjv": "And Seth lived an hundred and five years, and begat Enos:"
     },
-    "id": "CRE-H-0055",
+    "id": "CRE-H-0042",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -985,7 +941,7 @@
     "verses": {
       "kjv": "And Enos lived ninety years, and begat Cainan:"
     },
-    "id": "CRE-H-0056",
+    "id": "CRE-H-0043",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -1007,7 +963,7 @@
     "verses": {
       "kjv": "And Jared lived an hundred sixty and two years, and he begat Enoch:"
     },
-    "id": "CRE-H-0057",
+    "id": "CRE-H-0044",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -1029,7 +985,7 @@
     "verses": {
       "kjv": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:"
     },
-    "id": "CRE-H-0058",
+    "id": "CRE-H-0045",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -1051,7 +1007,7 @@
     "verses": {
       "kjv": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:"
     },
-    "id": "CRE-H-0059",
+    "id": "CRE-H-0046",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -1073,7 +1029,7 @@
     "verses": {
       "kjv": "And Lamech lived an hundred eighty and two years, and begat a son:"
     },
-    "id": "CRE-H-0060",
+    "id": "CRE-H-0047",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   },
@@ -1095,7 +1051,51 @@
     "verses": {
       "kjv": "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed."
     },
-    "id": "CRE-H-0061",
+    "id": "CRE-H-0048",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Genesis, what name did Adam give to his wife because she was \"the mother of all living\"?",
+    "choices": [
+      "Eve",
+      "Sarah",
+      "Rebekah",
+      "Leah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "20"
+    },
+    "explanation": "Genesis 3:20 says Adam called his wife's name Eve because she was the mother of all living.",
+    "verses": {
+      "kjv": "And Adam called his wife's name Eve; because she was the mother of all living."
+    },
+    "id": "CRE-H-0049",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the genealogy of Genesis 5, which man was described as \"walking with God\" and then \"was not; for God took him\"?",
+    "choices": [
+      "Enoch",
+      "Adam",
+      "Seth",
+      "Noah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "24"
+    },
+    "explanation": "Genesis 5:24 says Enoch walked with God and was not, for God took him.",
+    "verses": {
+      "kjv": "And Enoch walked with God: and he was not; for God took him."
+    },
+    "id": "CRE-H-0050",
     "theme": "Creation & Origins",
     "difficulty": "hard"
   }

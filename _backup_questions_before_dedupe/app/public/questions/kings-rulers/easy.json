@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "KNG-E-0001",
+    "theme": "Kings & Rulers",
+    "question": "Who was the first king of Israel?",
+    "choices": [
+      "Saul",
+      "David",
+      "Solomon",
+      "Samuel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "verse": "1"
+    },
+    "explanation": "Saul was anointed by Samuel as the first king of Israel, though he later fell from God's favor.",
+    "verses": {
+      "kjv": "Then Samuel took a vial of oil, and poured\nit upon his head, and kissed him, and said,\nIs it not because the LORD hath anointed thee\nto be captain over his inheritance?"
+    }
+  },
+  {
+    "id": "KNG-E-0002",
+    "theme": "Kings & Rulers",
+    "question": "Which king wrote most of the Proverbs?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Hezekiah",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "Solomon, known for his wisdom, authored most of the book of Proverbs.",
+    "verses": {
+      "kjv": "The proverbs of Solomon the son of David, king of Israel;"
+    }
+  },
+  {
+    "id": "KNG-E-0003",
+    "theme": "Kings & Rulers",
+    "question": "Which king built the first temple in Jerusalem?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Hezekiah",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 6,
+      "verse": "1"
+    },
+    "explanation": "Solomon built the magnificent temple in Jerusalem using materials his father David had gathered.",
+    "verses": {
+      "kjv": "And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Zif, which\nis the second month, that he began to build the house of the LORD."
+    }
+  },
+  {
+    "id": "KNG-E-0004",
+    "theme": "Kings & Rulers",
+    "question": "Which king ordered all male Hebrew babies to be killed in Egypt?",
+    "choices": [
+      "Pharaoh",
+      "Herod",
+      "Nebuchadnezzar",
+      "Ahab"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 1,
+      "verse": "22"
+    },
+    "explanation": "Pharaoh ordered every Hebrew boy to be thrown into the Nile River to control the Israelite population.",
+    "verses": {
+      "kjv": "And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive."
+    }
+  },
+  {
+    "id": "KNG-E-0005",
+    "theme": "Kings & Rulers",
+    "question": "Which king was known for his great wisdom?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Hezekiah",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verse": "12"
+    },
+    "explanation": "God gave Solomon wisdom and very great insight, and a breadth of understanding as measureless as the sand.",
+    "verses": {
+      "kjv": "Behold, I have done according to thy words: lo, I have given thee a wise and an understanding heart; so that there was none like thee before thee, neither after thee shall any arise like unto thee."
+    }
+  },
+  {
+    "id": "KNG-E-0006",
+    "theme": "Kings & Rulers",
+    "question": "What did King Solomon ask God for?",
+    "choices": [
+      "Wisdom and knowledge",
+      "Wealth and honor",
+      "Long life",
+      "Victory over enemies"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verse": "9"
+    },
+    "explanation": "Solomon asked for a discerning heart to govern the people and distinguish between right and wrong.",
+    "verses": {
+      "kjv": "Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad: for who is able to judge this thy so great a people?"
+    }
+  },
+  {
+    "id": "KNG-E-0007",
+    "theme": "Kings & Rulers",
+    "question": "Which king sought to kill baby Jesus?",
+    "choices": [
+      "Herod the Great",
+      "Herod Antipas",
+      "Pontius Pilate",
+      "Caesar Augustus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 2,
+      "verse": "16"
+    },
+    "explanation": "When Herod realized he had been outwitted, he ordered the killing of all boys in Bethlehem two years old and under.",
+    "verses": {
+      "kjv": "Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men."
+    }
+  },
+  {
+    "id": "KNG-E-0008",
+    "theme": "Kings & Rulers",
+    "question": "Which king's heart was hardened against letting Israel go?",
+    "choices": [
+      "Pharaoh",
+      "Nebuchadnezzar",
+      "Herod",
+      "Cyrus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Exodus",
+      "chapter": 9,
+      "verse": "12"
+    },
+    "explanation": "The Lord hardened Pharaoh's heart and he would not listen to Moses and Aaron.",
+    "verses": {
+      "kjv": "And the LORD hardened the heart of Pharaoh, and he hearkened not unto them; as the LORD had spoken unto Moses."
+    }
+  },
+  {
+    "id": "KNG-E-0009",
+    "theme": "Kings & Rulers",
+    "question": "Which king put Daniel's three friends in the fiery furnace?",
+    "choices": [
+      "Nebuchadnezzar",
+      "Darius",
+      "Belshazzar",
+      "Cyrus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 3,
+      "verse": "20"
+    },
+    "explanation": "Nebuchadnezzar commanded mighty soldiers to bind Shadrach, Meshach, and Abednego and throw them in the furnace.",
+    "verses": {
+      "kjv": "And he commanded the most mighty men that\nwere in his army to bind Shadrach, Meshach, and Abed-nego,\nand to cast\nthem\n into the burning fiery furnace."
+    }
+  },
+  {
+    "id": "KNG-E-0010",
+    "theme": "Kings & Rulers",
+    "question": "Who was the wisest man who ever lived?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Daniel",
+      "Joseph"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verse": "12"
+    },
+    "explanation": "God gave Solomon wisdom and very great insight, and a breadth of understanding.",
+    "verses": {
+      "kjv": "Behold, I have done according to thy words: lo, I have given thee a wise and an understanding heart; so that there was none like thee before thee, neither after thee shall any arise like unto thee."
+    }
+  },
+  {
+    "id": "KNG-E-0011",
+    "theme": "Kings & Rulers",
+    "question": "Which king had a dream about a statue with different metals?",
+    "choices": [
+      "Nebuchadnezzar",
+      "Belshazzar",
+      "Darius",
+      "Cyrus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 2,
+      "verse": "31"
+    },
+    "explanation": "You looked, Your Majesty, and there before you stood a large statue with a head of gold.",
+    "verses": {
+      "kjv": "Thou, O king, sawest, and behold a great image. This great image, whose brightness was excellent, stood before thee; and the form thereof\nwas\n terrible."
+    }
+  },
+  {
+    "id": "KNG-E-0012",
+    "theme": "Kings & Rulers",
+    "question": "Who succeeded Moses as leader of Israel?",
+    "choices": [
+      "Joshua",
+      "Aaron",
+      "Caleb",
+      "Eleazar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 31,
+      "verse": "23"
+    },
+    "explanation": "The Lord gave this command to Joshua: 'Be strong and courageous, for you will bring the Israelites into the land.'",
+    "verses": {
+      "kjv": "And he gave Joshua the son of Nun a charge, and said, Be strong and of a good courage: for thou shalt bring the children of Israel into the land which I sware unto them: and I will be with thee."
+    }
+  },
+  {
+    "id": "KNG-E-0013",
+    "theme": "Kings & Rulers",
+    "question": "Which king was known for his many wives and concubines?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Rehoboam",
+      "Ahab"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verse": "3"
+    },
+    "explanation": "King Solomon had seven hundred wives of royal birth and three hundred concubines.",
+    "verses": {
+      "kjv": "And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart."
+    }
+  },
+  {
+    "id": "KNG-E-0014",
+    "theme": "Kings & Rulers",
+    "question": "Which king ordered all baby boys in Bethlehem killed?",
+    "choices": [
+      "Herod",
+      "Pharaoh",
+      "Nebuchadnezzar",
+      "Caesar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 2,
+      "verse": "16"
+    },
+    "explanation": "When Herod realized he had been outwitted by the Magi, he gave orders to kill all the boys in Bethlehem.",
+    "verses": {
+      "kjv": "Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men."
+    }
+  },
+  {
+    "id": "KNG-E-0015",
+    "theme": "Kings & Rulers",
+    "question": "Which king wrote most of the Psalms?",
+    "choices": [
+      "David",
+      "Solomon",
+      "Hezekiah",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Psalms",
+      "chapter": 3,
+      "verse": "1"
+    },
+    "explanation": "David, the shepherd king, wrote approximately 73 of the 150 Psalms in the Bible.",
+    "verses": {
+      "kjv": "LORD, how are they increased that trouble me! many\nare they that rise up against me."
+    }
+  },
+  {
+    "id": "KNG-E-0016",
+    "theme": "Kings & Rulers",
+    "question": "Which king allowed the Jews to return to Jerusalem?",
+    "choices": [
+      "Cyrus",
+      "Darius",
+      "Artaxerxes",
+      "Xerxes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Ezra",
+      "chapter": 1,
+      "verse": "2"
+    },
+    "explanation": "Cyrus king of Persia says: 'The Lord has appointed me to build a temple for Him at Jerusalem.'",
+    "verses": {
+      "kjv": "Thus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which\nis in Judah."
+    }
+  },
+  {
+    "id": "KNG-E-0017",
+    "theme": "Kings & Rulers",
+    "question": "Which king was the first king of Israel?",
+    "choices": [
+      "Saul",
+      "David",
+      "Solomon",
+      "Rehoboam"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "verse": "24"
+    },
+    "explanation": "Samuel said to all the people, 'Do you see the man the Lord has chosen? There is no one like him among all the people.'",
+    "verses": {
+      "kjv": "And Samuel said to all the people, See ye him whom the LORD hath chosen, that\nthere is none like him among all the people? And all the people shouted, and said, God save the king."
+    }
+  },
+  {
+    "id": "KNG-E-0018",
+    "theme": "Kings & Rulers",
+    "question": "Which king was anointed by Samuel while he was still a boy?",
+    "choices": [
+      "David",
+      "Saul",
+      "Solomon",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "verse": "13"
+    },
+    "explanation": "So Samuel took the horn of oil and anointed him in the presence of his brothers, and from that day on the Spirit of the Lord came powerfully upon David.",
+    "verses": {
+      "kjv": "Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the LORD came upon David from that day forward. So Samuel rose up, and went to Ramah."
+    }
+  },
+  {
+    "id": "KNG-E-0019",
+    "theme": "Kings & Rulers",
+    "question": "Which king threw Shadrach, Meshach, and Abednego into the fiery furnace?",
+    "choices": [
+      "Nebuchadnezzar",
+      "Belshazzar",
+      "Darius",
+      "Cyrus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Daniel",
+      "chapter": 3,
+      "verse": "20"
+    },
+    "explanation": "He commanded some of the strongest soldiers in his army to tie up Shadrach, Meshach and Abednego and throw them into the blazing furnace.",
+    "verses": {
+      "kjv": "And he commanded the most mighty men that\nwere in his army to bind Shadrach, Meshach, and Abed-nego,\nand to cast\nthem\n into the burning fiery furnace."
+    }
+  },
+  {
+    "id": "KNG-E-0020",
+    "theme": "Kings & Rulers",
+    "question": "Which king ordered all baby boys in Bethlehem to be killed?",
+    "choices": [
+      "Herod the Great",
+      "Herod Antipas",
+      "Pontius Pilate",
+      "Caesar Augustus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "Matthew",
+      "chapter": 2,
+      "verse": "16"
+    },
+    "explanation": "When Herod realized that he had been outwitted by the Magi, he gave orders to kill all the boys in Bethlehem who were two years old and under.",
+    "verses": {
+      "kjv": "Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men."
+    }
+  },
+  {
+    "id": "KNG-E-0021",
+    "theme": "Kings & Rulers",
+    "question": "Which king was the son of David and Bathsheba?",
+    "choices": [
+      "Solomon",
+      "Absalom",
+      "Adonijah",
+      "Amnon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "verse": "24"
+    },
+    "explanation": "Then David comforted his wife Bathsheba, and he went to her and made love to her. She gave birth to a son, and they named him Solomon.",
+    "verses": {
+      "kjv": "And David comforted Bath-sheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon: and the LORD loved him."
+    }
+  },
+  {
+    "id": "KNG-E-0022",
+    "theme": "Kings & Rulers",
+    "question": "Which king had Uriah killed to take his wife?",
+    "choices": [
+      "David",
+      "Solomon",
+      "Saul",
+      "Ahab"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "verse": "15"
+    },
+    "explanation": "In the letter David wrote, 'Put Uriah out in front where the fighting is fiercest. Then withdraw from him so he will be struck down and die.'",
+    "verses": {
+      "kjv": "And he wrote in the letter, saying, Set ye Uriah in the forefront of the hottest battle, and retire ye from him, that he may be smitten, and die."
+    }
+  },
+  {
+    "id": "KNG-E-0023",
+    "theme": "Kings & Rulers",
+    "question": "Who was Uriah's wife whom David took?",
+    "choices": [
+      "Bathsheba",
+      "Abigail",
+      "Michal",
+      "Ahinoam"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "verse": "3"
+    },
+    "explanation": "David sent someone to find out about her. The man said, 'She is Bathsheba, the daughter of Eliam and the wife of Uriah the Hittite.'",
+    "verses": {
+      "kjv": "And David sent and enquired after the woman. And\none said,\nIs not this Bath-sheba, the daughter of Eliam, the wife of Uriah the Hittite?"
+    }
+  },
+  {
+    "id": "KNG-E-0024",
+    "theme": "Kings & Rulers",
+    "question": "Which of David's sons rebelled against him?",
+    "choices": [
+      "Absalom",
+      "Solomon",
+      "Amnon",
+      "Adonijah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "verse": "10"
+    },
+    "explanation": "Then Absalom sent secret messengers throughout the tribes of Israel to say, 'As soon as you hear the sound of the trumpets, then say, \"Absalom is king in Hebron.\"'",
+    "verses": {
+      "kjv": "But Absalom sent spies throughout all the tribes of Israel, saying, As soon as ye hear the sound of the trumpet, then ye shall say, Absalom reigneth in Hebron."
+    }
+  },
+  {
+    "id": "KNG-E-0025",
+    "theme": "Kings & Rulers",
+    "question": "Which king asked God for wisdom?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Hezekiah",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verse": "9"
+    },
+    "explanation": "So give your servant a discerning heart to govern your people and to distinguish between right and wrong.",
+    "verses": {
+      "kjv": "Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad: for who is able to judge this thy so great a people?"
+    }
+  },
+  {
+    "id": "KNG-E-0026",
+    "theme": "Kings & Rulers",
+    "question": "Which king asked God for wisdom instead of riches?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Hezekiah",
+      "Josiah"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verse": "9"
+    },
+    "explanation": "Solomon asked for a discerning heart to govern God's people and to distinguish between right and wrong.",
+    "verses": {
+      "kjv": "Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad: for who is able to judge this thy so great a people?"
+    }
+  },
+  {
+    "id": "KNG-E-0027",
+    "theme": "Kings & Rulers",
+    "question": "Which king defeated Goliath before becoming king?",
+    "choices": [
+      "David",
+      "Saul",
+      "Solomon",
+      "Asa"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "50"
+    },
+    "explanation": "David triumphed over the Philistine with a sling and a stone; without a sword in his hand he struck down the Philistine and killed him.",
+    "verses": {
+      "kjv": "So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but\nthere was no sword in the hand of David."
+    }
+  },
+  {
+    "question": "Who was the mother of king Solomon?",
+    "choices": [
+      "Bath-sheba",
+      "Michal",
+      "Jezebel",
+      "Rahab"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "verse": "24"
+    },
+    "explanation": "2 Samuel 12:24 says David comforted Bath-sheba, and she bare a son and called his name Solomon.",
+    "verses": {
+      "kjv": "And David comforted Bath-sheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon: and the LORD loved him."
+    },
+    "id": "KNG-E-0028",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Samuel pour upon Saul's head when anointing him to be captain over God's inheritance?",
+    "choices": [
+      "A vial of oil",
+      "Water from a laver",
+      "Blood of a lamb",
+      "Wine from a cup"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "verse": "1"
+    },
+    "explanation": "1 Samuel 10:1 says Samuel took a vial of oil and poured it upon Saul's head and kissed him.",
+    "verses": {
+      "kjv": "Then Samuel took a vial of oil, and poured it upon his head, and kissed him, and said, Is it not because the LORD hath anointed thee to be captain over his inheritance?"
+    },
+    "id": "KNG-E-0029",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who did Samuel anoint king over Israel at Bethlehem?",
+    "choices": [
+      "David",
+      "Saul",
+      "Solomon",
+      "Abner"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "verse": "13"
+    },
+    "explanation": "1 Samuel 16:13 says Samuel took the horn of oil and anointed David in the midst of his brethren.",
+    "verses": {
+      "kjv": "Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the LORD came upon David from that day forward. So Samuel rose up, and went to Ramah."
+    },
+    "id": "KNG-E-0030",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Saul place under David's feet when David fled from his presence?",
+    "choices": [
+      "An image",
+      "A pillow of goats' hair",
+      "A golden crown",
+      "A sword and shield"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 19,
+      "verse": "13"
+    },
+    "explanation": "1 Samuel 19:13 says Michal laid an image in the bed, put a pillow of goats' hair for his bolster, and covered it with a cloth.",
+    "verses": {
+      "kjv": "And Michal took an image, and laid it in the bed, and put a pillow of goats' hair for his bolster, and covered it with a cloth."
+    },
+    "id": "KNG-E-0031",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did David take from the brook before going against Goliath?",
+    "choices": [
+      "Five smooth stones",
+      "A sword and a spear",
+      "A bow and arrows",
+      "A shield of brass"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "40"
+    },
+    "explanation": "1 Samuel 17:40 says David took five smooth stones out of the brook and put them in a shepherd's bag.",
+    "verses": {
+      "kjv": "And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in a shepherd's bag which he had, even in a scrip; and his sling was in his hand: and he drew near to the Philistine."
+    },
+    "id": "KNG-E-0032",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did David bring to Saul after killing Goliath?",
+    "choices": [
+      "The head of the Philistine",
+      "Goliath's armor",
+      "Goliath's spear",
+      "A bag of stones"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "54"
+    },
+    "explanation": "1 Samuel 17:54 says David took the head of the Philistine and brought it to Jerusalem.",
+    "verses": {
+      "kjv": "And David took the head of the Philistine, and brought it to Jerusalem; but he put his armour in his tent."
+    },
+    "id": "KNG-E-0033",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Jonathan give to David when they made a covenant?",
+    "choices": [
+      "His robe and his weapons",
+      "A crown and a scepter",
+      "A scroll of the law",
+      "A lamb for sacrifice"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "verse": "4"
+    },
+    "explanation": "1 Samuel 18:4 says Jonathan stripped himself of the robe that was upon him and gave it to David, along with his garments and weapons.",
+    "verses": {
+      "kjv": "And Jonathan stripped himself of the robe that was upon him, and gave it to David, and his garments, even to his sword, and to his bow, and to his girdle."
+    },
+    "id": "KNG-E-0034",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When David became king over all Israel, how old was he when he began to reign?",
+    "choices": [
+      "Thirty years old",
+      "Twenty years old",
+      "Forty years old",
+      "Fifty years old"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verse": "4"
+    },
+    "explanation": "2 Samuel 5:4 says David was thirty years old when he began to reign.",
+    "verses": {
+      "kjv": "David was thirty years old when he began to reign, and he reigned forty years."
+    },
+    "id": "KNG-E-0035",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many years did David reign according to 2 Samuel 5:4?",
+    "choices": [
+      "Forty years",
+      "Seven years",
+      "Twenty years",
+      "Seventy years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verse": "4"
+    },
+    "explanation": "2 Samuel 5:4 states that David reigned forty years.",
+    "verses": {
+      "kjv": "David was thirty years old when he began to reign, and he reigned forty years."
+    },
+    "id": "KNG-E-0036",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did David do when he danced before the LORD with all his might as the ark was brought up?",
+    "choices": [
+      "He was girded with a linen ephod",
+      "He wore his royal crown",
+      "He carried a golden scepter",
+      "He sat upon a throne"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verse": "14"
+    },
+    "explanation": "2 Samuel 6:14 says David danced before the LORD and was girded with a linen ephod.",
+    "verses": {
+      "kjv": "And David danced before the LORD with all his might; and David was girded with a linen ephod."
+    },
+    "id": "KNG-E-0037",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Michal, Saul's daughter, do when she saw king David leaping and dancing before the LORD?",
+    "choices": [
+      "She despised him in her heart",
+      "She praised him aloud",
+      "She joined him in dancing",
+      "She brought him a crown"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verse": "16"
+    },
+    "explanation": "2 Samuel 6:16 says Michal saw David leaping and dancing and despised him in her heart.",
+    "verses": {
+      "kjv": "And as the ark of the LORD came into the city of David, Michal Saul's daughter looked through a window, and saw king David leaping and dancing before the LORD; and she despised him in her heart."
+    },
+    "id": "KNG-E-0038",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who built the house of the LORD in Jerusalem?",
+    "choices": [
+      "Solomon",
+      "David",
+      "Saul",
+      "Nebuchadnezzar"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 6,
+      "verse": "1"
+    },
+    "explanation": "1 Kings 6:1 says Solomon began to build the house of the LORD in the fourth year of his reign over Israel.",
+    "verses": {
+      "kjv": "And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which is the second month, that he began to build the house of the LORD."
+    },
+    "id": "KNG-E-0039",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Solomon ask of God at Gibeon?",
+    "choices": [
+      "An understanding heart",
+      "Great riches",
+      "Long life only",
+      "A mighty army"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verse": "9"
+    },
+    "explanation": "1 Kings 3:9 records Solomon asking for an understanding heart to judge God's people and discern between good and bad.",
+    "verses": {
+      "kjv": "Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad: for who is able to judge this thy so great a people?"
+    },
+    "id": "KNG-E-0040",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did God give Solomon because he asked for an understanding heart?",
+    "choices": [
+      "A wise and an understanding heart",
+      "A chariot and horses",
+      "A kingdom over Egypt",
+      "A new temple in Samaria"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verse": "12"
+    },
+    "explanation": "1 Kings 3:12 says God gave Solomon a wise and an understanding heart so none was like him before or after.",
+    "verses": {
+      "kjv": "Behold, I have done according to thy words: lo, I have given thee a wise and an understanding heart; so that there was none like thee before thee, neither after thee shall any arise like unto thee."
+    },
+    "id": "KNG-E-0041",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did the queen of Sheba bring to Solomon as a gift?",
+    "choices": [
+      "Gold, spices, and precious stones",
+      "Silver, linen, and wheat",
+      "Horses, chariots, and iron",
+      "Oil, wool, and brass"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verse": "10"
+    },
+    "explanation": "1 Kings 10:10 says she gave the king an hundred and twenty talents of gold, spices very great store, and precious stones.",
+    "verses": {
+      "kjv": "And she gave the king an hundred and twenty talents of gold, and of spices very great store, and precious stones: there came no more such abundance of spices as these which the queen of Sheba gave to king Solomon."
+    },
+    "id": "KNG-E-0042",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "After Solomon died, which of his sons reigned in his stead?",
+    "choices": [
+      "Rehoboam",
+      "Jeroboam",
+      "Abijah",
+      "Hezekiah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verse": "43"
+    },
+    "explanation": "1 Kings 11:43 says Solomon slept with his fathers and Rehoboam his son reigned in his stead.",
+    "verses": {
+      "kjv": "And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead."
+    },
+    "id": "KNG-E-0043",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When Rehoboam asked the old men for counsel, what did they advise him to be to the people?",
+    "choices": [
+      "A servant",
+      "A master",
+      "A warrior",
+      "A judge only"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verse": "7"
+    },
+    "explanation": "1 Kings 12:7 says they advised him to be a servant to the people and speak good words, and they would be his servants for ever.",
+    "verses": {
+      "kjv": "And they spake unto him, saying, If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever."
+    },
+    "id": "KNG-E-0044",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Rehoboam answer the people instead of speaking good words?",
+    "choices": [
+      "My father chastised you with whips, but I will chastise you with scorpions",
+      "I will lower your burdens and taxes",
+      "I will give you rest and peace",
+      "I will rebuild the temple again"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verse": "14"
+    },
+    "explanation": "1 Kings 12:14 records Rehoboam speaking roughly, saying he would add to their yoke and chastise them with scorpions.",
+    "verses": {
+      "kjv": "And spake to them after the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father also chastised you with whips, but I will chastise you with scorpions."
+    },
+    "id": "KNG-E-0045",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which king of Judah was told by Isaiah, \"Set thine house in order; for thou shalt die\"?",
+    "choices": [
+      "Hezekiah",
+      "Josiah",
+      "Uzziah",
+      "Ahaz"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 20,
+      "verse": "1"
+    },
+    "explanation": "2 Kings 20:1 says Isaiah told Hezekiah to set his house in order because he would die and not live.",
+    "verses": {
+      "kjv": "In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set thine house in order; for thou shalt die, and not live."
+    },
+    "id": "KNG-E-0046",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How did Eliakim write the king of Assyria's title on the letter from Hezekiah?",
+    "choices": [
+      "Before the LORD",
+      "Before the priests",
+      "Before the people",
+      "Before the prophets"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verse": "14"
+    },
+    "explanation": "2 Kings 19:14 says Hezekiah went up into the house of the LORD and spread the letter before the LORD.",
+    "verses": {
+      "kjv": "And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD."
+    },
+    "id": "KNG-E-0047",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Daniel and his friends request instead of the king's meat and wine?",
+    "choices": [
+      "Pulse to eat and water to drink",
+      "Bread and honey",
+      "Fish and oil",
+      "Milk and butter"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Daniel",
+      "chapter": 1,
+      "verse": "12"
+    },
+    "explanation": "Daniel 1:12 records their request to be given pulse to eat and water to drink for ten days.",
+    "verses": {
+      "kjv": "Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat, and water to drink."
+    },
+    "id": "KNG-E-0048",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Nebuchadnezzar tell the wise men they must make known to him?",
+    "choices": [
+      "The dream and the interpretation",
+      "The law and the prophets",
+      "The names of the captives",
+      "The plan for the temple"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Daniel",
+      "chapter": 2,
+      "verse": "9"
+    },
+    "explanation": "Daniel 2:9 shows the king demanded the dream be told to him with its interpretation, or they would be cut in pieces.",
+    "verses": {
+      "kjv": "But if ye will not make known unto me the dream, there is but one decree for you: for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can shew me the interpretation thereof."
+    },
+    "id": "KNG-E-0049",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What happened to Nebuchadnezzar's image when a stone \"cut out without hands\" struck it?",
+    "choices": [
+      "It was broken to pieces",
+      "It was covered with gold again",
+      "It was carried to Babylon",
+      "It was set on fire by soldiers"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Daniel",
+      "chapter": 2,
+      "verse": "34"
+    },
+    "explanation": "Daniel 2:34 says the stone smote the image upon its feet and broke it to pieces.",
+    "verses": {
+      "kjv": "Thou sawest till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces."
+    },
+    "id": "KNG-E-0050",
+    "theme": "Kings & Rulers",
+    "difficulty": "easy"
+  }
+]

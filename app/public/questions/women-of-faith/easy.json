@@ -1,6 +1,6 @@
 [
   {
-    "id": "WOF-E-0001",
+    "id": "WOM-E-0001",
     "theme": "Women of Faith",
     "question": "Which woman became queen of Persia and saved the Jewish people from destruction?",
     "choices": [
@@ -22,7 +22,7 @@
     }
   },
   {
-    "id": "WOF-E-0002",
+    "id": "WOM-E-0002",
     "theme": "Women of Faith",
     "question": "Which woman said 'Where you go I will go, and where you stay I will stay'?",
     "choices": [
@@ -44,29 +44,7 @@
     }
   },
   {
-    "id": "WOF-E-0003",
-    "theme": "Women of Faith",
-    "question": "Who was the mother of John the Baptist?",
-    "choices": [
-      "Elizabeth",
-      "Hannah",
-      "Mary",
-      "Anna"
-    ],
-    "correctIndex": 0,
-    "difficulty": "easy",
-    "reference": {
-      "book": "Luke",
-      "chapter": 1,
-      "verse": "13"
-    },
-    "explanation": "Elizabeth, a relative of Mary, gave birth to John the Baptist in her old age.",
-    "verses": {
-      "kjv": "But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John."
-    }
-  },
-  {
-    "id": "WOF-E-0004",
+    "id": "WOM-E-0003",
     "theme": "Women of Faith",
     "question": "Which woman sold purple cloth and was converted by Paul in Philippi?",
     "choices": [
@@ -88,7 +66,7 @@
     }
   },
   {
-    "id": "WOF-E-0005",
+    "id": "WOM-E-0004",
     "theme": "Women of Faith",
     "question": "Which prophetess recognized baby Jesus as the Messiah in the temple?",
     "choices": [
@@ -110,7 +88,7 @@
     }
   },
   {
-    "id": "WOF-E-0006",
+    "id": "WOM-E-0005",
     "theme": "Women of Faith",
     "question": "Which woman was a judge in Israel?",
     "choices": [
@@ -132,7 +110,7 @@
     }
   },
   {
-    "id": "WOF-E-0007",
+    "id": "WOM-E-0006",
     "theme": "Women of Faith",
     "question": "Who did Boaz marry?",
     "choices": [
@@ -154,7 +132,7 @@
     }
   },
   {
-    "id": "WOF-E-0008",
+    "id": "WOM-E-0007",
     "theme": "Women of Faith",
     "question": "Who was the first woman mentioned in the Bible?",
     "choices": [
@@ -176,7 +154,7 @@
     }
   },
   {
-    "id": "WOF-E-0009",
+    "id": "WOM-E-0008",
     "theme": "Women of Faith",
     "question": "Who gave birth to Ishmael?",
     "choices": [
@@ -198,7 +176,7 @@
     }
   },
   {
-    "id": "WOF-E-0010",
+    "id": "WOM-E-0009",
     "theme": "Women of Faith",
     "question": "Who was Isaac's wife?",
     "choices": [
@@ -220,7 +198,7 @@
     }
   },
   {
-    "id": "WOF-E-0011",
+    "id": "WOM-E-0010",
     "theme": "Women of Faith",
     "question": "Who remained at Jesus' feet while her sister was busy with preparations?",
     "choices": [
@@ -242,7 +220,7 @@
     }
   },
   {
-    "id": "WOF-E-0012",
+    "id": "WOM-E-0011",
     "theme": "Women of Faith",
     "question": "Who was the mother of Samuel?",
     "choices": [
@@ -264,7 +242,7 @@
     }
   },
   {
-    "id": "WOF-E-0013",
+    "id": "WOM-E-0012",
     "theme": "Women of Faith",
     "question": "Who was the wife of Abraham?",
     "choices": [
@@ -286,7 +264,7 @@
     }
   },
   {
-    "id": "WOF-E-0014",
+    "id": "WOM-E-0013",
     "theme": "Women of Faith",
     "question": "Who did God tell would be the mother of nations?",
     "choices": [
@@ -308,7 +286,7 @@
     }
   },
   {
-    "id": "WOF-E-0015",
+    "id": "WOM-E-0014",
     "theme": "Women of Faith",
     "question": "Which woman said 'Your people will be my people and your God my God'?",
     "choices": [
@@ -330,7 +308,7 @@
     }
   },
   {
-    "id": "WOF-E-0016",
+    "id": "WOM-E-0015",
     "theme": "Women of Faith",
     "question": "Who became queen instead of Vashti?",
     "choices": [
@@ -352,7 +330,7 @@
     }
   },
   {
-    "id": "WOF-E-0017",
+    "id": "WOM-E-0016",
     "theme": "Women of Faith",
     "question": "Who helped the Israelite spies escape from Jericho?",
     "choices": [
@@ -374,7 +352,7 @@
     }
   },
   {
-    "id": "WOF-E-0018",
+    "id": "WOM-E-0017",
     "theme": "Women of Faith",
     "question": "Who hid the Israelite spies in Jericho?",
     "choices": [
@@ -396,7 +374,7 @@
     }
   },
   {
-    "id": "WOF-E-0019",
+    "id": "WOM-E-0018",
     "theme": "Women of Faith",
     "question": "Who was the sister of Moses and Aaron?",
     "choices": [
@@ -418,7 +396,7 @@
     }
   },
   {
-    "id": "WOF-E-0020",
+    "id": "WOM-E-0019",
     "theme": "Women of Faith",
     "question": "Which woman hid Israelite spies in Jericho?",
     "choices": [
@@ -440,29 +418,7 @@
     }
   },
   {
-    "id": "WOF-E-0021",
-    "theme": "Women of Faith",
-    "question": "Which woman was turned into a pillar of salt?",
-    "choices": [
-      "Lot's wife",
-      "Sarah",
-      "Hagar",
-      "Leah"
-    ],
-    "correctIndex": 0,
-    "difficulty": "easy",
-    "reference": {
-      "book": "Genesis",
-      "chapter": 19,
-      "verse": "26"
-    },
-    "explanation": "Lot's wife looked back at Sodom and Gomorrah despite being warned not to, and became a pillar of salt.",
-    "verses": {
-      "kjv": "But his wife looked back from behind him, and she became a pillar of salt."
-    }
-  },
-  {
-    "id": "WOF-E-0022",
+    "id": "WOM-E-0020",
     "theme": "Women of Faith",
     "question": "Who poured expensive perfume on Jesus' feet?",
     "choices": [
@@ -484,7 +440,7 @@
     }
   },
   {
-    "id": "WOF-E-0023",
+    "id": "WOM-E-0021",
     "theme": "Women of Faith",
     "question": "Who was the first person to see the risen Christ?",
     "choices": [
@@ -506,7 +462,7 @@
     }
   },
   {
-    "id": "WOF-E-0024",
+    "id": "WOM-E-0022",
     "theme": "Women of Faith",
     "question": "Who was commended for choosing what is better - sitting at Jesus' feet?",
     "choices": [
@@ -528,7 +484,7 @@
     }
   },
   {
-    "id": "WOF-E-0025",
+    "id": "WOM-E-0023",
     "theme": "Women of Faith",
     "question": "Which woman was a seller of purple cloth?",
     "choices": [
@@ -550,7 +506,7 @@
     }
   },
   {
-    "id": "WOF-E-0026",
+    "id": "WOM-E-0024",
     "theme": "Women of Faith",
     "question": "Who was the first female judge of Israel?",
     "choices": [
@@ -572,7 +528,7 @@
     }
   },
   {
-    "id": "WOF-E-0027",
+    "id": "WOM-E-0025",
     "theme": "Women of Faith",
     "question": "Which woman hid spies on her roof?",
     "choices": [
@@ -594,7 +550,7 @@
     }
   },
   {
-    "id": "WOF-E-0028",
+    "id": "WOM-E-0026",
     "theme": "Women of Faith",
     "question": "Who was the wife of Aquila?",
     "choices": [
@@ -616,7 +572,7 @@
     }
   },
   {
-    "id": "WOF-E-0029",
+    "id": "WOM-E-0027",
     "theme": "Women of Faith",
     "question": "Who was the queen that visited Solomon?",
     "choices": [
@@ -638,7 +594,7 @@
     }
   },
   {
-    "id": "WOF-E-0030",
+    "id": "WOM-E-0028",
     "theme": "Women of Faith",
     "question": "Who was Boaz's wife?",
     "choices": [
@@ -660,7 +616,7 @@
     }
   },
   {
-    "id": "WOF-E-0031",
+    "id": "WOM-E-0029",
     "theme": "Women of Faith",
     "question": "Who was known for her beauty and became Queen of Persia?",
     "choices": [
@@ -682,7 +638,7 @@
     }
   },
   {
-    "id": "WOF-E-0032",
+    "id": "WOM-E-0030",
     "theme": "Women of Faith",
     "question": "Who was the prophetess who led Israel in battle?",
     "choices": [
@@ -704,7 +660,7 @@
     }
   },
   {
-    "id": "WOF-E-0033",
+    "id": "WOM-E-0031",
     "theme": "Women of Faith",
     "question": "Which woman killed Sisera with a tent peg?",
     "choices": [
@@ -726,7 +682,7 @@
     }
   },
   {
-    "id": "WOF-E-0034",
+    "id": "WOM-E-0032",
     "theme": "Women of Faith",
     "question": "Which woman said, 'Where you go I will go'?",
     "choices": [
@@ -748,7 +704,7 @@
     }
   },
   {
-    "id": "WOF-E-0035",
+    "id": "WOM-E-0033",
     "theme": "Women of Faith",
     "question": "Which woman hid the spies and hung a scarlet cord from her window?",
     "choices": [
@@ -770,7 +726,7 @@
     }
   },
   {
-    "id": "WOF-E-0036",
+    "id": "WOM-E-0034",
     "theme": "Women of Faith",
     "question": "Which woman's prayer for a son led to the birth of Samuel?",
     "choices": [
@@ -792,7 +748,7 @@
     }
   },
   {
-    "id": "WOF-E-0037",
+    "id": "WOM-E-0035",
     "theme": "Women of Faith",
     "question": "Which woman became queen instead of Vashti?",
     "choices": [
@@ -814,7 +770,7 @@
     }
   },
   {
-    "id": "WOF-E-0038",
+    "id": "WOM-E-0036",
     "theme": "Women of Faith",
     "question": "Who was Esther's cousin who raised her?",
     "choices": [
@@ -836,7 +792,7 @@
     }
   },
   {
-    "id": "WOF-E-0039",
+    "id": "WOM-E-0037",
     "theme": "Women of Faith",
     "question": "Who was the mother of Isaac?",
     "choices": [
@@ -858,7 +814,7 @@
     }
   },
   {
-    "id": "WOF-E-0040",
+    "id": "WOM-E-0038",
     "theme": "Women of Faith",
     "question": "Who was Ishmael's mother?",
     "choices": [
@@ -880,7 +836,7 @@
     }
   },
   {
-    "id": "WOF-E-0041",
+    "id": "WOM-E-0039",
     "theme": "Women of Faith",
     "question": "Who was Jacob's favorite wife?",
     "choices": [
@@ -902,7 +858,7 @@
     }
   },
   {
-    "id": "WOF-E-0042",
+    "id": "WOM-E-0040",
     "theme": "Women of Faith",
     "question": "Who was Jacob's first wife?",
     "choices": [
@@ -924,7 +880,7 @@
     }
   },
   {
-    "id": "WOF-E-0043",
+    "id": "WOM-E-0041",
     "theme": "Women of Faith",
     "question": "Who was the mother of Joseph?",
     "choices": [
@@ -946,7 +902,7 @@
     }
   },
   {
-    "id": "WOF-E-0044",
+    "id": "WOM-E-0042",
     "theme": "Women of Faith",
     "question": "Who was the Moabite woman who became the great-great-grandmother of King David?",
     "choices": [
@@ -968,7 +924,7 @@
     }
   },
   {
-    "id": "WOF-E-0045",
+    "id": "WOM-E-0043",
     "theme": "Women of Faith",
     "question": "Which woman worked alongside her husband Aquila as tentmakers and fellow workers with Paul?",
     "choices": [
@@ -1007,7 +963,7 @@
     "verses": {
       "kjv": "And when her days to be delivered were fulfilled, behold, there were twins in her womb."
     },
-    "id": "WOM-E-0001",
+    "id": "WOM-E-0044",
     "theme": "Women of Faith",
     "difficulty": "easy"
   },
@@ -1029,7 +985,7 @@
     "verses": {
       "kjv": "And Amram took him Jochebed his father's sister to wife; and she bare him Aaron and Moses: and the years of the life of Amram were an hundred and thirty and seven years."
     },
-    "id": "WOM-E-0002",
+    "id": "WOM-E-0045",
     "theme": "Women of Faith",
     "difficulty": "easy"
   },
@@ -1051,7 +1007,7 @@
     "verses": {
       "kjv": "And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time."
     },
-    "id": "WOM-E-0003",
+    "id": "WOM-E-0046",
     "theme": "Women of Faith",
     "difficulty": "easy"
   },
@@ -1073,7 +1029,7 @@
     "verses": {
       "kjv": "So Boaz took Ruth, and she was his wife: and when he went in unto her, the LORD gave her conception, and she bare a son."
     },
-    "id": "WOM-E-0004",
+    "id": "WOM-E-0047",
     "theme": "Women of Faith",
     "difficulty": "easy"
   },
@@ -1095,7 +1051,51 @@
     "verses": {
       "kjv": "And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me."
     },
-    "id": "WOM-E-0005",
+    "id": "WOM-E-0048",
+    "theme": "Women of Faith",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Ruth, what did Naomi say about the LORD's kindness toward the living and the dead when she heard who had taken notice of Ruth?",
+    "choices": [
+      "Blessed be he of the LORD, who hath not left off his kindness to the living and to the dead",
+      "The LORD hath forsaken us in the land",
+      "The LORD will remove us from Bethlehem",
+      "Blessed be the harvest, for it is plentiful"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ruth",
+      "chapter": 2,
+      "verse": "20"
+    },
+    "explanation": "Ruth 2:20 records Naomi blessing the LORD for kindness shown to the living and the dead.",
+    "verses": {
+      "kjv": "And Naomi said unto her daughter in law, Blessed be he of the LORD, who hath not left off his kindness to the living and to the dead. And Naomi said unto her, The man is near of kin unto us, one of our next kinsmen."
+    },
+    "id": "WOM-E-0049",
+    "theme": "Women of Faith",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Luke, what did Elizabeth say Mary was, because she believed what was told her from the Lord?",
+    "choices": [
+      "Blessed",
+      "Cursed",
+      "Unwise",
+      "Rejected"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 1,
+      "verse": "45"
+    },
+    "explanation": "Luke 1:45 says Elizabeth called Mary blessed because she believed the things spoken to her from the Lord would be fulfilled.",
+    "verses": {
+      "kjv": "And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord."
+    },
+    "id": "WOM-E-0050",
     "theme": "Women of Faith",
     "difficulty": "easy"
   }

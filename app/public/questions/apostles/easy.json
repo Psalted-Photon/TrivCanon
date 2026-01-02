@@ -68,28 +68,6 @@
   {
     "id": "APO-E-0004",
     "theme": "Apostles",
-    "question": "What was Peter's original name before Jesus renamed him?",
-    "choices": [
-      "Simon",
-      "Andrew",
-      "Cephas",
-      "Jonas"
-    ],
-    "correctIndex": 0,
-    "difficulty": "easy",
-    "reference": {
-      "book": "John",
-      "chapter": 1,
-      "verse": "42"
-    },
-    "explanation": "Jesus renamed Simon to Cephas (Peter), which means rock.",
-    "verses": {
-      "kjv": "And he brought him to Jesus. And when Jesus beheld him, he said,\nThou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone."
-    }
-  },
-  {
-    "id": "APO-E-0005",
-    "theme": "Apostles",
     "question": "On what road was Paul traveling when he encountered Jesus?",
     "choices": [
       "Road to Damascus",
@@ -110,7 +88,7 @@
     }
   },
   {
-    "id": "APO-E-0006",
+    "id": "APO-E-0005",
     "theme": "Apostles",
     "question": "What was Judas Iscariot's role among the disciples?",
     "choices": [
@@ -132,7 +110,7 @@
     }
   },
   {
-    "id": "APO-E-0007",
+    "id": "APO-E-0006",
     "theme": "Apostles",
     "question": "How did Judas identify Jesus to the soldiers?",
     "choices": [
@@ -154,7 +132,7 @@
     }
   },
   {
-    "id": "APO-E-0008",
+    "id": "APO-E-0007",
     "theme": "Apostles",
     "question": "Which apostle did Jesus call the 'rock'?",
     "choices": [
@@ -176,7 +154,7 @@
     }
   },
   {
-    "id": "APO-E-0009",
+    "id": "APO-E-0008",
     "theme": "Apostles",
     "question": "What was Peter doing when Jesus called him?",
     "choices": [
@@ -198,29 +176,7 @@
     }
   },
   {
-    "question": "Who replaced Judas Iscariot as the twelfth apostle?",
-    "choices": [
-      "Matthias",
-      "Barnabas",
-      "Timothy",
-      "Silas"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Acts",
-      "chapter": 1,
-      "verse": "26"
-    },
-    "explanation": "After Judas' betrayal and death, the apostles cast lots between Joseph called Barsabas and Matthias, and the lot fell to Matthias.",
-    "verses": {
-      "kjv": "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles."
-    },
-    "id": "APO-E-0010",
-    "theme": "Apostles",
-    "difficulty": "easy"
-  },
-  {
-    "id": "APO-E-0011",
+    "id": "APO-E-0009",
     "theme": "Apostles",
     "question": "How many apostles did Jesus choose?",
     "choices": [
@@ -242,7 +198,7 @@
     }
   },
   {
-    "id": "APO-E-0012",
+    "id": "APO-E-0010",
     "theme": "Apostles",
     "question": "Who was stoned to death, becoming the first Christian martyr?",
     "choices": [
@@ -264,7 +220,7 @@
     }
   },
   {
-    "id": "APO-E-0013",
+    "id": "APO-E-0011",
     "theme": "Apostles",
     "question": "Who cut off the high priest's servant's ear?",
     "choices": [
@@ -286,7 +242,7 @@
     }
   },
   {
-    "id": "APO-E-0014",
+    "id": "APO-E-0012",
     "theme": "Apostles",
     "question": "How many times did Peter deny Jesus?",
     "choices": [
@@ -308,7 +264,7 @@
     }
   },
   {
-    "id": "APO-E-0015",
+    "id": "APO-E-0013",
     "theme": "Apostles",
     "question": "What trade did Paul work with his hands to support his ministry?",
     "choices": [
@@ -330,7 +286,7 @@
     }
   },
   {
-    "id": "APO-E-0016",
+    "id": "APO-E-0014",
     "theme": "Apostles",
     "question": "Which apostle was called 'the beloved disciple'?",
     "choices": [
@@ -352,7 +308,7 @@
     }
   },
   {
-    "id": "APO-E-0017",
+    "id": "APO-E-0015",
     "theme": "Apostles",
     "question": "Which apostle was a tax collector?",
     "choices": [
@@ -374,7 +330,7 @@
     }
   },
   {
-    "id": "APO-E-0018",
+    "id": "APO-E-0016",
     "theme": "Apostles",
     "question": "Which apostle walked on water with Jesus?",
     "choices": [
@@ -396,29 +352,7 @@
     }
   },
   {
-    "question": "Which apostle was known as 'the Zealot'?",
-    "choices": [
-      "Simon",
-      "Judas",
-      "Matthew",
-      "Thaddaeus"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Luke",
-      "chapter": 6,
-      "verse": "15"
-    },
-    "explanation": "Simon the Zealot was one of the twelve apostles, distinguished from Simon Peter by this designation.",
-    "verses": {
-      "kjv": "Matthew and Thomas, James the son of Alphaeus, and Simon called Zelotes,"
-    },
-    "id": "APO-E-0019",
-    "theme": "Apostles",
-    "difficulty": "easy"
-  },
-  {
-    "id": "APO-E-0020",
+    "id": "APO-E-0017",
     "theme": "Apostles",
     "question": "Which apostle wrote the most New Testament books?",
     "choices": [
@@ -440,7 +374,7 @@
     }
   },
   {
-    "id": "APO-E-0021",
+    "id": "APO-E-0018",
     "theme": "Apostles",
     "question": "Which apostle was present at Jesus' transfiguration?",
     "choices": [
@@ -462,7 +396,7 @@
     }
   },
   {
-    "id": "APO-E-0022",
+    "id": "APO-E-0019",
     "theme": "Apostles",
     "question": "Who was the apostle to the Gentiles?",
     "choices": [
@@ -501,51 +435,7 @@
     "verses": {
       "kjv": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph."
     },
-    "id": "APO-E-0023",
-    "theme": "Apostles",
-    "difficulty": "easy"
-  },
-  {
-    "question": "What was Matthew also called?",
-    "choices": [
-      "Levi",
-      "Thaddaeus",
-      "Judas",
-      "Simon"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Mark",
-      "chapter": 2,
-      "verse": "14"
-    },
-    "explanation": "The tax collector who became an apostle was known both as Matthew and as Levi, son of Alphaeus.",
-    "verses": {
-      "kjv": "And as he passed by, he saw Levi the son of Alphaeus sitting at the receipt of custom, and said unto him, Follow me. And he arose and followed him."
-    },
-    "id": "APO-E-0024",
-    "theme": "Apostles",
-    "difficulty": "easy"
-  },
-  {
-    "question": "Which apostle brought Nathanael to Jesus?",
-    "choices": [
-      "Philip",
-      "Andrew",
-      "Matthew",
-      "Bartholomew"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "John",
-      "chapter": 1,
-      "verse": "45"
-    },
-    "explanation": "Philip found Nathanael and told him they had found the one Moses and the prophets wrote about.",
-    "verses": {
-      "kjv": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph."
-    },
-    "id": "APO-E-0025",
+    "id": "APO-E-0020",
     "theme": "Apostles",
     "difficulty": "easy"
   },
@@ -567,12 +457,12 @@
     "verses": {
       "kjv": "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see."
     },
-    "id": "APO-E-0026",
+    "id": "APO-E-0021",
     "theme": "Apostles",
     "difficulty": "easy"
   },
   {
-    "id": "APO-E-0027",
+    "id": "APO-E-0022",
     "theme": "Apostles",
     "question": "Who was Peter's brother?",
     "choices": [
@@ -594,7 +484,7 @@
     }
   },
   {
-    "id": "APO-E-0028",
+    "id": "APO-E-0023",
     "theme": "Apostles",
     "question": "Which apostle is referred to as 'the disciple whom Jesus loved'?",
     "choices": [
@@ -633,12 +523,12 @@
     "verses": {
       "kjv": "And Judas the brother of James, and Judas Iscariot, which also was the traitor."
     },
-    "id": "APO-E-0029",
+    "id": "APO-E-0024",
     "theme": "Apostles",
     "difficulty": "easy"
   },
   {
-    "id": "APO-E-0030",
+    "id": "APO-E-0025",
     "theme": "Apostles",
     "question": "Where was Paul when he was blinded by a great light?",
     "choices": [
@@ -660,7 +550,7 @@
     }
   },
   {
-    "id": "APO-E-0031",
+    "id": "APO-E-0026",
     "theme": "Apostles",
     "question": "What did Jesus command His disciples to do after His resurrection?",
     "choices": [
@@ -682,7 +572,7 @@
     }
   },
   {
-    "id": "APO-E-0032",
+    "id": "APO-E-0027",
     "theme": "Apostles",
     "question": "On which day of the week did the disciples meet when Jesus appeared to them after resurrection?",
     "choices": [
@@ -704,7 +594,7 @@
     }
   },
   {
-    "id": "APO-E-0033",
+    "id": "APO-E-0028",
     "theme": "Apostles",
     "question": "What did the apostles do after Jesus ascended into heaven?",
     "choices": [
@@ -726,7 +616,7 @@
     }
   },
   {
-    "id": "APO-E-0034",
+    "id": "APO-E-0029",
     "theme": "Apostles",
     "question": "Which apostle betrayed Jesus?",
     "choices": [
@@ -748,7 +638,7 @@
     }
   },
   {
-    "id": "APO-E-0035",
+    "id": "APO-E-0030",
     "theme": "Apostles",
     "question": "Which apostle denied Jesus three times?",
     "choices": [
@@ -787,7 +677,7 @@
     "verses": {
       "kjv": "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel."
     },
-    "id": "APO-E-0036",
+    "id": "APO-E-0031",
     "theme": "Apostles",
     "difficulty": "easy"
   },
@@ -809,7 +699,7 @@
     "verses": {
       "kjv": "There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many?"
     },
-    "id": "APO-E-0037",
+    "id": "APO-E-0032",
     "theme": "Apostles",
     "difficulty": "easy"
   },
@@ -831,12 +721,12 @@
     "verses": {
       "kjv": "Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?"
     },
-    "id": "APO-E-0038",
+    "id": "APO-E-0033",
     "theme": "Apostles",
     "difficulty": "easy"
   },
   {
-    "id": "APO-E-0039",
+    "id": "APO-E-0034",
     "theme": "Apostles",
     "question": "What did Jesus promise to make Peter and Andrew?",
     "choices": [
@@ -875,12 +765,12 @@
     "verses": {
       "kjv": "And they straightway left their nets, and followed him."
     },
-    "id": "APO-E-0040",
+    "id": "APO-E-0035",
     "theme": "Apostles",
     "difficulty": "easy"
   },
   {
-    "id": "APO-E-0041",
+    "id": "APO-E-0036",
     "theme": "Apostles",
     "question": "Which apostle is known for his epistles in the New Testament?",
     "choices": [
@@ -902,7 +792,7 @@
     }
   },
   {
-    "id": "APO-E-0042",
+    "id": "APO-E-0037",
     "theme": "Apostles",
     "question": "Which apostle wrote the Gospel that bears his name and three epistles?",
     "choices": [
@@ -924,7 +814,7 @@
     }
   },
   {
-    "id": "APO-E-0043",
+    "id": "APO-E-0038",
     "theme": "Apostles",
     "question": "Which apostle was the son of Zebedee?",
     "choices": [
@@ -946,7 +836,7 @@
     }
   },
   {
-    "id": "APO-E-0044",
+    "id": "APO-E-0039",
     "theme": "Apostles",
     "question": "Who was called to follow Jesus while sitting at the tax office?",
     "choices": [
@@ -985,12 +875,12 @@
     "verses": {
       "kjv": "Simon the Canaanite, and Judas Iscariot, who also betrayed him."
     },
-    "id": "APO-E-0045",
+    "id": "APO-E-0040",
     "theme": "Apostles",
     "difficulty": "easy"
   },
   {
-    "id": "APO-E-0046",
+    "id": "APO-E-0041",
     "theme": "Apostles",
     "question": "How many pieces of silver did Judas receive for betraying Jesus?",
     "choices": [
@@ -1029,12 +919,12 @@
     "verses": {
       "kjv": "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles."
     },
-    "id": "APO-E-0047",
+    "id": "APO-E-0042",
     "theme": "Apostles",
     "difficulty": "easy"
   },
   {
-    "id": "APO-E-0048",
+    "id": "APO-E-0043",
     "theme": "Apostles",
     "question": "Which of the twelve apostles was the first to be killed for his faith?",
     "choices": [
@@ -1056,7 +946,7 @@
     }
   },
   {
-    "id": "APO-E-0049",
+    "id": "APO-E-0044",
     "theme": "Apostles",
     "question": "Which apostle said to Jesus, 'Show us the Father'?",
     "choices": [
@@ -1078,7 +968,7 @@
     }
   },
   {
-    "id": "APO-E-0050",
+    "id": "APO-E-0045",
     "theme": "Apostles",
     "question": "What name did Jesus give to Simon?",
     "choices": [
@@ -1098,5 +988,115 @@
     "verses": {
       "kjv": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone."
     }
+  },
+  {
+    "question": "Which apostle was a chief speaker at Pentecost when people began speaking with other tongues?",
+    "choices": [
+      "Peter",
+      "Andrew",
+      "Jude",
+      "Bartholomew"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 2,
+      "verse": "14"
+    },
+    "explanation": "Acts says Peter stood up with the eleven and lifted up his voice to address the people.",
+    "verses": {
+      "kjv": "But Peter, standing up with the eleven, lifted up his voice, and said unto them, Ye men of Judaea, and all ye that dwell at Jerusalem, be this known unto you, and hearken to my words:"
+    },
+    "id": "APO-E-0046",
+    "theme": "Apostles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which apostle did Jesus call \"a true Israelite, in whom is no guile\"?",
+    "choices": [
+      "Nathanael",
+      "Thomas",
+      "Andrew",
+      "James"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "John",
+      "chapter": 1,
+      "verse": "47"
+    },
+    "explanation": "Jesus said this about Nathanael when He saw him coming.",
+    "verses": {
+      "kjv": "Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!"
+    },
+    "id": "APO-E-0047",
+    "theme": "Apostles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When Jesus washed the disciples' feet, who said, \"Lord, not my feet only, but also my hands and my head\"?",
+    "choices": [
+      "Simon Peter",
+      "John",
+      "Philip",
+      "Bartholomew"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "John",
+      "chapter": 13,
+      "verse": "9"
+    },
+    "explanation": "Peter responded this way after Jesus told him he would have no part with Him unless He washed him.",
+    "verses": {
+      "kjv": "Simon Peter saith unto him, Lord, not my feet only, but also my hands and my head."
+    },
+    "id": "APO-E-0048",
+    "theme": "Apostles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which apostles were called \"Boanerges, which is, The sons of thunder\"?",
+    "choices": [
+      "James and John",
+      "Peter and Andrew",
+      "Philip and Bartholomew",
+      "Thomas and Matthew"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Mark",
+      "chapter": 3,
+      "verse": "17"
+    },
+    "explanation": "Mark says Jesus surnamed James and John \"Boanerges\" meaning \"The sons of thunder.\"",
+    "verses": {
+      "kjv": "And James the son of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:"
+    },
+    "id": "APO-E-0049",
+    "theme": "Apostles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When Jesus asked, \"Whom say ye that I am?\" who answered, \"Thou art the Christ, the Son of the living God\"?",
+    "choices": [
+      "Simon Peter",
+      "Philip",
+      "Thomas",
+      "Andrew"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 16,
+      "verse": "16"
+    },
+    "explanation": "Peter confessed Jesus as the Christ, the Son of the living God.",
+    "verses": {
+      "kjv": "And Simon Peter answered and said, Thou art the Christ, the Son of the living God."
+    },
+    "id": "APO-E-0050",
+    "theme": "Apostles",
+    "difficulty": "easy"
   }
 ]

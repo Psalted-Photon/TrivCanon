@@ -306,17 +306,110 @@ def audit_questions(questions: list) -> dict:
     }
 
 
-def print_avoid_list(existing: list) -> None:
-    if not existing:
+def _parse_verse_token_to_int(token: str) -> int | None:
+    token = (token or "").strip()
+    if not token:
+        return None
+    digits = "".join(ch for ch in token if ch.isdigit())
+    if not digits:
+        return None
+    try:
+        value = int(digits)
+    except ValueError:
+        return None
+    return value if value > 0 else None
+
+
+def base_verses_from_reference(ref: dict) -> set[str]:
+    """Return base verse keys for a reference, counting ranges as multiple verses.
+
+    Example: John 3:"16" -> {"John 3:16"}
+             John 3:"16-18" -> {"John 3:16","John 3:17","John 3:18"}
+             John 3:"16,18-19" -> {"John 3:16","John 3:18","John 3:19"}
+
+    Scope is per theme+difficulty file; cross-difficulty duplicates are allowed.
+    """
+    if not isinstance(ref, dict):
+        return set()
+
+    book = (ref.get("book") or "").strip()
+    chapter = ref.get("chapter")
+    verse_field = (ref.get("verse") or "").strip()
+    if not book or not isinstance(chapter, int) or chapter <= 0 or not verse_field:
+        return set()
+
+    keys: set[str] = set()
+    # Normalize separators. We support commas and semicolons as separators.
+    parts = [p.strip() for p in verse_field.replace(";", ",").split(",") if p.strip()]
+    for part in parts:
+        if "-" in part:
+            left, right = part.split("-", 1)
+            start = _parse_verse_token_to_int(left)
+            end = _parse_verse_token_to_int(right)
+            if start is None or end is None:
+                continue
+            if end < start:
+                start, end = end, start
+            # Safety cap to avoid pathological ranges.
+            if end - start > 199:
+                end = start + 199
+            for v in range(start, end + 1):
+                keys.add(f"{book} {chapter}:{v}")
+        else:
+            v = _parse_verse_token_to_int(part)
+            if v is None:
+                continue
+            keys.add(f"{book} {chapter}:{v}")
+
+    return keys
+
+
+def collect_existing_base_verses(existing: list) -> set[str]:
+    used: set[str] = set()
+    for q in existing:
+        if not isinstance(q, dict):
+            continue
+        used |= base_verses_from_reference(q.get("reference") or {})
+    return used
+
+
+def chapter_key_from_reference(ref: dict) -> str | None:
+    """Return a Book+Chapter key like 'John 3'. Used for prompt guidance only."""
+    if not isinstance(ref, dict):
+        return None
+    book = (ref.get("book") or "").strip()
+    chapter = ref.get("chapter")
+    if not book or not isinstance(chapter, int) or chapter <= 0:
+        return None
+    return f"{book} {chapter}"
+
+
+def print_avoid_chapters_guidance(existing: list) -> None:
+    """Print a chapter-level list to suggest variety.
+
+    This is NOT enforced. Chapter reuse is allowed; only duplicate question text is rejected.
+    """
+    used: set[str] = set()
+    for q in existing:
+        if not isinstance(q, dict):
+            continue
+        key = chapter_key_from_reference(q.get("reference") or {})
+        if key:
+            used.add(key)
+
+    if not used:
         return
 
-    # Show a small slice to keep prompts usable.
-    # Prefer the most recent questions (tend to be what you just added).
-    recent = [q.get("question", "") for q in existing if isinstance(q, dict) and q.get("question")][-AVOID_LIST_PREVIEW_LIMIT:]
-    print(f"5. DO NOT duplicate or rephrase these existing questions (sample of {len(recent)}):")
+    chapters = sorted(used)
+    print(f"Chapters already used in this file (guidance only; {len(chapters)} total):")
     print()
-    for qt in recent:
-        print(f"- {qt}")
+    for ch_key in chapters:
+        print(f"- {ch_key}")
+
+
+def print_avoid_list(existing: list) -> None:
+    # Backward-compatible name.
+    print_avoid_chapters_guidance(existing)
 
 
 def parse_pasted_json_array() -> list:
@@ -441,6 +534,7 @@ def main():
             print("2. KJV reference + KJV verse text required for each question")
             print("3. Exactly 4 choices; correctIndex must match the correct choice")
             print("4. Avoid any question requiring arithmetic totals unless the verse states the number")
+            print("5. Prefer chapters NOT listed below (guidance only; not enforced).")
 
             print_avoid_list(existing)
 

@@ -266,28 +266,6 @@
   {
     "id": "BAT-E-0013",
     "theme": "Battles & Conquests",
-    "question": "Which judge defeated the Midianites with only 300 men?",
-    "choices": [
-      "Gideon",
-      "Samson",
-      "Jephthah",
-      "Ehud"
-    ],
-    "correctIndex": 0,
-    "difficulty": "easy",
-    "reference": {
-      "book": "Judges",
-      "chapter": 7,
-      "verse": "7"
-    },
-    "explanation": "God reduced Gideon's army to 300 men who defeated the Midianites with trumpets, torches, and jars.",
-    "verses": {
-      "kjv": "And the LORD said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the\nother people go every man unto his place."
-    }
-  },
-  {
-    "id": "BAT-E-0014",
-    "theme": "Battles & Conquests",
     "question": "Who killed 1,000 men with the jawbone of a donkey?",
     "choices": [
       "Samson",
@@ -308,7 +286,7 @@
     }
   },
   {
-    "id": "BAT-E-0015",
+    "id": "BAT-E-0014",
     "theme": "Battles & Conquests",
     "question": "What did Samson use to kill 1,000 Philistines?",
     "choices": [
@@ -330,7 +308,7 @@
     }
   },
   {
-    "id": "BAT-E-0016",
+    "id": "BAT-E-0015",
     "theme": "Battles & Conquests",
     "question": "Who defeated the Midianites with only 300 men?",
     "choices": [
@@ -352,7 +330,7 @@
     }
   },
   {
-    "id": "BAT-E-0017",
+    "id": "BAT-E-0016",
     "theme": "Battles & Conquests",
     "question": "Which city's walls fell after the Israelites marched around it?",
     "choices": [
@@ -374,7 +352,7 @@
     }
   },
   {
-    "id": "BAT-E-0018",
+    "id": "BAT-E-0017",
     "theme": "Battles & Conquests",
     "question": "Who led the Israelites into the Promised Land?",
     "choices": [
@@ -396,7 +374,7 @@
     }
   },
   {
-    "id": "BAT-E-0019",
+    "id": "BAT-E-0018",
     "theme": "Battles & Conquests",
     "question": "How did David kill Goliath?",
     "choices": [
@@ -418,7 +396,7 @@
     }
   },
   {
-    "id": "BAT-E-0020",
+    "id": "BAT-E-0019",
     "theme": "Battles & Conquests",
     "question": "How many Philistines did Samson kill with the jawbone of a donkey?",
     "choices": [
@@ -440,7 +418,7 @@
     }
   },
   {
-    "id": "BAT-E-0021",
+    "id": "BAT-E-0020",
     "theme": "Battles & Conquests",
     "question": "Who betrayed Samson?",
     "choices": [
@@ -462,7 +440,7 @@
     }
   },
   {
-    "id": "BAT-E-0022",
+    "id": "BAT-E-0021",
     "theme": "Battles & Conquests",
     "question": "What was the source of Samson's strength?",
     "choices": [
@@ -484,7 +462,7 @@
     }
   },
   {
-    "id": "BAT-E-0023",
+    "id": "BAT-E-0022",
     "theme": "Battles & Conquests",
     "question": "How did Samson die?",
     "choices": [
@@ -506,7 +484,7 @@
     }
   },
   {
-    "id": "BAT-E-0024",
+    "id": "BAT-E-0023",
     "theme": "Battles & Conquests",
     "question": "What did Joshua command to stand still?",
     "choices": [
@@ -528,7 +506,7 @@
     }
   },
   {
-    "id": "BAT-E-0026",
+    "id": "BAT-E-0024",
     "theme": "Battles & Conquests",
     "question": "What weapon did David use to defeat Goliath?",
     "choices": [
@@ -550,7 +528,7 @@
     }
   },
   {
-    "id": "BAT-E-0027",
+    "id": "BAT-E-0025",
     "theme": "Battles & Conquests",
     "question": "Which city's walls fell down after the Israelites marched around it?",
     "choices": [
@@ -589,7 +567,7 @@
     "verses": {
       "kjv": "And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, that Amalek prevailed."
     },
-    "id": "BAT-E-0028",
+    "id": "BAT-E-0026",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -611,7 +589,7 @@
     "verses": {
       "kjv": "And Moses built an altar, and called the name of it Jehovahnissi:"
     },
-    "id": "BAT-E-0029",
+    "id": "BAT-E-0027",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -633,7 +611,7 @@
     "verses": {
       "kjv": "And Joshua had commanded the people, saying, Ye shall not shout, nor make any noise with your voice, neither shall any word proceed out of your mouth, until the day I bid you shout; then shall ye shout."
     },
-    "id": "BAT-E-0030",
+    "id": "BAT-E-0028",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -655,7 +633,7 @@
     "verses": {
       "kjv": "And ye shall compass the city, all ye men of war, and go round about the city once. Thus shalt thou do six days."
     },
-    "id": "BAT-E-0031",
+    "id": "BAT-E-0029",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -677,7 +655,7 @@
     "verses": {
       "kjv": "Then Jael Heber's wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died."
     },
-    "id": "BAT-E-0032",
+    "id": "BAT-E-0030",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -699,7 +677,7 @@
     "verses": {
       "kjv": "And Deborah said unto Barak, Up; for this is the day in which the LORD hath delivered Sisera into thine hand: is not the LORD gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him."
     },
-    "id": "BAT-E-0033",
+    "id": "BAT-E-0031",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -721,7 +699,7 @@
     "verses": {
       "kjv": "But Adoni-bezek fled; and they pursued after him, and caught him, and cut off his thumbs and his great toes."
     },
-    "id": "BAT-E-0034",
+    "id": "BAT-E-0032",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -743,7 +721,7 @@
     "verses": {
       "kjv": "And the LORD discomfited Sisera, and all his chariots, and all his host, with the edge of the sword before Barak; so that Sisera lighted down off his chariot, and fled away on his feet."
     },
-    "id": "BAT-E-0035",
+    "id": "BAT-E-0033",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -765,7 +743,7 @@
     "verses": {
       "kjv": "When the Philistines took the ark of God, they brought it into the house of Dagon, and set it by Dagon."
     },
-    "id": "BAT-E-0036",
+    "id": "BAT-E-0034",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -787,7 +765,7 @@
     "verses": {
       "kjv": "And when they of Ashdod arose early on the morrow, behold, Dagon was fallen upon his face to the ground before the ark of the LORD. And they took Dagon, and set him in his place again."
     },
-    "id": "BAT-E-0037",
+    "id": "BAT-E-0035",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -809,7 +787,7 @@
     "verses": {
       "kjv": "And all the men of Israel, when they saw the man, fled from him, and were sore afraid."
     },
-    "id": "BAT-E-0038",
+    "id": "BAT-E-0036",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -831,7 +809,7 @@
     "verses": {
       "kjv": "And David girded his sword upon his armour, and he assayed to go; for he had not proved it. And David said unto Saul, I cannot go with these; for I have not proved them. And David put them off him."
     },
-    "id": "BAT-E-0039",
+    "id": "BAT-E-0037",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -853,7 +831,7 @@
     "verses": {
       "kjv": "And David took the head of the Philistine, and brought it to Jerusalem; but he put his armour in his tent."
     },
-    "id": "BAT-E-0040",
+    "id": "BAT-E-0038",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -875,7 +853,7 @@
     "verses": {
       "kjv": "Now therefore, my lord, as the LORD liveth, and as thy soul liveth, seeing the LORD hath withholden thee from coming to shed blood, and from avenging thyself with thine own hand, now let thine enemies, and they that seek evil to my lord, be as Nabal."
     },
-    "id": "BAT-E-0041",
+    "id": "BAT-E-0039",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -897,7 +875,7 @@
     "verses": {
       "kjv": "And they taught in Judah, and had the book of the law of the LORD with them, and went about throughout all the cities of Judah, and taught the people."
     },
-    "id": "BAT-E-0042",
+    "id": "BAT-E-0040",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -919,7 +897,7 @@
     "verses": {
       "kjv": "These waited on the king, beside those whom the king put in the fenced cities throughout all Judah."
     },
-    "id": "BAT-E-0043",
+    "id": "BAT-E-0041",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -941,7 +919,7 @@
     "verses": {
       "kjv": "But the king of Syria commanded his thirty and two captains that had the rule over his chariots, saying, Fight neither with small nor great, save only with the king of Israel."
     },
-    "id": "BAT-E-0044",
+    "id": "BAT-E-0042",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -963,7 +941,7 @@
     "verses": {
       "kjv": "And the LORD said unto Joshua, Stretch out the spear that is in thy hand toward Ai; for I will give it into thine hand. And Joshua stretched out the spear that he had in his hand toward the city."
     },
-    "id": "BAT-E-0045",
+    "id": "BAT-E-0043",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -985,7 +963,7 @@
     "verses": {
       "kjv": "For Joshua drew not his hand back, wherewith he stretched out the spear, until he had utterly destroyed all the inhabitants of Ai."
     },
-    "id": "BAT-E-0046",
+    "id": "BAT-E-0044",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -1007,7 +985,7 @@
     "verses": {
       "kjv": "And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto yourselves: lay thee an ambush for the city behind it."
     },
-    "id": "BAT-E-0047",
+    "id": "BAT-E-0045",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -1029,7 +1007,7 @@
     "verses": {
       "kjv": "And David enquired at the LORD, saying, Shall I pursue after this troop? shall I overtake them? And he answered him, Pursue: for thou shalt surely overtake them, and without fail recover all."
     },
-    "id": "BAT-E-0048",
+    "id": "BAT-E-0046",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -1051,7 +1029,7 @@
     "verses": {
       "kjv": "And there was trembling in the host, in the field, and among all the people: the garrison, and the spoilers, they also trembled, and the earth quaked: so it was a very great trembling."
     },
-    "id": "BAT-E-0049",
+    "id": "BAT-E-0047",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -1073,7 +1051,7 @@
     "verses": {
       "kjv": "And when they began to sing and to praise, the LORD set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten."
     },
-    "id": "BAT-E-0050",
+    "id": "BAT-E-0048",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   },
@@ -1095,7 +1073,29 @@
     "verses": {
       "kjv": "And it was told Saul that David was fled to Gath: and he sought no more again for him."
     },
-    "id": "BAT-E-0051",
+    "id": "BAT-E-0049",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When David asked to fight Goliath, what did Saul tell him about his ability to fight?",
+    "choices": [
+      "Thou art not able to go against this Philistine to fight with him",
+      "Thou art surely stronger than he is",
+      "Thou hast already proved thyself in war",
+      "Thou shalt not need any weapon at all"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "33"
+    },
+    "explanation": "Saul told David he was not able to fight Goliath because David was but a youth and Goliath a man of war from his youth.",
+    "verses": {
+      "kjv": "And Saul said to David, Thou art not able to go against this Philistine to fight with him: for thou art but a youth, and he a man of war from his youth."
+    },
+    "id": "BAT-E-0050",
     "theme": "Battles & Conquests",
     "difficulty": "easy"
   }
