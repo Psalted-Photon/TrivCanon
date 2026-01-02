@@ -394,5 +394,731 @@
     "verses": {
       "kjv": "And he took the damsel by the hand, and said unto her,\nTalitha cumi; which is, being interpreted,\nDamsel, I say unto thee,\narise."
     }
+  },
+  {
+    "question": "In Ezekiel's vision of the valley of dry bones, what did God command the prophet to prophesy to?",
+    "choices": [
+      "The breath",
+      "The bones",
+      "The graves",
+      "The mountains"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 37,
+      "verse": "9"
+    },
+    "explanation": "After the bones came together, God commanded Ezekiel to prophesy unto the wind (breath) to breathe upon the slain.",
+    "verses": {
+      "kjv": "Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord GOD; Come from the four winds, O breath, and breathe upon these slain, that they may live."
+    },
+    "id": "MIR-H-0019",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Daniel's vision of the four beasts, how many wings did the first beast like a lion have?",
+    "choices": [
+      "Two wings like an eagle",
+      "Four wings",
+      "Six wings",
+      "No wings"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Daniel",
+      "chapter": 7,
+      "verse": "4"
+    },
+    "explanation": "The first beast was like a lion and had eagle's wings, which were plucked and it was given a man's heart.",
+    "verses": {
+      "kjv": "The first was like a lion, and had eagle's wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man's heart was given to it."
+    },
+    "id": "MIR-H-0020",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many heads did the beast from the sea have in Revelation 13?",
+    "choices": [
+      "Seven heads",
+      "Ten heads",
+      "Twelve heads",
+      "One head"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 13,
+      "verse": "1"
+    },
+    "explanation": "The beast rising out of the sea had seven heads and ten horns, with ten crowns upon his horns.",
+    "verses": {
+      "kjv": "And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy."
+    },
+    "id": "MIR-H-0021",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many horns did the beast from the sea have in Revelation 13?",
+    "choices": [
+      "Ten horns",
+      "Seven horns",
+      "Twelve horns",
+      "Two horns"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 13,
+      "verse": "1"
+    },
+    "explanation": "The beast had ten horns with ten crowns upon them, and seven heads with blasphemous names.",
+    "verses": {
+      "kjv": "And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy."
+    },
+    "id": "MIR-H-0022",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the second beast from the earth like in Revelation 13?",
+    "choices": [
+      "A lamb with two horns",
+      "A dragon with seven heads",
+      "A leopard with wings",
+      "A bear with three ribs"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 13,
+      "verse": "11"
+    },
+    "explanation": "The second beast had two horns like a lamb but spoke as a dragon.",
+    "verses": {
+      "kjv": "And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon."
+    },
+    "id": "MIR-H-0023",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many elders are seated around the throne in Revelation?",
+    "choices": [
+      "Twenty-four elders",
+      "Twelve elders",
+      "Seventy elders",
+      "Seven elders"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 4,
+      "verse": "4"
+    },
+    "explanation": "Round about the throne were four and twenty seats with four and twenty elders sitting clothed in white raiment.",
+    "verses": {
+      "kjv": "And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold."
+    },
+    "id": "MIR-H-0024",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many living creatures are around the throne in Revelation 4?",
+    "choices": [
+      "Four",
+      "Seven",
+      "Twelve",
+      "Twenty-four"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 4,
+      "verse": "6"
+    },
+    "explanation": "In the midst of the throne and round about it were four beasts (living creatures) full of eyes.",
+    "verses": {
+      "kjv": "And before the throne there was a sea of glass like unto crystal: and in the midst of the throne, and round about the throne, were four beasts full of eyes before and behind."
+    },
+    "id": "MIR-H-0025",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many eyes does each of the four living creatures have in Revelation?",
+    "choices": [
+      "Six wings each, full of eyes",
+      "Four wings each",
+      "Two eyes each",
+      "Seven eyes each"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 4,
+      "verse": "8"
+    },
+    "explanation": "Each of the four beasts had six wings about him and were full of eyes within.",
+    "verses": {
+      "kjv": "And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come."
+    },
+    "id": "MIR-H-0026",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the first living creature like in appearance?",
+    "choices": [
+      "A lion",
+      "A calf",
+      "A man",
+      "An eagle"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 4,
+      "verse": "7"
+    },
+    "explanation": "The first beast was like a lion, the second like a calf, the third had a face as a man, and the fourth was like a flying eagle.",
+    "verses": {
+      "kjv": "And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle."
+    },
+    "id": "MIR-H-0027",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many seals were on the book that only the Lamb could open?",
+    "choices": [
+      "Seven seals",
+      "Twelve seals",
+      "Ten seals",
+      "Three seals"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 5,
+      "verse": "1"
+    },
+    "explanation": "The book was sealed with seven seals, which only the Lamb was worthy to open.",
+    "verses": {
+      "kjv": "And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals."
+    },
+    "id": "MIR-H-0028",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What color was the horse when the second seal was opened?",
+    "choices": [
+      "Red",
+      "White",
+      "Black",
+      "Pale"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 6,
+      "verse": "4"
+    },
+    "explanation": "When the second seal was opened, a red horse went forth, and power was given to take peace from the earth.",
+    "verses": {
+      "kjv": "And there went out another horse that was red: and power was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword."
+    },
+    "id": "MIR-H-0029",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the rider of the black horse hold in his hand?",
+    "choices": [
+      "A pair of balances",
+      "A great sword",
+      "A bow",
+      "A sickle"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 6,
+      "verse": "5"
+    },
+    "explanation": "When the third seal was opened, the rider on the black horse had a pair of balances in his hand.",
+    "verses": {
+      "kjv": "And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand."
+    },
+    "id": "MIR-H-0030",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How much was a measure of wheat during the black horse's judgment?",
+    "choices": [
+      "A penny",
+      "Two pence",
+      "A shekel",
+      "A talent"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 6,
+      "verse": "6"
+    },
+    "explanation": "A voice announced that a measure of wheat would cost a penny, and three measures of barley for a penny.",
+    "verses": {
+      "kjv": "And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and see thou hurt not the oil and the wine."
+    },
+    "id": "MIR-H-0031",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many were sealed from each of the twelve tribes of Israel?",
+    "choices": [
+      "Twelve thousand from each tribe",
+      "Ten thousand from each tribe",
+      "Seven thousand from each tribe",
+      "One thousand from each tribe"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 7,
+      "verse": "5-8"
+    },
+    "explanation": "Twelve thousand were sealed from each of the twelve tribes, totaling 144,000.",
+    "verses": {
+      "kjv": "Of the tribe of Juda were sealed twelve thousand. Of the tribe of Reuben were sealed twelve thousand. Of the tribe of Gad were sealed twelve thousand."
+    },
+    "id": "MIR-H-0032",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What fraction of the earth was burned when the first trumpet sounded?",
+    "choices": [
+      "A third part",
+      "A fourth part",
+      "Half",
+      "All of it"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 8,
+      "verse": "7"
+    },
+    "explanation": "Hail and fire mingled with blood burned the third part of trees and all green grass.",
+    "verses": {
+      "kjv": "The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth: and the third part of trees was burnt up, and all green grass was burnt up."
+    },
+    "id": "MIR-H-0033",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What fell from heaven when the third trumpet sounded?",
+    "choices": [
+      "A great star burning as a lamp",
+      "A mountain burning with fire",
+      "Hail and fire",
+      "Locusts"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 8,
+      "verse": "10"
+    },
+    "explanation": "A great star named Wormwood fell from heaven, burning as it were a lamp.",
+    "verses": {
+      "kjv": "And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters;"
+    },
+    "id": "MIR-H-0034",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the name of the star that fell when the third trumpet sounded?",
+    "choices": [
+      "Wormwood",
+      "Abaddon",
+      "Apollyon",
+      "Babylon"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 8,
+      "verse": "11"
+    },
+    "explanation": "The star was called Wormwood, and it made the waters bitter.",
+    "verses": {
+      "kjv": "And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter."
+    },
+    "id": "MIR-H-0035",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What fraction of the sun, moon, and stars was darkened when the fourth trumpet sounded?",
+    "choices": [
+      "A third part",
+      "Half",
+      "A fourth part",
+      "All of them"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 8,
+      "verse": "12"
+    },
+    "explanation": "The third part of the sun, moon, and stars was smitten so that the day and night were darkened by a third.",
+    "verses": {
+      "kjv": "And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise."
+    },
+    "id": "MIR-H-0036",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many months were the locust-like creatures allowed to torment men in Revelation 9?",
+    "choices": [
+      "Five months",
+      "Three months",
+      "Twelve months",
+      "Forty-two months"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 9,
+      "verse": "5"
+    },
+    "explanation": "The locusts were given power to torment men for five months, but not to kill them.",
+    "verses": {
+      "kjv": "And to them it was given that they should not kill them, but that they should be tormented five months: and their torment was as the torment of a scorpion, when he striketh a man."
+    },
+    "id": "MIR-H-0037",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the Hebrew name of the angel of the bottomless pit?",
+    "choices": [
+      "Abaddon",
+      "Apollyon",
+      "Beelzebub",
+      "Lucifer"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 9,
+      "verse": "11"
+    },
+    "explanation": "The angel of the bottomless pit is called Abaddon in Hebrew and Apollyon in Greek.",
+    "verses": {
+      "kjv": "And they had a king over them, which is the angel of the bottomless pit, whose name in the Hebrew tongue is Abaddon, but in the Greek tongue hath his name Apollyon."
+    },
+    "id": "MIR-H-0038",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many horsemen were released when the sixth trumpet sounded?",
+    "choices": [
+      "Two hundred thousand thousand (200 million)",
+      "One hundred thousand",
+      "Seventy thousand",
+      "Twelve thousand"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 9,
+      "verse": "16"
+    },
+    "explanation": "The number of the army of horsemen was two hundred thousand thousand.",
+    "verses": {
+      "kjv": "And the number of the army of the horsemen were two hundred thousand thousand: and I heard the number of them."
+    },
+    "id": "MIR-H-0039",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many days will the two witnesses prophesy in sackcloth?",
+    "choices": [
+      "One thousand two hundred and threescore days (1,260)",
+      "Forty-two days",
+      "Three and a half days",
+      "Seventy weeks"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 11,
+      "verse": "3"
+    },
+    "explanation": "God will give power unto His two witnesses to prophesy 1,260 days clothed in sackcloth.",
+    "verses": {
+      "kjv": "And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth."
+    },
+    "id": "MIR-H-0040",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How long will the bodies of the two witnesses lie in the street before resurrection?",
+    "choices": [
+      "Three days and a half",
+      "Seven days",
+      "Forty days",
+      "One day"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 11,
+      "verse": "9"
+    },
+    "explanation": "Their dead bodies will lie in the street for three and a half days while people rejoice.",
+    "verses": {
+      "kjv": "And they of the people and kindreds and tongues and nations shall see their dead bodies three days and an half, and shall not suffer their dead bodies to be put in graves."
+    },
+    "id": "MIR-H-0041",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Daniel's vision, how many horns did the ram have?",
+    "choices": [
+      "Two horns",
+      "One horn",
+      "Four horns",
+      "Ten horns"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Daniel",
+      "chapter": 8,
+      "verse": "3"
+    },
+    "explanation": "The ram had two horns, with one higher than the other, representing Media and Persia.",
+    "verses": {
+      "kjv": "Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last."
+    },
+    "id": "MIR-H-0042",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Daniel's vision, how many notable horns replaced the great horn on the goat?",
+    "choices": [
+      "Four",
+      "Two",
+      "Seven",
+      "Ten"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Daniel",
+      "chapter": 8,
+      "verse": "8"
+    },
+    "explanation": "When the great horn was broken, four notable ones came up in its place toward the four winds.",
+    "verses": {
+      "kjv": "Therefore the he goat waxed very great: and when he was strong, the great horn was broken; and for it came up four notable ones toward the four winds of heaven."
+    },
+    "id": "MIR-H-0043",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many weeks were determined upon Daniel's people in his vision?",
+    "choices": [
+      "Seventy weeks",
+      "Sixty-two weeks",
+      "Seven weeks",
+      "One week"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Daniel",
+      "chapter": 9,
+      "verse": "24"
+    },
+    "explanation": "Seventy weeks are determined upon thy people and thy holy city to finish transgression and bring in everlasting righteousness.",
+    "verses": {
+      "kjv": "Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy."
+    },
+    "id": "MIR-H-0044",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Ezekiel's vision, how many years was he to bear the iniquity of Judah?",
+    "choices": [
+      "Forty days, each day for a year",
+      "Three hundred and ninety days",
+      "Seventy days",
+      "One hundred and twenty days"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 4,
+      "verse": "6"
+    },
+    "explanation": "After lying 390 days for Israel, Ezekiel was to lie on his right side forty days for Judah, each day for a year.",
+    "verses": {
+      "kjv": "And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year."
+    },
+    "id": "MIR-H-0045",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the woman in Revelation 12 have on her head?",
+    "choices": [
+      "A crown of twelve stars",
+      "A crown of seven stars",
+      "A golden crown",
+      "A crown of thorns"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 12,
+      "verse": "1"
+    },
+    "explanation": "The woman clothed with the sun had the moon under her feet and a crown of twelve stars on her head.",
+    "verses": {
+      "kjv": "And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:"
+    },
+    "id": "MIR-H-0046",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many stars did the dragon's tail draw from heaven?",
+    "choices": [
+      "A third part of the stars",
+      "Half the stars",
+      "All the stars",
+      "Seven stars"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 12,
+      "verse": "4"
+    },
+    "explanation": "The dragon's tail drew the third part of the stars of heaven and cast them to the earth.",
+    "verses": {
+      "kjv": "And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born."
+    },
+    "id": "MIR-H-0047",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "For how long was the woman in Revelation 12 nourished in the wilderness?",
+    "choices": [
+      "A time, times, and half a time",
+      "Forty-two months",
+      "Seven years",
+      "One thousand days"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 12,
+      "verse": "14"
+    },
+    "explanation": "The woman was given two wings of a great eagle to fly into the wilderness for a time, times, and half a time.",
+    "verses": {
+      "kjv": "And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent."
+    },
+    "id": "MIR-H-0048",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many months was the beast given authority to continue in Revelation 13?",
+    "choices": [
+      "Forty-two months",
+      "Twelve months",
+      "Seventy months",
+      "Three and a half months"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 13,
+      "verse": "5"
+    },
+    "explanation": "Power was given unto the beast to continue forty and two months.",
+    "verses": {
+      "kjv": "And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months."
+    },
+    "id": "MIR-H-0049",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Isaiah's prophecy, how long would a virgin conceive and bear a son as a sign?",
+    "choices": [
+      "The Lord himself shall give you a sign",
+      "Seven years",
+      "Forty days",
+      "Three years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 7,
+      "verse": "14"
+    },
+    "explanation": "The Lord said He would give a sign: a virgin shall conceive and bear a son called Immanuel.",
+    "verses": {
+      "kjv": "Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel."
+    },
+    "id": "MIR-H-0050",
+    "theme": "Miracles",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Zechariah's vision, how many horns scattered Judah, Israel, and Jerusalem?",
+    "choices": [
+      "Four horns",
+      "Seven horns",
+      "Ten horns",
+      "Two horns"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Zechariah",
+      "chapter": 1,
+      "verse": "18-19"
+    },
+    "explanation": "Zechariah saw four horns which had scattered Judah, Israel, and Jerusalem.",
+    "verses": {
+      "kjv": "Then lifted I up mine eyes, and saw, and behold four horns. And I said unto the angel that talked with me, What be these? And he answered me, These are the horns which have scattered Judah, Israel, and Jerusalem."
+    },
+    "id": "MIR-H-0051",
+    "theme": "Miracles",
+    "difficulty": "hard"
   }
 ]

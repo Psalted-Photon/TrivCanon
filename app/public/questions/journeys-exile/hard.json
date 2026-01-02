@@ -572,7 +572,7 @@
     "difficulty": "hard"
   },
   {
-    "question": "What did Moses name the place where the people tempted the Lord saying 'Is the LORD among us, or not?'",
+    "question": "What did Moses name the place where the people tempted the LORD (Exodus 17:7)?",
     "choices": [
       "Massah and Meribah",
       "Kadesh",
@@ -1096,28 +1096,6 @@
       "kjv": "These are now the chief of their fathers, and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king."
     },
     "id": "JRN-H-0062",
-    "theme": "Journeys & Exile",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Where did Ezra gather the people before departing for Jerusalem, and proclaim a fast?",
-    "choices": [
-      "The river of Ahava",
-      "The river Chebar",
-      "The Euphrates",
-      "Babylon"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Ezra",
-      "chapter": 8,
-      "verse": "21"
-    },
-    "explanation": "Ezra proclaimed a fast at the river Ahava to seek God's protection for the journey.",
-    "verses": {
-      "kjv": "Then I proclaimed a fast there, at the river of Ahava, that we might afflict ourselves before our God, to seek of him a right way for us, and for our little ones, and for all our substance."
-    },
-    "id": "JRN-H-0063",
     "theme": "Journeys & Exile",
     "difficulty": "hard"
   }

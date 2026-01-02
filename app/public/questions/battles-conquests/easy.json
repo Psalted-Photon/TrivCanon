@@ -570,5 +570,533 @@
     "verses": {
       "kjv": "So the people shouted when\nthe priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city."
     }
+  },
+  {
+    "question": "When Israel fought Amalek at Rephidim, what happened when Moses held up his hand (Exodus 17:11)?",
+    "choices": [
+      "Israel prevailed",
+      "Amalek prevailed",
+      "Both armies stopped fighting",
+      "A plague struck Amalek immediately"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 17,
+      "verse": "11"
+    },
+    "explanation": "Exodus 17:11 says that when Moses held up his hand, Israel prevailed; when he let down his hand, Amalek prevailed.",
+    "verses": {
+      "kjv": "And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, that Amalek prevailed."
+    },
+    "id": "BAT-E-0028",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Moses build after the LORD defeated Amalek (Exodus 17:15)?",
+    "choices": [
+      "An altar",
+      "A tabernacle",
+      "A tower",
+      "A city wall"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 17,
+      "verse": "15"
+    },
+    "explanation": "Exodus 17:15 says Moses built an altar after the victory.",
+    "verses": {
+      "kjv": "And Moses built an altar, and called the name of it Jehovahnissi:"
+    },
+    "id": "BAT-E-0029",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the battle with Jericho, what did Joshua command the people to do while marching (Joshua 6:10)?",
+    "choices": [
+      "Keep silent and not shout",
+      "Sing loudly the whole time",
+      "Blow ram's horns continuously",
+      "Carry torches in their hands"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 6,
+      "verse": "10"
+    },
+    "explanation": "Joshua 6:10 says Joshua commanded the people not to shout or make any noise with their voice until told to shout.",
+    "verses": {
+      "kjv": "And Joshua had commanded the people, saying, Ye shall not shout, nor make any noise with your voice, neither shall any word proceed out of your mouth, until the day I bid you shout; then shall ye shout."
+    },
+    "id": "BAT-E-0030",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many days were the Israelites told to march around Jericho once each day (Joshua 6:3)?",
+    "choices": [
+      "Six days",
+      "One day",
+      "Seven days",
+      "Forty days"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 6,
+      "verse": "3"
+    },
+    "explanation": "Joshua 6:3 instructs Israel to compass the city once each day for six days.",
+    "verses": {
+      "kjv": "And ye shall compass the city, all ye men of war, and go round about the city once. Thus shalt thou do six days."
+    },
+    "id": "BAT-E-0031",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When Jael killed Sisera, what did she use (Judges 4:21)?",
+    "choices": [
+      "A nail of the tent and a hammer",
+      "A sword",
+      "A spear",
+      "A sling and a stone"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "21"
+    },
+    "explanation": "Judges 4:21 says Jael took a nail of the tent and drove it into Sisera's temples with a hammer.",
+    "verses": {
+      "kjv": "Then Jael Heber's wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died."
+    },
+    "id": "BAT-E-0032",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Barak do when Deborah told him the LORD had delivered Sisera into his hand (Judges 4:14)?",
+    "choices": [
+      "He went down from mount Tabor with ten thousand men",
+      "He returned home and refused to fight",
+      "He waited seven days for reinforcements",
+      "He sent messengers to make peace with Sisera"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "14"
+    },
+    "explanation": "Judges 4:14 says Barak went down from mount Tabor with ten thousand men after Deborah said the LORD had gone out before him.",
+    "verses": {
+      "kjv": "And Deborah said unto Barak, Up; for this is the day in which the LORD hath delivered Sisera into thine hand: is not the LORD gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him."
+    },
+    "id": "BAT-E-0033",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did the men of Judah use when they attacked Adoni-bezek (Judges 1:6)?",
+    "choices": [
+      "They pursued after him and caught him",
+      "They trapped him in a net",
+      "They shot him with arrows",
+      "They drowned him in a river"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Judges",
+      "chapter": 1,
+      "verse": "6"
+    },
+    "explanation": "Judges 1:6 says they pursued after Adoni-bezek and caught him.",
+    "verses": {
+      "kjv": "But Adoni-bezek fled; and they pursued after him, and caught him, and cut off his thumbs and his great toes."
+    },
+    "id": "BAT-E-0034",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did the LORD do to Sisera and his chariots in the battle against Deborah and Barak (Judges 4:15)?",
+    "choices": [
+      "Discomfited Sisera and all his chariots with the edge of the sword",
+      "Sent fire from heaven to burn the chariots",
+      "Caused the chariots to sink into the sea",
+      "Turned Sisera's army against itself immediately"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "15"
+    },
+    "explanation": "Judges 4:15 says the LORD discomfited Sisera and all his chariots and all his host with the edge of the sword before Barak.",
+    "verses": {
+      "kjv": "And the LORD discomfited Sisera, and all his chariots, and all his host, with the edge of the sword before Barak; so that Sisera lighted down off his chariot, and fled away on his feet."
+    },
+    "id": "BAT-E-0035",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When the Philistines captured the ark, what did they call its place in the house of Dagon (1 Samuel 5:2)?",
+    "choices": [
+      "By Dagon",
+      "Before Baal",
+      "Beside Ashtaroth",
+      "Under Chemosh"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 5,
+      "verse": "2"
+    },
+    "explanation": "1 Samuel 5:2 says they brought the ark into the house of Dagon and set it by Dagon.",
+    "verses": {
+      "kjv": "When the Philistines took the ark of God, they brought it into the house of Dagon, and set it by Dagon."
+    },
+    "id": "BAT-E-0036",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What happened to Dagon when the Philistines rose early the next day after placing the ark by him (1 Samuel 5:3)?",
+    "choices": [
+      "He fell on his face to the ground before the ark of the LORD",
+      "He disappeared from the temple",
+      "He grew twice as large",
+      "He spoke and warned the Philistines"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 5,
+      "verse": "3"
+    },
+    "explanation": "1 Samuel 5:3 says Dagon was fallen upon his face to the ground before the ark of the LORD.",
+    "verses": {
+      "kjv": "And when they of Ashdod arose early on the morrow, behold, Dagon was fallen upon his face to the ground before the ark of the LORD. And they took Dagon, and set him in his place again."
+    },
+    "id": "BAT-E-0037",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did the Israelites shout when Goliath came out morning and evening (1 Samuel 17:24)?",
+    "choices": [
+      "They fled from him and were sore afraid",
+      "They ran to him to fight at once",
+      "They sang a song of victory",
+      "They asked Saul for armor"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "24"
+    },
+    "explanation": "1 Samuel 17:24 says all the men of Israel fled from Goliath and were very afraid.",
+    "verses": {
+      "kjv": "And all the men of Israel, when they saw the man, fled from him, and were sore afraid."
+    },
+    "id": "BAT-E-0038",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When Saul armed David, what did David do with the armor after trying it (1 Samuel 17:39)?",
+    "choices": [
+      "He put it off",
+      "He kept it and went to battle",
+      "He gave it to Eliab",
+      "He buried it in the ground"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "39"
+    },
+    "explanation": "1 Samuel 17:39 says David tried Saul's armor and then put it off because he had not proved it.",
+    "verses": {
+      "kjv": "And David girded his sword upon his armour, and he assayed to go; for he had not proved it. And David said unto Saul, I cannot go with these; for I have not proved them. And David put them off him."
+    },
+    "id": "BAT-E-0039",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "After David defeated Goliath, what did he take from him (1 Samuel 17:54)?",
+    "choices": [
+      "His head",
+      "His shield",
+      "His helmet only",
+      "His bow and arrows"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "54"
+    },
+    "explanation": "1 Samuel 17:54 says David took the Philistine's head and brought it to Jerusalem.",
+    "verses": {
+      "kjv": "And David took the head of the Philistine, and brought it to Jerusalem; but he put his armour in his tent."
+    },
+    "id": "BAT-E-0040",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Abigail say the LORD had kept David from doing regarding Nabal (1 Samuel 25:26)?",
+    "choices": [
+      "Coming to shed blood and avenging himself with his own hand",
+      "Trusting in the LORD",
+      "Running from Saul",
+      "Building an altar"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "verse": "26"
+    },
+    "explanation": "1 Samuel 25:26 says Abigail told David the LORD had withheld him from coming to shed blood and from avenging himself with his own hand.",
+    "verses": {
+      "kjv": "Now therefore, my lord, as the LORD liveth, and as thy soul liveth, seeing the LORD hath withholden thee from coming to shed blood, and from avenging thyself with thine own hand, now let thine enemies, and they that seek evil to my lord, be as Nabal."
+    },
+    "id": "BAT-E-0041",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When Jehoshaphat sent men to teach in Judah, what did they carry with them (2 Chronicles 17:9)?",
+    "choices": [
+      "The book of the law of the LORD",
+      "The ark of the covenant",
+      "A golden image",
+      "A scroll of genealogy only"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Chronicles",
+      "chapter": 17,
+      "verse": "9"
+    },
+    "explanation": "2 Chronicles 17:9 says they had the book of the law of the LORD with them and taught in Judah.",
+    "verses": {
+      "kjv": "And they taught in Judah, and had the book of the law of the LORD with them, and went about throughout all the cities of Judah, and taught the people."
+    },
+    "id": "BAT-E-0042",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Jehoshaphat set throughout all the fenced cities of Judah (2 Chronicles 17:19)?",
+    "choices": [
+      "Garrisons",
+      "Altars to idols",
+      "Marketplaces",
+      "Ships and sailors"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Chronicles",
+      "chapter": 17,
+      "verse": "19"
+    },
+    "explanation": "2 Chronicles 17:19 states that Jehoshaphat set garrisons in Judah’s fenced cities and in Ephraim’s cities which Asa took.",
+    "verses": {
+      "kjv": "These waited on the king, beside those whom the king put in the fenced cities throughout all Judah."
+    },
+    "id": "BAT-E-0043",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When the king of Syria commanded his captains, who were they told to fight against (1 Kings 22:31)?",
+    "choices": [
+      "Only the king of Israel",
+      "Only the king of Judah",
+      "Everyone in Israel",
+      "Only the prophets"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 22,
+      "verse": "31"
+    },
+    "explanation": "1 Kings 22:31 says the king of Syria commanded his captains not to fight with small or great, save only with the king of Israel.",
+    "verses": {
+      "kjv": "But the king of Syria commanded his thirty and two captains that had the rule over his chariots, saying, Fight neither with small nor great, save only with the king of Israel."
+    },
+    "id": "BAT-E-0044",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the battle at Ai, what did Joshua stretch out toward the city (Joshua 8:18)?",
+    "choices": [
+      "The spear that he had in his hand",
+      "A sword of iron",
+      "A banner of cloth",
+      "A rod of almond wood"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 8,
+      "verse": "18"
+    },
+    "explanation": "Joshua 8:18 says the LORD told Joshua to stretch out the spear in his hand toward Ai, because the LORD would give it into his hand.",
+    "verses": {
+      "kjv": "And the LORD said unto Joshua, Stretch out the spear that is in thy hand toward Ai; for I will give it into thine hand. And Joshua stretched out the spear that he had in his hand toward the city."
+    },
+    "id": "BAT-E-0045",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "After Ai was taken, how long did Joshua hold out the spear toward the city (Joshua 8:26)?",
+    "choices": [
+      "Until he had utterly destroyed all the inhabitants of Ai",
+      "Until sunset on the first day only",
+      "For three days and three nights",
+      "Until the men of Israel returned to Gilgal"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 8,
+      "verse": "26"
+    },
+    "explanation": "Joshua 8:26 says Joshua did not draw his hand back until all the inhabitants of Ai were utterly destroyed.",
+    "verses": {
+      "kjv": "For Joshua drew not his hand back, wherewith he stretched out the spear, until he had utterly destroyed all the inhabitants of Ai."
+    },
+    "id": "BAT-E-0046",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did the LORD tell Israel to do with the spoils of Ai (Joshua 8:2)?",
+    "choices": [
+      "Take the spoil and cattle for a prey unto yourselves",
+      "Burn all spoil with fire",
+      "Return all spoil to Jericho",
+      "Bury the spoil outside the camp"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 8,
+      "verse": "2"
+    },
+    "explanation": "Joshua 8:2 says Israel could take the spoil and cattle of Ai for themselves (unlike Jericho).",
+    "verses": {
+      "kjv": "And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto yourselves: lay thee an ambush for the city behind it."
+    },
+    "id": "BAT-E-0047",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When David pursued the Amalekites, what did David do after inquiring of the LORD (1 Samuel 30:8)?",
+    "choices": [
+      "He pursued, for he would surely overtake and recover all",
+      "He stayed in Ziklag and waited",
+      "He sent messengers to make peace",
+      "He returned to Hebron immediately"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 30,
+      "verse": "8"
+    },
+    "explanation": "1 Samuel 30:8 records the LORD’s answer: David should pursue, and he would surely overtake and recover all.",
+    "verses": {
+      "kjv": "And David enquired at the LORD, saying, Shall I pursue after this troop? shall I overtake them? And he answered him, Pursue: for thou shalt surely overtake them, and without fail recover all."
+    },
+    "id": "BAT-E-0048",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What happened to the Philistines when Jonathan and his armourbearer began to smite them (1 Samuel 14:15)?",
+    "choices": [
+      "There was trembling in the host, and it became a very great trembling",
+      "They immediately surrendered with no fear",
+      "They all fell asleep",
+      "They were struck blind at once"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verse": "15"
+    },
+    "explanation": "1 Samuel 14:15 says there was trembling in the camp, in the field, and among all the people, and the earth quaked, making it a very great trembling.",
+    "verses": {
+      "kjv": "And there was trembling in the host, in the field, and among all the people: the garrison, and the spoilers, they also trembled, and the earth quaked: so it was a very great trembling."
+    },
+    "id": "BAT-E-0049",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When Jehoshaphat’s people began to sing and praise, what did the LORD set against the enemies (2 Chronicles 20:22)?",
+    "choices": [
+      "Ambushments",
+      "A wall of fire",
+      "A flood from the sea",
+      "A swarm of locusts"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Chronicles",
+      "chapter": 20,
+      "verse": "22"
+    },
+    "explanation": "2 Chronicles 20:22 says the LORD set ambushments against the children of Ammon, Moab, and mount Seir when Judah began to sing and praise.",
+    "verses": {
+      "kjv": "And when they began to sing and to praise, the LORD set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten."
+    },
+    "id": "BAT-E-0050",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When Saul heard that David was brought to Gath, what did Saul do (1 Samuel 27:4)?",
+    "choices": [
+      "He sought no more again for him",
+      "He sent an army to capture him",
+      "He made a covenant of peace with him",
+      "He offered him a place in his court"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 27,
+      "verse": "4"
+    },
+    "explanation": "1 Samuel 27:4 says that when Saul was told David had fled to Gath, Saul stopped seeking him.",
+    "verses": {
+      "kjv": "And it was told Saul that David was fled to Gath: and he sought no more again for him."
+    },
+    "id": "BAT-E-0051",
+    "theme": "Battles & Conquests",
+    "difficulty": "easy"
   }
 ]

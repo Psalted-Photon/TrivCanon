@@ -328,5 +328,775 @@
     "verses": {
       "kjv": "And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch."
     }
+  },
+  {
+    "question": "On what day did God create the firmament to divide the waters?",
+    "choices": [
+      "The second day",
+      "The first day",
+      "The third day",
+      "The fourth day"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "6-8"
+    },
+    "explanation": "God created the firmament (heaven) to divide the waters above from the waters below on the second day.",
+    "verses": {
+      "kjv": "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. And God called the firmament Heaven. And the evening and the morning were the second day."
+    },
+    "id": "CRE-H-0027",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did God call the dry land when He gathered the waters together?",
+    "choices": [
+      "Earth",
+      "Ground",
+      "Soil",
+      "Land"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "10"
+    },
+    "explanation": "God called the dry land Earth and the gathering together of waters He called Seas.",
+    "verses": {
+      "kjv": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good."
+    },
+    "id": "CRE-H-0028",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did God call the gathering together of the waters?",
+    "choices": [
+      "Seas",
+      "Waters",
+      "Oceans",
+      "Deep"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "10"
+    },
+    "explanation": "The gathering together of the waters God called Seas.",
+    "verses": {
+      "kjv": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good."
+    },
+    "id": "CRE-H-0029",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "On what day did God create the sun, moon, and stars?",
+    "choices": [
+      "The fourth day",
+      "The first day",
+      "The third day",
+      "The fifth day"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "14-19"
+    },
+    "explanation": "God made the sun, moon, and stars on the fourth day to give light and divide day from night.",
+    "verses": {
+      "kjv": "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years: And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so. And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also. And God set them in the firmament of the heaven to give light upon the earth, And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good. And the evening and the morning were the fourth day."
+    },
+    "id": "CRE-H-0030",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What were the names of the four rivers that flowed from Eden?",
+    "choices": [
+      "Pison, Gihon, Hiddekel, and Euphrates",
+      "Nile, Jordan, Tigris, and Euphrates",
+      "Pison, Jordan, Hiddekel, and Gihon",
+      "Tigris, Euphrates, Nile, and Jordan"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "10-14"
+    },
+    "explanation": "The river parted into four heads: Pison, Gihon, Hiddekel (Tigris), and Euphrates.",
+    "verses": {
+      "kjv": "And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads. The name of the first is Pison: that is it which compasseth the whole land of Havilah, where there is gold; And the gold of that land is good: there is bdellium and the onyx stone. And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia. And the name of the third river is Hiddekel: that is it which goeth toward the east of Assyria. And the fourth river is Euphrates."
+    },
+    "id": "CRE-H-0031",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What land did the river Pison compass, where gold was found?",
+    "choices": [
+      "Havilah",
+      "Ethiopia",
+      "Assyria",
+      "Shinar"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "11"
+    },
+    "explanation": "The river Pison compassed the whole land of Havilah, where there is gold.",
+    "verses": {
+      "kjv": "The name of the first is Pison: that is it which compasseth the whole land of Havilah, where there is gold;"
+    },
+    "id": "CRE-H-0032",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What precious stones were found in the land of Havilah besides gold?",
+    "choices": [
+      "Bdellium and onyx",
+      "Ruby and sapphire",
+      "Emerald and diamond",
+      "Pearl and jasper"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "12"
+    },
+    "explanation": "In Havilah there was good gold, bdellium, and the onyx stone.",
+    "verses": {
+      "kjv": "And the gold of that land is good: there is bdellium and the onyx stone."
+    },
+    "id": "CRE-H-0033",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What land did the river Gihon compass?",
+    "choices": [
+      "Ethiopia",
+      "Havilah",
+      "Assyria",
+      "Egypt"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "13"
+    },
+    "explanation": "The river Gihon compassed the whole land of Ethiopia.",
+    "verses": {
+      "kjv": "And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia."
+    },
+    "id": "CRE-H-0034",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "From what part of Adam did God form Eve?",
+    "choices": [
+      "A rib",
+      "Dust of the ground",
+      "His side",
+      "His flesh"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "21-22"
+    },
+    "explanation": "God took one of Adam's ribs and made a woman from it.",
+    "verses": {
+      "kjv": "And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof; And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man."
+    },
+    "id": "CRE-H-0035",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did God do to Adam's flesh after taking the rib?",
+    "choices": [
+      "Closed up the flesh",
+      "Left it open",
+      "Replaced it with clay",
+      "Healed it with water"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "21"
+    },
+    "explanation": "After taking the rib, God closed up the flesh instead thereof.",
+    "verses": {
+      "kjv": "And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;"
+    },
+    "id": "CRE-H-0036",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was more subtle than any beast of the field?",
+    "choices": [
+      "The serpent",
+      "The lion",
+      "The fox",
+      "The eagle"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "1"
+    },
+    "explanation": "The serpent was more subtil than any beast of the field which the Lord God had made.",
+    "verses": {
+      "kjv": "Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?"
+    },
+    "id": "CRE-H-0037",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did God say the serpent would eat all the days of its life?",
+    "choices": [
+      "Dust",
+      "Grass",
+      "Fruit",
+      "Flesh"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "14"
+    },
+    "explanation": "As part of the curse, God said the serpent shall eat dust all the days of thy life.",
+    "verses": {
+      "kjv": "And the LORD God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:"
+    },
+    "id": "CRE-H-0038",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did God place at the east of the garden of Eden after expelling Adam?",
+    "choices": [
+      "Cherubims and a flaming sword",
+      "Angels with spears",
+      "A wall of fire",
+      "A great flood"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "24"
+    },
+    "explanation": "God placed Cherubims and a flaming sword which turned every way to guard the tree of life.",
+    "verses": {
+      "kjv": "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life."
+    },
+    "id": "CRE-H-0039",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the flaming sword do at the east of Eden?",
+    "choices": [
+      "Turned every way",
+      "Stood still",
+      "Shot fire",
+      "Made thunder"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "24"
+    },
+    "explanation": "The flaming sword turned every way to keep the way of the tree of life.",
+    "verses": {
+      "kjv": "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life."
+    },
+    "id": "CRE-H-0040",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Abel's occupation?",
+    "choices": [
+      "Keeper of sheep",
+      "Tiller of the ground",
+      "Builder of cities",
+      "Hunter"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "2"
+    },
+    "explanation": "Abel was a keeper of sheep, while Cain was a tiller of the ground.",
+    "verses": {
+      "kjv": "And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground."
+    },
+    "id": "CRE-H-0041",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What type of offering did Abel bring to the Lord?",
+    "choices": [
+      "The firstlings of his flock and the fat thereof",
+      "Grain from the harvest",
+      "Gold and silver",
+      "Wine and oil"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "4"
+    },
+    "explanation": "Abel brought of the firstlings of his flock and of the fat thereof, which the Lord respected.",
+    "verses": {
+      "kjv": "And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:"
+    },
+    "id": "CRE-H-0042",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did God say was crying to Him from the ground after Abel's murder?",
+    "choices": [
+      "Abel's blood",
+      "Abel's spirit",
+      "Abel's body",
+      "Abel's voice"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "10"
+    },
+    "explanation": "God said Abel's blood crieth unto me from the ground.",
+    "verses": {
+      "kjv": "And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground."
+    },
+    "id": "CRE-H-0043",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did God say the ground would no longer yield to Cain?",
+    "choices": [
+      "Her strength",
+      "Her fruit",
+      "Her water",
+      "Her blessing"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "12"
+    },
+    "explanation": "As part of Cain's curse, the ground would not henceforth yield unto him her strength.",
+    "verses": {
+      "kjv": "When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth."
+    },
+    "id": "CRE-H-0044",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the father of Jubal, the father of all who handle the harp and organ?",
+    "choices": [
+      "Lamech",
+      "Enoch",
+      "Cain",
+      "Methuselah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "21"
+    },
+    "explanation": "Jubal, son of Lamech by Adah, was the father of all such as handle the harp and organ.",
+    "verses": {
+      "kjv": "And his brother's name was Jubal: he was the father of all such as handle the harp and organ."
+    },
+    "id": "CRE-H-0045",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the instructor of every artificer in brass and iron?",
+    "choices": [
+      "Tubal-cain",
+      "Jubal",
+      "Jabal",
+      "Enoch"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "22"
+    },
+    "explanation": "Tubal-cain was an instructor of every artificer in brass and iron.",
+    "verses": {
+      "kjv": "And Zillah, she also bare Tubal-cain, an instructer of every artificer in brass and iron: and the sister of Tubal-cain was Naamah."
+    },
+    "id": "CRE-H-0046",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the name of Tubal-cain's sister?",
+    "choices": [
+      "Naamah",
+      "Adah",
+      "Zillah",
+      "Mahalath"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "22"
+    },
+    "explanation": "The sister of Tubal-cain was Naamah.",
+    "verses": {
+      "kjv": "And Zillah, she also bare Tubal-cain, an instructer of every artificer in brass and iron: and the sister of Tubal-cain was Naamah."
+    },
+    "id": "CRE-H-0047",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What were the names of Lamech's two wives?",
+    "choices": [
+      "Adah and Zillah",
+      "Naamah and Mahalath",
+      "Sarah and Rebekah",
+      "Leah and Rachel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "19"
+    },
+    "explanation": "Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah.",
+    "verses": {
+      "kjv": "And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah."
+    },
+    "id": "CRE-H-0048",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the father of such as dwell in tents and have cattle?",
+    "choices": [
+      "Jabal",
+      "Jubal",
+      "Tubal-cain",
+      "Cain"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "20"
+    },
+    "explanation": "Jabal, son of Lamech by Adah, was the father of such as dwell in tents and of such as have cattle.",
+    "verses": {
+      "kjv": "And Adah bare Jabal: he was the father of such as dwell in tents, and of such as have cattle."
+    },
+    "id": "CRE-H-0049",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What son did Eve say God appointed in place of Abel?",
+    "choices": [
+      "Seth",
+      "Enos",
+      "Cainan",
+      "Mahalaleel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "25"
+    },
+    "explanation": "Eve named him Seth, saying God hath appointed me another seed instead of Abel.",
+    "verses": {
+      "kjv": "And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me another seed instead of Abel, whom Cain slew."
+    },
+    "id": "CRE-H-0050",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the name of Seth's son?",
+    "choices": [
+      "Enos",
+      "Cainan",
+      "Mahalaleel",
+      "Jared"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "26"
+    },
+    "explanation": "To Seth also there was born a son; and he called his name Enos.",
+    "verses": {
+      "kjv": "And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD."
+    },
+    "id": "CRE-H-0051",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How old was Adam when Seth was born?",
+    "choices": [
+      "One hundred and thirty years",
+      "One hundred years",
+      "Two hundred years",
+      "Ninety years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "3"
+    },
+    "explanation": "Adam lived an hundred and thirty years and begat Seth.",
+    "verses": {
+      "kjv": "And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:"
+    },
+    "id": "CRE-H-0052",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many years did Adam live after he begat Seth?",
+    "choices": [
+      "Eight hundred years",
+      "Seven hundred years",
+      "Nine hundred years",
+      "Six hundred years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "4"
+    },
+    "explanation": "After Seth was born, Adam lived eight hundred years and begat sons and daughters.",
+    "verses": {
+      "kjv": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:"
+    },
+    "id": "CRE-H-0053",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How old was Adam when he died?",
+    "choices": [
+      "Nine hundred and thirty years",
+      "One thousand years",
+      "Eight hundred and fifty years",
+      "Seven hundred and seventy years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "5"
+    },
+    "explanation": "All the days that Adam lived were nine hundred and thirty years: and he died.",
+    "verses": {
+      "kjv": "And all the days that Adam lived were nine hundred and thirty years: and he died."
+    },
+    "id": "CRE-H-0054",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How old was Seth when he begat Enos?",
+    "choices": [
+      "One hundred and five years",
+      "One hundred and thirty years",
+      "Ninety years",
+      "Sixty-five years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "6"
+    },
+    "explanation": "Seth lived an hundred and five years and begat Enos.",
+    "verses": {
+      "kjv": "And Seth lived an hundred and five years, and begat Enos:"
+    },
+    "id": "CRE-H-0055",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How old was Enos when he begat Cainan?",
+    "choices": [
+      "Ninety years",
+      "One hundred and five years",
+      "Seventy years",
+      "One hundred and thirty years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "9"
+    },
+    "explanation": "Enos lived ninety years and begat Cainan.",
+    "verses": {
+      "kjv": "And Enos lived ninety years, and begat Cainan:"
+    },
+    "id": "CRE-H-0056",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How old was Jared when he begat Enoch?",
+    "choices": [
+      "One hundred and sixty-two years",
+      "One hundred and thirty years",
+      "Ninety years",
+      "Sixty-five years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "18"
+    },
+    "explanation": "Jared lived an hundred sixty and two years and he begat Enoch.",
+    "verses": {
+      "kjv": "And Jared lived an hundred sixty and two years, and he begat Enoch:"
+    },
+    "id": "CRE-H-0057",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many years did Enoch walk with God after begetting Methuselah?",
+    "choices": [
+      "Three hundred years",
+      "Sixty-five years",
+      "Two hundred years",
+      "One hundred years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "22"
+    },
+    "explanation": "Enoch walked with God after he begat Methuselah three hundred years.",
+    "verses": {
+      "kjv": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:"
+    },
+    "id": "CRE-H-0058",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How old was Methuselah when he begat Lamech?",
+    "choices": [
+      "One hundred and eighty-seven years",
+      "One hundred and sixty-two years",
+      "One hundred and thirty years",
+      "One hundred and five years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "25"
+    },
+    "explanation": "Methuselah lived an hundred eighty and seven years and begat Lamech.",
+    "verses": {
+      "kjv": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:"
+    },
+    "id": "CRE-H-0059",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How old was Lamech when Noah was born?",
+    "choices": [
+      "One hundred and eighty-two years",
+      "One hundred and sixty-two years",
+      "One hundred and thirty years",
+      "Five hundred years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "28"
+    },
+    "explanation": "Lamech lived an hundred eighty and two years and begat Noah.",
+    "verses": {
+      "kjv": "And Lamech lived an hundred eighty and two years, and begat a son:"
+    },
+    "id": "CRE-H-0060",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did Lamech say about Noah when he named him?",
+    "choices": [
+      "This same shall comfort us",
+      "This same shall judge us",
+      "This same shall lead us",
+      "This same shall teach us"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "29"
+    },
+    "explanation": "Lamech said Noah would comfort them concerning their work and toil of their hands because of the ground which the Lord had cursed.",
+    "verses": {
+      "kjv": "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed."
+    },
+    "id": "CRE-H-0061",
+    "theme": "Creation & Origins",
+    "difficulty": "hard"
   }
 ]

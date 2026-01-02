@@ -790,5 +790,291 @@
     "verses": {
       "kjv": "And Moses stretched out his hand over the sea; and the LORD caused the sea to go\nback by a strong east wind all that night, and made the sea dry\nland, and the waters were divided.\nAnd the children of Israel went into the midst of the sea upon the dry\nground: and the waters\nwere a wall unto them on their right hand, and on their left."
     }
+  },
+  {
+    "question": "What did God use to lead the Israelites by day and by night in the wilderness (Exodus 13:21)?",
+    "choices": [
+      "A pillar of cloud by day and a pillar of fire by night",
+      "A rainbow in the sky",
+      "A burning bush",
+      "A whirlwind"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 13,
+      "verse": "21"
+    },
+    "explanation": "Exodus 13:21 says the LORD went before Israel in a pillar of cloud by day and a pillar of fire by night to lead them.",
+    "verses": {
+      "kjv": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:"
+    },
+    "id": "JRN-E-0035",
+    "theme": "Journeys & Exile",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What body of water did the Israelites cross when they went out of Egypt (Exodus 14:22)?",
+    "choices": [
+      "The Red sea",
+      "The river Jordan",
+      "The sea of Galilee",
+      "The river Euphrates"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 14,
+      "verse": "22"
+    },
+    "explanation": "Exodus 14:22 says the children of Israel went into the midst of the sea upon dry ground, with waters as a wall on both sides.",
+    "verses": {
+      "kjv": "And the children of Israel went into the midst of the sea upon the dry ground: and the waters were a wall unto them on their right hand, and on their left."
+    },
+    "id": "JRN-E-0036",
+    "theme": "Journeys & Exile",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Where did Jacob go to flee from his brother Esau (Genesis 28:5)?",
+    "choices": [
+      "Padanaram",
+      "Egypt",
+      "Nineveh",
+      "Jericho"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 28,
+      "verse": "5"
+    },
+    "explanation": "Genesis 28:5 says Isaac sent Jacob away and he went to Padanaram, to Laban.",
+    "verses": {
+      "kjv": "And Isaac sent away Jacob: and he went to Padanaram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob's and Esau's mother."
+    },
+    "id": "JRN-E-0037",
+    "theme": "Journeys & Exile",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Where did Joseph's brothers sell him (Genesis 37:28)?",
+    "choices": [
+      "Into Egypt",
+      "Into Babylon",
+      "Into Canaan",
+      "Into Moab"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 37,
+      "verse": "28"
+    },
+    "explanation": "Genesis 37:28 says the Midianites sold Joseph into Egypt unto Potiphar.",
+    "verses": {
+      "kjv": "Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty pieces of silver: and they brought Joseph into Egypt."
+    },
+    "id": "JRN-E-0038",
+    "theme": "Journeys & Exile",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When Naomi and Ruth arrived in Bethlehem, what time of harvest was it (Ruth 1:22)?",
+    "choices": [
+      "The beginning of barley harvest",
+      "The end of wheat harvest",
+      "The grape harvest",
+      "The olive harvest"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ruth",
+      "chapter": 1,
+      "verse": "22"
+    },
+    "explanation": "Ruth 1:22 says Naomi and Ruth came to Bethlehem in the beginning of barley harvest.",
+    "verses": {
+      "kjv": "So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harvest."
+    },
+    "id": "JRN-E-0039",
+    "theme": "Journeys & Exile",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which river did the priests stand in when Israel crossed over on dry ground (Joshua 3:17)?",
+    "choices": [
+      "Jordan",
+      "Nile",
+      "Tigris",
+      "Arnon"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 3,
+      "verse": "17"
+    },
+    "explanation": "Joshua 3:17 says the priests with the ark stood firm on dry ground in the midst of Jordan while all Israel passed over.",
+    "verses": {
+      "kjv": "And the priests that bare the ark of the covenant of the LORD stood firm on dry ground in the midst of Jordan, and all the Israelites passed over on dry ground, until all the people were passed clean over Jordan."
+    },
+    "id": "JRN-E-0040",
+    "theme": "Journeys & Exile",
+    "difficulty": "easy"
+  },
+  {
+    "question": "To what city did Jonah flee when he rose up to flee from the presence of the LORD (Jonah 1:3)?",
+    "choices": [
+      "Tarshish",
+      "Jerusalem",
+      "Bethlehem",
+      "Hebron"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Jonah",
+      "chapter": 1,
+      "verse": "3"
+    },
+    "explanation": "Jonah 1:3 says Jonah rose up to flee unto Tarshish from the presence of the LORD.",
+    "verses": {
+      "kjv": "But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD."
+    },
+    "id": "JRN-E-0041",
+    "theme": "Journeys & Exile",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Where did Paul and Barnabas sail after they had been recommended to the grace of God (Acts 13:4)?",
+    "choices": [
+      "Cyprus",
+      "Crete",
+      "Malta",
+      "Patmos"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 13,
+      "verse": "4"
+    },
+    "explanation": "Acts 13:4 says they departed unto Seleucia, and from thence they sailed to Cyprus.",
+    "verses": {
+      "kjv": "So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus."
+    },
+    "id": "JRN-E-0042",
+    "theme": "Journeys & Exile",
+    "difficulty": "easy"
+  },
+  {
+    "question": "To what city was Philip directed by the angel of the Lord to go on the road that goes down from Jerusalem (Acts 8:26)?",
+    "choices": [
+      "Gaza",
+      "Jericho",
+      "Bethany",
+      "Caesarea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 8,
+      "verse": "26"
+    },
+    "explanation": "Acts 8:26 tells Philip to go toward the south unto the way that goes down from Jerusalem unto Gaza.",
+    "verses": {
+      "kjv": "And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert."
+    },
+    "id": "JRN-E-0043",
+    "theme": "Journeys & Exile",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When Paul had purposed in the spirit to go to Jerusalem, what destination did he say he must see after passing through Macedonia and Achaia (Acts 19:21)?",
+    "choices": [
+      "Rome",
+      "Athens",
+      "Ephesus",
+      "Antioch"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 19,
+      "verse": "21"
+    },
+    "explanation": "Acts 19:21 records Paul's plan and his statement: \"I must also see Rome.\"",
+    "verses": {
+      "kjv": "After these things were ended, Paul purposed in the spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, After I have been there, I must also see Rome."
+    },
+    "id": "JRN-E-0044",
+    "theme": "Journeys & Exile",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Where was Paul kept for two years by Felix (Acts 24:27)?",
+    "choices": [
+      "In bonds",
+      "In a cave",
+      "In the temple",
+      "In the synagogue"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 24,
+      "verse": "27"
+    },
+    "explanation": "Acts 24:27 says Felix left Paul bound (in bonds) when he was succeeded by Porcius Festus.",
+    "verses": {
+      "kjv": "But after two years Porcius Festus came into Felix' room: and Felix, willing to shew the Jews a pleasure, left Paul bound."
+    },
+    "id": "JRN-E-0045",
+    "theme": "Journeys & Exile",
+    "difficulty": "easy"
+  },
+  {
+    "question": "To what island was John exiled for the word of God and for the testimony of Jesus Christ (Revelation 1:9)?",
+    "choices": [
+      "Patmos",
+      "Cyprus",
+      "Crete",
+      "Rhodes"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 1,
+      "verse": "9"
+    },
+    "explanation": "Revelation 1:9 says John was in the isle called Patmos for the word of God and for the testimony of Jesus Christ.",
+    "verses": {
+      "kjv": "I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ."
+    },
+    "id": "JRN-E-0046",
+    "theme": "Journeys & Exile",
+    "difficulty": "easy"
+  },
+  {
+    "question": "After the shipwreck, what was the name of the island where the people showed Paul and the others no little kindness (Acts 28:1-2)?",
+    "choices": [
+      "Melita",
+      "Patmos",
+      "Sicily",
+      "Cyprus"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 28,
+      "verse": "1-2"
+    },
+    "explanation": "Acts 28:1-2 says the island was called Melita and the barbarous people showed them no little kindness.",
+    "verses": {
+      "kjv": "And when they were escaped, then they knew that the island was called Melita. And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold."
+    },
+    "id": "JRN-E-0047",
+    "theme": "Journeys & Exile",
+    "difficulty": "easy"
   }
 ]

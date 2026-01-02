@@ -548,5 +548,555 @@
     "verses": {
       "kjv": "Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon."
     }
+  },
+  {
+    "question": "In the battle with Amalek, what did Aaron and Hur do when Moses' hands were heavy (Exodus 17:12)?",
+    "choices": [
+      "They stayed up his hands (one on one side, one on the other) until the sun set",
+      "They brought the ark into the fight",
+      "They blew trumpets to frighten Amalek",
+      "They gathered stones to build a wall for Israel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 17,
+      "verse": "12"
+    },
+    "explanation": "Exodus 17:12 says Aaron and Hur supported Moses' hands so they remained steady until sunset, and Israel prevailed.",
+    "verses": {
+      "kjv": "But Moses' hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun."
+    },
+    "id": "BAT-H-0027",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "After the king of Ai was captured, where was he kept until evening (Joshua 8:29)?",
+    "choices": [
+      "Hanged on a tree",
+      "Chained to the altar at Gilgal",
+      "Hidden in a cave at Bethel",
+      "Put in prison in Jericho"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 8,
+      "verse": "29"
+    },
+    "explanation": "Joshua 8:29 says the king of Ai was hanged on a tree until eventide.",
+    "verses": {
+      "kjv": "And the king of Ai he hanged on a tree until eventide: and as soon as the sun was down, Joshua commanded that they should take his carcase down from the tree, and cast it at the entering of the gate of the city, and raise thereon a great heap of stones, that remaineth unto this day."
+    },
+    "id": "BAT-H-0028",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which judge struck down thirty men of Ashkelon and took their spoil to pay a riddle debt (Judges 14:19)?",
+    "choices": [
+      "Samson",
+      "Jephthah",
+      "Ehud",
+      "Othniel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Judges",
+      "chapter": 14,
+      "verse": "19"
+    },
+    "explanation": "Judges 14:19 says Samson went down to Ashkelon, slew thirty men, took their spoil, and gave change of garments to those who explained the riddle.",
+    "verses": {
+      "kjv": "And the Spirit of the LORD came upon him, and he went down to Ashkelon, and slew thirty men of them, and took their spoil, and gave change of garments unto them which expounded the riddle. And his anger was kindled, and he went up to his father's house."
+    },
+    "id": "BAT-H-0029",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the battle under Deborah, what did the river Kishon do to Sisera's forces according to the song (Judges 5:21)?",
+    "choices": [
+      "It swept them away",
+      "It dried up completely",
+      "It turned to blood",
+      "It split into two rivers"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Judges",
+      "chapter": 5,
+      "verse": "21"
+    },
+    "explanation": "Judges 5:21 says the river of Kishon swept away the enemy in the song of Deborah.",
+    "verses": {
+      "kjv": "The river of Kishon swept them away, that ancient river, the river Kishon. O my soul, thou hast trodden down strength."
+    },
+    "id": "BAT-H-0030",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When Jonathan attacked the Philistines, what sign did Jonathan say would show the LORD had delivered them into Israel's hand (1 Samuel 14:10)?",
+    "choices": [
+      "If they said, 'Come up unto us,' then they would go up",
+      "If they said, 'Come down unto us,' then they would go down",
+      "If the sun went dark at noon",
+      "If thunder sounded from a clear sky"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verse": "10"
+    },
+    "explanation": "1 Samuel 14:10 gives Jonathan's sign: if the Philistines invited them to come up, it would mean the LORD had delivered them.",
+    "verses": {
+      "kjv": "But if they say thus, Come up unto us; then we will go up: for the LORD hath delivered them into our hand: and this shall be a sign unto us."
+    },
+    "id": "BAT-H-0031",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "After Saul's death, what did the men of Jabesh-gilead do with Saul's bones (1 Samuel 31:13)?",
+    "choices": [
+      "Buried them under a tree at Jabesh and fasted seven days",
+      "Burned them on an altar at Gilgal and feasted seven days",
+      "Carried them to Jerusalem and placed them in the temple",
+      "Cast them into the sea and prayed three days"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 31,
+      "verse": "13"
+    },
+    "explanation": "1 Samuel 31:13 says they took the bones and buried them under a tree at Jabesh, then fasted seven days.",
+    "verses": {
+      "kjv": "And they took their bones, and buried them under a tree at Jabesh, and fasted seven days."
+    },
+    "id": "BAT-H-0032",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In David's wars, what did the LORD do when the Philistines came and spread themselves in the valley of Rephaim (2 Samuel 5:24)?",
+    "choices": [
+      "He went out before David to smite the host of the Philistines",
+      "He sent hailstones upon the Philistines",
+      "He caused the Philistines to fall asleep",
+      "He made David invisible to the Philistines"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verse": "24"
+    },
+    "explanation": "2 Samuel 5:24 says when David heard a sound of going in the tops of the mulberry trees, it meant the LORD had gone out before him to smite the Philistines.",
+    "verses": {
+      "kjv": "And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the LORD go out before thee, to smite the host of the Philistines."
+    },
+    "id": "BAT-H-0033",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the battle with the Syrians, what did Joab say the LORD would do (2 Samuel 10:12)?",
+    "choices": [
+      "Do that which seemeth him good",
+      "Destroy Israel for their sin",
+      "Give Joab the throne",
+      "Send angels to fight visibly"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "verse": "12"
+    },
+    "explanation": "2 Samuel 10:12 says Joab encouraged courage and said, 'the LORD do that which seemeth him good.'",
+    "verses": {
+      "kjv": "Be of good courage, and let us play the men for our people, and for the cities of our God: and the LORD do that which seemeth him good."
+    },
+    "id": "BAT-H-0034",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When David fought the Syrians, how many Syrian horsemen did David slay according to the KJV (2 Samuel 10:18)?",
+    "choices": [
+      "Seven hundred",
+      "Seven thousand",
+      "Seventy",
+      "Seventeen thousand"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "verse": "18"
+    },
+    "explanation": "2 Samuel 10:18 says David slew seven hundred chariots of the Syrians and forty thousand horsemen.",
+    "verses": {
+      "kjv": "And the Syrians fled before Israel; and David slew the men of seven hundred chariots of the Syrians, and forty thousand horsemen, and smote Shobach the captain of their host, who died there."
+    },
+    "id": "BAT-H-0035",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When David fought Hadadezer, how many Syrians did David's men kill according to the KJV (2 Samuel 8:5)?",
+    "choices": [
+      "Two and twenty thousand",
+      "Twelve thousand",
+      "Thirty thousand",
+      "One thousand"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "verse": "5"
+    },
+    "explanation": "2 Samuel 8:5 says David slew of the Syrians two and twenty thousand men when they came to help Hadadezer.",
+    "verses": {
+      "kjv": "And when the Syrians of Damascus came to succour Hadadezer king of Zobah, David slew of the Syrians two and twenty thousand men."
+    },
+    "id": "BAT-H-0036",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When David defeated Moab, what did he do with two lines of people, and what happened to the full line (2 Samuel 8:2)?",
+    "choices": [
+      "He measured them with a line, casting down two lines to be put to death, and one full line to be kept alive",
+      "He measured them with a rope and released all of them",
+      "He measured them with a spear and made all of them servants",
+      "He measured them with stones and put all of them to death"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "verse": "2"
+    },
+    "explanation": "2 Samuel 8:2 describes David measuring the Moabites with a line: two lines for death and one full line for life.",
+    "verses": {
+      "kjv": "And he smote Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And so the Moabites became David's servants, and brought gifts."
+    },
+    "id": "BAT-H-0037",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was captain of Absalom's host instead of Joab (2 Samuel 17:25)?",
+    "choices": [
+      "Amasa",
+      "Abner",
+      "Shobach",
+      "Benaiah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "verse": "25"
+    },
+    "explanation": "2 Samuel 17:25 says Absalom made Amasa captain of the host instead of Joab.",
+    "verses": {
+      "kjv": "And Absalom made Amasa captain of the host instead of Joab: which Amasa was a man's son, whose name was Ithra an Israelite, that went in to Abigail the daughter of Nahash, sister to Zeruiah Joab's mother."
+    },
+    "id": "BAT-H-0038",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Absalom's battle, what happened to Absalom when he rode under a great oak (2 Samuel 18:9)?",
+    "choices": [
+      "His head caught hold of the oak and he was taken up between heaven and earth",
+      "His horse fell into a pit and he died",
+      "He was struck by an arrow and fell at once",
+      "He fled safely into the wilderness"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "verse": "9"
+    },
+    "explanation": "2 Samuel 18:9 says Absalom's head caught in the oak and he hung between heaven and earth as the mule went away.",
+    "verses": {
+      "kjv": "And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that was under him went away."
+    },
+    "id": "BAT-H-0039",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When Joab learned Absalom was dead, what did he tell the man who brought the report he would have given him (2 Samuel 18:11)?",
+    "choices": [
+      "Ten shekels of silver and a girdle",
+      "A talent of gold and a crown",
+      "One hundred shekels of silver and a sword",
+      "A robe and a ring"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "verse": "11"
+    },
+    "explanation": "2 Samuel 18:11 says Joab told the man he would have given him ten shekels of silver and a girdle if he had slain Absalom.",
+    "verses": {
+      "kjv": "And Joab said unto the man that told him, And, behold, thou sawest him, and why didst thou not smite him there to the ground? and I would have given thee ten shekels of silver, and a girdle."
+    },
+    "id": "BAT-H-0040",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When the Philistines fought Israel at Ebenezer, how many men of Israel fell in that battle (1 Samuel 4:10)?",
+    "choices": [
+      "Thirty thousand footmen",
+      "Three thousand footmen",
+      "Ten thousand footmen",
+      "Seventy thousand footmen"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "verse": "10"
+    },
+    "explanation": "1 Samuel 4:10 says there was a very great slaughter and there fell of Israel thirty thousand footmen.",
+    "verses": {
+      "kjv": "And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen."
+    },
+    "id": "BAT-H-0041",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the fight where the ark was taken, what happened to the two sons of Eli (1 Samuel 4:11)?",
+    "choices": [
+      "Hophni and Phinehas were slain",
+      "They escaped and became priests in Shiloh",
+      "They were captured and later released",
+      "They fled into the wilderness of Zin"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "verse": "11"
+    },
+    "explanation": "1 Samuel 4:11 says the ark of God was taken and Eli's two sons, Hophni and Phinehas, were slain.",
+    "verses": {
+      "kjv": "And the ark of God was taken; and the two sons of Eli, Hophni and Phinehas, were slain."
+    },
+    "id": "BAT-H-0042",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When David numbered the people, what did Joab report as the number of valiant men that drew the sword in Israel (2 Samuel 24:9)?",
+    "choices": [
+      "Eight hundred thousand",
+      "Eight thousand",
+      "One hundred thousand",
+      "Five hundred thousand"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "verse": "9"
+    },
+    "explanation": "2 Samuel 24:9 says Joab gave the king the sum of the number of the people: in Israel there were eight hundred thousand valiant men that drew the sword.",
+    "verses": {
+      "kjv": "And Joab gave up the sum of the number of the people unto the king: and there were in Israel eight hundred thousand valiant men that drew the sword; and the men of Judah were five hundred thousand men."
+    },
+    "id": "BAT-H-0043",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When Sennacherib's army was struck, how many were found dead in the camp in the morning (2 Kings 19:35)?",
+    "choices": [
+      "An hundred fourscore and five thousand",
+      "Four score and five",
+      "Seventy thousand",
+      "Two hundred thousand"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verse": "35"
+    },
+    "explanation": "2 Kings 19:35 says the angel of the LORD smote 185,000 in the camp of the Assyrians; in the morning they were all dead corpses.",
+    "verses": {
+      "kjv": "And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they were all dead corpses."
+    },
+    "id": "BAT-H-0044",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When the LORD sent an angel to destroy Jerusalem, at what place was the angel seen standing (1 Chronicles 21:16)?",
+    "choices": [
+      "By the threshingfloor of Ornan the Jebusite",
+      "At the gate of Jericho",
+      "On mount Carmel",
+      "In the valley of Jezreel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Chronicles",
+      "chapter": 21,
+      "verse": "16"
+    },
+    "explanation": "1 Chronicles 21:16 says David saw the angel of the LORD stand between the earth and the heaven, having a drawn sword over Jerusalem, by the threshingfloor of Ornan.",
+    "verses": {
+      "kjv": "And David lifted up his eyes, and saw the angel of the LORD stand between the earth and the heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders of Israel, who were clothed in sackcloth, fell upon their faces."
+    },
+    "id": "BAT-H-0045",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When Jehoshaphat feared because a great multitude came against him, what did he proclaim throughout all Judah (2 Chronicles 20:3)?",
+    "choices": [
+      "A fast",
+      "A feast",
+      "A census",
+      "A trumpet alarm"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Chronicles",
+      "chapter": 20,
+      "verse": "3"
+    },
+    "explanation": "2 Chronicles 20:3 says Jehoshaphat proclaimed a fast throughout all Judah.",
+    "verses": {
+      "kjv": "And Jehoshaphat feared, and set himself to seek the LORD, and proclaimed a fast throughout all Judah."
+    },
+    "id": "BAT-H-0046",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Jehoshaphat's battle, what did the singers say as they went out before the army (2 Chronicles 20:21)?",
+    "choices": [
+      "Praise the LORD; for his mercy endureth for ever",
+      "The sword of the LORD and of Gideon",
+      "The LORD is my shepherd; I shall not want",
+      "Blessed be the LORD God of Israel from everlasting to everlasting"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Chronicles",
+      "chapter": 20,
+      "verse": "21"
+    },
+    "explanation": "2 Chronicles 20:21 says they should praise the beauty of holiness and say, \"Praise the LORD; for his mercy endureth for ever.\"",
+    "verses": {
+      "kjv": "And when he had consulted with the people, he appointed singers unto the LORD, and that should praise the beauty of holiness, as they went out before the army, and to say, Praise the LORD; for his mercy endureth for ever."
+    },
+    "id": "BAT-H-0047",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When Hezekiah's officers spoke to the people during the Assyrian threat, why did the people hold their peace (2 Kings 18:36)?",
+    "choices": [
+      "Because the king's commandment was, Answer him not",
+      "Because they did not understand the language",
+      "Because they were preparing to flee",
+      "Because they were offering sacrifices"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 18,
+      "verse": "36"
+    },
+    "explanation": "2 Kings 18:36 says the people held their peace and answered not a word because the king commanded, 'Answer him not.'",
+    "verses": {
+      "kjv": "But the people held their peace, and answered him not a word: for the king's commandment was, saying, Answer him not."
+    },
+    "id": "BAT-H-0048",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When Hezekiah prayed about Sennacherib's letter, where did he spread it (2 Kings 19:14)?",
+    "choices": [
+      "Before the LORD in the house of the LORD",
+      "Before the people at the city gate",
+      "Before the priests at the altar in Gibeon",
+      "Before the king of Egypt in Zoan"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verse": "14"
+    },
+    "explanation": "2 Kings 19:14 says Hezekiah went up into the house of the LORD and spread the letter before the LORD.",
+    "verses": {
+      "kjv": "And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD."
+    },
+    "id": "BAT-H-0049",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When the Amorites came against Gibeon, by what way did Joshua come unto them according to the KJV (Joshua 10:9)?",
+    "choices": [
+      "He came unto them suddenly, and went up from Gilgal all night",
+      "He marched from Jericho for three days",
+      "He sailed across the Jordan by ship",
+      "He waited in Gibeon until the morning"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 10,
+      "verse": "9"
+    },
+    "explanation": "Joshua 10:9 states Joshua marched from Gilgal all night and came upon them suddenly.",
+    "verses": {
+      "kjv": "Joshua therefore came unto them suddenly, and went up from Gilgal all night."
+    },
+    "id": "BAT-H-0050",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When David refused to drink the water brought from the well of Bethlehem, where did he pour it (2 Samuel 23:16)?",
+    "choices": [
+      "Unto the LORD",
+      "Upon the ground at the city gate",
+      "Into the brook Kidron",
+      "Before the elders of Israel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "verse": "16"
+    },
+    "explanation": "2 Samuel 23:16 says David would not drink it, but poured it out unto the LORD.",
+    "verses": {
+      "kjv": "And the three mighty men brake through the host of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David: nevertheless he would not drink thereof, but poured it out unto the LORD."
+    },
+    "id": "BAT-H-0051",
+    "theme": "Battles & Conquests",
+    "difficulty": "hard"
   }
 ]

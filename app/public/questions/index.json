@@ -32,7 +32,7 @@
     "themePath": "battles-conquests",
     "difficulty": "easy",
     "difficultyCode": "E",
-    "count": 26,
+    "count": 50,
     "filePath": "questions/battles-conquests/easy.json"
   },
   {
@@ -41,7 +41,7 @@
     "themePath": "battles-conquests",
     "difficulty": "medium",
     "difficultyCode": "M",
-    "count": 29,
+    "count": 50,
     "filePath": "questions/battles-conquests/medium.json"
   },
   {
@@ -50,7 +50,7 @@
     "themePath": "battles-conquests",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 25,
+    "count": 50,
     "filePath": "questions/battles-conquests/hard.json"
   },
   {
@@ -77,7 +77,7 @@
     "themePath": "creation-origins",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 15,
+    "count": 50,
     "filePath": "questions/creation-origins/hard.json"
   },
   {
@@ -113,7 +113,7 @@
     "themePath": "journeys-exile",
     "difficulty": "easy",
     "difficultyCode": "E",
-    "count": 36,
+    "count": 49,
     "filePath": "questions/journeys-exile/easy.json"
   },
   {
@@ -122,7 +122,7 @@
     "themePath": "journeys-exile",
     "difficulty": "medium",
     "difficultyCode": "M",
-    "count": 29,
+    "count": 49,
     "filePath": "questions/journeys-exile/medium.json"
   },
   {
@@ -185,7 +185,7 @@
     "themePath": "miracles",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 18,
+    "count": 51,
     "filePath": "questions/miracles/hard.json"
   },
   {
@@ -239,7 +239,7 @@
     "themePath": "prophecy-end-times",
     "difficulty": "hard",
     "difficultyCode": "H",
-    "count": 17,
+    "count": 50,
     "filePath": "questions/prophecy-end-times/hard.json"
   },
   {

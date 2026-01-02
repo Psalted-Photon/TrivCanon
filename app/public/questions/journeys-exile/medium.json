@@ -636,5 +636,445 @@
     "verses": {
       "kjv": "For thus saith the LORD, That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place."
     }
+  },
+  {
+    "question": "When Jacob agreed to serve for Rachel, how many years did Laban say he must serve (Genesis 29:18)?",
+    "choices": [
+      "Seven years",
+      "Three years",
+      "Ten years",
+      "Fourteen years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 29,
+      "verse": "18"
+    },
+    "explanation": "Genesis 29:18 records Jacob’s agreement to serve Laban seven years for Rachel.",
+    "verses": {
+      "kjv": "And Jacob loved Rachel; and said, I will serve thee seven years for Rachel thy younger daughter."
+    },
+    "id": "JRN-M-0028",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the name of the place where Jacob stayed when he took stones for his pillows and dreamed of a ladder (Genesis 28:19)?",
+    "choices": [
+      "Bethel",
+      "Hebron",
+      "Shechem",
+      "Beersheba"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 28,
+      "verse": "19"
+    },
+    "explanation": "Genesis 28:19 says Jacob called the name of that place Bethel.",
+    "verses": {
+      "kjv": "And he called the name of that place Beth-el: but the name of that city was called Luz at the first."
+    },
+    "id": "JRN-M-0029",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Jacob call the heap of stones that was a witness between him and Laban (Genesis 31:48)?",
+    "choices": [
+      "Galeed",
+      "Bethel",
+      "Mizpah",
+      "Beersheba"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 31,
+      "verse": "48"
+    },
+    "explanation": "Genesis 31:48 states that Laban said the heap was a witness and named it accordingly.",
+    "verses": {
+      "kjv": "And Laban said, This heap is a witness between me and thee this day. Therefore was the name of it called Galeed;"
+    },
+    "id": "JRN-M-0030",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the name of the wilderness where John the Baptist preached (Matthew 3:1)?",
+    "choices": [
+      "The wilderness of Judaea",
+      "The wilderness of Sinai",
+      "The wilderness of Paran",
+      "The wilderness of Shur"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 3,
+      "verse": "1"
+    },
+    "explanation": "Matthew 3:1 says John the Baptist came preaching in the wilderness of Judaea.",
+    "verses": {
+      "kjv": "In those days came John the Baptist, preaching in the wilderness of Judaea,"
+    },
+    "id": "JRN-M-0031",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What city did Joseph take Mary and the young child to, where they lived after returning from Egypt (Matthew 2:23)?",
+    "choices": [
+      "Nazareth",
+      "Bethlehem",
+      "Jerusalem",
+      "Capernaum"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 2,
+      "verse": "23"
+    },
+    "explanation": "Matthew 2:23 says they came and dwelt in a city called Nazareth.",
+    "verses": {
+      "kjv": "And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene."
+    },
+    "id": "JRN-M-0032",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "On his way to Damascus, what happened to Saul when he came near the city (Acts 9:3)?",
+    "choices": [
+      "A light from heaven shined round about him",
+      "An earthquake shook the road",
+      "A storm struck his companions",
+      "A fire descended on the city gate"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 9,
+      "verse": "3"
+    },
+    "explanation": "Acts 9:3 says as Saul journeyed and came near Damascus, suddenly a light from heaven shined round about him.",
+    "verses": {
+      "kjv": "And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:"
+    },
+    "id": "JRN-M-0033",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "From which city did Paul and Barnabas sail to Cyprus (Acts 13:4)?",
+    "choices": [
+      "Seleucia",
+      "Joppa",
+      "Caesarea",
+      "Troas"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 13,
+      "verse": "4"
+    },
+    "explanation": "Acts 13:4 says they departed unto Seleucia, and from thence they sailed to Cyprus.",
+    "verses": {
+      "kjv": "So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus."
+    },
+    "id": "JRN-M-0034",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In what region did Paul and Barnabas preach the word of God and also speak in the synagogues of the Jews (Acts 13:5)?",
+    "choices": [
+      "Salamis",
+      "Antioch of Pisidia",
+      "Philippi",
+      "Corinth"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 13,
+      "verse": "5"
+    },
+    "explanation": "Acts 13:5 says they were at Salamis and preached the word of God in the synagogues of the Jews.",
+    "verses": {
+      "kjv": "And when they were at Salamis, they preached the word of God in the synagogues of the Jews: and they had also John to their minister."
+    },
+    "id": "JRN-M-0035",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Paul’s vision, a man of what region prayed him, saying, “Come over … and help us” (Acts 16:9)?",
+    "choices": [
+      "Macedonia",
+      "Galatia",
+      "Judaea",
+      "Samaria"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 16,
+      "verse": "9"
+    },
+    "explanation": "Acts 16:9 describes a vision of a man of Macedonia asking Paul to come over and help them.",
+    "verses": {
+      "kjv": "And a vision appeared to Paul in the night; There stood a man of Macedonia, and prayed him, saying, Come over into Macedonia, and help us."
+    },
+    "id": "JRN-M-0036",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where did Paul and his company first lodge after coming to Macedonia, a chief city of that part (Acts 16:12)?",
+    "choices": [
+      "Philippi",
+      "Thessalonica",
+      "Berea",
+      "Athens"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 16,
+      "verse": "12"
+    },
+    "explanation": "Acts 16:12 says they came to Philippi and stayed there certain days.",
+    "verses": {
+      "kjv": "And from thence to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days."
+    },
+    "id": "JRN-M-0037",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When Paul was sent away by the brethren from Berea, to what city did he come (Acts 17:15)?",
+    "choices": [
+      "Athens",
+      "Rome",
+      "Jerusalem",
+      "Ephesus"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 17,
+      "verse": "15"
+    },
+    "explanation": "Acts 17:15 says they brought Paul unto Athens and then returned with a command for Silas and Timotheus.",
+    "verses": {
+      "kjv": "And they that conducted Paul brought him unto Athens: and receiving a commandment unto Silas and Timotheus for to come to him with all speed, they departed."
+    },
+    "id": "JRN-M-0038",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What city did Paul enter when he came to find Aquila and Priscilla (Acts 18:1-2)?",
+    "choices": [
+      "Corinth",
+      "Antioch",
+      "Damascus",
+      "Tarsus"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 18,
+      "verse": "1-2"
+    },
+    "explanation": "Acts 18:1-2 says Paul departed from Athens and came to Corinth, where he found Aquila and Priscilla.",
+    "verses": {
+      "kjv": "After these things Paul departed from Athens, and came to Corinth; And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them."
+    },
+    "id": "JRN-M-0039",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "After Paul sailed from Ephesus, where did he go up and salute the church (Acts 18:22)?",
+    "choices": [
+      "Caesarea",
+      "Philippi",
+      "Jerusalem",
+      "Antioch of Pisidia"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 18,
+      "verse": "22"
+    },
+    "explanation": "Acts 18:22 says he landed at Caesarea and went up and saluted the church.",
+    "verses": {
+      "kjv": "And when he had landed at Caesarea, and gone up, and saluted the church, he went down to Antioch."
+    },
+    "id": "JRN-M-0040",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When Paul departed after the uproar in Ephesus, where did he go (Acts 20:1)?",
+    "choices": [
+      "Macedonia",
+      "Rome",
+      "Jerusalem",
+      "Crete"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 20,
+      "verse": "1"
+    },
+    "explanation": "Acts 20:1 says Paul departed to go into Macedonia after exhorting the disciples.",
+    "verses": {
+      "kjv": "And after the uproar was ceased, Paul called unto him the disciples, and embraced them, and departed for to go into Macedonia."
+    },
+    "id": "JRN-M-0041",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where did Paul say he was bound in the spirit to go, not knowing the things that would befall him there (Acts 20:22)?",
+    "choices": [
+      "Jerusalem",
+      "Antioch",
+      "Bethany",
+      "Capernaum"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 20,
+      "verse": "22"
+    },
+    "explanation": "Acts 20:22 quotes Paul saying he was going bound in the spirit unto Jerusalem.",
+    "verses": {
+      "kjv": "And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there:"
+    },
+    "id": "JRN-M-0042",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "While Paul was a prisoner being sent toward Italy, they sailed under what island because the winds were contrary (Acts 27:4)?",
+    "choices": [
+      "Cyprus",
+      "Crete",
+      "Patmos",
+      "Malta"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 27,
+      "verse": "4"
+    },
+    "explanation": "Acts 27:4 says they sailed under Cyprus because the winds were contrary.",
+    "verses": {
+      "kjv": "And when we had launched from thence, we sailed under Cyprus, because the winds were contrary."
+    },
+    "id": "JRN-M-0043",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the shipwreck account, what island did they later know they had escaped to (Acts 28:1)?",
+    "choices": [
+      "Melita",
+      "Crete",
+      "Cyprus",
+      "Sardinia"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 28,
+      "verse": "1"
+    },
+    "explanation": "Acts 28:1 says that after they were escaped, they knew the island was called Melita.",
+    "verses": {
+      "kjv": "And when they were escaped, then they knew that the island was called Melita."
+    },
+    "id": "JRN-M-0044",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where did Nehemiah say the remnant were in great affliction and reproach (Nehemiah 1:3)?",
+    "choices": [
+      "In the province of Judah",
+      "In the land of Egypt",
+      "In the cities of Moab",
+      "In the plains of Shinar"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Nehemiah",
+      "chapter": 1,
+      "verse": "3"
+    },
+    "explanation": "Nehemiah 1:3 reports that those left of the captivity were in great affliction and reproach there.",
+    "verses": {
+      "kjv": "And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire."
+    },
+    "id": "JRN-M-0045",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Jeremiah’s letter, to what place did he send the message to the captives (Jeremiah 29:1)?",
+    "choices": [
+      "Babylon",
+      "Assyria",
+      "Persia",
+      "Egypt"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 29,
+      "verse": "1"
+    },
+    "explanation": "Jeremiah 29:1 says Jeremiah sent letters from Jerusalem to the captives that were carried away to Babylon.",
+    "verses": {
+      "kjv": "Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon;"
+    },
+    "id": "JRN-M-0046",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Peter’s epistle, to what places did he address the strangers scattered abroad (1 Peter 1:1)?",
+    "choices": [
+      "Pontus, Galatia, Cappadocia, Asia, and Bithynia",
+      "Rome, Corinth, Ephesus, Philippi, and Colosse",
+      "Jerusalem, Bethlehem, Nazareth, Cana, and Capernaum",
+      "Nineveh, Tarshish, Joppa, Gaza, and Jericho"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Peter",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "1 Peter 1:1 names the regions where Peter addresses the strangers scattered abroad.",
+    "verses": {
+      "kjv": "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,"
+    },
+    "id": "JRN-M-0047",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
   }
 ]

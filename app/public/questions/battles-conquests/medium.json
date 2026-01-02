@@ -636,5 +636,467 @@
     "verses": {
       "kjv": "And the LORD said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the\nother people go every man unto his place."
     }
+  },
+  {
+    "question": "At the battle of Gibeon, what did Joshua say should stand still (Joshua 10:12)?",
+    "choices": [
+      "The sun and the moon",
+      "The wind and the rain",
+      "The stars and the clouds",
+      "The Jordan and the sea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 10,
+      "verse": "12"
+    },
+    "explanation": "Joshua 10:12 records Joshua’s words for the sun to stand still upon Gibeon and the moon in the valley of Ajalon.",
+    "verses": {
+      "kjv": "Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon."
+    },
+    "id": "BAT-M-0029",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "During the battle at Gibeon, what did the LORD cast down from heaven upon the enemies (Joshua 10:11)?",
+    "choices": [
+      "Great stones",
+      "Fire",
+      "A flood of water",
+      "Locusts"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 10,
+      "verse": "11"
+    },
+    "explanation": "Joshua 10:11 says the LORD cast down great stones from heaven and more died from the hailstones than from Israel’s sword.",
+    "verses": {
+      "kjv": "And it came to pass, as they fled from before Israel, and were in the going down to Beth-horon, that the LORD cast down great stones from heaven upon them unto Azekah, and they died: they were more which died with hailstones than they whom the children of Israel slew with the sword."
+    },
+    "id": "BAT-M-0030",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When the LORD told Gideon he still had too many men, where did he bring them to test them with water (Judges 7:4)?",
+    "choices": [
+      "Unto the water",
+      "Unto the altar",
+      "Unto the city gate",
+      "Unto the wilderness of Paran"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Judges",
+      "chapter": 7,
+      "verse": "4"
+    },
+    "explanation": "Judges 7:4 says the LORD told Gideon to bring the people down unto the water for a test.",
+    "verses": {
+      "kjv": "And the LORD said unto Gideon, The people are yet too many; bring them down unto the water, and I will try them for thee there: and it shall be, that of whom I say unto thee, This shall go with thee, the same shall go with thee; and of whomsoever I say unto thee, This shall not go with thee, the same shall not go."
+    },
+    "id": "BAT-M-0031",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Gideon’s battle, what did the men have in their right hands (Judges 7:20)?",
+    "choices": [
+      "Trumpets",
+      "Swords",
+      "Bows",
+      "Spears"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Judges",
+      "chapter": 7,
+      "verse": "20"
+    },
+    "explanation": "Judges 7:20 says they held the lamps in their left hands and the trumpets in their right hands to blow withal.",
+    "verses": {
+      "kjv": "And the three companies blew the trumpets, and brake the pitchers, and held the lamps in their left hands, and the trumpets in their right hands to blow withal: and they cried, The sword of the LORD, and of Gideon."
+    },
+    "id": "BAT-M-0032",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "After Israel was smitten at Ai, how did Joshua and the elders show mourning before the ark (Joshua 7:6)?",
+    "choices": [
+      "They rent their clothes and put dust upon their heads",
+      "They shaved their heads and fasted seven days",
+      "They sat in sackcloth by the altar",
+      "They went to the river and wept"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 7,
+      "verse": "6"
+    },
+    "explanation": "Joshua 7:6 says Joshua and the elders rent their clothes and put dust upon their heads before the ark.",
+    "verses": {
+      "kjv": "And Joshua rent his clothes, and fell to the earth upon his face before the ark of the LORD until the eventide, he and the elders of Israel, and put dust upon their heads."
+    },
+    "id": "BAT-M-0033",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Achan say he saw among the spoils, leading him to take forbidden things (Joshua 7:21)?",
+    "choices": [
+      "A goodly Babylonish garment",
+      "A golden calf",
+      "A priestly ephod",
+      "The ark of the covenant"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 7,
+      "verse": "21"
+    },
+    "explanation": "Joshua 7:21 records Achan confessing he saw a goodly Babylonish garment among the spoils and took it.",
+    "verses": {
+      "kjv": "When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they are hid in the earth in the midst of my tent, and the silver under it."
+    },
+    "id": "BAT-M-0034",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When Israel was commanded to go up against Amalek, what did Samuel tell Saul he would do (1 Samuel 15:1)?",
+    "choices": [
+      "Hearken to the voice of the words of the LORD",
+      "Build an altar of stone",
+      "Send messengers to Egypt",
+      "Wait for David to arrive"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 15,
+      "verse": "1"
+    },
+    "explanation": "1 Samuel 15:1 says Samuel told Saul to hearken unto the voice of the words of the LORD.",
+    "verses": {
+      "kjv": "Samuel also said unto Saul, The LORD sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the LORD."
+    },
+    "id": "BAT-M-0035",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the battle described in 1 Samuel 17, what was Goliath’s height given in the KJV (1 Samuel 17:4)?",
+    "choices": [
+      "Six cubits and a span",
+      "Five cubits and a span",
+      "Ten cubits and a span",
+      "Three cubits and a span"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verse": "4"
+    },
+    "explanation": "1 Samuel 17:4 gives Goliath’s height as six cubits and a span.",
+    "verses": {
+      "kjv": "And there went out a champion out of the camp of the Philistines, named Goliath, of Gath, whose height was six cubits and a span."
+    },
+    "id": "BAT-M-0036",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the battle against Sisera, where did Barak gather ten thousand men by Naphtali and Zebulun (Judges 4:10)?",
+    "choices": [
+      "Mount Tabor",
+      "Mount Carmel",
+      "Mount Sinai",
+      "Mount Nebo"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "10"
+    },
+    "explanation": "Judges 4:10 says Barak went up to mount Tabor with ten thousand men of Naphtali and Zebulun.",
+    "verses": {
+      "kjv": "And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him."
+    },
+    "id": "BAT-M-0037",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When Israel fought the Philistines at Mizpeh, what did Samuel offer as a burnt offering (1 Samuel 7:9)?",
+    "choices": [
+      "A sucking lamb",
+      "A bullock",
+      "Two turtledoves",
+      "A ram without blemish"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "verse": "9"
+    },
+    "explanation": "1 Samuel 7:9 says Samuel took a sucking lamb and offered it for a burnt offering wholly unto the LORD.",
+    "verses": {
+      "kjv": "And Samuel took a sucking lamb, and offered it for a burnt offering wholly unto the LORD: and Samuel cried unto the LORD for Israel; and the LORD heard him."
+    },
+    "id": "BAT-M-0038",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the same battle at Mizpeh, what did the LORD do to the Philistines (1 Samuel 7:10)?",
+    "choices": [
+      "Thundered with a great thunder and discomfited them",
+      "Sent hailstones to destroy them",
+      "Opened the ground to swallow them",
+      "Made Israel invisible to them"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "verse": "10"
+    },
+    "explanation": "1 Samuel 7:10 says the LORD thundered with a great thunder and discomfited the Philistines.",
+    "verses": {
+      "kjv": "And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the LORD thundered with a great thunder on that day upon the Philistines, and discomfited them; and they were smitten before Israel."
+    },
+    "id": "BAT-M-0039",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When king Asa cried unto the LORD against the Ethiopians, what did he call God regarding power (2 Chronicles 14:11)?",
+    "choices": [
+      "There is none beside thee to help, between the mighty and him that hath no power",
+      "The God of the harvest and the rain",
+      "The God who only helps the strong",
+      "The God who blesses only kings"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Chronicles",
+      "chapter": 14,
+      "verse": "11"
+    },
+    "explanation": "2 Chronicles 14:11 says Asa prayed that the LORD helps between the mighty and those without power.",
+    "verses": {
+      "kjv": "And Asa cried unto the LORD his God, and said, LORD, it is nothing with thee to help, whether with many, or with them that have no power: help us, O LORD our God; for we rest on thee, and in thy name we go against this multitude. O LORD, thou art our God; let not man prevail against thee."
+    },
+    "id": "BAT-M-0040",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Asa’s battle, what did the LORD do to the Ethiopians before Asa and before Judah (2 Chronicles 14:12)?",
+    "choices": [
+      "Smote the Ethiopians",
+      "Made a covenant with them",
+      "Caused Judah to flee in fear",
+      "Turned the Ethiopians into allies"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Chronicles",
+      "chapter": 14,
+      "verse": "12"
+    },
+    "explanation": "2 Chronicles 14:12 says the LORD smote the Ethiopians before Asa and before Judah.",
+    "verses": {
+      "kjv": "So the LORD smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled."
+    },
+    "id": "BAT-M-0041",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When David sought to bring up the ark, where did he gather all Israel (2 Samuel 6:1)?",
+    "choices": [
+      "Thirty thousand chosen men of Israel",
+      "Twelve thousand men",
+      "Seven thousand men",
+      "One hundred thousand men"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verse": "1"
+    },
+    "explanation": "2 Samuel 6:1 says David gathered together all the chosen men of Israel, thirty thousand.",
+    "verses": {
+      "kjv": "Again, David gathered together all the chosen men of Israel, thirty thousand."
+    },
+    "id": "BAT-M-0042",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When the men of Israel returned from smiting the Philistines, what did they do (2 Samuel 8:1)?",
+    "choices": [
+      "David took Methegammah out of the hand of the Philistines",
+      "They built a temple in Gath",
+      "They fled to the wilderness",
+      "They made peace with the Amalekites"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "verse": "1"
+    },
+    "explanation": "2 Samuel 8:1 says David took Methegammah out of the hand of the Philistines.",
+    "verses": {
+      "kjv": "And after this it came to pass, that David smote the Philistines, and subdued them: and David took Methegammah out of the hand of the Philistines."
+    },
+    "id": "BAT-M-0043",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When the king of Syria helped the children of Ammon, how many chariots did they hire out of Mesopotamia according to the KJV (1 Chronicles 19:6)?",
+    "choices": [
+      "Thirty and two thousand",
+      "Three thousand",
+      "Ten thousand",
+      "One thousand"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "verse": "6"
+    },
+    "explanation": "1 Chronicles 19:6 mentions the children of Ammon hired thirty and two thousand chariots, and a king with his people.",
+    "verses": {
+      "kjv": "And when the children of Ammon saw that they had made themselves odious to David, Hanun and the children of Ammon sent a thousand talents of silver to hire them chariots and horsemen out of Mesopotamia, and out of Syria-maachah, and out of Zobah."
+    },
+    "id": "BAT-M-0044",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Before David fought the Syrians, what did he tell Israel to do if the Syrians were too strong for him (2 Samuel 10:11)?",
+    "choices": [
+      "Thou shalt help me",
+      "Flee to Jerusalem",
+      "Send messengers to Egypt",
+      "Make peace with the Syrians"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "verse": "11"
+    },
+    "explanation": "2 Samuel 10:11 says Joab told Abishai that if the Syrians were too strong, Abishai should help him.",
+    "verses": {
+      "kjv": "And he said, If the Syrians be too strong for me, then thou shalt help me: but if the children of Ammon be too strong for thee, then I will come and help thee."
+    },
+    "id": "BAT-M-0045",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the people say after Jephthah defeated the children of Ammon (Judges 11:35)?",
+    "choices": [
+      "Alas, my daughter!",
+      "Blessed be the LORD our God!",
+      "Woe unto Ammon forever!",
+      "Let us return unto Gilead in peace!"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Judges",
+      "chapter": 11,
+      "verse": "35"
+    },
+    "explanation": "Judges 11:35 records Jephthah’s words when his daughter came out to meet him after the victory.",
+    "verses": {
+      "kjv": "And it came to pass, when he saw her, that he rent his clothes, and said, Alas, my daughter! thou hast brought me very low, and thou art one of them that trouble me: for I have opened my mouth unto the LORD, and I cannot go back."
+    },
+    "id": "BAT-M-0046",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When Saul commanded the people to wait in Gilgal, how long did Saul tarry according to Samuel’s set time (1 Samuel 13:8)?",
+    "choices": [
+      "Seven days",
+      "Three days",
+      "Forty days",
+      "One day"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 13,
+      "verse": "8"
+    },
+    "explanation": "1 Samuel 13:8 says Saul waited seven days according to the set time Samuel had appointed.",
+    "verses": {
+      "kjv": "And he tarried seven days, according to the set time that Samuel had appointed: but Samuel came not to Gilgal; and the people were scattered from him."
+    },
+    "id": "BAT-M-0047",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When an Amalekite claimed he had killed Saul, what did David command, and why (2 Samuel 1:15-16)?",
+    "choices": [
+      "He commanded a young man to fall upon him, because he said, 'I have slain the LORD'S anointed'",
+      "He set him free, because he brought news of victory",
+      "He put him in prison, because he was a Philistine",
+      "He made him captain, because he had fought bravely"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "verse": "15-16"
+    },
+    "explanation": "2 Samuel 1:15-16 says David ordered a young man to kill the Amalekite because he testified against himself that he had slain the LORD'S anointed.",
+    "verses": {
+      "kjv": "And David called one of the young men, and said, Go near, and fall upon him. And he smote him that he died. And David said unto him, Thy blood be upon thy head; for thy mouth hath testified against thee, saying, I have slain the LORD'S anointed."
+    },
+    "id": "BAT-M-0048",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When David fought against Hadadezer, what did David do to the horses of the chariots (2 Samuel 8:4)?",
+    "choices": [
+      "He houghed all the chariot horses, but reserved of them for an hundred chariots",
+      "He set all the chariot horses free into the wilderness",
+      "He sold all the chariot horses to Egypt",
+      "He brought all the chariot horses into the tabernacle"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "verse": "4"
+    },
+    "explanation": "2 Samuel 8:4 says David houghed all the chariot horses and kept horses enough for a hundred chariots.",
+    "verses": {
+      "kjv": "And David took from him a thousand chariots, and seven hundred horsemen, and twenty thousand footmen: and David houghed all the chariot horses, but reserved of them for an hundred chariots."
+    },
+    "id": "BAT-M-0049",
+    "theme": "Battles & Conquests",
+    "difficulty": "medium"
   }
 ]
