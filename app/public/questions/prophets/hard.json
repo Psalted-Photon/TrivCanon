@@ -614,5 +614,489 @@
     "verses": {
       "kjv": "Thus he shewed me: and, behold, the Lord stood upon a wall\nmade\n by a plumbline, with a plumbline in his hand.\nAnd the LORD said unto me, Amos, what seest thou? And I said, A plumbline. Then said the Lord, Behold, I will set a plumbline in the midst of my people Israel: I will not again pass by them any more:"
     }
+  },
+  {
+    "question": "Which prophet was told to take a razor and shave his head and beard as a sign?",
+    "choices": [
+      "Ezekiel",
+      "Jeremiah",
+      "Isaiah",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 5,
+      "verse": "1"
+    },
+    "explanation": "The LORD commanded Ezekiel to shave his head and beard with a razor as part of a sign against Jerusalem.",
+    "verses": {
+      "kjv": "And thou, son of man, take thee a sharp knife, take thee a barber's razor, and cause it to pass upon thine head and upon thy beard: then take thee balances to weigh and divide the hair."
+    },
+    "id": "PRO-H-0029",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet lay on his left side for the iniquity of the house of Israel?",
+    "choices": [
+      "Ezekiel",
+      "Daniel",
+      "Jeremiah",
+      "Micah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 4,
+      "verse": "4"
+    },
+    "explanation": "God told Ezekiel to lie on his left side and lay Israel's iniquity upon it.",
+    "verses": {
+      "kjv": "Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: according to the number of the days that thou shalt lie upon it thou shalt bear their iniquity."
+    },
+    "id": "PRO-H-0030",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Ezekiel, what was the prophet told to set his face against as he prophesied?",
+    "choices": [
+      "The mountains of Israel",
+      "The river Jordan",
+      "The walls of Jericho",
+      "The city of Nineveh"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 6,
+      "verse": "2"
+    },
+    "explanation": "Ezekiel was commanded to set his face toward the mountains of Israel and prophesy against them.",
+    "verses": {
+      "kjv": "Son of man, set thy face toward the mountains of Israel, and prophesy against them,"
+    },
+    "id": "PRO-H-0031",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet was told to dig through the wall and carry out his stuff in their sight?",
+    "choices": [
+      "Ezekiel",
+      "Jeremiah",
+      "Isaiah",
+      "Daniel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 12,
+      "verse": "5"
+    },
+    "explanation": "The LORD told Ezekiel to prepare stuff for removing and dig through the wall to go forth as a sign.",
+    "verses": {
+      "kjv": "Dig thou through the wall in their sight, and carry out thereby."
+    },
+    "id": "PRO-H-0032",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet was told, \"Make thee an ark of wood\"?",
+    "choices": [
+      "Noah",
+      "Ezekiel",
+      "Jeremiah",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 6,
+      "verse": "14"
+    },
+    "explanation": "God commanded Noah to make an ark of gopher wood to preserve life during the flood.",
+    "verses": {
+      "kjv": "Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch."
+    },
+    "id": "PRO-H-0033",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet was shown a valley full of bones that were very dry?",
+    "choices": [
+      "Ezekiel",
+      "Daniel",
+      "Zechariah",
+      "Amos"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 37,
+      "verse": "2"
+    },
+    "explanation": "Ezekiel was brought around the valley and saw that the bones were very dry.",
+    "verses": {
+      "kjv": "And caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry."
+    },
+    "id": "PRO-H-0034",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet was told to take two sticks and join them into one in his hand?",
+    "choices": [
+      "Ezekiel",
+      "Jeremiah",
+      "Isaiah",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 37,
+      "verse": "17"
+    },
+    "explanation": "Ezekiel was commanded to join the two sticks into one roll as a sign.",
+    "verses": {
+      "kjv": "And join them one to another into one stick; and they shall become one in thine hand."
+    },
+    "id": "PRO-H-0035",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet was told to make a chain because the land was full of bloody crimes?",
+    "choices": [
+      "Ezekiel",
+      "Micah",
+      "Nahum",
+      "Habakkuk"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 7,
+      "verse": "23"
+    },
+    "explanation": "Ezekiel records the command to make a chain because the land was full of bloody crimes and violence.",
+    "verses": {
+      "kjv": "Make a chain: for the land is full of bloody crimes, and the city is full of violence."
+    },
+    "id": "PRO-H-0036",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet was told to clap with his hands and stamp with his foot because of Israel's abominations?",
+    "choices": [
+      "Ezekiel",
+      "Jeremiah",
+      "Amos",
+      "Micah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 6,
+      "verse": "11"
+    },
+    "explanation": "Ezekiel was commanded to smite with his hand and stamp with his foot as he spoke against Israel's abominations.",
+    "verses": {
+      "kjv": "Thus saith the Lord GOD; Smite with thine hand, and stamp with thy foot, and say, Alas for all the evil abominations of the house of Israel! for they shall fall by the sword, by the famine, and by the pestilence."
+    },
+    "id": "PRO-H-0037",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet was told to set a pan of iron between himself and the city as a sign?",
+    "choices": [
+      "Ezekiel",
+      "Daniel",
+      "Jeremiah",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 4,
+      "verse": "3"
+    },
+    "explanation": "God told Ezekiel to take an iron pan and set it for a wall of iron between him and the city.",
+    "verses": {
+      "kjv": "Moreover take thou unto thee an iron pan, and set it for a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This shall be a sign to the house of Israel."
+    },
+    "id": "PRO-H-0038",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet was told to \"sigh therefore, thou son of man, with the breaking of thy loins\"?",
+    "choices": [
+      "Ezekiel",
+      "Isaiah",
+      "Jeremiah",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 21,
+      "verse": "6"
+    },
+    "explanation": "The LORD instructed Ezekiel to sigh in a way that signified deep sorrow as part of his message.",
+    "verses": {
+      "kjv": "Sigh therefore, thou son of man, with the breaking of thy loins; and with bitterness sigh before their eyes."
+    },
+    "id": "PRO-H-0039",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet was told to make a mark upon the foreheads of those who sighed and cried for abominations?",
+    "choices": [
+      "Ezekiel",
+      "Daniel",
+      "Jeremiah",
+      "Zechariah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 9,
+      "verse": "4"
+    },
+    "explanation": "In Ezekiel's vision, the LORD told the man clothed with linen to mark those who mourned for the abominations done in Jerusalem.",
+    "verses": {
+      "kjv": "And the LORD said unto him, Go through the midst of the city, through the midst of Jerusalem, and set a mark upon the foreheads of the men that sigh and that cry for all the abominations that be done in the midst thereof."
+    },
+    "id": "PRO-H-0040",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet was told to prophesy upon the mountains, hills, rivers, and valleys of Israel?",
+    "choices": [
+      "Ezekiel",
+      "Amos",
+      "Micah",
+      "Habakkuk"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 6,
+      "verse": "3"
+    },
+    "explanation": "Ezekiel was commanded to say to the mountains, hills, rivers, and valleys that the sword would be brought upon them.",
+    "verses": {
+      "kjv": "And say, Ye mountains of Israel, hear the word of the Lord GOD; Thus saith the Lord GOD to the mountains, and to the hills, to the rivers, and to the valleys; Behold, I, even I, will bring a sword upon you, and I will destroy your high places."
+    },
+    "id": "PRO-H-0041",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet saw \"the appearance of the likeness of the glory of the LORD\" and fell upon his face?",
+    "choices": [
+      "Ezekiel",
+      "Isaiah",
+      "Daniel",
+      "Zechariah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verse": "28"
+    },
+    "explanation": "Ezekiel describes seeing the likeness of the glory of the LORD and responding by falling on his face.",
+    "verses": {
+      "kjv": "As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell upon my face, and I heard a voice of one that spake."
+    },
+    "id": "PRO-H-0042",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet was told to take a tile and portray upon it the city, even Jerusalem?",
+    "choices": [
+      "Ezekiel",
+      "Jeremiah",
+      "Isaiah",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 4,
+      "verse": "1"
+    },
+    "explanation": "Ezekiel was commanded to take a tile and portray Jerusalem on it as part of a sign.",
+    "verses": {
+      "kjv": "Thou also, son of man, take thee a tile, and lay it before thee, and portray upon it the city, even Jerusalem:"
+    },
+    "id": "PRO-H-0043",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet was told to eat barley cakes and to bake them with dung that cometh out of man?",
+    "choices": [
+      "Ezekiel",
+      "Isaiah",
+      "Jeremiah",
+      "Amos"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 4,
+      "verse": "12"
+    },
+    "explanation": "Ezekiel 4:12 gives this command as part of a sign regarding Israel's defilement among the nations.",
+    "verses": {
+      "kjv": "And thou shalt eat it as barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight."
+    },
+    "id": "PRO-H-0044",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Ezekiel, what was the prophet allowed to use instead of man's dung to bake his bread?",
+    "choices": [
+      "Cow's dung",
+      "Goat's dung",
+      "Ashes from the altar",
+      "Wood from cedar trees"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 4,
+      "verse": "15"
+    },
+    "explanation": "After Ezekiel objected, God allowed him to use cow's dung instead of man's dung.",
+    "verses": {
+      "kjv": "Then he said unto me, Lo, I have given thee cow's dung for man's dung, and thou shalt prepare thy bread therewith."
+    },
+    "id": "PRO-H-0045",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet was commanded, \"Bind them upon thy forehead\" regarding God's words?",
+    "choices": [
+      "Moses",
+      "Ezekiel",
+      "Jeremiah",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 6,
+      "verse": "8"
+    },
+    "explanation": "Moses instructed Israel to bind God's words as frontlets between their eyes.",
+    "verses": {
+      "kjv": "And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes."
+    },
+    "id": "PRO-H-0046",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet saw a vision of a measuring reed and was told to measure the temple?",
+    "choices": [
+      "Ezekiel",
+      "Amos",
+      "Micah",
+      "Jonah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 40,
+      "verse": "3"
+    },
+    "explanation": "Ezekiel describes a man with a line of flax and a measuring reed who brought him to measure the building.",
+    "verses": {
+      "kjv": "And he brought me thither, and, behold, there was a man, whose appearance was like the appearance of brass, with a line of flax in his hand, and a measuring reed; and he stood in the gate."
+    },
+    "id": "PRO-H-0047",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet forcefully described false prophets as \"foxes in the deserts\"?",
+    "choices": [
+      "Ezekiel",
+      "Isaiah",
+      "Jeremiah",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 13,
+      "verse": "4"
+    },
+    "explanation": "Ezekiel compares Israel's false prophets to foxes in the deserts.",
+    "verses": {
+      "kjv": "O Israel, thy prophets are like the foxes in the deserts."
+    },
+    "id": "PRO-H-0048",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which prophet was told, \"Son of man, eat what thou findest; eat this roll\"?",
+    "choices": [
+      "Ezekiel",
+      "Daniel",
+      "Jeremiah",
+      "Zechariah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 3,
+      "verse": "1"
+    },
+    "explanation": "God told Ezekiel to eat the roll and then speak to the house of Israel.",
+    "verses": {
+      "kjv": "Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel."
+    },
+    "id": "PRO-H-0049",
+    "theme": "Prophets",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Ezekiel, what did the roll taste like when he ate it?",
+    "choices": [
+      "As honey for sweetness",
+      "As bitter herbs",
+      "As vinegar",
+      "As ashes"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 3,
+      "verse": "3"
+    },
+    "explanation": "Ezekiel says the roll was in his mouth as honey for sweetness.",
+    "verses": {
+      "kjv": "And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness."
+    },
+    "id": "PRO-H-0050",
+    "theme": "Prophets",
+    "difficulty": "hard"
   }
 ]

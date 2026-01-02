@@ -680,5 +680,423 @@
     "verses": {
       "kjv": "A soft answer turneth away wrath: but grievous words stir up anger."
     }
+  },
+  {
+    "question": "According to Proverbs, what does \"a merry heart\" do like a medicine?",
+    "choices": [
+      "Doeth good",
+      "Makes a man rich",
+      "Gives long life",
+      "Stops all sorrow"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 17,
+      "verse": "22"
+    },
+    "explanation": "Proverbs compares a merry heart to medicine, saying it does good.",
+    "verses": {
+      "kjv": "A merry heart doeth good like a medicine: but a broken spirit drieth the bones."
+    },
+    "id": "WIS-M-0029",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Proverbs, what does a broken spirit do?",
+    "choices": [
+      "Drieth the bones",
+      "Buildeth the house",
+      "Strengtheneth the heart",
+      "Maketh glad the face"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 17,
+      "verse": "22"
+    },
+    "explanation": "Proverbs says a broken spirit dries the bones.",
+    "verses": {
+      "kjv": "A merry heart doeth good like a medicine: but a broken spirit drieth the bones."
+    },
+    "id": "WIS-M-0030",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Proverbs, what should \"thy heart\" do, and what should \"thine eyes\" do?",
+    "choices": [
+      "Let thine heart retain my words; keep my commandments, and live",
+      "Let thine heart doubt my words; keep thine eyes shut",
+      "Let thine heart gather riches; keep thine eyes on gold",
+      "Let thine heart seek revenge; keep thine eyes on enemies"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 4,
+      "verse": "4"
+    },
+    "explanation": "Proverbs teaches to retain words in the heart and keep commandments to live.",
+    "verses": {
+      "kjv": "He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live."
+    },
+    "id": "WIS-M-0031",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Proverbs, what is said to \"keep thy way far\" from a strange woman?",
+    "choices": [
+      "Thy way",
+      "Thy feet",
+      "Thy hands",
+      "Thy house"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 5,
+      "verse": "8"
+    },
+    "explanation": "Proverbs warns to remove one's way from her and not go near her door.",
+    "verses": {
+      "kjv": "Remove thy way far from her, and come not nigh the door of her house:"
+    },
+    "id": "WIS-M-0032",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Proverbs, what should you not go near in the warning about the strange woman?",
+    "choices": [
+      "The door of her house",
+      "The king's palace",
+      "The city gates",
+      "The altar of the LORD"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 5,
+      "verse": "8"
+    },
+    "explanation": "Proverbs specifically says not to come near the door of her house.",
+    "verses": {
+      "kjv": "Remove thy way far from her, and come not nigh the door of her house:"
+    },
+    "id": "WIS-M-0033",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Psalm 16, who is at the right hand of the psalmist?",
+    "choices": [
+      "The LORD",
+      "The king of Israel",
+      "An angel with a sword",
+      "The enemies of David"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Psalms",
+      "chapter": 16,
+      "verse": "8"
+    },
+    "explanation": "Psalm 16:8 says the LORD is at my right hand, so I shall not be moved.",
+    "verses": {
+      "kjv": "I have set the LORD always before me: because he is at my right hand, I shall not be moved."
+    },
+    "id": "WIS-M-0034",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Psalm 16, what is the result of the LORD being at the right hand?",
+    "choices": [
+      "I shall not be moved",
+      "I shall always be rich",
+      "I shall never have enemies",
+      "I shall never sleep"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Psalms",
+      "chapter": 16,
+      "verse": "8"
+    },
+    "explanation": "Psalm 16:8 states that because the LORD is at the right hand, the psalmist shall not be moved.",
+    "verses": {
+      "kjv": "I have set the LORD always before me: because he is at my right hand, I shall not be moved."
+    },
+    "id": "WIS-M-0035",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Psalm 27, whom should we not fear if the LORD is our light and salvation?",
+    "choices": [
+      "None",
+      "Only giants",
+      "Only kings",
+      "Only armies"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Psalms",
+      "chapter": 27,
+      "verse": "1"
+    },
+    "explanation": "Psalm 27:1 asks, \"whom shall I fear?\" and \"of whom shall I be afraid?\" because the LORD is light and salvation.",
+    "verses": {
+      "kjv": "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?"
+    },
+    "id": "WIS-M-0036",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Psalm 27, the LORD is the strength of whose life?",
+    "choices": [
+      "My life",
+      "The king's life",
+      "The priests' life",
+      "The enemies' life"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Psalms",
+      "chapter": 27,
+      "verse": "1"
+    },
+    "explanation": "Psalm 27:1 says the LORD is the strength of my life.",
+    "verses": {
+      "kjv": "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?"
+    },
+    "id": "WIS-M-0037",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Proverbs, what is said to \"bring a snare\"?",
+    "choices": [
+      "The fear of man",
+      "The love of money",
+      "The desire of honor",
+      "The strength of youth"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 29,
+      "verse": "25"
+    },
+    "explanation": "Proverbs 29:25 warns that fearing man leads into a trap.",
+    "verses": {
+      "kjv": "The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe."
+    },
+    "id": "WIS-M-0038",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Proverbs, who shall be safe?",
+    "choices": [
+      "Whoso putteth his trust in the LORD",
+      "Whoso gathereth much gold",
+      "Whoso is swift to speak",
+      "Whoso hides his sins"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 29,
+      "verse": "25"
+    },
+    "explanation": "Proverbs says the one who trusts in the LORD shall be safe.",
+    "verses": {
+      "kjv": "The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe."
+    },
+    "id": "WIS-M-0039",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Ecclesiastes, what does a living dog have that a dead lion does not?",
+    "choices": [
+      "Hope",
+      "Strength",
+      "Honor",
+      "Wisdom"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "verse": "4"
+    },
+    "explanation": "Ecclesiastes says that for the living there is hope, and gives this comparison.",
+    "verses": {
+      "kjv": "For to him that is joined to all the living there is hope: for a living dog is better than a dead lion."
+    },
+    "id": "WIS-M-0040",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Ecclesiastes, who has hope?",
+    "choices": [
+      "Him that is joined to all the living",
+      "Only the rich",
+      "Only the wise",
+      "Only kings"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "verse": "4"
+    },
+    "explanation": "Ecclesiastes 9:4 says those joined to the living have hope.",
+    "verses": {
+      "kjv": "For to him that is joined to all the living there is hope: for a living dog is better than a dead lion."
+    },
+    "id": "WIS-M-0041",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Psalm 90, how does God view a thousand years?",
+    "choices": [
+      "As yesterday when it is past, and as a watch in the night",
+      "As a single hour",
+      "As a long and heavy burden",
+      "As an endless mountain"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Psalms",
+      "chapter": 90,
+      "verse": "4"
+    },
+    "explanation": "Psalm 90:4 compares a thousand years to yesterday and a watch in the night to show God's timelessness.",
+    "verses": {
+      "kjv": "For a thousand years in thy sight are but as yesterday when it is past, and as a watch in the night."
+    },
+    "id": "WIS-M-0042",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Proverbs, what should you do with wisdom?",
+    "choices": [
+      "Get wisdom",
+      "Sell wisdom",
+      "Hide wisdom",
+      "Despise wisdom"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 4,
+      "verse": "5"
+    },
+    "explanation": "Proverbs 4:5 commands to get wisdom and understanding and not to forget or decline.",
+    "verses": {
+      "kjv": "Get wisdom, get understanding: forget it not; neither decline from the words of my mouth."
+    },
+    "id": "WIS-M-0043",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Proverbs, what should you get along with wisdom?",
+    "choices": [
+      "Understanding",
+      "Riches",
+      "Fame",
+      "Power"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 4,
+      "verse": "5"
+    },
+    "explanation": "Proverbs 4:5 says to get wisdom and get understanding.",
+    "verses": {
+      "kjv": "Get wisdom, get understanding: forget it not; neither decline from the words of my mouth."
+    },
+    "id": "WIS-M-0044",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Psalm 37, what does the LORD do for the steps of a good man?",
+    "choices": [
+      "They are ordered by the LORD",
+      "They are hidden from all",
+      "They are always swift",
+      "They are never tested"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Psalms",
+      "chapter": 37,
+      "verse": "23"
+    },
+    "explanation": "Psalm 37:23 states that the LORD orders the steps of a good man.",
+    "verses": {
+      "kjv": "The steps of a good man are ordered by the LORD: and he delighteth in his way."
+    },
+    "id": "WIS-M-0045",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Psalm 37, what does the LORD delight in?",
+    "choices": [
+      "His way",
+      "His riches",
+      "His strength",
+      "His weapons"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Psalms",
+      "chapter": 37,
+      "verse": "23"
+    },
+    "explanation": "Psalm 37:23 says the LORD delights in the way of the good man whose steps He orders.",
+    "verses": {
+      "kjv": "The steps of a good man are ordered by the LORD: and he delighteth in his way."
+    },
+    "id": "WIS-M-0046",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Ecclesiastes, what is better than laughter?",
+    "choices": [
+      "Sorrow",
+      "Music",
+      "Riches",
+      "Feasting"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "verse": "3"
+    },
+    "explanation": "Ecclesiastes says sorrow is better than laughter because by sadness the heart is made better.",
+    "verses": {
+      "kjv": "Sorrow is better than laughter: for by the sadness of the countenance the heart is made better."
+    },
+    "id": "WIS-M-0047",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "medium"
   }
 ]

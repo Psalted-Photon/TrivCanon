@@ -856,5 +856,247 @@
     "verses": {
       "kjv": "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:\nAnd let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.\nAnd God made two great lights; the greater light to rule the day, and the lesser light to rule the night:\nhe made the stars also.\nAnd God set them in the firmament of the heaven to give light upon the earth,\nAnd to rule over the day and over the night, and to divide the light from the darkness: and God saw that\nit was good.\nAnd the evening and the morning were the fourth day."
     }
+  },
+  {
+    "question": "In the beginning, what did God create?",
+    "choices": [
+      "The heaven and the earth",
+      "The animals of the field",
+      "The Garden of Eden",
+      "Adam and Eve"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "1"
+    },
+    "explanation": "Genesis 1:1 states that God created the heaven and the earth in the beginning.",
+    "verses": {
+      "kjv": "In the beginning God created the heaven and the earth."
+    },
+    "id": "CRE-E-0039",
+    "theme": "Creation & Origins",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did God say brought light into existence?",
+    "choices": [
+      "Let there be light",
+      "Let the sun be made",
+      "Let the stars shine",
+      "Let fire appear"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "3"
+    },
+    "explanation": "God commanded light to exist by saying, \"Let there be light.\"",
+    "verses": {
+      "kjv": "And God said, Let there be light: and there was light."
+    },
+    "id": "CRE-E-0040",
+    "theme": "Creation & Origins",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did God call the light?",
+    "choices": [
+      "Day",
+      "Morning",
+      "Brightness",
+      "Heaven"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "5"
+    },
+    "explanation": "The verse says God named the light \"Day.\"",
+    "verses": {
+      "kjv": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day."
+    },
+    "id": "CRE-E-0041",
+    "theme": "Creation & Origins",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did God call the firmament?",
+    "choices": [
+      "Heaven",
+      "Sky",
+      "Air",
+      "Clouds"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "8"
+    },
+    "explanation": "Genesis 1:8 states that God called the firmament \"Heaven.\"",
+    "verses": {
+      "kjv": "And God called the firmament Heaven. And the evening and the morning were the second day."
+    },
+    "id": "CRE-E-0042",
+    "theme": "Creation & Origins",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did God call the dry land?",
+    "choices": [
+      "Earth",
+      "Ground",
+      "Dust",
+      "Field"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "10"
+    },
+    "explanation": "The verse says God named the dry land \"Earth.\"",
+    "verses": {
+      "kjv": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good."
+    },
+    "id": "CRE-E-0043",
+    "theme": "Creation & Origins",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did God call the gathering together of the waters?",
+    "choices": [
+      "Seas",
+      "Rivers",
+      "Oceans",
+      "Deep"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "10"
+    },
+    "explanation": "Genesis 1:10 says God called the gathered waters \"Seas.\"",
+    "verses": {
+      "kjv": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good."
+    },
+    "id": "CRE-E-0044",
+    "theme": "Creation & Origins",
+    "difficulty": "easy"
+  },
+  {
+    "question": "After creating plants, what did God say about the creation?",
+    "choices": [
+      "And God saw that it was good",
+      "And God rested from his work",
+      "And God blessed the earth",
+      "And God made man to till it"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "12"
+    },
+    "explanation": "Genesis 1:12 ends by saying God saw that it was good after the earth brought forth vegetation.",
+    "verses": {
+      "kjv": "And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good."
+    },
+    "id": "CRE-E-0045",
+    "theme": "Creation & Origins",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was created to give light upon the earth?",
+    "choices": [
+      "Lights in the firmament of the heaven",
+      "Candles of flame",
+      "The stars alone",
+      "A pillar of fire"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "15"
+    },
+    "explanation": "Genesis 1:15 says lights in the firmament were to give light upon the earth.",
+    "verses": {
+      "kjv": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so."
+    },
+    "id": "CRE-E-0046",
+    "theme": "Creation & Origins",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did God create to move in the waters?",
+    "choices": [
+      "Great whales, and every living creature that moveth",
+      "Cattle and creeping things",
+      "Fowls of the air only",
+      "Beasts of the earth"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "21"
+    },
+    "explanation": "Genesis 1:21 says God created great whales and every living creature that moveth, which the waters brought forth abundantly.",
+    "verses": {
+      "kjv": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good."
+    },
+    "id": "CRE-E-0047",
+    "theme": "Creation & Origins",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Genesis, in whose image did God make man?",
+    "choices": [
+      "In the image of God",
+      "In the image of the angels",
+      "In the image of the beasts",
+      "In the image of the earth"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "27"
+    },
+    "explanation": "Genesis 1:27 clearly says God created man in His own image.",
+    "verses": {
+      "kjv": "So God created man in his own image, in the image of God created he him; male and female created he them."
+    },
+    "id": "CRE-E-0048",
+    "theme": "Creation & Origins",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did God set in the firmament of the heaven to divide the day from the night?",
+    "choices": [
+      "Two great lights",
+      "A rainbow",
+      "A pillar of fire",
+      "A cloud of smoke"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": "16"
+    },
+    "explanation": "Genesis 1:16 says God made two great lights for ruling the day and night.",
+    "verses": {
+      "kjv": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also."
+    },
+    "id": "CRE-E-0049",
+    "theme": "Creation & Origins",
+    "difficulty": "easy"
   }
 ]

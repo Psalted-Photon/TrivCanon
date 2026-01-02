@@ -1076,5 +1076,27 @@
     "id": "JRN-M-0047",
     "theme": "Journeys & Exile",
     "difficulty": "medium"
+  },
+  {
+    "question": "After the LORD told Abram to go, to what land did Abram pass through first, unto the place of Sichem?",
+    "choices": [
+      "The land of Canaan",
+      "The land of Egypt",
+      "The land of Moab",
+      "The land of Edom"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 12,
+      "verse": "6"
+    },
+    "explanation": "Genesis 12:6 says Abram passed through the land unto the place of Sichem, in the land of Canaan.",
+    "verses": {
+      "kjv": "And Abram passed through the land unto the place of Sichem, unto the plain of Moreh. And the Canaanite was then in the land."
+    },
+    "id": "JRN-M-0048",
+    "theme": "Journeys & Exile",
+    "difficulty": "medium"
   }
 ]

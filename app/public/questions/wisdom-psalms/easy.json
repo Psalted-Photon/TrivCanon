@@ -966,5 +966,137 @@
     "verses": {
       "kjv": "The ungodly\nare not so: but\nare like the chaff which the wind driveth away."
     }
+  },
+  {
+    "question": "According to Psalm 19, what declares the glory of God?",
+    "choices": [
+      "The heavens",
+      "The mountains",
+      "The seas",
+      "The angels"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Psalms",
+      "chapter": 19,
+      "verse": "1"
+    },
+    "explanation": "Psalm 19:1 says the heavens declare the glory of God.",
+    "verses": {
+      "kjv": "The heavens declare the glory of God; and the firmament sheweth his handywork."
+    },
+    "id": "WIS-E-0042",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Proverbs, what does the LORD give to those he loves?",
+    "choices": [
+      "Sleep",
+      "Riches",
+      "Long speeches",
+      "Great armies"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Psalms",
+      "chapter": 127,
+      "verse": "2"
+    },
+    "explanation": "Psalm 127:2 says the LORD gives sleep to his beloved.",
+    "verses": {
+      "kjv": "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep."
+    },
+    "id": "WIS-E-0043",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Psalm 118, what is better than to put confidence in man?",
+    "choices": [
+      "To trust in the LORD",
+      "To trust in princes",
+      "To trust in riches",
+      "To trust in horses"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Psalms",
+      "chapter": 118,
+      "verse": "8"
+    },
+    "explanation": "Psalm 118:8 says it is better to trust in the LORD than to put confidence in man.",
+    "verses": {
+      "kjv": "It is better to trust in the LORD than to put confidence in man."
+    },
+    "id": "WIS-E-0044",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Psalm 118, what is better than to put confidence in princes?",
+    "choices": [
+      "To trust in the LORD",
+      "To trust in gold",
+      "To trust in chariots",
+      "To trust in strength"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Psalms",
+      "chapter": 118,
+      "verse": "9"
+    },
+    "explanation": "Psalm 118:9 says it is better to trust in the LORD than to put confidence in princes.",
+    "verses": {
+      "kjv": "It is better to trust in the LORD than to put confidence in princes."
+    },
+    "id": "WIS-E-0045",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Proverbs, what does the LORD require of us in our dealings?",
+    "choices": [
+      "Just weights and just measures",
+      "Long fasts",
+      "Many offerings",
+      "Silence in all things"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verse": "10"
+    },
+    "explanation": "Proverbs 20:10 says diverse weights and measures are an abomination to the LORD, meaning honesty is required.",
+    "verses": {
+      "kjv": "Divers weights, and divers measures, both of them are alike abomination to the LORD."
+    },
+    "id": "WIS-E-0046",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Psalm 56, where does God put our tears?",
+    "choices": [
+      "In his bottle",
+      "In the sea",
+      "In the dust",
+      "In the wind"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Psalms",
+      "chapter": 56,
+      "verse": "8"
+    },
+    "explanation": "Psalm 56:8 mentions God putting tears into His bottle.",
+    "verses": {
+      "kjv": "Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?"
+    },
+    "id": "WIS-E-0047",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "easy"
   }
 ]

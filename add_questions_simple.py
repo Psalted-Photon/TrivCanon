@@ -37,6 +37,11 @@ REQUIRED_REFERENCE_KEYS = {"book", "chapter", "verse"}
 
 AVOID_LIST_PREVIEW_LIMIT = 12
 
+# When prompting the model, request a small buffer of extra questions to
+# compensate for validation/duplicate rejections, reducing the chance that a
+# single paste comes up short.
+GENERATION_BUFFER = 3
+
 
 def choose_theme() -> dict:
     themes = list(THEME_MAP.items())
@@ -404,7 +409,7 @@ def main():
         # Continue prompting until we reach 50, unless user skips.
         while len(existing) < 50:
             needed_now = 50 - len(existing)
-            target['generate_count'] = min(needed_now, 84)
+            target['generate_count'] = min(needed_now + GENERATION_BUFFER, 84)
 
             print("\n" + "=" * 80)
             print(f"COPY THIS PROMPT ({difficulty.upper()}):")

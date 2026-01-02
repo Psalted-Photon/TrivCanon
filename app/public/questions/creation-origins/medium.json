@@ -526,5 +526,577 @@
     "verses": {
       "kjv": "And Adam lived an hundred and thirty years, and begat\na son\n in his own likeness, after his image; and called his name Seth:"
     }
+  },
+  {
+    "question": "What was the first man's name, according to the genealogy in Genesis?",
+    "choices": [
+      "Adam",
+      "Abel",
+      "Seth",
+      "Noah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "1"
+    },
+    "explanation": "Genesis 5:1 begins the genealogy by naming \"Adam.\"",
+    "verses": {
+      "kjv": "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;"
+    },
+    "id": "CRE-M-0028",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "After forming man from the dust, what did God breathe into his nostrils?",
+    "choices": [
+      "The breath of life",
+      "The spirit of wisdom",
+      "The wind of heaven",
+      "The light of day"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "7"
+    },
+    "explanation": "Genesis 2:7 says God breathed \"the breath of life\" into man's nostrils.",
+    "verses": {
+      "kjv": "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."
+    },
+    "id": "CRE-M-0029",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where did the LORD God plant a garden for man to be placed?",
+    "choices": [
+      "In Eden",
+      "In Canaan",
+      "In Shinar",
+      "In Egypt"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "8"
+    },
+    "explanation": "Genesis 2:8 says God planted a garden \"eastward in Eden\" and put the man there.",
+    "verses": {
+      "kjv": "And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed."
+    },
+    "id": "CRE-M-0030",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the LORD God make to grow from the ground that was pleasant to the sight and good for food?",
+    "choices": [
+      "Every tree",
+      "Every herb of the field",
+      "All beasts of the earth",
+      "All flowers of the garden"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "9"
+    },
+    "explanation": "Genesis 2:9 says the LORD God made \"every tree\" to grow that was pleasant and good for food.",
+    "verses": {
+      "kjv": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil."
+    },
+    "id": "CRE-M-0031",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What two special trees are named as being in the midst of the garden?",
+    "choices": [
+      "The tree of life and the tree of knowledge of good and evil",
+      "The tree of peace and the tree of war",
+      "The tree of wisdom and the tree of folly",
+      "The tree of blessing and the tree of curse"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "9"
+    },
+    "explanation": "Genesis 2:9 specifically names these two trees in the midst of the garden.",
+    "verses": {
+      "kjv": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil."
+    },
+    "id": "CRE-M-0032",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the LORD God say was \"not good\" in the Garden?",
+    "choices": [
+      "That the man should be alone",
+      "That the ground was dry",
+      "That the beasts were wild",
+      "That the trees were too many"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "18"
+    },
+    "explanation": "Genesis 2:18 says it was not good for the man to be alone, so God would make him an help meet.",
+    "verses": {
+      "kjv": "And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him."
+    },
+    "id": "CRE-M-0033",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the LORD God form out of the ground and bring to Adam to see what he would call them?",
+    "choices": [
+      "Every beast of the field and every fowl of the air",
+      "Every tree of the garden",
+      "Every fish of the sea",
+      "Every herb bearing seed"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "19"
+    },
+    "explanation": "Genesis 2:19 says God formed beasts and fowls and brought them to Adam to name them.",
+    "verses": {
+      "kjv": "And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof."
+    },
+    "id": "CRE-M-0034",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did God cause to fall upon Adam before taking one of his ribs?",
+    "choices": [
+      "A deep sleep",
+      "A heavy rain",
+      "A strong wind",
+      "A great fear"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "21"
+    },
+    "explanation": "Genesis 2:21 says the LORD God caused a deep sleep to fall upon Adam.",
+    "verses": {
+      "kjv": "And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;"
+    },
+    "id": "CRE-M-0035",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Adam say the woman should be called because she was taken out of man?",
+    "choices": [
+      "Woman",
+      "Eve",
+      "Helper",
+      "Mother"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "23"
+    },
+    "explanation": "Genesis 2:23 records Adam saying she shall be called Woman because she was taken out of Man.",
+    "verses": {
+      "kjv": "And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man."
+    },
+    "id": "CRE-M-0036",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the warning about the forbidden tree, what did God say would happen in the day Adam ate of it?",
+    "choices": [
+      "Thou shalt surely die",
+      "Thou shalt surely be cast out",
+      "Thou shalt surely be sick",
+      "Thou shalt surely forget thy name"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 2,
+      "verse": "17"
+    },
+    "explanation": "Genesis 2:17 states that eating of the tree would bring certain death.",
+    "verses": {
+      "kjv": "But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die."
+    },
+    "id": "CRE-M-0037",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When the serpent spoke to the woman, what did he say their eyes would be opened to become \"as\"?",
+    "choices": [
+      "God, knowing good and evil",
+      "Angels, flying in the air",
+      "Kings, ruling nations",
+      "Beasts, living in the field"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "5"
+    },
+    "explanation": "Genesis 3:5 records the serpent claiming they would be \"as gods\" knowing good and evil.",
+    "verses": {
+      "kjv": "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil."
+    },
+    "id": "CRE-M-0038",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "After Adam and Eve ate, what did they make to cover themselves?",
+    "choices": [
+      "Aprons of fig leaves",
+      "Coats of skins",
+      "Clothes of wool",
+      "Garments of linen"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "7"
+    },
+    "explanation": "Genesis 3:7 says they sewed fig leaves together and made themselves aprons.",
+    "verses": {
+      "kjv": "And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons."
+    },
+    "id": "CRE-M-0039",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Adam and his wife do when they heard the voice of the LORD God walking in the garden?",
+    "choices": [
+      "Hid themselves among the trees of the garden",
+      "Built an altar and worshipped",
+      "Ran to the rivers of Eden",
+      "Fell asleep in the field"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "8"
+    },
+    "explanation": "Genesis 3:8 states they hid themselves from the presence of the LORD God among the trees.",
+    "verses": {
+      "kjv": "And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden."
+    },
+    "id": "CRE-M-0040",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the LORD God say the ground would bring forth for Adam because of the curse?",
+    "choices": [
+      "Thorns also and thistles",
+      "Roses and lilies",
+      "Gold and silver",
+      "Milk and honey"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "18"
+    },
+    "explanation": "Genesis 3:18 says the ground would bring forth \"thorns also and thistles\" to Adam.",
+    "verses": {
+      "kjv": "Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field;"
+    },
+    "id": "CRE-M-0041",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the LORD God make for Adam and for his wife after the fall?",
+    "choices": [
+      "Coats of skins",
+      "Aprons of fig leaves",
+      "Robes of linen",
+      "Cloaks of hair"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "21"
+    },
+    "explanation": "Genesis 3:21 says the LORD God made coats of skins and clothed them.",
+    "verses": {
+      "kjv": "Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them."
+    },
+    "id": "CRE-M-0042",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the LORD God place at the east of the garden of Eden to keep the way of the tree of life?",
+    "choices": [
+      "Cherubims, and a flaming sword which turned every way",
+      "A wall of stone and iron gates",
+      "A flood of waters and strong winds",
+      "A host of angels singing"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": "24"
+    },
+    "explanation": "Genesis 3:24 describes cherubims and a flaming sword guarding the way to the tree of life.",
+    "verses": {
+      "kjv": "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life."
+    },
+    "id": "CRE-M-0043",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Cain's offering to the LORD?",
+    "choices": [
+      "Of the fruit of the ground",
+      "The firstlings of his flock",
+      "Gold and silver",
+      "A burnt offering of a ram"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "3"
+    },
+    "explanation": "Genesis 4:3 says Cain brought of the fruit of the ground an offering unto the LORD.",
+    "verses": {
+      "kjv": "And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD."
+    },
+    "id": "CRE-M-0044",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Abel bring as an offering to the LORD?",
+    "choices": [
+      "Of the firstlings of his flock and of the fat thereof",
+      "Of the fruit of the ground",
+      "A drink offering of wine",
+      "A basket of herbs and spices"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "4"
+    },
+    "explanation": "Genesis 4:4 says Abel brought the firstlings of his flock and of the fat thereof.",
+    "verses": {
+      "kjv": "And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:"
+    },
+    "id": "CRE-M-0045",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the LORD say to Cain about sin at the door?",
+    "choices": [
+      "Unto thee shall be his desire, and thou shalt rule over him",
+      "Thou shalt flee to the mountains",
+      "Thou shalt be forgiven without repentance",
+      "Thou shalt become king over many cities"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "7"
+    },
+    "explanation": "Genesis 4:7 warns Cain that sin lies at the door, but he is to rule over it.",
+    "verses": {
+      "kjv": "If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him."
+    },
+    "id": "CRE-M-0046",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Cain do to Abel when they were in the field?",
+    "choices": [
+      "Rose up against Abel his brother, and slew him",
+      "Built an altar with Abel",
+      "Gave Abel a portion of his fruit",
+      "Left the field and returned home"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "8"
+    },
+    "explanation": "Genesis 4:8 states that Cain rose up against Abel and killed him.",
+    "verses": {
+      "kjv": "And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him."
+    },
+    "id": "CRE-M-0047",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "After Cain killed Abel, what did the LORD say Abel's blood did from the ground?",
+    "choices": [
+      "Crieth unto me",
+      "Was covered and forgotten",
+      "Turned the field to salt",
+      "Became a river"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "10"
+    },
+    "explanation": "Genesis 4:10 records God saying Abel's blood cried unto Him from the ground.",
+    "verses": {
+      "kjv": "And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground."
+    },
+    "id": "CRE-M-0048",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What sign did the LORD set on Cain after his punishment was announced?",
+    "choices": [
+      "A mark, lest any finding him should kill him",
+      "A crown of gold",
+      "A scar on his hand",
+      "A sword for protection"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 4,
+      "verse": "15"
+    },
+    "explanation": "Genesis 4:15 says the LORD set a mark upon Cain so he would not be killed by anyone who found him.",
+    "verses": {
+      "kjv": "And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a mark upon Cain, lest any finding him should kill him."
+    },
+    "id": "CRE-M-0049",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How does Genesis describe what happened to Enoch?",
+    "choices": [
+      "He was not; for God took him",
+      "He died and was buried",
+      "He was made king in his city",
+      "He was carried away by the flood"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 5,
+      "verse": "24"
+    },
+    "explanation": "Genesis 5:24 says Enoch walked with God, and then \"God took him.\"",
+    "verses": {
+      "kjv": "And Enoch walked with God: and he was not; for God took him."
+    },
+    "id": "CRE-M-0050",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the LORD say he would do to man because he was made flesh?",
+    "choices": [
+      "Yet his days shall be an hundred and twenty years",
+      "He will live for ever",
+      "He shall never die",
+      "He will return to Eden"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 6,
+      "verse": "3"
+    },
+    "explanation": "Genesis 6:3 states that man's days would be 120 years.",
+    "verses": {
+      "kjv": "And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years."
+    },
+    "id": "CRE-M-0051",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What kind of ark did God tell Noah to make?",
+    "choices": [
+      "An ark of gopher wood",
+      "An ark of cedar wood",
+      "An ark of olive wood",
+      "An ark of palm wood"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 6,
+      "verse": "14"
+    },
+    "explanation": "Genesis 6:14 specifically commands Noah to make the ark of gopher wood.",
+    "verses": {
+      "kjv": "Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch."
+    },
+    "id": "CRE-M-0052",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the LORD say he would bring upon the earth to destroy all flesh?",
+    "choices": [
+      "A flood of waters",
+      "A famine of bread",
+      "A plague of locusts",
+      "A fire from heaven"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 6,
+      "verse": "17"
+    },
+    "explanation": "Genesis 6:17 says God would bring a flood of waters upon the earth to destroy all flesh with the breath of life.",
+    "verses": {
+      "kjv": "And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die."
+    },
+    "id": "CRE-M-0053",
+    "theme": "Creation & Origins",
+    "difficulty": "medium"
   }
 ]

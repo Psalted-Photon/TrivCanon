@@ -922,5 +922,181 @@
     "id": "PAR-H-0060",
     "theme": "Parables & Teachings",
     "difficulty": "hard"
+  },
+  {
+    "question": "In the Lord’s Prayer, what did Jesus teach to say regarding God's name?",
+    "choices": [
+      "Hallowed be thy name",
+      "Blessed be thy name forever only",
+      "Let thy name be hidden",
+      "Make thy name known to Caesar"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "9"
+    },
+    "explanation": "Matthew 6:9 includes the phrase \"Hallowed be thy name\" as part of how Jesus taught to pray.",
+    "verses": {
+      "kjv": "After this manner therefore pray ye:\nOur Father which art in heaven,\nHallowed be thy name."
+    },
+    "id": "PAR-H-0061",
+    "theme": "Parables & Teachings",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the Lord’s Prayer, what did Jesus teach to say regarding God's kingdom?",
+    "choices": [
+      "Thy kingdom come",
+      "Thy kingdom is past",
+      "Let Rome reign",
+      "Thy kingdom depart"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "10"
+    },
+    "explanation": "Matthew 6:10 says to pray, \"Thy kingdom come.\"",
+    "verses": {
+      "kjv": "Thy kingdom come. Thy will be done in earth, as it is in heaven."
+    },
+    "id": "PAR-H-0062",
+    "theme": "Parables & Teachings",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the Lord’s Prayer, what did Jesus teach to say regarding God's will?",
+    "choices": [
+      "Thy will be done in earth, as it is in heaven",
+      "My will be done in earth",
+      "Thy will be done only in heaven",
+      "Thy will be done only in Jerusalem"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "10"
+    },
+    "explanation": "Matthew 6:10 teaches praying that God's will would be done on earth as in heaven.",
+    "verses": {
+      "kjv": "Thy kingdom come. Thy will be done in earth, as it is in heaven."
+    },
+    "id": "PAR-H-0063",
+    "theme": "Parables & Teachings",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Jesus’ teaching, to whom did He compare the man who hears His sayings and does them?",
+    "choices": [
+      "A wise man",
+      "A foolish man",
+      "A rich man",
+      "A scribe"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 7,
+      "verse": "24"
+    },
+    "explanation": "Matthew 7:24 says the one who hears and does Jesus' sayings is like a wise man.",
+    "verses": {
+      "kjv": "Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:"
+    },
+    "id": "PAR-H-0064",
+    "theme": "Parables & Teachings",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Jesus’ teaching, to whom did He compare the man who hears His sayings and does not do them?",
+    "choices": [
+      "A foolish man",
+      "A wise man",
+      "A prophet",
+      "A king"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 7,
+      "verse": "26"
+    },
+    "explanation": "Matthew 7:26 says the one who hears and does not do Jesus' sayings is like a foolish man.",
+    "verses": {
+      "kjv": "And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:"
+    },
+    "id": "PAR-H-0065",
+    "theme": "Parables & Teachings",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Jesus’ explanation of the wheat and the tares, who did He say sowed the good seed?",
+    "choices": [
+      "The Son of man",
+      "The devil",
+      "The husbandmen",
+      "The disciples"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 13,
+      "verse": "37"
+    },
+    "explanation": "Matthew 13:37 says, \"He that soweth the good seed is the Son of man.\"",
+    "verses": {
+      "kjv": "He answered and said unto them, He that soweth the good seed is the Son of man;"
+    },
+    "id": "PAR-H-0066",
+    "theme": "Parables & Teachings",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Jesus’ explanation of the wheat and the tares, what did He say the field is?",
+    "choices": [
+      "The world",
+      "Israel only",
+      "The temple courts",
+      "The synagogue"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 13,
+      "verse": "38"
+    },
+    "explanation": "Matthew 13:38 says, \"The field is the world.\"",
+    "verses": {
+      "kjv": "The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked one;"
+    },
+    "id": "PAR-H-0067",
+    "theme": "Parables & Teachings",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Jesus’ explanation of the wheat and the tares, who did He say sowed the tares?",
+    "choices": [
+      "The enemy",
+      "The Son of man",
+      "The angels",
+      "The husbandmen"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 13,
+      "verse": "39"
+    },
+    "explanation": "Matthew 13:39 says the enemy that sowed the tares is the devil.",
+    "verses": {
+      "kjv": "The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels."
+    },
+    "id": "PAR-H-0068",
+    "theme": "Parables & Teachings",
+    "difficulty": "hard"
   }
 ]

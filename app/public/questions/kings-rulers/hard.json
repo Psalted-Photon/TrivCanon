@@ -548,5 +548,555 @@
     "verses": {
       "kjv": "In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people\nwere encamped against Gibbethon, which\nbelonged to the Philistines."
     }
+  },
+  {
+    "question": "What was the name of the captain of the host of king Saul?",
+    "choices": [
+      "Abner",
+      "Joab",
+      "Benaiah",
+      "Amasa"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verse": "50"
+    },
+    "explanation": "1 Samuel 14:50 names Abner (the son of Ner, Saul’s uncle) as the captain of Saul’s host.",
+    "verses": {
+      "kjv": "And the name of Saul's wife was Ahinoam, the daughter of Ahimaaz: and the name of the captain of his host was Abner, the son of Ner, Saul's uncle."
+    },
+    "id": "KNG-H-0027",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the name of Saul’s wife?",
+    "choices": [
+      "Ahinoam",
+      "Michal",
+      "Abigail",
+      "Bath-sheba"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verse": "50"
+    },
+    "explanation": "1 Samuel 14:50 states that Saul’s wife was Ahinoam, the daughter of Ahimaaz.",
+    "verses": {
+      "kjv": "And the name of Saul's wife was Ahinoam, the daughter of Ahimaaz: and the name of the captain of his host was Abner, the son of Ner, Saul's uncle."
+    },
+    "id": "KNG-H-0028",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the name of Saul’s son who reigned two years over Israel?",
+    "choices": [
+      "Ish-bosheth",
+      "Jonathan",
+      "Mephibosheth",
+      "Absalom"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 2,
+      "verse": "10"
+    },
+    "explanation": "2 Samuel 2:10 says Ish-bosheth, Saul’s son, was forty years old when he began to reign over Israel and reigned two years.",
+    "verses": {
+      "kjv": "Ish-bosheth Saul's son was forty years old when he began to reign over Israel, and reigned two years. But the house of Judah followed David."
+    },
+    "id": "KNG-H-0029",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Ish-bosheth’s age when he began to reign over Israel?",
+    "choices": [
+      "Forty years old",
+      "Thirty years old",
+      "Twenty years old",
+      "Fifty years old"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 2,
+      "verse": "10"
+    },
+    "explanation": "2 Samuel 2:10 states that Ish-bosheth was forty years old when he began to reign over Israel.",
+    "verses": {
+      "kjv": "Ish-bosheth Saul's son was forty years old when he began to reign over Israel, and reigned two years. But the house of Judah followed David."
+    },
+    "id": "KNG-H-0030",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many sons did David have that were born to him in Hebron?",
+    "choices": [
+      "Six",
+      "Seven",
+      "Five",
+      "Eight"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "verse": "2"
+    },
+    "explanation": "2 Samuel 3:2 begins listing David’s sons born in Hebron, stating that sons were born unto David there.",
+    "verses": {
+      "kjv": "And unto David were sons born in Hebron: and his firstborn was Amnon, of Ahinoam the Jezreelitess;"
+    },
+    "id": "KNG-H-0031",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was David’s firstborn son born in Hebron?",
+    "choices": [
+      "Amnon",
+      "Absalom",
+      "Adonijah",
+      "Solomon"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "verse": "2"
+    },
+    "explanation": "2 Samuel 3:2 says David’s firstborn was Amnon, of Ahinoam the Jezreelitess.",
+    "verses": {
+      "kjv": "And unto David were sons born in Hebron: and his firstborn was Amnon, of Ahinoam the Jezreelitess;"
+    },
+    "id": "KNG-H-0032",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the second son of David born in Hebron, and who was his mother?",
+    "choices": [
+      "Chileab, of Abigail",
+      "Absalom, of Maacah",
+      "Adonijah, of Haggith",
+      "Shephatiah, of Abital"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "verse": "3"
+    },
+    "explanation": "2 Samuel 3:3 names the second son as Chileab, of Abigail the wife of Nabal the Carmelite.",
+    "verses": {
+      "kjv": "And his second, Chileab, of Abigail the wife of Nabal the Carmelite; and the third, Absalom the son of Maacah the daughter of Talmai king of Geshur;"
+    },
+    "id": "KNG-H-0033",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the name of the king of Geshur whose daughter Maacah was David’s wife?",
+    "choices": [
+      "Talmai",
+      "Hiram",
+      "Benhadad",
+      "Hadadezer"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "verse": "3"
+    },
+    "explanation": "2 Samuel 3:3 names Maacah as the daughter of Talmai king of Geshur.",
+    "verses": {
+      "kjv": "And his second, Chileab, of Abigail the wife of Nabal the Carmelite; and the third, Absalom the son of Maacah the daughter of Talmai king of Geshur;"
+    },
+    "id": "KNG-H-0034",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What city did David build round about after taking the strong hold?",
+    "choices": [
+      "From Millo and inward",
+      "From Hebron and outward",
+      "From Bethel and inward",
+      "From Jericho and outward"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verse": "9"
+    },
+    "explanation": "2 Samuel 5:9 says David dwelt in the fort and built round about from Millo and inward.",
+    "verses": {
+      "kjv": "So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward."
+    },
+    "id": "KNG-H-0035",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did Hiram king of Tyre send to David after David was established as king?",
+    "choices": [
+      "Messengers, cedar trees, carpenters, and masons",
+      "Gold, silver, and precious stones",
+      "Horses and chariots",
+      "Priests and Levites"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verse": "11"
+    },
+    "explanation": "2 Samuel 5:11 says Hiram sent messengers, cedar trees, carpenters, and masons, and they built David a house.",
+    "verses": {
+      "kjv": "And Hiram king of Tyre sent messengers to David, and cedar trees, and carpenters, and masons: and they built David an house."
+    },
+    "id": "KNG-H-0036",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did David perceive about the LORD after he was established as king over Israel?",
+    "choices": [
+      "That the LORD had established him king, and exalted his kingdom for his people Israel’s sake",
+      "That the LORD had rejected him forever",
+      "That the LORD would move the kingdom to Egypt",
+      "That the LORD would give him no more sons"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verse": "12"
+    },
+    "explanation": "2 Samuel 5:12 says David perceived the LORD had established him and exalted his kingdom for Israel’s sake.",
+    "verses": {
+      "kjv": "And David perceived that the LORD had established him king over Israel, and that he had exalted his kingdom for his people Israel's sake."
+    },
+    "id": "KNG-H-0037",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to 2 Samuel 5:13, what did David take to himself after coming from Hebron?",
+    "choices": [
+      "More concubines and wives out of Jerusalem",
+      "Only one wife from Bethlehem",
+      "Only servants and oxen",
+      "Only gold and silver from Tyre"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verse": "13"
+    },
+    "explanation": "2 Samuel 5:13 says David took more concubines and wives out of Jerusalem after coming from Hebron.",
+    "verses": {
+      "kjv": "And David took him more concubines and wives out of Jerusalem, after he was come from Hebron: and there were yet sons and daughters born to David."
+    },
+    "id": "KNG-H-0038",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the Philistines do when they heard that David was anointed king over Israel?",
+    "choices": [
+      "Came up to seek David",
+      "Made peace with David",
+      "Fled to Egypt",
+      "Sent gifts to Jerusalem"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verse": "17"
+    },
+    "explanation": "2 Samuel 5:17 says the Philistines came up to seek David when they heard he was anointed king.",
+    "verses": {
+      "kjv": "But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard of it, and went down to the hold."
+    },
+    "id": "KNG-H-0039",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where did the Philistines spread themselves when they came up to seek David?",
+    "choices": [
+      "In the valley of Rephaim",
+      "In the valley of Jezreel",
+      "In the wilderness of Zin",
+      "By the waters of Meribah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verse": "18"
+    },
+    "explanation": "2 Samuel 5:18 says the Philistines came and spread themselves in the valley of Rephaim.",
+    "verses": {
+      "kjv": "The Philistines also came and spread themselves in the valley of Rephaim."
+    },
+    "id": "KNG-H-0040",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did David call the place where the LORD broke forth upon his enemies like a breach of waters?",
+    "choices": [
+      "Baal-perazim",
+      "Gilgal",
+      "Mizpah",
+      "Bethlehem"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verse": "20"
+    },
+    "explanation": "2 Samuel 5:20 says David came to Baal-perazim and said the LORD broke forth upon his enemies like a breach of waters.",
+    "verses": {
+      "kjv": "And David came to Baal-perazim, and David smote them there, and said, The LORD hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baal-perazim."
+    },
+    "id": "KNG-H-0041",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "After David smote the Philistines, what did the Philistines leave behind at Baal-perazim?",
+    "choices": [
+      "Their images",
+      "Their swords",
+      "Their chariots",
+      "Their captains"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verse": "21"
+    },
+    "explanation": "2 Samuel 5:21 says the Philistines left their images, and David and his men burned them.",
+    "verses": {
+      "kjv": "And there they left their images, and David and his men burned them."
+    },
+    "id": "KNG-H-0042",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did David do when he brought the ark of God from the house of Obed-edom to the city of David?",
+    "choices": [
+      "Offered burnt offerings and peace offerings before the LORD",
+      "Built a golden calf",
+      "Fastened it to a new cart",
+      "Set it in the temple of Dagon"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verse": "17"
+    },
+    "explanation": "2 Samuel 6:17 says David offered burnt offerings and peace offerings before the LORD after setting the ark in its place.",
+    "verses": {
+      "kjv": "And they brought in the ark of the LORD, and set it in his place, in the midst of the tabernacle that David had pitched for it: and David offered burnt offerings and peace offerings before the LORD."
+    },
+    "id": "KNG-H-0043",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "After bringing up the ark, what did David do for all the people?",
+    "choices": [
+      "Dealt to every one a cake of bread, a good piece of flesh, and a flagon of wine",
+      "Gave every man a crown",
+      "Appointed every man a priest",
+      "Sent every family to Egypt"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verse": "19"
+    },
+    "explanation": "2 Samuel 6:19 says David gave to every one of all the people a cake of bread, a good piece of flesh, and a flagon of wine.",
+    "verses": {
+      "kjv": "And he dealt among all the people, even among the whole multitude of Israel, as well to the women as men, to every one a cake of bread, and a good piece of flesh, and a flagon of wine. So all the people departed every one to his house."
+    },
+    "id": "KNG-H-0044",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When Michal despised David, what did David say he would be yet more vile than?",
+    "choices": [
+      "Thus",
+      "Saul",
+      "The Philistines",
+      "The prophets"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verse": "22"
+    },
+    "explanation": "2 Samuel 6:22 records David saying, \"I will yet be more vile than thus\" and would be base in his own sight.",
+    "verses": {
+      "kjv": "And David said unto Michal, It was before the LORD, which chose me before thy father, and before all his house, to appoint me ruler over the people of the LORD, over Israel: therefore will I play before the LORD.\nAnd I will yet be more vile than thus, and will be base in mine own sight: and of the maidservants which thou hast spoken of, of them shall I be had in honour."
+    },
+    "id": "KNG-H-0045",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the LORD say would come out of David’s bowels to establish his kingdom?",
+    "choices": [
+      "His seed",
+      "His servants",
+      "His enemies",
+      "His gold"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "verse": "12"
+    },
+    "explanation": "2 Samuel 7:12 says God would set up David’s seed after him, which would proceed out of his bowels, and establish his kingdom.",
+    "verses": {
+      "kjv": "And when thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee, which shall proceed out of thy bowels, and I will establish his kingdom."
+    },
+    "id": "KNG-H-0046",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the LORD promise to establish forever for David’s seed in 2 Samuel 7:13?",
+    "choices": [
+      "The throne of his kingdom",
+      "The walls of Jerusalem",
+      "The borders of Israel",
+      "The altar of incense"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "verse": "13"
+    },
+    "explanation": "2 Samuel 7:13 says God would establish the throne of his kingdom forever.",
+    "verses": {
+      "kjv": "He shall build an house for my name, and I will stablish the throne of his kingdom for ever."
+    },
+    "id": "KNG-H-0047",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the LORD say He would be to David’s seed, and what would David’s seed be to Him?",
+    "choices": [
+      "A father; and he shall be a son",
+      "A king; and he shall be a servant",
+      "A judge; and he shall be a prophet",
+      "A warrior; and he shall be a priest"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "verse": "14"
+    },
+    "explanation": "2 Samuel 7:14 says, \"I will be his father, and he shall be my son.\"",
+    "verses": {
+      "kjv": "I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men:"
+    },
+    "id": "KNG-H-0048",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When the LORD chastened David’s seed for iniquity, what did He say He would use?",
+    "choices": [
+      "The rod of men and the stripes of the children of men",
+      "Fire from heaven",
+      "A flood of waters",
+      "Seven years of drought"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "verse": "14"
+    },
+    "explanation": "2 Samuel 7:14 says God would chasten him with the rod of men and with the stripes of the children of men.",
+    "verses": {
+      "kjv": "I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men:"
+    },
+    "id": "KNG-H-0049",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the LORD say would not depart from David’s seed as it departed from Saul?",
+    "choices": [
+      "My mercy",
+      "My wrath",
+      "My covenant",
+      "My law"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "verse": "15"
+    },
+    "explanation": "2 Samuel 7:15 says God’s mercy would not depart from him as it departed from Saul.",
+    "verses": {
+      "kjv": "But my mercy shall not depart away from him, as I took it from Saul, whom I put away before thee."
+    },
+    "id": "KNG-H-0050",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the LORD promise would be established for ever before David in 2 Samuel 7:16?",
+    "choices": [
+      "His house and his kingdom",
+      "His armies and his treasures",
+      "His vineyards and his fields",
+      "His enemies and his allies"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "verse": "16"
+    },
+    "explanation": "2 Samuel 7:16 says David’s house and kingdom would be established forever before him, and his throne established forever.",
+    "verses": {
+      "kjv": "And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever."
+    },
+    "id": "KNG-H-0051",
+    "theme": "Kings & Rulers",
+    "difficulty": "hard"
   }
 ]

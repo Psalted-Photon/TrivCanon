@@ -812,5 +812,291 @@
     "verses": {
       "kjv": "What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?"
     }
+  },
+  {
+    "question": "In the parable of the sower, what happened to the seed that fell on stony places?",
+    "choices": [
+      "It sprang up quickly, but withered because it had no root",
+      "It was eaten by birds immediately",
+      "It grew and produced a hundredfold",
+      "It was choked by thorns and died slowly"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 13,
+      "verse": "5"
+    },
+    "explanation": "Matthew 13:5-6 says the seed on stony places sprang up quickly but later withered because it had no root.",
+    "verses": {
+      "kjv": "Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth:"
+    },
+    "id": "PAR-E-0038",
+    "theme": "Parables & Teachings",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the parable of the sower, why did the seed on stony places wither away?",
+    "choices": [
+      "Because it had no root",
+      "Because birds ate it",
+      "Because it fell into water",
+      "Because it was trampled by the sower"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 13,
+      "verse": "6"
+    },
+    "explanation": "Matthew 13:6 says the plant withered because it had no root.",
+    "verses": {
+      "kjv": "And when the sun was up, they were scorched; and because they had no root, they withered away."
+    },
+    "id": "PAR-E-0039",
+    "theme": "Parables & Teachings",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the parable of the sower, what happened to the seed that fell among thorns?",
+    "choices": [
+      "The thorns sprung up and choked it",
+      "It grew into a great tree",
+      "It was carried away by wind",
+      "It became wheat immediately"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 13,
+      "verse": "7"
+    },
+    "explanation": "Matthew 13:7 says the thorns sprang up and choked the seed that fell among them.",
+    "verses": {
+      "kjv": "And some fell among thorns; and the thorns sprung up, and choked them:"
+    },
+    "id": "PAR-E-0040",
+    "theme": "Parables & Teachings",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the parable of the sower, what happened to the seed that fell into good ground?",
+    "choices": [
+      "It brought forth fruit",
+      "It was eaten by birds",
+      "It withered immediately",
+      "It was choked by thorns"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 13,
+      "verse": "8"
+    },
+    "explanation": "Matthew 13:8 says the seed in good ground brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.",
+    "verses": {
+      "kjv": "But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold."
+    },
+    "id": "PAR-E-0041",
+    "theme": "Parables & Teachings",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Jesus, what should we do if we do not want to be judged?",
+    "choices": [
+      "Judge not",
+      "Fast always",
+      "Travel to Jerusalem",
+      "Give alms daily"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 7,
+      "verse": "1"
+    },
+    "explanation": "Matthew 7:1 says, \"Judge not, that ye be not judged.\"",
+    "verses": {
+      "kjv": "Judge not, that ye be not judged."
+    },
+    "id": "PAR-E-0042",
+    "theme": "Parables & Teachings",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Jesus say about asking, seeking, and knocking?",
+    "choices": [
+      "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you",
+      "Ask only once and stop",
+      "Seek riches above all else",
+      "Knock only at midnight"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 7,
+      "verse": "7"
+    },
+    "explanation": "Matthew 7:7 teaches that those who ask, seek, and knock will receive, find, and have it opened.",
+    "verses": {
+      "kjv": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:"
+    },
+    "id": "PAR-E-0043",
+    "theme": "Parables & Teachings",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Jesus say is the narrow way that leads unto life?",
+    "choices": [
+      "The way that is strait, and the gate that is strait",
+      "The broad way and wide gate",
+      "The road to riches",
+      "The path of many friends"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 7,
+      "verse": "14"
+    },
+    "explanation": "Matthew 7:14 says the gate is strait and the way is narrow that leads to life, and few find it.",
+    "verses": {
+      "kjv": "Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it."
+    },
+    "id": "PAR-E-0044",
+    "theme": "Parables & Teachings",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Jesus say we should do to others as we would have them do to us?",
+    "choices": [
+      "Do ye even so to them",
+      "Ignore them",
+      "Rule over them",
+      "Pay them back"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 7,
+      "verse": "12"
+    },
+    "explanation": "Matthew 7:12 teaches the \"golden rule\"—to do to others what we want them to do to us.",
+    "verses": {
+      "kjv": "Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets."
+    },
+    "id": "PAR-E-0045",
+    "theme": "Parables & Teachings",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the parable of the talents, what did the lord call the servant who hid his talent in the earth?",
+    "choices": [
+      "Wicked and slothful",
+      "Wise and faithful",
+      "Strong and courageous",
+      "Poor and needy"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 25,
+      "verse": "26"
+    },
+    "explanation": "Matthew 25:26 says the lord answered, \"Thou wicked and slothful servant.\"",
+    "verses": {
+      "kjv": "His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:"
+    },
+    "id": "PAR-E-0046",
+    "theme": "Parables & Teachings",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Jesus say a wise man does with His sayings?",
+    "choices": [
+      "He heareth them, and doeth them",
+      "He writes them on a stone",
+      "He forgets them quickly",
+      "He hides them in the earth"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 7,
+      "verse": "24"
+    },
+    "explanation": "Matthew 7:24 says whoever hears Jesus’ sayings and does them is like a wise man.",
+    "verses": {
+      "kjv": "Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:"
+    },
+    "id": "PAR-E-0047",
+    "theme": "Parables & Teachings",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the parable of the good Samaritan, who first saw the man who fell among thieves and passed by on the other side?",
+    "choices": [
+      "A priest",
+      "A Samaritan",
+      "A publican",
+      "A centurion"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 10,
+      "verse": "31"
+    },
+    "explanation": "Luke 10:31 says a priest came that way, saw him, and passed by on the other side.",
+    "verses": {
+      "kjv": "And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side."
+    },
+    "id": "PAR-E-0048",
+    "theme": "Parables & Teachings",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the parable of the good Samaritan, who came next and looked on the wounded man?",
+    "choices": [
+      "A Levite",
+      "A Pharisee",
+      "A scribe",
+      "A king"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 10,
+      "verse": "32"
+    },
+    "explanation": "Luke 10:32 says a Levite came, looked on him, and passed by on the other side.",
+    "verses": {
+      "kjv": "And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side."
+    },
+    "id": "PAR-E-0049",
+    "theme": "Parables & Teachings",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the parable of the good Samaritan, what did the Samaritan do for the injured man?",
+    "choices": [
+      "Bound up his wounds, pouring in oil and wine",
+      "Left him and went away",
+      "Called soldiers to arrest him",
+      "Put him in prison for safety"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 10,
+      "verse": "34"
+    },
+    "explanation": "Luke 10:34 says the Samaritan bound up his wounds, pouring in oil and wine, and set him on his own beast.",
+    "verses": {
+      "kjv": "And went to him, and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him."
+    },
+    "id": "PAR-E-0050",
+    "theme": "Parables & Teachings",
+    "difficulty": "easy"
   }
 ]

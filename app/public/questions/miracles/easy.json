@@ -592,5 +592,511 @@
     "verses": {
       "kjv": "And when they could not come nigh unto him for the press, they uncovered the roof where he was: and when they had broken\nit up, they let down the bed wherein the sick of the palsy lay."
     }
+  },
+  {
+    "question": "What did the LORD do to the Red Sea so the children of Israel could pass through?",
+    "choices": [
+      "Made the sea dry land",
+      "Filled it with fish",
+      "Turned it into a river",
+      "Froze it solid"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 14,
+      "verse": "21"
+    },
+    "explanation": "Exodus 14:21 says the LORD caused the sea to go back and made the sea dry land so the waters were divided.",
+    "verses": {
+      "kjv": "And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided."
+    },
+    "id": "MIR-E-0028",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When the LORD sent manna, what did it look like on the ground?",
+    "choices": [
+      "A small round thing",
+      "A cluster of grapes",
+      "A loaf of bread",
+      "A jar of oil"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 16,
+      "verse": "14"
+    },
+    "explanation": "Exodus 16:14 describes the manna as a small round thing upon the face of the wilderness.",
+    "verses": {
+      "kjv": "And when the dew that lay was gone up, behold, upon the face of the wilderness there lay a small round thing, as small as the hoar frost on the ground."
+    },
+    "id": "MIR-E-0029",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did God provide from a rock for the Israelites to drink?",
+    "choices": [
+      "Water",
+      "Wine",
+      "Milk",
+      "Honey"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 17,
+      "verse": "6"
+    },
+    "explanation": "Exodus 17:6 says Moses struck the rock and water came out so the people could drink.",
+    "verses": {
+      "kjv": "Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel."
+    },
+    "id": "MIR-E-0030",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many days did the LORD make the sun stand still in Joshua’s battle?",
+    "choices": [
+      "It stood still about a whole day",
+      "It stood still seven days",
+      "It stood still three days",
+      "It stood still forty days"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Joshua",
+      "chapter": 10,
+      "verse": "13"
+    },
+    "explanation": "Joshua 10:13 says the sun stood still and the moon stayed until the people had avenged themselves upon their enemies, about a whole day.",
+    "verses": {
+      "kjv": "And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day."
+    },
+    "id": "MIR-E-0031",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Elijah do to raise the widow’s son?",
+    "choices": [
+      "Stretched himself upon the child three times and cried to the LORD",
+      "Anointed him with oil and prayed once",
+      "Touched him with his staff only",
+      "Gave him bread and water"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verse": "21"
+    },
+    "explanation": "1 Kings 17:21 says Elijah stretched himself upon the child three times and cried to the LORD for the child's soul to come into him again.",
+    "verses": {
+      "kjv": "And he stretched himself upon the child three times, and cried unto the LORD, and said, O LORD my God, I pray thee, let this child's soul come into him again."
+    },
+    "id": "MIR-E-0032",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did the LORD send down to consume Elijah’s burnt sacrifice on Mount Carmel?",
+    "choices": [
+      "Fire",
+      "Rain",
+      "Wind",
+      "A flood"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verse": "38"
+    },
+    "explanation": "1 Kings 18:38 says the fire of the LORD fell and consumed the burnt sacrifice and even the water in the trench.",
+    "verses": {
+      "kjv": "Then the fire of the LORD fell, and consumed the burnt sacrifice, and the wood, and the stones, and the dust, and licked up the water that was in the trench."
+    },
+    "id": "MIR-E-0033",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Elisha tell Naaman to do to be healed of his leprosy?",
+    "choices": [
+      "Wash in Jordan seven times",
+      "Offer gold and silver",
+      "Fast for forty days",
+      "Travel to Jerusalem"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 5,
+      "verse": "10"
+    },
+    "explanation": "2 Kings 5:10 says Elisha sent a messenger telling Naaman to wash in Jordan seven times.",
+    "verses": {
+      "kjv": "And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean."
+    },
+    "id": "MIR-E-0034",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What happened to the iron axe head when Elisha cut down a stick and cast it in?",
+    "choices": [
+      "It did swim",
+      "It melted away",
+      "It became gold",
+      "It broke into pieces"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 6,
+      "verse": "6"
+    },
+    "explanation": "2 Kings 6:6 says the iron did swim after Elisha cast in the stick.",
+    "verses": {
+      "kjv": "And the man of God said, Where fell it? And he shewed him the place. And he cut down a stick, and cast it in thither; and the iron did swim."
+    },
+    "id": "MIR-E-0035",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did the LORD do for Hezekiah as a sign that he would be healed?",
+    "choices": [
+      "Brought the shadow ten degrees backward",
+      "Made the sun rise twice",
+      "Stopped the rain for three years",
+      "Turned water into blood"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 20,
+      "verse": "11"
+    },
+    "explanation": "2 Kings 20:11 says the shadow went back ten degrees on the dial of Ahaz as a sign.",
+    "verses": {
+      "kjv": "And Isaiah the prophet cried unto the LORD: and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz."
+    },
+    "id": "MIR-E-0036",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How did Jesus heal the man who was blind from birth?",
+    "choices": [
+      "He made clay and anointed the eyes",
+      "He told him to dip in the Jordan",
+      "He touched his ears",
+      "He gave him bread and wine"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "John",
+      "chapter": 9,
+      "verse": "6"
+    },
+    "explanation": "John 9:6 says Jesus spat on the ground, made clay, and anointed the man's eyes with the clay.",
+    "verses": {
+      "kjv": "When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,"
+    },
+    "id": "MIR-E-0037",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Where did Jesus tell the blind man to wash after anointing his eyes with clay?",
+    "choices": [
+      "The pool of Siloam",
+      "The river Jordan",
+      "The sea of Galilee",
+      "The brook Kidron"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "John",
+      "chapter": 9,
+      "verse": "7"
+    },
+    "explanation": "John 9:7 says Jesus told him to go wash in the pool of Siloam, and he came seeing.",
+    "verses": {
+      "kjv": "And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing."
+    },
+    "id": "MIR-E-0038",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What happened when Jesus said, \"Lazarus, come forth\"?",
+    "choices": [
+      "He that was dead came forth",
+      "The stone rolled back by itself only",
+      "The crowd fled in fear",
+      "Lazarus spoke from inside the tomb"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "John",
+      "chapter": 11,
+      "verse": "43"
+    },
+    "explanation": "John 11:43-44 records that Jesus cried with a loud voice, and Lazarus came forth.",
+    "verses": {
+      "kjv": "And when he thus had spoken, he cried with a loud voice, Lazarus, come forth."
+    },
+    "id": "MIR-E-0039",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did the leper do after Jesus touched him and said, \"I will; be thou clean\"?",
+    "choices": [
+      "Immediately his leprosy was cleansed",
+      "He fell asleep",
+      "He ran away still leprous",
+      "He became blind"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 8,
+      "verse": "3"
+    },
+    "explanation": "Matthew 8:3 says Jesus touched him and immediately his leprosy was cleansed.",
+    "verses": {
+      "kjv": "And Jesus put forth his hand, and touched him, saying, I will; be thou clean. And immediately his leprosy was cleansed."
+    },
+    "id": "MIR-E-0040",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Jesus cast out of the two men in the country of the Gergesenes?",
+    "choices": [
+      "Devils",
+      "Fever",
+      "Blindness",
+      "Leprosy"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 8,
+      "verse": "16"
+    },
+    "explanation": "Matthew 8:16 says Jesus cast out the spirits with his word.",
+    "verses": {
+      "kjv": "When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:"
+    },
+    "id": "MIR-E-0041",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Jesus do to the fig tree so that it withered away?",
+    "choices": [
+      "He cursed it",
+      "He watered it",
+      "He planted it",
+      "He pruned it"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 21,
+      "verse": "19"
+    },
+    "explanation": "Matthew 21:19 says Jesus said, \"Let no fruit grow on thee henceforward for ever\" and the fig tree withered away.",
+    "verses": {
+      "kjv": "And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, Let no fruit grow on thee henceforward for ever. And presently the fig tree withered away."
+    },
+    "id": "MIR-E-0042",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Jesus say to still the storm on the sea?",
+    "choices": [
+      "Peace, be still",
+      "Let there be calm",
+      "Wind, stop now",
+      "Be quiet, waves"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Mark",
+      "chapter": 4,
+      "verse": "39"
+    },
+    "explanation": "Mark 4:39 says Jesus rebuked the wind and said unto the sea, \"Peace, be still\" and there was a great calm.",
+    "verses": {
+      "kjv": "And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm."
+    },
+    "id": "MIR-E-0043",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was the result when Jesus rebuked the wind and the sea?",
+    "choices": [
+      "There was a great calm",
+      "The boat sank",
+      "The sea became blood",
+      "A fire came down"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Mark",
+      "chapter": 4,
+      "verse": "39"
+    },
+    "explanation": "Mark 4:39 says the wind ceased and there was a great calm.",
+    "verses": {
+      "kjv": "And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm."
+    },
+    "id": "MIR-E-0044",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When Jesus fed the five thousand, what did the people sit on?",
+    "choices": [
+      "The grass",
+      "Stones",
+      "Sand",
+      "Benches"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "John",
+      "chapter": 6,
+      "verse": "10"
+    },
+    "explanation": "John 6:10 says Jesus told the men to sit down, and there was much grass in the place.",
+    "verses": {
+      "kjv": "And Jesus said, Make the men sit down. Now there was much grass in the place. So the men sat down, in number about five thousand."
+    },
+    "id": "MIR-E-0045",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How did Jesus walk to his disciples on the sea?",
+    "choices": [
+      "Walking on the sea",
+      "Swimming through the waves",
+      "Riding in a boat",
+      "Floating on driftwood"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 14,
+      "verse": "25"
+    },
+    "explanation": "Matthew 14:25 says Jesus went unto them walking on the sea.",
+    "verses": {
+      "kjv": "And in the fourth watch of the night Jesus went unto them, walking on the sea."
+    },
+    "id": "MIR-E-0046",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What happened when Peter walked on the water and then began to sink?",
+    "choices": [
+      "Jesus stretched forth his hand and caught him",
+      "A fish lifted him up",
+      "The boat turned into a raft",
+      "The waves became still immediately"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 14,
+      "verse": "31"
+    },
+    "explanation": "Matthew 14:31 says Jesus immediately stretched forth his hand and caught Peter.",
+    "verses": {
+      "kjv": "And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?"
+    },
+    "id": "MIR-E-0047",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did the disciples worship Jesus as after the wind ceased?",
+    "choices": [
+      "The Son of God",
+      "A great prophet only",
+      "The king of Israel only",
+      "An angel of the LORD"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 14,
+      "verse": "33"
+    },
+    "explanation": "Matthew 14:33 says those in the ship worshipped him, saying, \"Of a truth thou art the Son of God.\"",
+    "verses": {
+      "kjv": "Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God."
+    },
+    "id": "MIR-E-0048",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Jesus do when he saw the widow of Nain and her dead son?",
+    "choices": [
+      "He touched the bier",
+      "He offered incense",
+      "He burned a sacrifice",
+      "He tore his clothes"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 7,
+      "verse": "14"
+    },
+    "explanation": "Luke 7:14 says Jesus came and touched the bier, and those who carried him stood still.",
+    "verses": {
+      "kjv": "And he came and touched the bier: and they that bare him stood still. And he said, Young man, I say unto thee, Arise."
+    },
+    "id": "MIR-E-0049",
+    "theme": "Miracles",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What happened when Jesus said to the dead young man, \"Arise\"?",
+    "choices": [
+      "He that was dead sat up, and began to speak",
+      "He remained dead",
+      "He became blind",
+      "He vanished from the bier"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 7,
+      "verse": "15"
+    },
+    "explanation": "Luke 7:15 says the dead sat up and began to speak, and Jesus delivered him to his mother.",
+    "verses": {
+      "kjv": "And he that was dead sat up, and began to speak. And he delivered him to his mother."
+    },
+    "id": "MIR-E-0050",
+    "theme": "Miracles",
+    "difficulty": "easy"
   }
 ]

@@ -922,5 +922,181 @@
     "verses": {
       "kjv": "Who can find a virtuous woman? for her price\nis far above rubies."
     }
+  },
+  {
+    "question": "According to Ecclesiastes, what is \"vanity\" and \"vexation of spirit\"?",
+    "choices": [
+      "All is vanity",
+      "Only riches are vanity",
+      "Only youth is vanity",
+      "Only sorrow is vanity"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "verse": "14"
+    },
+    "explanation": "Ecclesiastes summarizes life \"under the sun\" as vanity and vexation of spirit.",
+    "verses": {
+      "kjv": "I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit."
+    },
+    "id": "WIS-H-0046",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Ecclesiastes, what is the duty of man?",
+    "choices": [
+      "Fear God, and keep his commandments",
+      "Gather great riches",
+      "Seek only pleasure",
+      "Travel to many lands"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "verse": "13"
+    },
+    "explanation": "Ecclesiastes concludes that man's duty is to fear God and keep His commandments.",
+    "verses": {
+      "kjv": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man."
+    },
+    "id": "WIS-H-0047",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Ecclesiastes, what comes to all?",
+    "choices": [
+      "One event",
+      "One treasure",
+      "One kingdom",
+      "One song"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "verse": "2"
+    },
+    "explanation": "Ecclesiastes says there is one event that happens to all, regardless of righteousness or wickedness.",
+    "verses": {
+      "kjv": "All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as is the good, so is the sinner; and he that sweareth, as he that feareth an oath."
+    },
+    "id": "WIS-H-0048",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Proverbs, what is \"better than great riches\"?",
+    "choices": [
+      "Loving favour",
+      "Many servants",
+      "A strong city",
+      "Fine clothing"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verse": "1"
+    },
+    "explanation": "Proverbs teaches that a good name and loving favour are better than riches.",
+    "verses": {
+      "kjv": "A good name is rather to be chosen than great riches, and loving favour rather than silver and gold."
+    },
+    "id": "WIS-H-0049",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Proverbs, what is better than silver and gold?",
+    "choices": [
+      "Loving favour",
+      "A guarded tongue",
+      "A swift horse",
+      "A full barn"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verse": "1"
+    },
+    "explanation": "Proverbs says loving favour is better than silver and gold.",
+    "verses": {
+      "kjv": "A good name is rather to be chosen than great riches, and loving favour rather than silver and gold."
+    },
+    "id": "WIS-H-0050",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Proverbs, what does \"iron sharpeneth\"?",
+    "choices": [
+      "Iron",
+      "Gold",
+      "Wood",
+      "Stone"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verse": "17"
+    },
+    "explanation": "Proverbs uses this as a picture of people sharpening one another.",
+    "verses": {
+      "kjv": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend."
+    },
+    "id": "WIS-H-0051",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Proverbs, who sharpens a man's countenance?",
+    "choices": [
+      "His friend",
+      "His enemy",
+      "His servant",
+      "His king"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verse": "17"
+    },
+    "explanation": "Proverbs says a man sharpens the countenance of his friend, like iron sharpening iron.",
+    "verses": {
+      "kjv": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend."
+    },
+    "id": "WIS-H-0052",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Proverbs, what is \"as dew\"?",
+    "choices": [
+      "The king's favour",
+      "A fool's laughter",
+      "A strong city",
+      "The wrath of a lion"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Proverbs",
+      "chapter": 19,
+      "verse": "12"
+    },
+    "explanation": "Proverbs compares the king's favour to dew upon the grass.",
+    "verses": {
+      "kjv": "The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass."
+    },
+    "id": "WIS-H-0053",
+    "theme": "Wisdom & Psalms",
+    "difficulty": "hard"
   }
 ]

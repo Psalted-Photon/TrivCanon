@@ -1076,5 +1076,27 @@
     "id": "JRN-E-0047",
     "theme": "Journeys & Exile",
     "difficulty": "easy"
+  },
+  {
+    "question": "What place did Abram go to when the LORD told him, \"Get thee out of thy country\"?",
+    "choices": [
+      "A land that the LORD would shew him",
+      "The land of Egypt",
+      "The land of Shinar",
+      "The land of Moab"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 12,
+      "verse": "1"
+    },
+    "explanation": "Genesis 12:1 records the LORD commanding Abram to leave his country to go to a land God would show him.",
+    "verses": {
+      "kjv": "Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee:"
+    },
+    "id": "JRN-E-0048",
+    "theme": "Journeys & Exile",
+    "difficulty": "easy"
   }
 ]

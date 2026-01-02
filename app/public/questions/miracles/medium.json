@@ -768,5 +768,335 @@
     "verses": {
       "kjv": "When Jesus saw their faith, he said unto the sick of the palsy,\nSon, thy sins be forgiven thee."
     }
+  },
+  {
+    "question": "After the water was parted, what stood as a wall to Israel on the right hand and on the left?",
+    "choices": [
+      "The waters",
+      "The sands",
+      "The clouds",
+      "The rocks"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 14,
+      "verse": "22"
+    },
+    "explanation": "Exodus 14:22 says Israel went into the midst of the sea on dry ground, and the waters were a wall to them on both sides.",
+    "verses": {
+      "kjv": "And the children of Israel went into the midst of the sea upon the dry ground: and the waters were a wall unto them on their right hand, and on their left."
+    },
+    "id": "MIR-M-0036",
+    "theme": "Miracles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When Moses stretched out his hand over the sea, what did the LORD use to make the sea go back?",
+    "choices": [
+      "A strong east wind",
+      "A mighty earthquake",
+      "A pillar of fire",
+      "A great flood"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 14,
+      "verse": "21"
+    },
+    "explanation": "Exodus 14:21 says the LORD caused the sea to go back by a strong east wind all that night.",
+    "verses": {
+      "kjv": "And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided."
+    },
+    "id": "MIR-M-0037",
+    "theme": "Miracles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the LORD send to go before Israel by day to lead them the way?",
+    "choices": [
+      "A pillar of a cloud",
+      "A pillar of smoke",
+      "A rainbow",
+      "A star in the east"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 13,
+      "verse": "21"
+    },
+    "explanation": "Exodus 13:21 says the LORD went before them by day in a pillar of a cloud to lead them the way.",
+    "verses": {
+      "kjv": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:"
+    },
+    "id": "MIR-M-0038",
+    "theme": "Miracles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the LORD send to give Israel light by night?",
+    "choices": [
+      "A pillar of fire",
+      "A pillar of water",
+      "A pillar of stone",
+      "A pillar of brass"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 13,
+      "verse": "21"
+    },
+    "explanation": "Exodus 13:21 says the LORD went by night in a pillar of fire to give them light.",
+    "verses": {
+      "kjv": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:"
+    },
+    "id": "MIR-M-0039",
+    "theme": "Miracles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When the people asked, \"What is it?\" what did Moses tell them it was?",
+    "choices": [
+      "The bread which the LORD hath given you to eat",
+      "The corn of Egypt",
+      "The fruit of the land",
+      "The flesh of quails"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 16,
+      "verse": "15"
+    },
+    "explanation": "Exodus 16:15 says Moses told them it was the bread the LORD had given them to eat.",
+    "verses": {
+      "kjv": "And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was. And Moses said unto them, This is the bread which the LORD hath given you to eat."
+    },
+    "id": "MIR-M-0040",
+    "theme": "Miracles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Jesus say when he touched the leper in Mark 1:41?",
+    "choices": [
+      "I will; be thou clean",
+      "Thy sins be forgiven thee",
+      "Peace, be still",
+      "Arise, take up thy bed"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Mark",
+      "chapter": 1,
+      "verse": "41"
+    },
+    "explanation": "Mark 1:41 says Jesus touched him and said, \"I will; be thou clean.\"",
+    "verses": {
+      "kjv": "And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean."
+    },
+    "id": "MIR-M-0041",
+    "theme": "Miracles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Mark 1:42, what happened immediately after Jesus spoke to the leper?",
+    "choices": [
+      "The leprosy departed from him",
+      "The leper fell asleep",
+      "The leper became blind",
+      "The leper ran away unhealed"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Mark",
+      "chapter": 1,
+      "verse": "42"
+    },
+    "explanation": "Mark 1:42 says immediately the leprosy departed and he was cleansed.",
+    "verses": {
+      "kjv": "And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed."
+    },
+    "id": "MIR-M-0042",
+    "theme": "Miracles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Jesus say to the dead damsel in Mark 5:41?",
+    "choices": [
+      "Talitha cumi",
+      "Ephphatha",
+      "Eloi, Eloi, lama sabachthani",
+      "Abba, Father"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Mark",
+      "chapter": 5,
+      "verse": "41"
+    },
+    "explanation": "Mark 5:41 records Jesus saying, \"Talitha cumi,\" meaning, \"Damsel, I say unto thee, arise.\"",
+    "verses": {
+      "kjv": "And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise."
+    },
+    "id": "MIR-M-0043",
+    "theme": "Miracles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Jesus say \"Talitha cumi\" means in Mark 5:41?",
+    "choices": [
+      "Damsel, I say unto thee, arise",
+      "Be opened",
+      "Thy faith hath made thee whole",
+      "Peace, be still"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Mark",
+      "chapter": 5,
+      "verse": "41"
+    },
+    "explanation": "Mark 5:41 includes the interpretation, \"Damsel, I say unto thee, arise.\"",
+    "verses": {
+      "kjv": "And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise."
+    },
+    "id": "MIR-M-0044",
+    "theme": "Miracles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When Jesus healed the deaf man, what did he put into the man's ears?",
+    "choices": [
+      "His fingers",
+      "Clay",
+      "Oil",
+      "Spittle only"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Mark",
+      "chapter": 7,
+      "verse": "33"
+    },
+    "explanation": "Mark 7:33 says Jesus put his fingers into his ears, and he spit and touched his tongue.",
+    "verses": {
+      "kjv": "And he took him aside from the multitude, and put his fingers into his ears, and he spit, and touched his tongue;"
+    },
+    "id": "MIR-M-0045",
+    "theme": "Miracles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What word did Jesus say when he healed the deaf man in Mark 7:34?",
+    "choices": [
+      "Ephphatha",
+      "Talitha cumi",
+      "Hosanna",
+      "Rabboni"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Mark",
+      "chapter": 7,
+      "verse": "34"
+    },
+    "explanation": "Mark 7:34 says Jesus said, \"Ephphatha,\" meaning, \"Be opened.\"",
+    "verses": {
+      "kjv": "And looking up to heaven, he sighed, and saith unto him, Ephphatha, that is, Be opened."
+    },
+    "id": "MIR-M-0046",
+    "theme": "Miracles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Jesus say \"Ephphatha\" means in Mark 7:34?",
+    "choices": [
+      "Be opened",
+      "Arise",
+      "Be clean",
+      "Peace"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Mark",
+      "chapter": 7,
+      "verse": "34"
+    },
+    "explanation": "Mark 7:34 includes the interpretation of \"Ephphatha\" as \"Be opened.\"",
+    "verses": {
+      "kjv": "And looking up to heaven, he sighed, and saith unto him, Ephphatha, that is, Be opened."
+    },
+    "id": "MIR-M-0047",
+    "theme": "Miracles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How did Jesus heal a blind man at Bethsaida in Mark 8:23?",
+    "choices": [
+      "He spit on his eyes and put his hands upon him",
+      "He touched his ears",
+      "He gave him clay to wash off",
+      "He spoke from afar without touching him"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Mark",
+      "chapter": 8,
+      "verse": "23"
+    },
+    "explanation": "Mark 8:23 says Jesus spit on the blind man's eyes and put his hands upon him and asked if he saw ought.",
+    "verses": {
+      "kjv": "And he took the blind man by the hand, and led him out of the town; and when he had spit on his eyes, and put his hands upon him, he asked him if he saw ought."
+    },
+    "id": "MIR-M-0048",
+    "theme": "Miracles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Luke 17:14, what did Jesus tell the ten lepers to do?",
+    "choices": [
+      "Go shew yourselves unto the priests",
+      "Go wash in Jordan seven times",
+      "Go into the synagogue and read",
+      "Go and offer a bullock"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 17,
+      "verse": "14"
+    },
+    "explanation": "Luke 17:14 says Jesus told them to go show themselves unto the priests, and as they went they were cleansed.",
+    "verses": {
+      "kjv": "And when he saw them, he said unto them, Go shew yourselves unto the priests. And it came to pass, that, as they went, they were cleansed."
+    },
+    "id": "MIR-M-0049",
+    "theme": "Miracles",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Luke 17:15, what did one of the healed lepers do when he saw that he was healed?",
+    "choices": [
+      "Turned back, and with a loud voice glorified God",
+      "Went straight home silently",
+      "Went to the marketplace to celebrate",
+      "Returned to his village to make an offering immediately"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 17,
+      "verse": "15"
+    },
+    "explanation": "Luke 17:15 says one of them turned back and glorified God with a loud voice.",
+    "verses": {
+      "kjv": "And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,"
+    },
+    "id": "MIR-M-0050",
+    "theme": "Miracles",
+    "difficulty": "medium"
   }
 ]

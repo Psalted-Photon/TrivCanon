@@ -856,5 +856,247 @@
     "verses": {
       "kjv": "These are the two olive trees, and the two candlesticks standing before the God of the earth."
     }
+  },
+  {
+    "question": "According to Revelation, what title is written on Christ's vesture and on his thigh?",
+    "choices": [
+      "KING OF KINGS, AND LORD OF LORDS",
+      "PRINCE OF PEACE",
+      "THE SON OF DAVID",
+      "THE HOLY ONE OF ISRAEL"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 19,
+      "verse": "16"
+    },
+    "explanation": "Revelation describes Christ with this title written on His vesture and thigh.",
+    "verses": {
+      "kjv": "And he hath on his vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS."
+    },
+    "id": "END-M-0038",
+    "theme": "Prophecy & End Times",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Revelation, what is said to proceed out of the mouth of Him who sits on the white horse?",
+    "choices": [
+      "A sharp sword",
+      "Fire and brimstone",
+      "A two-edged axe",
+      "A trumpet sound"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 19,
+      "verse": "15"
+    },
+    "explanation": "Revelation says a sharp sword goes out of His mouth, by which He smites the nations.",
+    "verses": {
+      "kjv": "And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God."
+    },
+    "id": "END-M-0039",
+    "theme": "Prophecy & End Times",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Revelation, what is thrown into the lake of fire and brimstone along with the beast?",
+    "choices": [
+      "The false prophet",
+      "The great whore",
+      "The angel of the abyss",
+      "The kings of the earth"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 19,
+      "verse": "20"
+    },
+    "explanation": "Revelation says the beast and the false prophet are cast alive into the lake of fire burning with brimstone.",
+    "verses": {
+      "kjv": "And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone."
+    },
+    "id": "END-M-0040",
+    "theme": "Prophecy & End Times",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Revelation, what is said to rise up for ever and ever?",
+    "choices": [
+      "The smoke of their torment",
+      "The incense of the saints",
+      "The waters of the flood",
+      "The sound of many harps"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 14,
+      "verse": "11"
+    },
+    "explanation": "Revelation states that the smoke of their torment ascends for ever and ever.",
+    "verses": {
+      "kjv": "And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name."
+    },
+    "id": "END-M-0041",
+    "theme": "Prophecy & End Times",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Revelation, what do those who worship the beast and his image have day nor night?",
+    "choices": [
+      "No rest",
+      "No food",
+      "No light",
+      "No hope"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 14,
+      "verse": "11"
+    },
+    "explanation": "Revelation says they have no rest day nor night.",
+    "verses": {
+      "kjv": "And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name."
+    },
+    "id": "END-M-0042",
+    "theme": "Prophecy & End Times",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Revelation, what is the number of the name of the beast?",
+    "choices": [
+      "Six hundred threescore and six",
+      "Seven hundred and seventy",
+      "Twelve thousand",
+      "Forty and two"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 13,
+      "verse": "18"
+    },
+    "explanation": "Revelation says the number is Six hundred threescore and six.",
+    "verses": {
+      "kjv": "Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six."
+    },
+    "id": "END-M-0043",
+    "theme": "Prophecy & End Times",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Revelation, the number of the beast is the number of what?",
+    "choices": [
+      "A man",
+      "An angel",
+      "A city",
+      "A dragon"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 13,
+      "verse": "18"
+    },
+    "explanation": "Revelation states it is the number of a man.",
+    "verses": {
+      "kjv": "Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six."
+    },
+    "id": "END-M-0044",
+    "theme": "Prophecy & End Times",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Revelation, what is said to be the \"testimony of Jesus\"?",
+    "choices": [
+      "The spirit of prophecy",
+      "The law of Moses",
+      "The wisdom of Solomon",
+      "The songs of David"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 19,
+      "verse": "10"
+    },
+    "explanation": "Revelation explains that the testimony of Jesus is the spirit of prophecy.",
+    "verses": {
+      "kjv": "And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy."
+    },
+    "id": "END-M-0045",
+    "theme": "Prophecy & End Times",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Revelation, who is called Faithful and True?",
+    "choices": [
+      "He that sat upon the white horse",
+      "The angel with the little book",
+      "The elder at the throne",
+      "The beast from the sea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 19,
+      "verse": "11"
+    },
+    "explanation": "Revelation says the One on the white horse is called Faithful and True.",
+    "verses": {
+      "kjv": "And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war."
+    },
+    "id": "END-M-0046",
+    "theme": "Prophecy & End Times",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Revelation, how does He that is called Faithful and True judge and make war?",
+    "choices": [
+      "In righteousness",
+      "In anger",
+      "In secret",
+      "In fear"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 19,
+      "verse": "11"
+    },
+    "explanation": "Revelation states that He judges and makes war in righteousness.",
+    "verses": {
+      "kjv": "And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war."
+    },
+    "id": "END-M-0047",
+    "theme": "Prophecy & End Times",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Revelation, what are like a flame of fire?",
+    "choices": [
+      "His eyes",
+      "His feet",
+      "His hands",
+      "His hair"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 19,
+      "verse": "12"
+    },
+    "explanation": "Revelation says His eyes were as a flame of fire.",
+    "verses": {
+      "kjv": "His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself."
+    },
+    "id": "END-M-0048",
+    "theme": "Prophecy & End Times",
+    "difficulty": "medium"
   }
 ]

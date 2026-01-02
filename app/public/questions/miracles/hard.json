@@ -1098,27 +1098,5 @@
     "id": "MIR-H-0050",
     "theme": "Miracles",
     "difficulty": "hard"
-  },
-  {
-    "question": "In Zechariah's vision, how many horns scattered Judah, Israel, and Jerusalem?",
-    "choices": [
-      "Four horns",
-      "Seven horns",
-      "Ten horns",
-      "Two horns"
-    ],
-    "correctIndex": 0,
-    "reference": {
-      "book": "Zechariah",
-      "chapter": 1,
-      "verse": "18-19"
-    },
-    "explanation": "Zechariah saw four horns which had scattered Judah, Israel, and Jerusalem.",
-    "verses": {
-      "kjv": "Then lifted I up mine eyes, and saw, and behold four horns. And I said unto the angel that talked with me, What be these? And he answered me, These are the horns which have scattered Judah, Israel, and Jerusalem."
-    },
-    "id": "MIR-H-0051",
-    "theme": "Miracles",
-    "difficulty": "hard"
   }
 ]

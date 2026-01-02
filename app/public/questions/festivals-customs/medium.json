@@ -746,5 +746,357 @@
     "verses": {
       "kjv": "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel."
     }
+  },
+  {
+    "question": "What did the LORD command Israel to make on the day they gathered manna for the Sabbath?",
+    "choices": [
+      "Prepare that which they bring in",
+      "Build booths of palm branches",
+      "Offer a lamb without blemish",
+      "Blow trumpets at the door of the tabernacle"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 16,
+      "verse": "23"
+    },
+    "explanation": "Exodus 16:23 says they were to prepare what they brought in because the next day was the Sabbath rest.",
+    "verses": {
+      "kjv": "And he said unto them, This is that which the LORD hath said, To morrow is the rest of the holy sabbath unto the LORD: bake that which ye will bake to day, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning."
+    },
+    "id": "FES-M-0033",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What specific punishment is stated for doing work on the Sabbath in Exodus 31?",
+    "choices": [
+      "He shall surely be put to death",
+      "He must bring a trespass offering",
+      "He must fast seven days",
+      "He must leave the camp for three days"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 31,
+      "verse": "15"
+    },
+    "explanation": "Exodus 31:15 states that whoever does work on the Sabbath shall be put to death.",
+    "verses": {
+      "kjv": "Six days may work be done; but in the seventh is the sabbath of rest, holy to the LORD: whosoever doeth any work in the sabbath day, he shall surely be put to death."
+    },
+    "id": "FES-M-0034",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the LORD call the Sabbath between Himself and Israel in Exodus 31?",
+    "choices": [
+      "A sign",
+      "A sacrifice",
+      "A new covenant",
+      "A memorial stone"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 31,
+      "verse": "17"
+    },
+    "explanation": "Exodus 31:17 says the Sabbath is a sign between the LORD and the children of Israel for ever.",
+    "verses": {
+      "kjv": "It is a sign between me and the children of Israel for ever: for in six days the LORD made heaven and earth, and on the seventh day he rested, and was refreshed."
+    },
+    "id": "FES-M-0035",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the LORD command should not be eaten as fat in Leviticus?",
+    "choices": [
+      "Fat of ox, sheep, or goat",
+      "Fat of fish and birds",
+      "Fat of olive oil",
+      "Fat of grain offerings"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 7,
+      "verse": "23"
+    },
+    "explanation": "Leviticus 7:23 forbids eating the fat of ox, sheep, or goat.",
+    "verses": {
+      "kjv": "Speak unto the children of Israel, saying, Ye shall eat no manner of fat, of ox, or of sheep, or of goat."
+    },
+    "id": "FES-M-0036",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the LORD command about eating blood in Leviticus 7?",
+    "choices": [
+      "Ye shall eat no manner of blood",
+      "Ye may eat blood only at Passover",
+      "Ye shall drink blood with unleavened bread",
+      "Ye shall store blood for offerings only"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 7,
+      "verse": "26"
+    },
+    "explanation": "Leviticus 7:26 plainly commands that no manner of blood is to be eaten.",
+    "verses": {
+      "kjv": "Moreover ye shall eat no manner of blood, whether it be of fowl or of beast, in any of your dwellings."
+    },
+    "id": "FES-M-0037",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did the LORD say the blood makes an atonement for in Leviticus 17?",
+    "choices": [
+      "The soul",
+      "The body",
+      "The land",
+      "The altar"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 17,
+      "verse": "11"
+    },
+    "explanation": "Leviticus 17:11 says God gave the blood upon the altar to make atonement for the soul.",
+    "verses": {
+      "kjv": "For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul."
+    },
+    "id": "FES-M-0038",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What were the Israelites commanded to write upon the posts of their house and on their gates?",
+    "choices": [
+      "These words",
+      "The names of the twelve tribes",
+      "A list of feast days",
+      "The measurements of the tabernacle"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 6,
+      "verse": "9"
+    },
+    "explanation": "Deuteronomy 6:9 commands writing God's words on doorposts and gates.",
+    "verses": {
+      "kjv": "And thou shalt write them upon the posts of thy house, and on thy gates."
+    },
+    "id": "FES-M-0039",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When the Israelites came to appear before the LORD at the feasts, what were they commanded not to do?",
+    "choices": [
+      "Not appear before the LORD empty",
+      "Not bring any offerings",
+      "Not sing any psalms",
+      "Not travel with their families"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 16,
+      "verse": "16"
+    },
+    "explanation": "Deuteronomy 16:16 says they were to appear before the LORD at the feasts, and they must not appear empty.",
+    "verses": {
+      "kjv": "Three times in a year shall all thy males appear before the LORD thy God in the place which he shall choose; in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: and they shall not appear before the LORD empty:"
+    },
+    "id": "FES-M-0040",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When giving to the LORD at the feasts, what does Deuteronomy say the gift should be according to?",
+    "choices": [
+      "The blessing of the LORD thy God",
+      "The number of strangers in the land",
+      "The height of the altar",
+      "The age of the firstborn"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Deuteronomy",
+      "chapter": 16,
+      "verse": "17"
+    },
+    "explanation": "Deuteronomy 16:17 says every man shall give as he is able, according to the LORD's blessing.",
+    "verses": {
+      "kjv": "Every man shall give as he is able, according to the blessing of the LORD thy God which he hath given thee."
+    },
+    "id": "FES-M-0041",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Jesus say was made for man?",
+    "choices": [
+      "The sabbath",
+      "The temple",
+      "The feast of weeks",
+      "The altar of incense"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Mark",
+      "chapter": 2,
+      "verse": "27"
+    },
+    "explanation": "Mark 2:27 records Jesus saying the sabbath was made for man, not man for the sabbath.",
+    "verses": {
+      "kjv": "And he said unto them, The sabbath was made for man, and not man for the sabbath:"
+    },
+    "id": "FES-M-0042",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Jesus do at Nazareth on the sabbath day, according to his custom?",
+    "choices": [
+      "Went into the synagogue",
+      "Went up to a mountain to pray",
+      "Offered incense at the altar",
+      "Traveled to Jerusalem"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 4,
+      "verse": "16"
+    },
+    "explanation": "Luke 4:16 says Jesus went into the synagogue on the sabbath day, as his custom was.",
+    "verses": {
+      "kjv": "And he came to Nazareth, where he had been brought up: and, as his custom was, he went into the synagogue on the sabbath day, and stood up for to read."
+    },
+    "id": "FES-M-0043",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Through what did Paul reason with the Jews in the synagogue on three sabbath days?",
+    "choices": [
+      "The scriptures",
+      "The traditions of elders",
+      "The writings of Rome",
+      "The words of philosophers"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 17,
+      "verse": "2"
+    },
+    "explanation": "Acts 17:2 says Paul reasoned with them out of the scriptures on three sabbath days.",
+    "verses": {
+      "kjv": "And Paul, as his manner was, went in unto them, and three sabbath days reasoned with them out of the scriptures,"
+    },
+    "id": "FES-M-0044",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Paul say he had done \"against\" in Acts 28?",
+    "choices": [
+      "The people, or customs of our fathers",
+      "The law of Caesar",
+      "The temple gates",
+      "The feasts of Israel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 28,
+      "verse": "17"
+    },
+    "explanation": "Acts 28:17 records Paul saying he had done nothing against the people or customs of their fathers.",
+    "verses": {
+      "kjv": "And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said unto them, Men and brethren, though I have committed nothing against the people, or customs of our fathers, yet was I delivered prisoner from Jerusalem into the hands of the Romans."
+    },
+    "id": "FES-M-0045",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Jesus tell the cleansed leper to show, according to the law of Moses?",
+    "choices": [
+      "Himself to the priest",
+      "His offering to the people",
+      "His garment to the elders",
+      "His house to the judge"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 5,
+      "verse": "14"
+    },
+    "explanation": "Luke 5:14 says Jesus told him to show himself to the priest and offer as Moses commanded.",
+    "verses": {
+      "kjv": "And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them."
+    },
+    "id": "FES-M-0046",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Paul do to show he walked orderly and kept the law when advised by the elders in Jerusalem?",
+    "choices": [
+      "Purified himself with the men",
+      "Broke bread at midnight",
+      "Built booths for seven days",
+      "Traveled to Rome immediately"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 21,
+      "verse": "26"
+    },
+    "explanation": "Acts 21:26 says Paul took the men and purified himself with them, entering the temple and giving notice of the days of purification.",
+    "verses": {
+      "kjv": "Then Paul took the men, and the next day purifying himself with them entered into the temple, to signify the accomplishment of the days of purification, until that an offering should be offered for every one of them."
+    },
+    "id": "FES-M-0047",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What kind of fire did Nadab and Abihu offer before the LORD that He commanded them not?",
+    "choices": [
+      "Strange fire",
+      "Holy fire from the altar",
+      "Fire from heaven",
+      "Fire from the campfires"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 10,
+      "verse": "1"
+    },
+    "explanation": "Leviticus 10:1 says Nadab and Abihu offered \"strange fire\" before the LORD, which He had not commanded them.",
+    "verses": {
+      "kjv": "And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the LORD, which he commanded them not."
+    },
+    "id": "FES-M-0048",
+    "theme": "Festivals & Customs",
+    "difficulty": "medium"
   }
 ]

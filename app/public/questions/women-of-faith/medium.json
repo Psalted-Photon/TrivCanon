@@ -526,5 +526,577 @@
     "verses": {
       "kjv": "Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.\nAnd it came to pass in those days, that she was sick, and died: whom when they had washed, they laid\nher in an upper chamber.\nAnd forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring\nhim\n that he would not delay to come to them.\nThen Peter arose and went with them. When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and shewing the coats and garments which Dorcas made, while she was with them.\nBut Peter put them all forth, and kneeled down, and prayed; and turning\nhim to the body said, Tabitha, arise. And she opened her eyes: and when she saw Peter, she sat up.\nAnd he gave her\nhis hand, and lifted her up, and when he had called the saints and widows, presented her alive."
     }
+  },
+  {
+    "question": "Who was the wife of Abraham's son Isaac?",
+    "choices": [
+      "Rebekah",
+      "Sarah",
+      "Rachel",
+      "Leah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 24,
+      "verse": "67"
+    },
+    "explanation": "Genesis says Isaac brought Rebekah into his mother Sarah's tent, and she became his wife.",
+    "verses": {
+      "kjv": "And Isaac brought her into his mother Sarah's tent, and took Rebekah, and she became his wife; and he loved her: and Isaac was comforted after his mother's death."
+    },
+    "id": "WOM-M-0001",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the name of Isaac's wife who comforted him after his mother's death?",
+    "choices": [
+      "Rebekah",
+      "Miriam",
+      "Deborah",
+      "Hannah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Genesis",
+      "chapter": 24,
+      "verse": "67"
+    },
+    "explanation": "Genesis explicitly says Isaac took Rebekah, and she became his wife; he was comforted after Sarah's death.",
+    "verses": {
+      "kjv": "And Isaac brought her into his mother Sarah's tent, and took Rebekah, and she became his wife; and he loved her: and Isaac was comforted after his mother's death."
+    },
+    "id": "WOM-M-0002",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was Moses' sister who stood afar off to watch what would happen to the child?",
+    "choices": [
+      "Miriam",
+      "Jochebed",
+      "Zipporah",
+      "Deborah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 2,
+      "verse": "4"
+    },
+    "explanation": "Exodus says Moses' sister stood afar off to see what would be done to him.",
+    "verses": {
+      "kjv": "And his sister stood afar off, to wit what would be done to him."
+    },
+    "id": "WOM-M-0003",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the prophetess who led the women of Israel with timbrels and with dances after the Red Sea crossing?",
+    "choices": [
+      "Miriam",
+      "Deborah",
+      "Huldah",
+      "Anna"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 15,
+      "verse": "20"
+    },
+    "explanation": "Miriam is called a prophetess and led the women with timbrels and dances.",
+    "verses": {
+      "kjv": "And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances."
+    },
+    "id": "WOM-M-0004",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Judges, what was the name of the prophetess who was the wife of Lapidoth?",
+    "choices": [
+      "Deborah",
+      "Jael",
+      "Delilah",
+      "Ruth"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "4"
+    },
+    "explanation": "Judges identifies Deborah as a prophetess and the wife of Lapidoth.",
+    "verses": {
+      "kjv": "And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time."
+    },
+    "id": "WOM-M-0005",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was Jael the wife of?",
+    "choices": [
+      "Heber the Kenite",
+      "Barak",
+      "Sisera",
+      "Jabin"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Judges",
+      "chapter": 4,
+      "verse": "17"
+    },
+    "explanation": "Judges says Sisera fled to the tent of Jael, the wife of Heber the Kenite.",
+    "verses": {
+      "kjv": "Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite: for there was peace between Jabin the king of Hazor and the house of Heber the Kenite."
+    },
+    "id": "WOM-M-0006",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who did the servants of David say had delivered Nabal's wife Abigail into David's hand to be his wife?",
+    "choices": [
+      "The LORD",
+      "David",
+      "Saul",
+      "Samuel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "verse": "39"
+    },
+    "explanation": "David blessed the LORD, saying God had pleaded his cause and kept him from evil, and that the LORD returned Nabal's wickedness on his own head.",
+    "verses": {
+      "kjv": "And when David heard that Nabal was dead, he said, Blessed be the LORD, that hath pleaded the cause of my reproach from the hand of Nabal, and hath kept his servant from evil: for the LORD hath returned the wickedness of Nabal upon his own head. And David sent and communed with Abigail, to take her to him to wife."
+    },
+    "id": "WOM-M-0007",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which woman said, \"Whither thou goest, I will go\"?",
+    "choices": [
+      "Ruth",
+      "Naomi",
+      "Orpah",
+      "Esther"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ruth",
+      "chapter": 1,
+      "verse": "16"
+    },
+    "explanation": "Ruth pledged loyalty to Naomi using these words.",
+    "verses": {
+      "kjv": "And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God:"
+    },
+    "id": "WOM-M-0008",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who said, \"Thy people shall be my people, and thy God my God\"?",
+    "choices": [
+      "Ruth",
+      "Naomi",
+      "Orpah",
+      "Miriam"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ruth",
+      "chapter": 1,
+      "verse": "16"
+    },
+    "explanation": "Ruth said these words when speaking to Naomi.",
+    "verses": {
+      "kjv": "And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God:"
+    },
+    "id": "WOM-M-0009",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the wife of Ahasuerus that he removed from being queen?",
+    "choices": [
+      "Vashti",
+      "Esther",
+      "Mordecai",
+      "Hegai"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Esther",
+      "chapter": 1,
+      "verse": "19"
+    },
+    "explanation": "Ahasuerus was told to let the royal estate be given to another better than Vashti.",
+    "verses": {
+      "kjv": "If it please the king, let there go a royal commandment from him, and let it be written among the laws of the Persians and the Medes, that it be not altered, That Vashti come no more before king Ahasuerus; and let the king give her royal estate unto another that is better than she."
+    },
+    "id": "WOM-M-0010",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who did Mordecai bring up as his own daughter because she had neither father nor mother?",
+    "choices": [
+      "Esther",
+      "Vashti",
+      "Ruth",
+      "Naomi"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Esther",
+      "chapter": 2,
+      "verse": "7"
+    },
+    "explanation": "Esther 2:7 says Mordecai brought up Hadassah (Esther) as his own daughter.",
+    "verses": {
+      "kjv": "And he brought up Hadassah, that is, Esther, his uncle's daughter: for she had neither father nor mother, and the maid was fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own daughter."
+    },
+    "id": "WOM-M-0011",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Esther's Hebrew name mentioned in the book of Esther?",
+    "choices": [
+      "Hadassah",
+      "Hannah",
+      "Hosanna",
+      "Hadad"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Esther",
+      "chapter": 2,
+      "verse": "7"
+    },
+    "explanation": "Esther 2:7 identifies Esther as Hadassah.",
+    "verses": {
+      "kjv": "And he brought up Hadassah, that is, Esther, his uncle's daughter: for she had neither father nor mother, and the maid was fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own daughter."
+    },
+    "id": "WOM-M-0012",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the New Testament, who was called a prophetess and \"departed not from the temple\"?",
+    "choices": [
+      "Anna",
+      "Mary",
+      "Elizabeth",
+      "Martha"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 2,
+      "verse": "36-37"
+    },
+    "explanation": "Luke describes Anna as a prophetess who served God with fastings and prayers night and day and did not depart from the temple.",
+    "verses": {
+      "kjv": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity; And she was a widow of about fourscore and four years, which departed not from the temple, but served God with fastings and prayers night and day."
+    },
+    "id": "WOM-M-0013",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Luke, Anna was of the tribe of which of the twelve tribes?",
+    "choices": [
+      "Aser",
+      "Judah",
+      "Levi",
+      "Benjamin"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 2,
+      "verse": "36"
+    },
+    "explanation": "Luke 2:36 says Anna was of the tribe of Aser.",
+    "verses": {
+      "kjv": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;"
+    },
+    "id": "WOM-M-0014",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Acts, whose heart did the Lord open so she attended to the things spoken by Paul?",
+    "choices": [
+      "Lydia",
+      "Priscilla",
+      "Dorcas",
+      "Mary"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 16,
+      "verse": "14"
+    },
+    "explanation": "Acts says the Lord opened Lydia's heart so she attended to Paul's message.",
+    "verses": {
+      "kjv": "And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard us: whose heart the Lord opened, that she attended unto the things which were spoken of Paul."
+    },
+    "id": "WOM-M-0015",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Acts, Lydia is described as a seller of what?",
+    "choices": [
+      "Purple",
+      "Spices",
+      "Linen",
+      "Oil"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 16,
+      "verse": "14"
+    },
+    "explanation": "Acts 16:14 describes Lydia as a seller of purple.",
+    "verses": {
+      "kjv": "And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard us: whose heart the Lord opened, that she attended unto the things which were spoken of Paul."
+    },
+    "id": "WOM-M-0016",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which woman in Acts was also called Dorcas?",
+    "choices": [
+      "Tabitha",
+      "Lydia",
+      "Priscilla",
+      "Phoebe"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 9,
+      "verse": "36"
+    },
+    "explanation": "Acts 9:36 says a disciple named Tabitha (which by interpretation is called Dorcas) was full of good works.",
+    "verses": {
+      "kjv": "Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did."
+    },
+    "id": "WOM-M-0017",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Acts, Tabitha (Dorcas) was full of what?",
+    "choices": [
+      "Good works and almsdeeds",
+      "Riches and honor",
+      "Fasts and pilgrimages",
+      "Songs and instruments"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Acts",
+      "chapter": 9,
+      "verse": "36"
+    },
+    "explanation": "Acts says Tabitha was full of good works and almsdeeds which she did.",
+    "verses": {
+      "kjv": "Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did."
+    },
+    "id": "WOM-M-0018",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Romans, who is called \"our sister\" and \"a servant of the church\"?",
+    "choices": [
+      "Phebe",
+      "Priscilla",
+      "Mary",
+      "Junia"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Romans",
+      "chapter": 16,
+      "verse": "1"
+    },
+    "explanation": "Paul commends Phebe and calls her a servant of the church at Cenchrea.",
+    "verses": {
+      "kjv": "I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:"
+    },
+    "id": "WOM-M-0019",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Romans, Phebe was a servant of the church which was at what place?",
+    "choices": [
+      "Cenchrea",
+      "Corinth",
+      "Ephesus",
+      "Antioch"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Romans",
+      "chapter": 16,
+      "verse": "1"
+    },
+    "explanation": "Romans 16:1 says the church where Phebe served was at Cenchrea.",
+    "verses": {
+      "kjv": "I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:"
+    },
+    "id": "WOM-M-0020",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Romans, Paul says Priscilla and Aquila \"laid down\" what for his life?",
+    "choices": [
+      "Their own necks",
+      "Their own crowns",
+      "Their own gold",
+      "Their own homes"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Romans",
+      "chapter": 16,
+      "verse": "4"
+    },
+    "explanation": "Romans states that Priscilla and Aquila laid down their own necks for Paul's life.",
+    "verses": {
+      "kjv": "Who have for my life laid down their own necks: unto whom not only I give thanks, but also all the churches of the Gentiles."
+    },
+    "id": "WOM-M-0021",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Romans, whose own necks did Paul say were laid down for his life?",
+    "choices": [
+      "Priscilla and Aquila",
+      "Mary and Martha",
+      "Lydia and Dorcas",
+      "Anna and Elizabeth"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Romans",
+      "chapter": 16,
+      "verse": "4"
+    },
+    "explanation": "Paul says Priscilla and Aquila laid down their own necks for his life.",
+    "verses": {
+      "kjv": "Who have for my life laid down their own necks: unto whom not only I give thanks, but also all the churches of the Gentiles."
+    },
+    "id": "WOM-M-0022",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which woman did Paul say \"bestowed much labour on us\"?",
+    "choices": [
+      "Mary",
+      "Priscilla",
+      "Phebe",
+      "Lydia"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Romans",
+      "chapter": 16,
+      "verse": "6"
+    },
+    "explanation": "Romans 16:6 says Mary bestowed much labour on us.",
+    "verses": {
+      "kjv": "Greet Mary, who bestowed much labour on us."
+    },
+    "id": "WOM-M-0023",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In 2 Timothy, which woman is mentioned as having faith first that was also in her mother and grandmother?",
+    "choices": [
+      "Timothy's mother Eunice",
+      "Mary the mother of Jesus",
+      "Ruth the Moabitess",
+      "Deborah the prophetess"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Timothy",
+      "chapter": 1,
+      "verse": "5"
+    },
+    "explanation": "Paul mentions the unfeigned faith that was in Timothy's grandmother Lois and mother Eunice.",
+    "verses": {
+      "kjv": "When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also."
+    },
+    "id": "WOM-M-0024",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to 2 Timothy, what was the name of Timothy's grandmother?",
+    "choices": [
+      "Lois",
+      "Eunice",
+      "Lydia",
+      "Priscilla"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Timothy",
+      "chapter": 1,
+      "verse": "5"
+    },
+    "explanation": "2 Timothy 1:5 names Lois as Timothy's grandmother.",
+    "verses": {
+      "kjv": "When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also."
+    },
+    "id": "WOM-M-0025",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to 2 Timothy, what was the name of Timothy's mother?",
+    "choices": [
+      "Eunice",
+      "Lois",
+      "Hannah",
+      "Naomi"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Timothy",
+      "chapter": 1,
+      "verse": "5"
+    },
+    "explanation": "2 Timothy 1:5 identifies Timothy's mother as Eunice.",
+    "verses": {
+      "kjv": "When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also."
+    },
+    "id": "WOM-M-0026",
+    "theme": "Women of Faith",
+    "difficulty": "medium"
   }
 ]

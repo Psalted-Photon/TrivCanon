@@ -482,5 +482,621 @@
     "verses": {
       "kjv": "And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them."
     }
+  },
+  {
+    "question": "Who is called the Alpha and the Omega in Revelation?",
+    "choices": [
+      "The Lord God",
+      "Moses",
+      "Gabriel",
+      "John the Baptist"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 1,
+      "verse": "8"
+    },
+    "explanation": "Revelation calls the Lord God the Alpha and Omega, the beginning and the ending.",
+    "verses": {
+      "kjv": "I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty."
+    },
+    "id": "END-E-0028",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Revelation, what will Jesus come with to reward every man?",
+    "choices": [
+      "His reward",
+      "A sword made of iron",
+      "A crown of gold",
+      "A book of remembrance"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 22,
+      "verse": "12"
+    },
+    "explanation": "Jesus says He comes quickly and His reward is with Him to give every man according to his work.",
+    "verses": {
+      "kjv": "And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be."
+    },
+    "id": "END-E-0029",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Jesus say would happen to the sun in the last days?",
+    "choices": [
+      "It shall be darkened",
+      "It shall burn twice as bright",
+      "It shall fall into the sea",
+      "It shall stand still for a day"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 24,
+      "verse": "29"
+    },
+    "explanation": "Jesus taught that after the tribulation the sun will be darkened.",
+    "verses": {
+      "kjv": "Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:"
+    },
+    "id": "END-E-0030",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Jesus say would happen to the moon in the last days?",
+    "choices": [
+      "It shall not give her light",
+      "It shall turn to blood every night",
+      "It shall disappear forever",
+      "It shall become as bright as the sun"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 24,
+      "verse": "29"
+    },
+    "explanation": "Jesus said the moon will not give her light after the tribulation of those days.",
+    "verses": {
+      "kjv": "Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:"
+    },
+    "id": "END-E-0031",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Revelation, what is the name of the first book mentioned that is opened at the final judgment?",
+    "choices": [
+      "The books",
+      "The book of Jasher",
+      "The book of Enoch",
+      "The book of the law"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 20,
+      "verse": "12"
+    },
+    "explanation": "Revelation says \"the books were opened\" before mentioning another book, the book of life.",
+    "verses": {
+      "kjv": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works."
+    },
+    "id": "END-E-0032",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Revelation, what is the \"another book\" that is opened at the final judgment?",
+    "choices": [
+      "The book of life",
+      "The book of Proverbs",
+      "The book of Psalms",
+      "The book of the covenant"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 20,
+      "verse": "12"
+    },
+    "explanation": "Revelation identifies \"another book\" as the book of life.",
+    "verses": {
+      "kjv": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works."
+    },
+    "id": "END-E-0033",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does Revelation say happens to the devil at the end of the thousand years?",
+    "choices": [
+      "He shall be loosed out of his prison",
+      "He shall be crowned king",
+      "He shall be forgiven",
+      "He shall be turned into dust"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 20,
+      "verse": "7"
+    },
+    "explanation": "Revelation states that when the thousand years are expired, Satan will be loosed from his prison.",
+    "verses": {
+      "kjv": "And when the thousand years are expired, Satan shall be loosed out of his prison,"
+    },
+    "id": "END-E-0034",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Revelation, what will God create after the first heaven and first earth pass away?",
+    "choices": [
+      "A new heaven and a new earth",
+      "A new temple in Jerusalem",
+      "A new sun and a new moon",
+      "A new sea of glass"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "1"
+    },
+    "explanation": "Revelation describes a new heaven and a new earth after the first pass away.",
+    "verses": {
+      "kjv": "And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea."
+    },
+    "id": "END-E-0035",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Jesus say would be preached in all the world before the end comes?",
+    "choices": [
+      "This gospel of the kingdom",
+      "The traditions of the elders",
+      "The law of Moses only",
+      "The wisdom of philosophers"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 24,
+      "verse": "14"
+    },
+    "explanation": "Jesus said the gospel of the kingdom will be preached in all the world for a witness, and then the end will come.",
+    "verses": {
+      "kjv": "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come."
+    },
+    "id": "END-E-0036",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Jesus, what will happen to \"this generation\" before all these things be fulfilled?",
+    "choices": [
+      "It shall not pass",
+      "It shall rule the whole world",
+      "It shall build the temple again",
+      "It shall never see sorrow"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 24,
+      "verse": "34"
+    },
+    "explanation": "Jesus said this generation will not pass until all these things are fulfilled.",
+    "verses": {
+      "kjv": "Verily I say unto you, This generation shall not pass, till all these things be fulfilled."
+    },
+    "id": "END-E-0037",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Revelation, what is the name of the second death?",
+    "choices": [
+      "The lake of fire",
+      "The great earthquake",
+      "The bottomless pit",
+      "The river of life"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 20,
+      "verse": "14"
+    },
+    "explanation": "Revelation explicitly says the lake of fire is the second death.",
+    "verses": {
+      "kjv": "And death and hell were cast into the lake of fire. This is the second death."
+    },
+    "id": "END-E-0038",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Revelation, what is said to be the bride, the Lamb's wife?",
+    "choices": [
+      "The holy city, Jerusalem",
+      "The temple in heaven",
+      "The sea of glass",
+      "The garden of Eden"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "9-10"
+    },
+    "explanation": "An angel shows John the bride, the Lamb's wife, and John sees the holy city Jerusalem descending from God.",
+    "verses": {
+      "kjv": "And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, I will shew thee the bride, the Lamb's wife. And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,"
+    },
+    "id": "END-E-0039",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Revelation, what is the wall of the New Jerusalem made of?",
+    "choices": [
+      "Jasper",
+      "Gold",
+      "Silver",
+      "Brass"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "18"
+    },
+    "explanation": "Revelation says the building of the wall was of jasper.",
+    "verses": {
+      "kjv": "And the building of the wall of it was of jasper: and the city was pure gold, like unto clear glass."
+    },
+    "id": "END-E-0040",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Revelation, what is the city of the New Jerusalem described as being like?",
+    "choices": [
+      "Pure gold, like unto clear glass",
+      "White marble, like snow",
+      "Stone, like crystal",
+      "Bronze, like fire"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "18"
+    },
+    "explanation": "Revelation describes the city as pure gold, like clear glass.",
+    "verses": {
+      "kjv": "And the building of the wall of it was of jasper: and the city was pure gold, like unto clear glass."
+    },
+    "id": "END-E-0041",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Revelation, what does John say he saw coming down from God out of heaven?",
+    "choices": [
+      "The holy city, new Jerusalem",
+      "A golden calf",
+      "A great mountain",
+      "A new ark of the covenant"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "2"
+    },
+    "explanation": "John saw the holy city, new Jerusalem, coming down from God out of heaven.",
+    "verses": {
+      "kjv": "And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband."
+    },
+    "id": "END-E-0042",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Revelation, what is said to be \"true and faithful\"?",
+    "choices": [
+      "These sayings",
+      "The seven stars",
+      "The dragon",
+      "The great city"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 22,
+      "verse": "6"
+    },
+    "explanation": "The angel tells John that these sayings are faithful and true.",
+    "verses": {
+      "kjv": "And he said unto me, These sayings are faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done."
+    },
+    "id": "END-E-0043",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Revelation, who sent his angel to show his servants the things which must shortly be done?",
+    "choices": [
+      "The Lord God of the holy prophets",
+      "The kings of the earth",
+      "The elders of Israel",
+      "The priests of Babylon"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 22,
+      "verse": "6"
+    },
+    "explanation": "Revelation says the Lord God of the holy prophets sent his angel to show these things.",
+    "verses": {
+      "kjv": "And he said unto me, These sayings are faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done."
+    },
+    "id": "END-E-0044",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Revelation, what does God promise about the fearful at the end?",
+    "choices": [
+      "They shall have their part in the lake which burneth with fire and brimstone",
+      "They shall be given a crown of gold",
+      "They shall inherit the temple",
+      "They shall dwell in the sea of glass"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "8"
+    },
+    "explanation": "Revelation lists the fearful and says their part will be in the lake that burns with fire and brimstone.",
+    "verses": {
+      "kjv": "But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death."
+    },
+    "id": "END-E-0045",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Revelation, what does God promise about those who overcome?",
+    "choices": [
+      "He shall inherit all things",
+      "He shall never be tested",
+      "He shall be made an angel",
+      "He shall rule over the sea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "7"
+    },
+    "explanation": "God says the one who overcomes will inherit all things and God will be his God.",
+    "verses": {
+      "kjv": "He that overcometh shall inherit all things; and I will be his God, and he shall be my son."
+    },
+    "id": "END-E-0046",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Revelation, what will be written on the foreheads of God's servants?",
+    "choices": [
+      "His name",
+      "The name of Babylon",
+      "The number of the beast",
+      "The name of Pharaoh"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 22,
+      "verse": "4"
+    },
+    "explanation": "Revelation says God's servants shall see His face and His name will be in their foreheads.",
+    "verses": {
+      "kjv": "And they shall see his face; and his name shall be in their foreheads."
+    },
+    "id": "END-E-0047",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Revelation, what will God's servants do for ever and ever?",
+    "choices": [
+      "They shall reign",
+      "They shall hide in caves",
+      "They shall build an altar",
+      "They shall sleep without waking"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 22,
+      "verse": "5"
+    },
+    "explanation": "Revelation states that God's servants will reign for ever and ever.",
+    "verses": {
+      "kjv": "And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever."
+    },
+    "id": "END-E-0048",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Revelation, what will there be no night of in the New Jerusalem?",
+    "choices": [
+      "There shall be no night there",
+      "There shall be no night of sorrow only",
+      "There shall be no night of sleep",
+      "There shall be no night of rain"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 22,
+      "verse": "5"
+    },
+    "explanation": "Revelation explicitly says there will be no night there.",
+    "verses": {
+      "kjv": "And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever."
+    },
+    "id": "END-E-0049",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Revelation, what kind of water proceeds out of the throne of God and of the Lamb?",
+    "choices": [
+      "A pure river of water of life",
+      "A river of blood",
+      "A river of salt water",
+      "A river of oil"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 22,
+      "verse": "1"
+    },
+    "explanation": "John saw a pure river of water of life proceeding out of the throne of God and of the Lamb.",
+    "verses": {
+      "kjv": "And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb."
+    },
+    "id": "END-E-0050",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Revelation, what is the street of the New Jerusalem made of?",
+    "choices": [
+      "Pure gold",
+      "Precious stones",
+      "Jasper",
+      "Silver"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "21"
+    },
+    "explanation": "Revelation says the street of the city was pure gold, like transparent glass.",
+    "verses": {
+      "kjv": "And the twelve gates were twelve pearls; every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass."
+    },
+    "id": "END-E-0051",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Revelation, each gate of the New Jerusalem is made of what?",
+    "choices": [
+      "One pearl",
+      "One piece of gold",
+      "One piece of jasper",
+      "One piece of silver"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "21"
+    },
+    "explanation": "Revelation states that every gate was of one pearl.",
+    "verses": {
+      "kjv": "And the twelve gates were twelve pearls; every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass."
+    },
+    "id": "END-E-0052",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Revelation, what are the twelve gates of the New Jerusalem?",
+    "choices": [
+      "Twelve pearls",
+      "Twelve trumpets",
+      "Twelve thrones",
+      "Twelve lamps"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": "21"
+    },
+    "explanation": "Revelation describes the twelve gates as twelve pearls.",
+    "verses": {
+      "kjv": "And the twelve gates were twelve pearls; every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass."
+    },
+    "id": "END-E-0053",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Jesus say would happen to the stars in the last days?",
+    "choices": [
+      "They shall fall from heaven",
+      "They shall all turn green",
+      "They shall become as the sun",
+      "They shall vanish for a moment then return"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 24,
+      "verse": "29"
+    },
+    "explanation": "Jesus said the stars shall fall from heaven after the tribulation of those days.",
+    "verses": {
+      "kjv": "Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:"
+    },
+    "id": "END-E-0054",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to Daniel, what will be done to the power of the holy people before all these things are finished?",
+    "choices": [
+      "It shall be scattered",
+      "It shall be crowned",
+      "It shall be strengthened",
+      "It shall be forgotten"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Daniel",
+      "chapter": 12,
+      "verse": "7"
+    },
+    "explanation": "Daniel is told that when the power of the holy people has been scattered, all these things shall be finished.",
+    "verses": {
+      "kjv": "And I heard the man clothed in linen, which was upon the waters of the river, when he held up his right hand and his left hand unto heaven, and sware by him that liveth for ever that it shall be for a time, times, and an half; and when he shall have accomplished to scatter the power of the holy people, all these things shall be finished."
+    },
+    "id": "END-E-0055",
+    "theme": "Prophecy & End Times",
+    "difficulty": "easy"
   }
 ]

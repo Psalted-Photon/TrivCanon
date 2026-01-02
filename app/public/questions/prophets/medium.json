@@ -614,5 +614,489 @@
     "verses": {
       "kjv": "The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom,\ndeparting from the LORD."
     }
+  },
+  {
+    "question": "Which prophet's sons said, \"The spirit of Elijah doth rest on Elisha\"?",
+    "choices": [
+      "Elisha",
+      "Elijah",
+      "Samuel",
+      "Isaiah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 2,
+      "verse": "15"
+    },
+    "explanation": "After Elijah was taken up, the sons of the prophets recognized that Elijah's spirit rested on Elisha.",
+    "verses": {
+      "kjv": "And when the sons of the prophets which were to view at Jericho saw him, they said, The spirit of Elijah doth rest on Elisha. And they came to meet him, and bowed themselves to the ground before him."
+    },
+    "id": "PRO-M-0029",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When Elisha struck the waters with Elijah's mantle, what happened to the Jordan?",
+    "choices": [
+      "It divided hither and thither",
+      "It turned to blood",
+      "It overflowed its banks",
+      "It became dry for seven days"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 2,
+      "verse": "14"
+    },
+    "explanation": "Elisha smote the waters, and the Jordan divided, allowing him to cross.",
+    "verses": {
+      "kjv": "And he took the mantle of Elijah that fell from him, and smote the waters, and said, Where is the LORD God of Elijah? and when he also had smitten the waters, they parted hither and thither: and Elisha went over."
+    },
+    "id": "PRO-M-0030",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which prophet was instructed to take a potter's earthen bottle and elders with him?",
+    "choices": [
+      "Jeremiah",
+      "Isaiah",
+      "Ezekiel",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 19,
+      "verse": "1"
+    },
+    "explanation": "The LORD told Jeremiah to take an earthen bottle and some of the elders.",
+    "verses": {
+      "kjv": "Thus saith the LORD, Go and get a potter's earthen bottle, and take of the ancients of the people, and of the ancients of the priests;"
+    },
+    "id": "PRO-M-0031",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which prophet said, \"My children are gone forth of me, and they are not\"?",
+    "choices": [
+      "Jeremiah",
+      "Ezekiel",
+      "Daniel",
+      "Amos"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 10,
+      "verse": "20"
+    },
+    "explanation": "Jeremiah records this lament about the tabernacle being spoiled and children gone.",
+    "verses": {
+      "kjv": "My tabernacle is spoiled, and all my cords are broken: my children are gone forth of me, and they are not: there is none to stretch forth my tent any more, and to set up my curtains."
+    },
+    "id": "PRO-M-0032",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which prophet said, \"Thy lovers will I give into his hand\"?",
+    "choices": [
+      "Ezekiel",
+      "Hosea",
+      "Micah",
+      "Zechariah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 16,
+      "verse": "37"
+    },
+    "explanation": "In Ezekiel 16, the LORD speaks of gathering those with whom Jerusalem had sinned and giving her into their hand.",
+    "verses": {
+      "kjv": "Behold, therefore I will gather all thy lovers, with whom thou hast taken pleasure, and all them that thou hast loved, with all them that thou hast hated; I will even gather them round about against thee, and will discover thy nakedness unto them, that they may see all thy nakedness."
+    },
+    "id": "PRO-M-0033",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Ezekiel's vision, what did the LORD say would happen when the spirit entered the prophet?",
+    "choices": [
+      "He stood upon his feet",
+      "He fell asleep",
+      "He became blind",
+      "He was lifted above the clouds"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 2,
+      "verse": "2"
+    },
+    "explanation": "Ezekiel says the spirit entered him and set him upon his feet.",
+    "verses": {
+      "kjv": "And the spirit entered into me when he spake unto me, and set me upon my feet, that I heard him that spake unto me."
+    },
+    "id": "PRO-M-0034",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which prophet saw a hand that wrote on a wall in the king's palace?",
+    "choices": [
+      "Daniel",
+      "Ezekiel",
+      "Jeremiah",
+      "Zephaniah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Daniel",
+      "chapter": 5,
+      "verse": "5"
+    },
+    "explanation": "Daniel 5 describes the fingers of a man's hand writing on the wall during Belshazzar's feast.",
+    "verses": {
+      "kjv": "In the same hour came forth fingers of a man's hand, and wrote over against the candlestick upon the plaister of the wall of the king's palace: and the king saw the part of the hand that wrote."
+    },
+    "id": "PRO-M-0035",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which prophet said, \"Open thou mine eyes, that I may see\"?",
+    "choices": [
+      "Elisha",
+      "Elijah",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 6,
+      "verse": "17"
+    },
+    "explanation": "Elisha prayed that the LORD would open the young man's eyes to see the spiritual army around them.",
+    "verses": {
+      "kjv": "And Elisha prayed, and said, LORD, I pray thee, open his eyes, that he may see. And the LORD opened the eyes of the young man; and he saw: and, behold, the mountain was full of horses and chariots of fire round about Elisha."
+    },
+    "id": "PRO-M-0036",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which prophet prayed for a young man's eyes to be opened to see horses and chariots of fire?",
+    "choices": [
+      "Elisha",
+      "Isaiah",
+      "Ezekiel",
+      "Daniel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "2 Kings",
+      "chapter": 6,
+      "verse": "17"
+    },
+    "explanation": "Elisha prayed, and the LORD opened the young man's eyes to see horses and chariots of fire.",
+    "verses": {
+      "kjv": "And Elisha prayed, and said, LORD, I pray thee, open his eyes, that he may see. And the LORD opened the eyes of the young man; and he saw: and, behold, the mountain was full of horses and chariots of fire round about Elisha."
+    },
+    "id": "PRO-M-0037",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Isaiah, what did the seraphim cry one unto another?",
+    "choices": [
+      "Holy, holy, holy, is the LORD of hosts: the whole earth is full of his glory",
+      "Peace, peace, peace, unto Israel",
+      "Woe, woe, woe, unto the nations",
+      "Blessed be the name of the king"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": "3"
+    },
+    "explanation": "Isaiah records the seraphim proclaiming God's holiness and glory.",
+    "verses": {
+      "kjv": "And one cried unto another, and said, Holy, holy, holy, is the LORD of hosts: the whole earth is full of his glory."
+    },
+    "id": "PRO-M-0038",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Isaiah, what did one of the seraphim take from off the altar?",
+    "choices": [
+      "A live coal",
+      "A golden censer",
+      "A scroll",
+      "A lampstand"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": "6"
+    },
+    "explanation": "Isaiah says a seraphim flew to him with a live coal taken from the altar with tongs.",
+    "verses": {
+      "kjv": "Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar:"
+    },
+    "id": "PRO-M-0039",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Isaiah, what did the live coal touch to take away iniquity and purge sin?",
+    "choices": [
+      "His mouth",
+      "His hands",
+      "His forehead",
+      "His feet"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": "7"
+    },
+    "explanation": "Isaiah says the coal touched his mouth, and his iniquity was taken away.",
+    "verses": {
+      "kjv": "And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged."
+    },
+    "id": "PRO-M-0040",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which prophet said, \"Behold, I will do a new thing\"?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 43,
+      "verse": "19"
+    },
+    "explanation": "Isaiah records the LORD saying He will do a new thing and make a way in the wilderness.",
+    "verses": {
+      "kjv": "Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert."
+    },
+    "id": "PRO-M-0041",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which prophet wrote, \"A bruised reed shall he not break\"?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Micah",
+      "Malachi"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 42,
+      "verse": "3"
+    },
+    "explanation": "Isaiah 42:3 describes the LORD's servant as gentle toward the weak.",
+    "verses": {
+      "kjv": "A bruised reed shall he not break, and the smoking flax shall he not quench: he shall bring forth judgment unto truth."
+    },
+    "id": "PRO-M-0042",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which prophet said, \"Fear not: for I have redeemed thee\"?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Daniel"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 43,
+      "verse": "1"
+    },
+    "explanation": "Isaiah records God telling Israel not to fear because He has redeemed them and called them by name.",
+    "verses": {
+      "kjv": "But now thus saith the LORD that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called thee by thy name; thou art mine."
+    },
+    "id": "PRO-M-0043",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which prophet wrote that the word of the LORD was \"as a burning fire shut up in my bones\"?",
+    "choices": [
+      "Jeremiah",
+      "Isaiah",
+      "Ezekiel",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 20,
+      "verse": "9"
+    },
+    "explanation": "Jeremiah said he could not keep silent because God's word was like a burning fire in his bones.",
+    "verses": {
+      "kjv": "Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay."
+    },
+    "id": "PRO-M-0044",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which prophet was told to go down to the potter's house to hear God's words?",
+    "choices": [
+      "Jeremiah",
+      "Isaiah",
+      "Daniel",
+      "Micah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 18,
+      "verse": "2"
+    },
+    "explanation": "God commanded Jeremiah to go to the potter's house where He would cause him to hear His words.",
+    "verses": {
+      "kjv": "Arise, and go down to the potter's house, and there I will cause thee to hear my words."
+    },
+    "id": "PRO-M-0045",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Jeremiah, who is like clay in the potter's hand?",
+    "choices": [
+      "The house of Israel",
+      "The house of Egypt",
+      "The house of Babylon",
+      "The house of Assyria"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Jeremiah",
+      "chapter": 18,
+      "verse": "6"
+    },
+    "explanation": "The LORD compares Israel to clay, saying they are in His hand like clay in the potter's hand.",
+    "verses": {
+      "kjv": "O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, as the clay is in the potter's hand, so are ye in mine hand, O house of Israel."
+    },
+    "id": "PRO-M-0046",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Ezekiel's vision, what did the prophet say was \"as the colour of amber\"?",
+    "choices": [
+      "The likeness of a man upon the throne",
+      "The four beasts",
+      "The wheels beneath the cherubim",
+      "The river flowing from the temple"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verse": "26-27"
+    },
+    "explanation": "Ezekiel describes the appearance of the likeness of a man upon the throne as having the colour of amber.",
+    "verses": {
+      "kjv": "And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne was the likeness as the appearance of a man above upon it. And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about."
+    },
+    "id": "PRO-M-0047",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Daniel, what was written in the king's dream on the wall?",
+    "choices": [
+      "MENE, MENE, TEKEL, UPHARSIN",
+      "HOLINESS UNTO THE LORD",
+      "KING OF KINGS",
+      "LET MY PEOPLE GO"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Daniel",
+      "chapter": 5,
+      "verse": "25"
+    },
+    "explanation": "Daniel says the writing was MENE, MENE, TEKEL, UPHARSIN.",
+    "verses": {
+      "kjv": "And this is the writing that was written, MENE, MENE, TEKEL, UPHARSIN."
+    },
+    "id": "PRO-M-0048",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which prophet said, \"The LORD is good, a strong hold in the day of trouble\"?",
+    "choices": [
+      "Nahum",
+      "Habakkuk",
+      "Zephaniah",
+      "Haggai"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Nahum",
+      "chapter": 1,
+      "verse": "7"
+    },
+    "explanation": "Nahum declares the LORD is good and knows them that trust in Him.",
+    "verses": {
+      "kjv": "The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him."
+    },
+    "id": "PRO-M-0049",
+    "theme": "Prophets",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which prophet said, \"Behold upon the mountains the feet of him that bringeth good tidings\"?",
+    "choices": [
+      "Nahum",
+      "Micah",
+      "Amos",
+      "Obadiah"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Nahum",
+      "chapter": 1,
+      "verse": "15"
+    },
+    "explanation": "Nahum speaks of good tidings and peace, calling Judah to keep feasts and perform vows.",
+    "verses": {
+      "kjv": "Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off."
+    },
+    "id": "PRO-M-0050",
+    "theme": "Prophets",
+    "difficulty": "medium"
   }
 ]

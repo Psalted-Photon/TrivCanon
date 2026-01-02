@@ -614,5 +614,489 @@
     "verses": {
       "kjv": "For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted."
     }
+  },
+  {
+    "question": "In the parable of the sower, what did Jesus say the seed is?",
+    "choices": [
+      "The word of God",
+      "The traditions of men",
+      "The riches of this world",
+      "The temple offerings"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 8,
+      "verse": "11"
+    },
+    "explanation": "Luke 8:11 says plainly that the seed is the word of God.",
+    "verses": {
+      "kjv": "Now the parable is this: The seed is the word of God."
+    },
+    "id": "PAR-M-0028",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the parable of the sower, who comes and takes away the word out of the hearts of those by the way side?",
+    "choices": [
+      "The devil",
+      "The angels",
+      "The scribes",
+      "The Pharisees"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 8,
+      "verse": "12"
+    },
+    "explanation": "Luke 8:12 says the devil comes and takes away the word from their hearts, lest they should believe and be saved.",
+    "verses": {
+      "kjv": "Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved."
+    },
+    "id": "PAR-M-0029",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Luke 8:13, what do people on the rock do when they hear the word?",
+    "choices": [
+      "Receive it with joy",
+      "Reject it with anger",
+      "Forget it immediately",
+      "Hide it in their fields"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 8,
+      "verse": "13"
+    },
+    "explanation": "Luke 8:13 says those on the rock receive the word with joy but have no root and fall away in time of temptation.",
+    "verses": {
+      "kjv": "They on the rock are they, which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away."
+    },
+    "id": "PAR-M-0030",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the parable of the sower, what does the fruitless choking of the seed among thorns represent?",
+    "choices": [
+      "Cares and riches and pleasures of this life",
+      "Persecution by priests only",
+      "Lack of rain in the field",
+      "Not having enough seed"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 8,
+      "verse": "14"
+    },
+    "explanation": "Luke 8:14 says the seed among thorns is choked with cares, riches, and pleasures of this life, bringing no fruit to perfection.",
+    "verses": {
+      "kjv": "And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of this life, and bring no fruit to perfection."
+    },
+    "id": "PAR-M-0031",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the parable of the sower, what kind of heart receives the word and keeps it and brings forth fruit with patience?",
+    "choices": [
+      "An honest and good heart",
+      "A proud and stubborn heart",
+      "A fearful heart",
+      "A double heart"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Luke",
+      "chapter": 8,
+      "verse": "15"
+    },
+    "explanation": "Luke 8:15 says those in good ground are they which in an honest and good heart, having heard the word, keep it and bring forth fruit with patience.",
+    "verses": {
+      "kjv": "But that on the good ground are they, which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience."
+    },
+    "id": "PAR-M-0032",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Jesus say is the greatest commandment in the law?",
+    "choices": [
+      "Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind",
+      "Thou shalt not kill",
+      "Thou shalt pay tribute to Caesar",
+      "Thou shalt build an altar in Jerusalem"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 22,
+      "verse": "37"
+    },
+    "explanation": "Matthew 22:37 records Jesus quoting the great commandment: loving God with all the heart, soul, and mind.",
+    "verses": {
+      "kjv": "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind."
+    },
+    "id": "PAR-M-0033",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Jesus, what commandment is like the first and greatest?",
+    "choices": [
+      "Thou shalt love thy neighbour as thyself",
+      "Thou shalt not steal",
+      "Thou shalt keep the new moons",
+      "Thou shalt offer incense daily"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 22,
+      "verse": "39"
+    },
+    "explanation": "Matthew 22:39 says the second commandment is like the first: love thy neighbour as thyself.",
+    "verses": {
+      "kjv": "And the second is like unto it, Thou shalt love thy neighbour as thyself."
+    },
+    "id": "PAR-M-0034",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Jesus say hangs on these two commandments?",
+    "choices": [
+      "All the law and the prophets",
+      "Only the sacrifices of Moses",
+      "Only the temple and its service",
+      "Only the writings of Solomon"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 22,
+      "verse": "40"
+    },
+    "explanation": "Matthew 22:40 says all the law and the prophets hang on the two commandments to love God and love neighbour.",
+    "verses": {
+      "kjv": "On these two commandments hang all the law and the prophets."
+    },
+    "id": "PAR-M-0035",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Jesus say about the eye if it is single?",
+    "choices": [
+      "Thy whole body shall be full of light",
+      "Thy whole body shall be full of darkness",
+      "Thy whole body shall be sick",
+      "Thy whole body shall sleep"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "22"
+    },
+    "explanation": "Matthew 6:22 says if the eye is single, the whole body will be full of light.",
+    "verses": {
+      "kjv": "The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light."
+    },
+    "id": "PAR-M-0036",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Jesus say about the eye if it is evil?",
+    "choices": [
+      "Thy whole body shall be full of darkness",
+      "Thy whole body shall be full of light",
+      "Thy whole body shall become strong",
+      "Thy whole body shall be healed"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "23"
+    },
+    "explanation": "Matthew 6:23 says if the eye is evil, the whole body shall be full of darkness.",
+    "verses": {
+      "kjv": "But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness!"
+    },
+    "id": "PAR-M-0037",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Jesus, who cannot serve two masters?",
+    "choices": [
+      "No man",
+      "Only the rich",
+      "Only the poor",
+      "Only the Pharisees"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "24"
+    },
+    "explanation": "Matthew 6:24 begins by declaring that no man can serve two masters.",
+    "verses": {
+      "kjv": "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
+    },
+    "id": "PAR-M-0038",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Jesus say we cannot serve at the same time as God?",
+    "choices": [
+      "Mammon",
+      "The temple",
+      "The law",
+      "The prophets"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "24"
+    },
+    "explanation": "Matthew 6:24 ends with, \"Ye cannot serve God and mammon.\"",
+    "verses": {
+      "kjv": "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
+    },
+    "id": "PAR-M-0039",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When Jesus said not to take thought for your life, what did he mention that you should not worry about eating?",
+    "choices": [
+      "What ye shall eat",
+      "How much gold ye shall store",
+      "When ye shall travel",
+      "Where ye shall sacrifice"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "25"
+    },
+    "explanation": "Matthew 6:25 says take no thought for your life, what ye shall eat, or what ye shall drink, nor for the body what ye shall put on.",
+    "verses": {
+      "kjv": "Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?"
+    },
+    "id": "PAR-M-0040",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Jesus, what should we seek first?",
+    "choices": [
+      "The kingdom of God, and his righteousness",
+      "Riches and honor",
+      "Food and clothing",
+      "The praise of men"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "33"
+    },
+    "explanation": "Matthew 6:33 says to seek first the kingdom of God and his righteousness, and all these things shall be added.",
+    "verses": {
+      "kjv": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you."
+    },
+    "id": "PAR-M-0041",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Jesus, what will be added unto you if you seek first the kingdom of God and his righteousness?",
+    "choices": [
+      "All these things",
+      "Only wisdom",
+      "Only long life",
+      "Only earthly riches"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "33"
+    },
+    "explanation": "Matthew 6:33 promises that if you seek first God's kingdom and righteousness, \"all these things\" will be added.",
+    "verses": {
+      "kjv": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you."
+    },
+    "id": "PAR-M-0042",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the Lord’s Prayer, what did Jesus say to pray regarding daily needs?",
+    "choices": [
+      "Give us this day our daily bread",
+      "Give us this year our daily riches",
+      "Give us this month our daily tribute",
+      "Give us forever our daily food without work"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "11"
+    },
+    "explanation": "Matthew 6:11 includes the request, \"Give us this day our daily bread.\"",
+    "verses": {
+      "kjv": "Give us this day our daily bread."
+    },
+    "id": "PAR-M-0043",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the Lord’s Prayer, what did Jesus say to pray about forgiveness?",
+    "choices": [
+      "Forgive us our debts, as we forgive our debtors",
+      "Forgive us only once",
+      "Forgive us without forgiving others",
+      "Forgive us after we gain riches"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "12"
+    },
+    "explanation": "Matthew 6:12 teaches asking God to forgive our debts as we forgive our debtors.",
+    "verses": {
+      "kjv": "And forgive us our debts, as we forgive our debtors."
+    },
+    "id": "PAR-M-0044",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the Lord’s Prayer, what did Jesus say to pray concerning temptation?",
+    "choices": [
+      "Lead us not into temptation, but deliver us from evil",
+      "Lead us into temptation to prove us",
+      "Deliver us only from sickness",
+      "Keep us from hunger but not evil"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "13"
+    },
+    "explanation": "Matthew 6:13 says to pray not to be led into temptation, but to be delivered from evil.",
+    "verses": {
+      "kjv": "And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen."
+    },
+    "id": "PAR-M-0045",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Jesus, what should we do if we forgive men their trespasses?",
+    "choices": [
+      "Your heavenly Father will also forgive you",
+      "You will never be tempted",
+      "You will become rich",
+      "You will be praised by all men"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "14"
+    },
+    "explanation": "Matthew 6:14 says if you forgive men their trespasses, your heavenly Father will also forgive you.",
+    "verses": {
+      "kjv": "For if ye forgive men their trespasses, your heavenly Father will also forgive you:"
+    },
+    "id": "PAR-M-0046",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Jesus, what should we do if we do not forgive men their trespasses?",
+    "choices": [
+      "Neither will your Father forgive your trespasses",
+      "You will be forgiven anyway",
+      "You will never be judged",
+      "Your riches will increase"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "15"
+    },
+    "explanation": "Matthew 6:15 warns that if you do not forgive men, neither will your Father forgive your trespasses.",
+    "verses": {
+      "kjv": "But if ye forgive not men their trespasses, neither will your Father forgive your trespasses."
+    },
+    "id": "PAR-M-0047",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Jesus, where should we lay up treasures instead of on earth?",
+    "choices": [
+      "In heaven",
+      "In Jerusalem",
+      "In the temple treasury",
+      "In the fields"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "20"
+    },
+    "explanation": "Matthew 6:20 says to lay up treasures in heaven where moth and rust do not corrupt and thieves do not break through.",
+    "verses": {
+      "kjv": "But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:"
+    },
+    "id": "PAR-M-0048",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Jesus, where will your heart be if your treasure is there?",
+    "choices": [
+      "There will your heart be also",
+      "There will your strength be only",
+      "There will your enemies be",
+      "There will your fear remain"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Matthew",
+      "chapter": 6,
+      "verse": "21"
+    },
+    "explanation": "Matthew 6:21 teaches that where your treasure is, your heart will be there as well.",
+    "verses": {
+      "kjv": "For where your treasure is, there will your heart be also."
+    },
+    "id": "PAR-M-0049",
+    "theme": "Parables & Teachings",
+    "difficulty": "medium"
   }
 ]

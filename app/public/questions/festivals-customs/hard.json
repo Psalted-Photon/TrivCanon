@@ -486,7 +486,7 @@
   {
     "id": "FES-H-0026",
     "theme": "Festivals & Customs",
-    "question": "What was the name of the scapegoat on the Day of Atonement?",
+    "question": "On the Day of Atonement, the live goat was sent away into the wilderness \"for\" whom?",
     "choices": [
       "Azazel",
       "Baal",
@@ -500,9 +500,603 @@
       "chapter": 16,
       "verse": "10"
     },
-    "explanation": "But the goat chosen by lot as the scapegoat shall be presented alive before the Lord to be used for making atonement by sending it into the wilderness as a scapegoat to Azazel.",
+    "explanation": "Leviticus 16:10 says the goat was presented alive before the LORD and sent away into the wilderness for Azazel.",
     "verses": {
       "kjv": "But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him,\nand\n to let him go for a scapegoat into the wilderness."
     }
+  },
+  {
+    "question": "In Exodus, which animal's firstling was commanded to be redeemed with a lamb?",
+    "choices": [
+      "A donkey",
+      "A sheep",
+      "A goat",
+      "An ox"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 13,
+      "verse": "13"
+    },
+    "explanation": "Exodus 13:13 says every firstling of a donkey was to be redeemed with a lamb (or its neck broken if not redeemed).",
+    "verses": {
+      "kjv": "And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem."
+    },
+    "id": "FES-H-0027",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Exodus, what were the Israelites commanded to keep as a memorial between their eyes?",
+    "choices": [
+      "A memorial of the law of the LORD",
+      "A golden crown",
+      "A branch of olive",
+      "A stone from the Red sea"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 13,
+      "verse": "9"
+    },
+    "explanation": "Exodus 13:9 says it shall be for a sign upon thine hand and for a memorial between thine eyes, that the LORD's law may be in thy mouth.",
+    "verses": {
+      "kjv": "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that the LORD's law may be in thy mouth: for with a strong hand hath the LORD brought thee out of Egypt."
+    },
+    "id": "FES-H-0028",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the LORD command the priests to blow over the burnt offerings and the sacrifices of peace offerings?",
+    "choices": [
+      "Trumpets",
+      "Cymbals",
+      "Cornets of ram's horn",
+      "Flutes"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 10,
+      "verse": "10"
+    },
+    "explanation": "Numbers 10:10 commands blowing the trumpets over burnt offerings and peace offerings as a memorial before God.",
+    "verses": {
+      "kjv": "Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I am the LORD your God."
+    },
+    "id": "FES-H-0029",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the LORD call the offering of the firstfruits after Pentecost in Leviticus 23?",
+    "choices": [
+      "A new meat offering unto the LORD",
+      "A trespass offering",
+      "A sin offering only",
+      "A drink offering only"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "16"
+    },
+    "explanation": "Leviticus 23:16 says on the fiftieth day they were to offer a new meat offering unto the LORD.",
+    "verses": {
+      "kjv": "Even unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meat offering unto the LORD."
+    },
+    "id": "FES-H-0030",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What were the Israelites commanded not to do in their harvest until they brought an offering to their God?",
+    "choices": [
+      "Eat bread, or parched corn, or green ears",
+      "Drink wine, or strong drink",
+      "Bake leavened bread",
+      "Gather grapes for their houses"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "14"
+    },
+    "explanation": "Leviticus 23:14 forbids eating these harvest foods until the offering is brought.",
+    "verses": {
+      "kjv": "And ye shall eat neither bread, nor parched corn, nor green ears, until the selfsame day that ye have brought an offering unto your God: it shall be a statute for ever throughout your generations in all your dwellings."
+    },
+    "id": "FES-H-0031",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When a man vowed a vow to the LORD or swore an oath, what did Numbers say he must not do to his word?",
+    "choices": [
+      "He shall not break his word",
+      "He shall hide his word",
+      "He shall change his word",
+      "He shall write his word on stone"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 30,
+      "verse": "2"
+    },
+    "explanation": "Numbers 30:2 commands that he must not break his word, but do according to all that proceeds from his mouth.",
+    "verses": {
+      "kjv": "If a man vow a vow unto the LORD, or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth."
+    },
+    "id": "FES-H-0032",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the LORD command the children of Israel to wear on the borders of their garments throughout their generations?",
+    "choices": [
+      "Fringes",
+      "Rings of gold",
+      "Scarlet cords only",
+      "Bells of silver"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 15,
+      "verse": "38"
+    },
+    "explanation": "Numbers 15:38 commands them to make fringes on the borders of their garments.",
+    "verses": {
+      "kjv": "Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue:"
+    },
+    "id": "FES-H-0033",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What color ribband were the Israelites commanded to put upon the fringe of the borders of their garments?",
+    "choices": [
+      "Blue",
+      "Purple",
+      "Scarlet",
+      "White"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 15,
+      "verse": "38"
+    },
+    "explanation": "Numbers 15:38 says they were to put upon the fringe of the borders a ribband of blue.",
+    "verses": {
+      "kjv": "Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue:"
+    },
+    "id": "FES-H-0034",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What were the Israelites commanded to do to the corners of their fields when they reaped the harvest?",
+    "choices": [
+      "Not wholly reap them",
+      "Harvest them first",
+      "Burn them for an offering",
+      "Fence them off from strangers"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verse": "9"
+    },
+    "explanation": "Leviticus 19:9 commands not wholly reaping the corners, and not gathering the gleanings.",
+    "verses": {
+      "kjv": "And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest."
+    },
+    "id": "FES-H-0035",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What were the Israelites commanded not to do with the gleanings of their vineyard?",
+    "choices": [
+      "Neither gather every grape",
+      "Neither press the grapes",
+      "Neither drink the wine",
+      "Neither plant vines again"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verse": "10"
+    },
+    "explanation": "Leviticus 19:10 says they must not gather the gleanings of their vineyard nor every grape, leaving them for the poor and stranger.",
+    "verses": {
+      "kjv": "And thou shalt not glean thy vineyard, neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger: I am the LORD your God."
+    },
+    "id": "FES-H-0036",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What were the Israelites commanded not to do on the sabbath besides no work in Leviticus 23:3?",
+    "choices": [
+      "Do no work therein",
+      "Eat no bread",
+      "Wear no fringes",
+      "Offer no sacrifices"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verse": "3"
+    },
+    "explanation": "Leviticus 23:3 states the sabbath is a holy convocation and they shall do no work therein.",
+    "verses": {
+      "kjv": "Six days shall work be done: but the seventh day is the sabbath of rest, an holy convocation; ye shall do no work therein: it is the sabbath of the LORD in all your dwellings."
+    },
+    "id": "FES-H-0037",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What were the Israelites commanded to do with the person who ate with blood (as stated in Leviticus 19:26)?",
+    "choices": [
+      "Not eat any thing with the blood",
+      "Stone him outside the camp",
+      "Bring two doves to the priest",
+      "Wash his clothes seven times"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verse": "26"
+    },
+    "explanation": "Leviticus 19:26 commands, \"Ye shall not eat any thing with the blood.\"",
+    "verses": {
+      "kjv": "Ye shall not eat any thing with the blood: neither shall ye use enchantment, nor observe times."
+    },
+    "id": "FES-H-0038",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the LORD say must not be left until the morning from the sacrifice of the feast of the passover in Exodus 34?",
+    "choices": [
+      "The sacrifice of the feast of the passover",
+      "The unleavened bread",
+      "The bitter herbs",
+      "The lamb's blood on the doorposts"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 34,
+      "verse": "25"
+    },
+    "explanation": "Exodus 34:25 says the sacrifice of the feast of the passover shall not be left unto the morning.",
+    "verses": {
+      "kjv": "Thou shalt not offer the blood of my sacrifice with leaven; neither shall the sacrifice of the feast of the passover be left unto the morning."
+    },
+    "id": "FES-H-0039",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did God command Israel to do with the firstfruits of their land?",
+    "choices": [
+      "Bring them to the house of the LORD thy God",
+      "Store them in their own barns",
+      "Sell them to strangers",
+      "Cast them into the river"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 34,
+      "verse": "26"
+    },
+    "explanation": "Exodus 34:26 commands bringing the first of the firstfruits to the house of the LORD.",
+    "verses": {
+      "kjv": "The first of the firstfruits of thy land thou shalt bring unto the house of the LORD thy God. Thou shalt not seethe a kid in his mother's milk."
+    },
+    "id": "FES-H-0040",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the LORD command not to be done with a kid in Exodus 34:26?",
+    "choices": [
+      "Seethe a kid in his mother's milk",
+      "Offer a kid for a burnt offering",
+      "Eat a kid on the sabbath",
+      "Bring a kid to the priest"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Exodus",
+      "chapter": 34,
+      "verse": "26"
+    },
+    "explanation": "Exodus 34:26 ends with the command, \"Thou shalt not seethe a kid in his mother's milk.\"",
+    "verses": {
+      "kjv": "The first of the firstfruits of thy land thou shalt bring unto the house of the LORD thy God. Thou shalt not seethe a kid in his mother's milk."
+    },
+    "id": "FES-H-0041",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Esther, what were the days of Purim not to fail from among the Jews?",
+    "choices": [
+      "Throughout every generation",
+      "Until the next new moon",
+      "Until the next sabbath year",
+      "Only for seven years"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Esther",
+      "chapter": 9,
+      "verse": "28"
+    },
+    "explanation": "Esther 9:28 says these days should be remembered and kept, and should not fail from among the Jews throughout every generation.",
+    "verses": {
+      "kjv": "And that these days should be remembered and kept throughout every generation, every family, every province, and every city; and that these days of Purim should not fail from among the Jews, nor the memorial of them perish from their seed."
+    },
+    "id": "FES-H-0042",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "According to Esther, what did the Jews make the days of Purim into for themselves and their seed?",
+    "choices": [
+      "A settled custom",
+      "A new sabbath",
+      "A day of fasting only",
+      "A replacement for Passover"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Esther",
+      "chapter": 9,
+      "verse": "27"
+    },
+    "explanation": "Esther 9:27 says the Jews ordained and took upon them and their seed, \"so as it should not fail,\" to keep it according to the writing and the time appointed every year.",
+    "verses": {
+      "kjv": "The Jews ordained, and took upon them, and upon their seed, and upon all such as joined themselves unto them, so as it should not fail, that they would keep these two days according to their writing, and according to their appointed time every year;"
+    },
+    "id": "FES-H-0043",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "At the dedication of the wall of Jerusalem in Nehemiah, what two groups were appointed for giving thanks?",
+    "choices": [
+      "Two great companies of them that gave thanks",
+      "Two companies of priests with trumpets only",
+      "Two groups of singers and no priests",
+      "Two bands of soldiers marching silently"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verse": "31"
+    },
+    "explanation": "Nehemiah 12:31 says he brought the princes upon the wall and appointed two great companies of them that gave thanks.",
+    "verses": {
+      "kjv": "Then I brought up the princes of Judah upon the wall, and appointed two great companies of them that gave thanks, whereof one went on the right hand upon the wall toward the dung gate:"
+    },
+    "id": "FES-H-0044",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Nehemiah, what did the people do on the twenty and fourth day of the month as they assembled?",
+    "choices": [
+      "Fast, with sackclothes, and earth upon them",
+      "Offer a burnt offering of bulls",
+      "Build booths and dwell in them",
+      "Travel to Bethel to sacrifice"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Nehemiah",
+      "chapter": 9,
+      "verse": "1"
+    },
+    "explanation": "Nehemiah 9:1 says they assembled with fasting, sackclothes, and earth upon them.",
+    "verses": {
+      "kjv": "Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them."
+    },
+    "id": "FES-H-0045",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the people do for a fourth part of the day when they stood in their place in Nehemiah 9:3?",
+    "choices": [
+      "Read in the book of the law of the LORD their God",
+      "Offer incense continually",
+      "Eat unleavened bread",
+      "Blow trumpets in the streets"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Nehemiah",
+      "chapter": 9,
+      "verse": "3"
+    },
+    "explanation": "Nehemiah 9:3 states they read in the book of the law for a fourth part of the day.",
+    "verses": {
+      "kjv": "And they stood up in their place, and read in the book of the law of the LORD their God one fourth part of the day; and another fourth part they confessed, and worshipped the LORD their God."
+    },
+    "id": "FES-H-0046",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did the people do for another fourth part of the day in Nehemiah 9:3?",
+    "choices": [
+      "Confessed, and worshipped the LORD their God",
+      "Traveled to all their cities",
+      "Built altars in every village",
+      "Prepared a feast of tabernacles"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Nehemiah",
+      "chapter": 9,
+      "verse": "3"
+    },
+    "explanation": "Nehemiah 9:3 says another fourth part they confessed and worshipped the LORD their God.",
+    "verses": {
+      "kjv": "And they stood up in their place, and read in the book of the law of the LORD their God one fourth part of the day; and another fourth part they confessed, and worshipped the LORD their God."
+    },
+    "id": "FES-H-0047",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "At the dedication of the wall, what did they offer with gladness in Nehemiah 12:43?",
+    "choices": [
+      "Great sacrifices",
+      "Only incense",
+      "Only a drink offering",
+      "Only unleavened bread"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verse": "43"
+    },
+    "explanation": "Nehemiah 12:43 says they offered great sacrifices that day and rejoiced with great joy.",
+    "verses": {
+      "kjv": "Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even afar off."
+    },
+    "id": "FES-H-0048",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Amos, what did God say He would not accept even if Israel offered certain offerings?",
+    "choices": [
+      "Burnt offerings and meat offerings",
+      "Incense and frankincense",
+      "Gold and silver",
+      "Firstfruits of grapes"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Amos",
+      "chapter": 5,
+      "verse": "22"
+    },
+    "explanation": "Amos 5:22 says God would not accept their burnt offerings and meat offerings, nor regard the peace offerings of their fat beasts.",
+    "verses": {
+      "kjv": "Though ye offer me burnt offerings and your meat offerings, I will not accept them: neither will I regard the peace offerings of your fat beasts."
+    },
+    "id": "FES-H-0049",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Isaiah, what yearly custom does the prophet mention regarding the king and the people?",
+    "choices": [
+      "A custom in a solemn feast",
+      "A weekly market day",
+      "A daily incense offering only",
+      "A monthly journey to Egypt"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Isaiah",
+      "chapter": 16,
+      "verse": "10"
+    },
+    "explanation": "Isaiah 16:10 mentions \"as was their custom in solemn feasts\" in describing the noise of harvest joy ceasing.",
+    "verses": {
+      "kjv": "And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: the treaders shall tread out no wine in their presses; I have made their vintage shouting to cease."
+    },
+    "id": "FES-H-0050",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What did God command Israel to do on the fifteenth day of the seventh month regarding offerings (as described in Numbers 29:12)?",
+    "choices": [
+      "Keep a solemn feast and do no servile work",
+      "Fast and mourn only",
+      "Travel to Egypt and return",
+      "Build an altar of unhewn stone only"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Numbers",
+      "chapter": 29,
+      "verse": "12"
+    },
+    "explanation": "Numbers 29:12 commands keeping a solemn feast unto the LORD, doing no servile work, and offering offerings made by fire seven days.",
+    "verses": {
+      "kjv": "And on the fifteenth day of the seventh month ye shall have an holy convocation; ye shall do no servile work, and ye shall keep a feast unto the LORD seven days:"
+    },
+    "id": "FES-H-0051",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When Israel offered a peace offering, what did the priest do with the blood?",
+    "choices": [
+      "Sprinkle it round about upon the altar",
+      "Pour it into a golden cup and keep it",
+      "Place it on the doorposts",
+      "Carry it outside the camp and bury it"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 3,
+      "verse": "2"
+    },
+    "explanation": "Leviticus 3:2 states that the priests sprinkled the blood of the peace offering round about upon the altar.",
+    "verses": {
+      "kjv": "And he shall lay his hand upon the head of his offering, and kill it at the door of the tabernacle of the congregation: and Aaron's sons the priests shall sprinkle the blood upon the altar round about."
+    },
+    "id": "FES-H-0052",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What were the Israelites commanded to do with the blood of the burnt offering?",
+    "choices": [
+      "Sprinkle it round about upon the altar that is by the door of the tabernacle",
+      "Put it on the horns of the golden altar",
+      "Mix it with oil and pour it on the ground",
+      "Carry it into the holy place and pour it out there"
+    ],
+    "correctIndex": 0,
+    "reference": {
+      "book": "Leviticus",
+      "chapter": 1,
+      "verse": "5"
+    },
+    "explanation": "Leviticus 1:5 says the priests were to bring the blood and sprinkle it round about upon the altar by the door of the tabernacle.",
+    "verses": {
+      "kjv": "And he shall kill the bullock before the LORD: and the priests, Aaron's sons, shall bring the blood, and sprinkle the blood round about upon the altar that is by the door of the tabernacle of the congregation."
+    },
+    "id": "FES-H-0053",
+    "theme": "Festivals & Customs",
+    "difficulty": "hard"
   }
 ]
