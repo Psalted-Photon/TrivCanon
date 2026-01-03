@@ -66,8 +66,11 @@
   touch-action: manipulation;
 }
 
-.theme-card:hover {
-  transform: scale(1.05);
+/* Only scale on desktop/devices with hover capability */
+@media (hover: hover) and (pointer: fine) {
+  .theme-card:hover {
+    transform: scale(1.05);
+  }
 }
 
 /* Disable hover effects on touch devices */
