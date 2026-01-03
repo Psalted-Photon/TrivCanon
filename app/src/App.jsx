@@ -224,7 +224,7 @@ export default function App() {
         ) : (
           <div className="app-title-text">
             <h1>TrivCanon</h1>
-            <p className="subtitle">Twelve tribes, one truth.</p>
+            <p className="subtitle">Twelve themes, one truth.</p>
           </div>
         )}
       </header>
