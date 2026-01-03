@@ -253,6 +253,7 @@ export default function App() {
             userAnswer={userAnswer}
             onNext={handleNext}
             onQuit={handleChangeThemes}
+            isLastQuestion={maxQuestions ? questionNumber >= maxQuestions : false}
           />
         )}
 

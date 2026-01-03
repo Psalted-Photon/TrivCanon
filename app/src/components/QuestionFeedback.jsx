@@ -1,6 +1,6 @@
 import './QuestionFeedback.css';
 
-export default function QuestionFeedback({ question, userAnswer, onNext, onQuit }) {
+export default function QuestionFeedback({ question, userAnswer, onNext, onQuit, isLastQuestion }) {
   const isCorrect = userAnswer === question.correctIndex;
   const correctAnswer = question.choices[question.correctIndex];
   const userAnswerText = question.choices[userAnswer];
@@ -58,7 +58,7 @@ export default function QuestionFeedback({ question, userAnswer, onNext, onQuit 
       </div>
 
       <button className="next-btn" onClick={onNext}>
-        Next Question →
+        {isLastQuestion ? 'See My Score →' : 'Next Question →'}
       </button>
 
       <button className="quit-btn" onClick={onQuit}>
